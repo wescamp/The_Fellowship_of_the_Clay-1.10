@@ -1,0 +1,55 @@
+This is an index of variables and containers for the UMC Campaign 'The Fellowship of the Clay'.
+
+VARIABLES:
+mclyde_type           -- switched from stored level id to get the type of mounted Clyde when mounting
+clyde_type            -- switched from stored level id to get the type of Clyde when dismounting
+mfeyn_type            -- switched from stored level id to get the type of mounted Feyndwarf when mounting
+feyn_type             -- switched from stored level id to get the type of Feyndwarf when dismounting
+grass                 -- counting the Gg^Efm-terain you are moving on in scenario 1
+Depth_Sounder         -- whether you have found the Depth-sounder-book or not yet
+illuminates_able      -- whether Clyde is yet able to illuminate or not
+illuminates           -- whether Clyde is illuminating in this moment or not
+mounted               -- whether Clyde is mounted or not. Avoiding ugly [have_unit] ... [or]...
+mounted_feyn          -- whether Feyndwarf is mounted or not. Avoiding ugly [have_unit] ... [or]...
+monster_type          -- unit type of monsters spawning from villages in scenario 4
+together_maxHP        -- how many max hitpoints Snow White and Clyde have together (needed to calculate HP for mounting)
+together_HP           -- how many hitpoints Snow White and Clyde have together (needed to calculate HP for mounting)
+together_percent      -- percentage of hitpoints Snow White and Clyde have together (for testing and debugging, maybe removed later)
+mclyde_HP             -- amount of hitpoints the mounted Clyde will get, calculated with the abovementioned vars
+feyn_together_maxHP   -- how many max hitpoints Feyndwarf and Richard have together (needed to calculate HP for mounting)
+feyn_together_HP      -- how many hitpoints Feyndwarf and Richard have together (needed to calculate HP for mounting)
+feyn_together_percent -- percentage of hitpoints Feyndwarf and Richard have together (for testing and debugging, maybe removed later)
+mfeyn_HP              -- amount of hitpoints the mounted Feyndwarf will get, calculated with the abovementioned vars
+feyn_mounted_percent  -- percentage of hitpoints Mounted Feyndwarf has
+light_off_please      -- whether Feyndwarf wants the light to shut off or not (in scenario 6)
+feyndwarf_anger       -- level of Feyndwarf's rage (in scenario 6) value 0: no anger; value 1: getting impatient; value 2: killing you.
+book_taker            -- who takes the 'Depth Sounder' book in scenario 3 (randomly Clyde, Legomir or Walklas)
+rand_teleport         -- used twice: a) random 1,2 or 3 each time Clyde attacks Henry in scenario 10, when value=2 Henry is teleporting away.
+                                     b) after that, it's used to choose a random location of those stored in [tele_locs]
+burning_forest_tiles  -- number of hexes with burning forest in scenario 11
+burning_turn          -- value 0-5, every turn 1 is added, when 5 is reached forest fire spreads, var is set to 0, used in scenario 11
+fire_stopped          -- whether the forest fire in scenario 11 has already been stopped
+denethros_killed      -- whether the mad dwarf in scenario 11 has already been killed
+henry_potions         -- number of health potions Henry still has in scenario 10
+health_potions        -- number of health potions Cyde still has in scenario 10
+
+
+CONTAINERS:
+stored_clyde       -- storing clyde when mounting, his stats are used for the mounted version of him
+stored_horse       -- storing Snow White when mounting, only the moves and the coords are used for the mounted Clyde
+stored_mounted     -- storing mounted Clyde when dismounting and after mounting
+stored_feyndwarf   -- storing Feyndwarf when mounting, his stats are used for the mounted version of him
+stored_richard     -- storing Richard when mounting, only the moves and the coords are used for the mounted Feyndwarf
+stored_mfeyn       -- storing mounted Feyndwarf when dismounting and after mounting
+stored_outpost     -- if in scenario 1 was someone of side 1 stood on 14;10, he's stored and put next to in scenario 7, becuase this hex is needed for another, specific guard
+stored_eleonor     -- storing Eleonor from scenario 4
+stored_fam         -- storing the Familiar Stranger in scenario 7
+tfotc_recall_store -- storing all rest guards in scenario 7 to unstore them again in scenario 7 (will get some work soon)
+owned_villages_1   -- storing hexes of villages owned by side 1 in scenario 4                               (cleared after each use)
+village_number_1   -- amount of owned villages by side 1 in scenario 4 (equal to owned_villages_1.length)   (cleared after each use)   
+owned_villages_2   -- storing hexes of villages owned by side 2 in scenario 4                               (cleared after each use)
+village_number_2   -- amount of owned villages by side 2 in scenario 4 (equal to owned_villages_2.length)   (cleared after each use)
+tele_locs          -- stores all wood plank hexes which are at least 5 hexes away from Clyde in scenario 10.
+
+
+/ Ceres

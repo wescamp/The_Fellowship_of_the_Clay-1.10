@@ -1,0 +1,13 @@
+border_size=1
+usage=map
+
+Xv          , Xv          , Xv          , Xv          , Xv          , Xv          , Xv          , Xv          , Xv          , Xv          , Xv          , Xv          , Xos         , Xv          , Xv          , Xv          , Xv          
+Xv          , Xv          , Xv          , Xv          , Xos         , Xos         , Xos         , Xv          , Xol         , Xos         , Xol         , Xos         , Iwr         , Xos         , Xos         , Xv          , Xv          
+Xv          , Xv          , Xol         , Rr          , Iwr         , Iwr         , Iwr         , Xol         , Iwr         , Iwr         , Iwr         , Iwr         , Iwr         , Iwr         , Iwr         , Xos         , Xol         
+Xos         , Xol         , Iwr         , Iwr         , Iwr         , 1 Iwr       , Iwr         , Iwr         , Iwr         , Iwr         , Iwr         , Iwr         , Iwr         , Iwr         , Xol         , Xos         , Xv          
+Xos         , Iwr         , Iwr         , Iwr         , Iwr         , Iwr         , Iwr         , Iwr         , Iwr         , Iwr         , 2 Iwr       , Iwr         , Iwr         , Iwr         , Iwr         , Xol         , Xos         
+Xv          , Xos         , Xos         , Iwr         , Iwr         , Iwr         , Iwr         , Iwr         , Iwr         , Iwr         , Iwr         , Iwr         , Iwr         , Iwr         , Xos         , Xos         , Xv          
+Xv          , Xv          , Xos         , Xos         , Iwr         , Iwr         , Iwr         , Iwr         , Iwr         , Iwr         , Iwr         , Iwr         , Iwr         , Iwr         , Iwr         , Xol         , Xol         
+Xol         , Xos         , Iwr         , Iwr         , Iwr         , Iwr         , Xos         , Iwr         , Iwr         , Iwr         , Iwr         , Iwr         , Iwr         , Iwr         , Iwr         , Iwr         , Xos         
+Xv          , Xos         , Xos         , Iwr         , Xos         , Xos         , Xv          , Xol         , Xos         , Xos         , Xos         , Iwr         , Iwr         , Iwr         , Xos         , Xos         , Xv          
+Xv          , Xv          , Xv          , Xos         , Xv          , Xv          , Xv          , Xv          , Xv          , Xv          , Xv          , Xos         , Xos         , Xos         , Xv          , Xv          , Xv          
