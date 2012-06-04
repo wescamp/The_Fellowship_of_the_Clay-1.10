@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2012-05-30 23:38-0400\n"
+"POT-Creation-Date: 2012-06-04 08:25-0400\n"
 "PO-Revision-Date: 2012-05-30 23:38-0400\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -131,7 +131,7 @@ msgstr ""
 msgid ""
 "When the humans arrived at the great continent, they needed a new and safe "
 "home. Building such a capital city, called Wehlot, was what King Haldric "
-"planed and started after human's arrival on the great continent."
+"planned and started after human's arrival on the great continent."
 msgstr ""
 
 #. [part]
@@ -278,7 +278,7 @@ msgstr ""
 #: The_Fellowship_of_the_Clay/scenarios/09_Recruiting_Harriett.cfg:107
 #: The_Fellowship_of_the_Clay/scenarios/10_Convincing_the_Father.cfg:22
 #: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:62
-#: The_Fellowship_of_the_Clay/scenarios/12_Dragnet_Operation.cfg:58
+#: The_Fellowship_of_the_Clay/scenarios/12_Dragnet_Operation.cfg:60
 #: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:76
 #: The_Fellowship_of_the_Clay/scenarios/14_Dark_Walks-Walks_about_Darkness.cfg:99
 #: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:73
@@ -694,7 +694,7 @@ msgstr ""
 #: The_Fellowship_of_the_Clay/scenarios/07_Bad_news.cfg:85
 #: The_Fellowship_of_the_Clay/scenarios/08_The_plan.cfg:57
 #: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:71
-#: The_Fellowship_of_the_Clay/scenarios/12_Dragnet_Operation.cfg:67
+#: The_Fellowship_of_the_Clay/scenarios/12_Dragnet_Operation.cfg:69
 #: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:85
 #: The_Fellowship_of_the_Clay/scenarios/14_Dark_Walks-Walks_about_Darkness.cfg:108
 #: The_Fellowship_of_the_Clay/scenarios/16_The_three_Towers_of_Mount_Quake.cfg:72
@@ -2404,7 +2404,7 @@ msgstr ""
 #: The_Fellowship_of_the_Clay/scenarios/07_Bad_news.cfg:687
 msgid ""
 "My guests, I am King Haldric II. I am very honored by your presence... if "
-"only the situation would be as planed!"
+"only the situation would be as planned!"
 msgstr ""
 
 #. [message]: speaker=narrator
@@ -3329,8 +3329,8 @@ msgstr ""
 #. [objective]: condition=lose
 #: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:229
 #: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:512
-#: The_Fellowship_of_the_Clay/scenarios/12_Dragnet_Operation.cfg:125
-#: The_Fellowship_of_the_Clay/scenarios/12_Dragnet_Operation.cfg:387
+#: The_Fellowship_of_the_Clay/scenarios/12_Dragnet_Operation.cfg:127
+#: The_Fellowship_of_the_Clay/scenarios/12_Dragnet_Operation.cfg:389
 #: The_Fellowship_of_the_Clay/scenarios/14_Dark_Walks-Walks_about_Darkness.cfg:168
 msgid "Death of one of your heroes"
 msgstr ""
@@ -3338,8 +3338,8 @@ msgstr ""
 #. [objective]: condition=lose
 #: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:233
 #: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:516
-#: The_Fellowship_of_the_Clay/scenarios/12_Dragnet_Operation.cfg:129
-#: The_Fellowship_of_the_Clay/scenarios/12_Dragnet_Operation.cfg:391
+#: The_Fellowship_of_the_Clay/scenarios/12_Dragnet_Operation.cfg:131
+#: The_Fellowship_of_the_Clay/scenarios/12_Dragnet_Operation.cfg:393
 msgid "Death of a member of the Porter's family"
 msgstr ""
 
@@ -3545,70 +3545,70 @@ msgid "Dragnet Operation"
 msgstr ""
 
 #. [part]
-#: The_Fellowship_of_the_Clay/scenarios/12_Dragnet_Operation.cfg:16
+#: The_Fellowship_of_the_Clay/scenarios/12_Dragnet_Operation.cfg:18
 msgid ""
 "Harriett was teleporting the whole group away to the north, which shortened "
 "the needed time drastically."
 msgstr ""
 
 #. [part]
-#: The_Fellowship_of_the_Clay/scenarios/12_Dragnet_Operation.cfg:19
+#: The_Fellowship_of_the_Clay/scenarios/12_Dragnet_Operation.cfg:21
 msgid "So the fellowship arrived at a small village in the Swamps of Dread."
 msgstr ""
 
 #. [side]: type=Saurian Ambusher, type=Saurian Flanker, id=Raszikz
 #. [side]: type=Saurian Ambusher, type=Saurian Flanker, id=Zlissak
-#: The_Fellowship_of_the_Clay/scenarios/12_Dragnet_Operation.cfg:76
-#: The_Fellowship_of_the_Clay/scenarios/12_Dragnet_Operation.cfg:93
+#: The_Fellowship_of_the_Clay/scenarios/12_Dragnet_Operation.cfg:78
+#: The_Fellowship_of_the_Clay/scenarios/12_Dragnet_Operation.cfg:95
 msgid "Swamp Inhabitants"
 msgstr ""
 
 #. [side]: type=Saurian Ambusher, type=Saurian Flanker, id=Raszikz
-#: The_Fellowship_of_the_Clay/scenarios/12_Dragnet_Operation.cfg:86
+#: The_Fellowship_of_the_Clay/scenarios/12_Dragnet_Operation.cfg:88
 msgid "Raszikz"
 msgstr ""
 
 #. [side]: type=Saurian Ambusher, type=Saurian Flanker, id=Zlissak
-#: The_Fellowship_of_the_Clay/scenarios/12_Dragnet_Operation.cfg:103
+#: The_Fellowship_of_the_Clay/scenarios/12_Dragnet_Operation.cfg:105
 msgid "Zlissak"
 msgstr ""
 
 #. [label]
-#: The_Fellowship_of_the_Clay/scenarios/12_Dragnet_Operation.cfg:111
+#: The_Fellowship_of_the_Clay/scenarios/12_Dragnet_Operation.cfg:113
 msgid "Swamp of Dread"
 msgstr ""
 
 #. [label]
-#: The_Fellowship_of_the_Clay/scenarios/12_Dragnet_Operation.cfg:115
+#: The_Fellowship_of_the_Clay/scenarios/12_Dragnet_Operation.cfg:117
 msgid "Abandoned Outpost"
 msgstr ""
 
 #. [objective]: condition=win
-#: The_Fellowship_of_the_Clay/scenarios/12_Dragnet_Operation.cfg:120
+#: The_Fellowship_of_the_Clay/scenarios/12_Dragnet_Operation.cfg:122
 msgid "Get to the other side of the bridge"
 msgstr ""
 
 #. [message]: speaker=Henry Porter
-#: The_Fellowship_of_the_Clay/scenarios/12_Dragnet_Operation.cfg:194
+#: The_Fellowship_of_the_Clay/scenarios/12_Dragnet_Operation.cfg:196
 msgid ""
 "This is the northernmost encampment Harriett could teleport us to. We have "
 "to go through this part of the swamps to climb the hills."
 msgstr ""
 
 #. [message]: speaker=Clyde
-#: The_Fellowship_of_the_Clay/scenarios/12_Dragnet_Operation.cfg:208
+#: The_Fellowship_of_the_Clay/scenarios/12_Dragnet_Operation.cfg:210
 msgid ""
 "Since we just left the last human encampment, this bridge is probably not "
 "buit by humans."
 msgstr ""
 
 #. [message]: speaker=Aryad
-#: The_Fellowship_of_the_Clay/scenarios/12_Dragnet_Operation.cfg:212
+#: The_Fellowship_of_the_Clay/scenarios/12_Dragnet_Operation.cfg:214
 msgid "Neither is it elvish."
 msgstr ""
 
 #. [message]: speaker=Clyde
-#: The_Fellowship_of_the_Clay/scenarios/12_Dragnet_Operation.cfg:216
+#: The_Fellowship_of_the_Clay/scenarios/12_Dragnet_Operation.cfg:218
 msgid ""
 "We can assume that it is some kind of trap from some swamp inhabitants then. "
 "I propose to send our Merman into the swamps to back us up against whatever "
@@ -3616,144 +3616,144 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=narrator
-#: The_Fellowship_of_the_Clay/scenarios/12_Dragnet_Operation.cfg:228
+#: The_Fellowship_of_the_Clay/scenarios/12_Dragnet_Operation.cfg:230
 msgid "This bridge givess a save way to crosss the bridge to the pig coloured!"
 msgstr ""
 
 #. [message]: speaker=Clyde
-#: The_Fellowship_of_the_Clay/scenarios/12_Dragnet_Operation.cfg:236
+#: The_Fellowship_of_the_Clay/scenarios/12_Dragnet_Operation.cfg:238
 msgid "Feyndwarf, is there any progress on the runes yet?"
 msgstr ""
 
 #. [message]: speaker=Feyndwarf
-#: The_Fellowship_of_the_Clay/scenarios/12_Dragnet_Operation.cfg:240
+#: The_Fellowship_of_the_Clay/scenarios/12_Dragnet_Operation.cfg:242
 msgid "Hmpf...any? Yes."
 msgstr ""
 
 #. [unit]: type=Saurian Skirmisher, id=Haszix
-#: The_Fellowship_of_the_Clay/scenarios/12_Dragnet_Operation.cfg:251
+#: The_Fellowship_of_the_Clay/scenarios/12_Dragnet_Operation.cfg:253
 msgid "Haszix"
 msgstr ""
 
 #. [message]: speaker=Haszix
-#: The_Fellowship_of_the_Clay/scenarios/12_Dragnet_Operation.cfg:258
+#: The_Fellowship_of_the_Clay/scenarios/12_Dragnet_Operation.cfg:260
 msgid "Ahh, thhere are..."
 msgstr ""
 
 #. [message]: speaker=Feyndwarf
-#: The_Fellowship_of_the_Clay/scenarios/12_Dragnet_Operation.cfg:287
+#: The_Fellowship_of_the_Clay/scenarios/12_Dragnet_Operation.cfg:289
 msgid ""
 "But putting the runes on an arrow? Error! <i>(shows dozens of broken arrows)"
 "</i>"
 msgstr ""
 
 #. [message]: speaker=unit
-#: The_Fellowship_of_the_Clay/scenarios/12_Dragnet_Operation.cfg:324
+#: The_Fellowship_of_the_Clay/scenarios/12_Dragnet_Operation.cfg:326
 msgid ""
 "Ach, this swamp is really slowing me down, and additionaly, there were "
 "lizards hidden in here. I'd better stay on the path..."
 msgstr ""
 
 #. [message]: speaker=Raszikz
-#: The_Fellowship_of_the_Clay/scenarios/12_Dragnet_Operation.cfg:366
+#: The_Fellowship_of_the_Clay/scenarios/12_Dragnet_Operation.cfg:368
 msgid ""
 "Humans, thiss bridge iss very expensive! Pay uss $($gold1+100) gold or we "
 "willl take it from your dead body!"
 msgstr ""
 
 #. [message]: speaker=Clyde
-#: The_Fellowship_of_the_Clay/scenarios/12_Dragnet_Operation.cfg:370
+#: The_Fellowship_of_the_Clay/scenarios/12_Dragnet_Operation.cfg:372
 msgid "How unfortunate, we do not have so much money, but..."
 msgstr ""
 
 #. [message]: speaker=Zlissak
-#: The_Fellowship_of_the_Clay/scenarios/12_Dragnet_Operation.cfg:374
+#: The_Fellowship_of_the_Clay/scenarios/12_Dragnet_Operation.cfg:376
 msgid "You liar! Prepare to ssink in the swamp!"
 msgstr ""
 
 #. [objective]: condition=win
-#: The_Fellowship_of_the_Clay/scenarios/12_Dragnet_Operation.cfg:379
+#: The_Fellowship_of_the_Clay/scenarios/12_Dragnet_Operation.cfg:381
 msgid "Defeat the saurians"
 msgstr ""
 
 #. [objective]: condition=win
-#: The_Fellowship_of_the_Clay/scenarios/12_Dragnet_Operation.cfg:383
+#: The_Fellowship_of_the_Clay/scenarios/12_Dragnet_Operation.cfg:385
 msgid "and cross the bridge with Clyde"
 msgstr ""
 
 #. [message]: speaker=$left_saurian.id
-#: The_Fellowship_of_the_Clay/scenarios/12_Dragnet_Operation.cfg:416
+#: The_Fellowship_of_the_Clay/scenarios/12_Dragnet_Operation.cfg:418
 msgid ""
 "Today iss your lucky day: I thhink I let you passs just like that! Thhere "
 "isn't anything coming from that mountain except undead anyway."
 msgstr ""
 
 #. [message]: speaker=Clyde
-#: The_Fellowship_of_the_Clay/scenarios/12_Dragnet_Operation.cfg:429
+#: The_Fellowship_of_the_Clay/scenarios/12_Dragnet_Operation.cfg:431
 msgid "Hmmm..."
 msgstr ""
 
 #. [option]: speaker=Clyde
-#: The_Fellowship_of_the_Clay/scenarios/12_Dragnet_Operation.cfg:431
+#: The_Fellowship_of_the_Clay/scenarios/12_Dragnet_Operation.cfg:433
 msgid ""
 "I accept the offer, we have harder enemies to fight. Let us cross the bridge "
 "and continue the travel."
 msgstr ""
 
 #. [message]: speaker=$left_saurian.id
-#: The_Fellowship_of_the_Clay/scenarios/12_Dragnet_Operation.cfg:435
+#: The_Fellowship_of_the_Clay/scenarios/12_Dragnet_Operation.cfg:437
 msgid ""
 "Goodbye, traveler, <small>and have a nice meeting withh the walking bones, "
 "hehe.</small>"
 msgstr ""
 
 #. [option]: speaker=Clyde
-#: The_Fellowship_of_the_Clay/scenarios/12_Dragnet_Operation.cfg:444
+#: The_Fellowship_of_the_Clay/scenarios/12_Dragnet_Operation.cfg:446
 msgid ""
 "So, I have an offer myself: I give you $gold1 gold, and you lead us through "
 "the mountains. May we agree on this?"
 msgstr ""
 
 #. [message]: speaker=$left_saurian.id
-#: The_Fellowship_of_the_Clay/scenarios/12_Dragnet_Operation.cfg:452
+#: The_Fellowship_of_the_Clay/scenarios/12_Dragnet_Operation.cfg:454
 msgid ""
 "Ahh, shhiny gold! In thhe mountains thhere are skeletons, but $left_saurian."
 "name will show you hidden paths around them!"
 msgstr ""
 
 #. [option]: speaker=Clyde
-#: The_Fellowship_of_the_Clay/scenarios/12_Dragnet_Operation.cfg:475
+#: The_Fellowship_of_the_Clay/scenarios/12_Dragnet_Operation.cfg:477
 msgid ""
 "We need someone who knows the mountains. You do. Show us a save path, "
 "otherwise my blade will have to cut your filthy throat!"
 msgstr ""
 
 #. [message]: speaker=$left_saurian.id
-#: The_Fellowship_of_the_Clay/scenarios/12_Dragnet_Operation.cfg:490
+#: The_Fellowship_of_the_Clay/scenarios/12_Dragnet_Operation.cfg:492
 msgid ""
 "I ssurrender! I'll lead you! <small>But one nice day a spear will hit your "
 "back for forcing $left_saurian.name to follow!</small>"
 msgstr ""
 
 #. [message]: speaker=Clyde
-#: The_Fellowship_of_the_Clay/scenarios/12_Dragnet_Operation.cfg:507
+#: The_Fellowship_of_the_Clay/scenarios/12_Dragnet_Operation.cfg:509
 msgid "Hey, where is my halo? Did my inner light leave my?"
 msgstr ""
 
 #. [message]: speaker=Clyde
-#: The_Fellowship_of_the_Clay/scenarios/12_Dragnet_Operation.cfg:513
+#: The_Fellowship_of_the_Clay/scenarios/12_Dragnet_Operation.cfg:515
 msgid "Hey, I'm not able to shine anymore - did my inner life leave me?"
 msgstr ""
 
 #. [message]: speaker=Lorelei
-#: The_Fellowship_of_the_Clay/scenarios/12_Dragnet_Operation.cfg:519
+#: The_Fellowship_of_the_Clay/scenarios/12_Dragnet_Operation.cfg:521
 msgid ""
 "Obviously, since pressing service of somebody is not considered to be a nice "
 "action."
 msgstr ""
 
 #. [message]: speaker=Clyde
-#: The_Fellowship_of_the_Clay/scenarios/12_Dragnet_Operation.cfg:539
+#: The_Fellowship_of_the_Clay/scenarios/12_Dragnet_Operation.cfg:541
 msgid ""
 "I've got enough of swamps and saurians, so let us leave this swampy pond."
 msgstr ""
@@ -3768,7 +3768,7 @@ msgstr ""
 msgid ""
 "Leaving the swamps behind, the fellowship reached the hills. Since Arayd "
 "quoted old stories where the stanger resides within 'the hills close to the "
-"swamps', the fellowhip could be very close to him."
+"swamps', the fellowship could be very close to him."
 msgstr ""
 
 #. [part]
