@@ -134,8 +134,9 @@ msgid ""
 "planned and started after human's arrival on the great continent."
 msgstr ""
 "Переселившиеся на большой континет люди нуждались в надёжном оплоте, который "
-"позволил бы им укрепиться на новом месте. Этим оплотом суждено было стать новой "
-"столице, названной Вехлотом. Строительство города начал король Хальдрик I."
+"позволил бы им укрепиться на новом месте. Этим оплотом суждено было стать "
+"новой столице, названной Вехлотом. Строительство города начал король "
+"Хальдрик I."
 
 #. [part]
 #: The_Fellowship_of_the_Clay/scenarios/01_The_assignment.cfg:19
@@ -145,9 +146,9 @@ msgid ""
 "there were Elves and Dwarves in the north and he really did not want to "
 "provoke them in any way by getting too far north."
 msgstr ""
-"Хальдрик решил строить город на острове посередине реки Этен. Король считал это "
-"место идеальным, поскольку оно было достаточно удалено от владений эльфов и "
-"гномов, которым не очень-то нравились их новые соседи."
+"Хальдрик решил строить город на острове посередине реки Этен. Король считал "
+"это место идеальным, поскольку оно было достаточно удалено от владений "
+"эльфов и гномов, которым не очень-то нравились их новые соседи."
 
 #. [part]
 #: The_Fellowship_of_the_Clay/scenarios/01_The_assignment.cfg:23
@@ -157,8 +158,8 @@ msgid ""
 "school - just in case of emergency."
 msgstr ""
 "Кроме того, Хальдрик не хотел оставаться без поддержки сильных магов, живших "
-"и обучавшихся на строве Алдуин. В случае нападения они могли оказать неоценимую "
-"помощь."
+"и обучавшихся на строве Алдуин. В случае нападения они могли оказать "
+"неоценимую помощь."
 
 #. [part]
 #: The_Fellowship_of_the_Clay/scenarios/01_The_assignment.cfg:27
@@ -185,8 +186,9 @@ msgid ""
 "Under mysterious circumstances, Haldric died, never able tell his son - "
 "Haldic II - about the stranger and the deal he made with him."
 msgstr ""
-"Неожиданно, Хальдрик умер при странных обстоятельствах, так и не успев рассказать "
-"своему сыну - Хальдрику II - о том незнакомце и сделке, заключённой с ним."
+"Неожиданно, Хальдрик умер при странных обстоятельствах, так и не успев "
+"рассказать своему сыну - Хальдрику II - о том незнакомце и сделке, "
+"заключённой с ним."
 
 #. [part]
 #: The_Fellowship_of_the_Clay/scenarios/01_The_assignment.cfg:39
@@ -271,8 +273,7 @@ msgstr "Малый Вехлот"
 msgid ""
 "Get to the stables (it is the first wooden house in front of the north "
 "entrance of Wehlot)."
-msgstr ""
-"Посетите конюшню (это первый деверянный дом по дороге на север)."
+msgstr "Посетите конюшню (это первый деверянный дом по дороге на север)."
 
 #. [side]: type=Knight of the Light, id=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/01_The_assignment.cfg:111
@@ -331,10 +332,11 @@ msgid ""
 "We simply don't have anyone else who will make such a good impression on the "
 "elves and dwarves!"
 msgstr ""
-"Клайд, строительство Вехлота почти закончено. Теперь я хочу заняться другими делами. "
-"Нам нужно наладить дипломатические контакты с нашими соседями на этом континенте. "
-"Я думаю, ты единственный, кто может справиться с таким заданием, ведь никто другой не сможет "
-"произвести достаточно хорошего впечатления на эльфов и гномов."
+"Клайд, строительство Вехлота почти закончено. Теперь я хочу заняться другими "
+"делами. Нам нужно наладить дипломатические контакты с нашими соседями на "
+"этом континенте. Я думаю, ты единственный, кто может справиться с таким "
+"заданием, ведь никто другой не сможет произвести достаточно хорошего "
+"впечатления на эльфов и гномов."
 
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/01_The_assignment.cfg:183
@@ -351,17 +353,19 @@ msgid ""
 "know if they would do it, I would love it if some of them would like to live "
 "with us here. Only by such a long lasting intercultural exchange we could "
 "learn to know each other better and hope to become real friends and allies."
-msgstr "Ничуть. Я хочу отпраздновать окончание строительства Вехлота вместе "
-"с эльфами и гномами. Было бы неплохо пригласить и водяных, но я не знаю, как "
-"можно снова связаться с ними. Я хочу пригласить всех и дать им понять, что они "
-"всегда будут желанными гостями в этом городе. Не знаю, согласятся ли они... Но "
-"я буду очень рад, если хотя бы некоторые из них будут жить здесь, рядом с нами. "
-""
+msgstr ""
+"Ничуть. Я хочу отпраздновать окончание строительства Вехлота вместе с "
+"эльфами и гномами. Было бы неплохо пригласить и водяных, но я не знаю, как "
+"можно снова связаться с ними. Я хочу пригласить всех и дать им понять, что "
+"они всегда будут желанными гостями в этом городе. Не знаю, согласятся ли "
+"они... Но я буду очень рад, если хотя бы некоторые из них будут жить здесь, "
+"рядом с нами. "
 
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/01_The_assignment.cfg:191
 msgid "Truly spoken. Am I not needed here to continue to protect our people?"
-msgstr "Истинно так. Но не лучше ли мне остаться здесь, чтобы продолжить защищать "
+msgstr ""
+"Истинно так. Но не лучше ли мне остаться здесь, чтобы продолжить защищать "
 "Вас и Ваших подданных?"
 
 #. [message]: speaker=Haldric II
@@ -372,7 +376,8 @@ msgid ""
 "think??"
 msgstr ""
 "Ты верно служишь нам уже много лет, но я думаю, что за стенами крепости, "
-"которая уже почти достроена, мы сможем отбиться от нападения и без твоей помощи."
+"которая уже почти достроена, мы сможем отбиться от нападения и без твоей "
+"помощи."
 
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/01_The_assignment.cfg:199
@@ -396,7 +401,8 @@ msgid ""
 "unique being! She clearly belongs to you as she continues the line of your "
 "royal steed!"
 msgstr ""
-"Но мой король! Это же не простая лошадь! Кроме того, она принадлежит Вам, ведь она - прямой потомок Снежинки!"
+"Но мой король! Это же не простая лошадь! Кроме того, она принадлежит Вам, "
+"ведь она - прямой потомок Снежинки!"
 
 #. [message]: speaker=Haldric II
 #: The_Fellowship_of_the_Clay/scenarios/01_The_assignment.cfg:211
@@ -406,9 +412,9 @@ msgid ""
 "do as I ordered. So get to the stables, prepare her and begin your mission "
 "to bring a delegation of mages, elves and dwarves here."
 msgstr ""
-"Дорогой Клайд, не принижайся так. Ты и сам знаешь, что ты единственный, кто может "
-"оседлать её. Сделай так, как я приказал. Иди в конюшню, забери Метель и "
-"отправляйся в путь. Я жду послов от магов, эльфов и гномов."
+"Дорогой Клайд, не принижайся так. Ты и сам знаешь, что ты единственный, кто "
+"может оседлать её. Сделай так, как я приказал. Иди в конюшню, забери Метель "
+"и отправляйся в путь. Я жду послов от магов, эльфов и гномов."
 
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/01_The_assignment.cfg:215
@@ -426,7 +432,8 @@ msgid ""
 "I heard, you should ride Snow-white, but I tell you, this time I am not "
 "going to try to put the saddle on her back - I still feel the kick she gave "
 "me last time!"
-msgstr "Я слышал, что Вы должны ехать на Метели, но она не даёт даже положить седло "
+msgstr ""
+"Я слышал, что Вы должны ехать на Метели, но она не даёт даже положить седло "
 "себе на спину. Ох, как же больно она лягается..."
 
 #. [message]: speaker=Stable Lad
@@ -466,7 +473,6 @@ msgid ""
 msgstr ""
 "Клайд, быстрее, прикажи всем укрыться за городскими стенами и покажи этим "
 "оркам, как мои рыцари владеют оружием!"
-
 
 #. [objective]: condition=win
 #: The_Fellowship_of_the_Clay/scenarios/01_The_assignment.cfg:317
@@ -514,7 +520,6 @@ msgid ""
 "really able to ride you as fast as you could go... and now, your saddle even "
 "got lost..."
 msgstr ""
-""
 
 #. [message]: speaker=Snow White
 #: The_Fellowship_of_the_Clay/scenarios/01_The_assignment.cfg:379
@@ -537,15 +542,15 @@ msgid ""
 "Oh, Snow-White really appears to like you! I think she allows you to ride "
 "her now."
 msgstr ""
-"О, Вы, похоже, понравились Метели. Я думаю, теперь она позволит Вам ездить на ней."
+"О, Вы, похоже, понравились Метели. Я думаю, теперь она позволит Вам ездить "
+"на ней."
 
 #. [message]: speaker=Stable Lad
 #: The_Fellowship_of_the_Clay/scenarios/01_The_assignment.cfg:394
 msgid ""
 "<b>LISTEN CAREFULLY!</b> I'll give you a little refresher about the details "
 "of mounting Snow-white:"
-msgstr ""
-"<b>Слушайте внимательно!</b> Я расскажу Вам, как оседлать Метель."
+msgstr "<b>Слушайте внимательно!</b> Я расскажу Вам, как оседлать Метель."
 
 #. [message]: speaker=Stable Lad
 #: The_Fellowship_of_the_Clay/scenarios/01_The_assignment.cfg:398
@@ -554,8 +559,8 @@ msgid ""
 "to her or let her move next to you and then you can mount via the right-"
 "click menu."
 msgstr ""
-"Всё очень просто. Достаточно подойти к ней (или попросить её подойти к Вам), а "
-"затем оседлать, используя меню, появляющееся при клике правой кнокой мыши."
+"Всё очень просто. Достаточно подойти к ней (или попросить её подойти к Вам), "
+"а затем оседлать, используя меню, появляющееся при клике правой кнокой мыши."
 
 #. [message]: speaker=Stable Lad
 #: The_Fellowship_of_the_Clay/scenarios/01_The_assignment.cfg:402
@@ -564,8 +569,9 @@ msgid ""
 "on a field next to her and command 'dismount'. This way you dismount to the "
 "field you clicked on."
 msgstr ""
-"При нормальных обстоятельствах Вы можете спешиться так: кликните правой кнопкой "
-"мыши на нужное поле вокруг Вас (использовать можно только ближайшие поля) и нажмите 'спешиться'."
+"При нормальных обстоятельствах Вы можете спешиться так: кликните правой "
+"кнопкой мыши на нужное поле вокруг Вас (использовать можно только ближайшие "
+"поля) и нажмите 'спешиться'."
 
 #. [message]: speaker=Stable Lad
 #: The_Fellowship_of_the_Clay/scenarios/01_The_assignment.cfg:406
@@ -573,8 +579,9 @@ msgid ""
 "After dismounting, you have no move points but can still attack. Snow-white "
 "will lose one move point when mounting and two when dismounting."
 msgstr ""
-"После того, как сойдёте с седла, Вы не сможете передвигаться, но сможете атаковать. "
-"Метель теряет одно очко передвижения, когда Вы седлаете её, и два, когда Вы сходите с седла."
+"После того, как сойдёте с седла, Вы не сможете передвигаться, но сможете "
+"атаковать. Метель теряет одно очко передвижения, когда Вы седлаете её, и "
+"два, когда Вы сходите с седла."
 
 #. [message]: speaker=Stable Lad
 #: The_Fellowship_of_the_Clay/scenarios/01_The_assignment.cfg:410
@@ -585,10 +592,11 @@ msgid ""
 "has <b>Clyde's</b> experience. Thus, when dismounting, Snow-white will have "
 "the same amount of experience as <b>BEFORE you mounted her</b>."
 msgstr ""
-"Метель - существо второго уровня. Увеличить её уровень нельзя, но можно увеличить "
-"её здоровье или силу атаки по Вашему выбору. Но сначала она должна набрать достаточно опыта. "
-"<b>Если Метель несёт на себе всадника, опыт в сражении получает только он</b>. Таким образом, "
-"после того, как всадник сойдёт с седла, у Метели будет тот же опыт, что и раньше."
+"Метель - существо второго уровня. Увеличить её уровень нельзя, но можно "
+"увеличить её здоровье или силу атаки по Вашему выбору. Но сначала она должна "
+"набрать достаточно опыта. <b>Если Метель несёт на себе всадника, опыт в "
+"сражении получает только он</b>. Таким образом, после того, как всадник "
+"сойдёт с седла, у Метели будет тот же опыт, что и раньше."
 
 #. [objectives]
 #: The_Fellowship_of_the_Clay/scenarios/01_The_assignment.cfg:413
@@ -626,8 +634,8 @@ msgid ""
 "After having eaten some tiny purple flowers, Snow-White feels the power "
 "returning. She starts to run even faster than before."
 msgstr ""
-"Поев цветов, Метель чувствует, как к ней возвращаются силы. "
-"Теперь она может бегать намного быстрее."
+"Поев цветов, Метель чувствует, как к ней возвращаются силы. Теперь она может "
+"бегать намного быстрее."
 
 #. [message]: speaker=narrator
 #: The_Fellowship_of_the_Clay/scenarios/01_The_assignment.cfg:487
@@ -709,8 +717,7 @@ msgstr "Подошли орочьи подкрепления. Теперь мы 
 msgid ""
 "Without workers and peasants, there is no chance to arise an empire "
 "anymore..."
-msgstr ""
-"Без рабочих и крестьян нам не выжить на этой земле!"
+msgstr "Без рабочих и крестьян нам не выжить на этой земле!"
 
 #. [scenario]: id=02_Magic_invitation
 #: The_Fellowship_of_the_Clay/scenarios/02_Magic_invitation.cfg:5
@@ -5759,12 +5766,15 @@ msgstr ""
 #. [advancement]: id=TFotC_amla_heal_full
 #: The_Fellowship_of_the_Clay/utils/amla.cfg:11
 msgid "max hitpoints +0, max experience +0%; heal full, unpoison, unslow"
-msgstr "максимум здоровья +0, максимум опыта +0%, вылечить, исцелить, сбросить путы"
+msgstr ""
+"максимум здоровья +0, максимум опыта +0%, вылечить, исцелить, сбросить путы"
 
 #. [advancement]: id=TFotC_amla_default
 #: The_Fellowship_of_the_Clay/utils/amla.cfg:33
 msgid "max hitpoints +3, max experience +5%; no heal, unpoison or unslow"
-msgstr "максимум здоровья +3, максимум опыта +5%, не лечить, не исцелять, не сбрасывать путы"
+msgstr ""
+"максимум здоровья +3, максимум опыта +5%, не лечить, не исцелять, не "
+"сбрасывать путы"
 
 #. [advancement]: id=TFotC_amla_horn
 #: The_Fellowship_of_the_Clay/utils/amla.cfg:52
