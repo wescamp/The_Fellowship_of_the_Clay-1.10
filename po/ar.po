@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2012-06-04 08:25-0400\n"
+"POT-Creation-Date: 2012-06-13 15:26-0400\n"
 "PO-Revision-Date: 2012-05-30 23:38-0400\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -2886,7 +2886,7 @@ msgstr ""
 #: The_Fellowship_of_the_Clay/scenarios/09_Recruiting_Harriett.cfg:121
 #: The_Fellowship_of_the_Clay/scenarios/09_Recruiting_Harriett.cfg:204
 #: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:80
-#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:160
+#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:168
 msgid "Mountainhigh"
 msgstr ""
 
@@ -2914,13 +2914,13 @@ msgstr ""
 
 #. [label]
 #: The_Fellowship_of_the_Clay/scenarios/09_Recruiting_Harriett.cfg:200
-#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:156
+#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:164
 msgid "Porter's House"
 msgstr ""
 
 #. [label]
 #: The_Fellowship_of_the_Clay/scenarios/09_Recruiting_Harriett.cfg:208
-#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:164
+#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:172
 msgid "Valley of the Yetis"
 msgstr ""
 
@@ -3079,7 +3079,7 @@ msgstr ""
 #: The_Fellowship_of_the_Clay/scenarios/09_Recruiting_Harriett.cfg:435
 #: The_Fellowship_of_the_Clay/scenarios/09_Recruiting_Harriett.cfg:447
 #: The_Fellowship_of_the_Clay/scenarios/10_Convincing_the_Father.cfg:51
-#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:197
+#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:205
 msgid "Harriett Porter"
 msgstr ""
 
@@ -3295,38 +3295,38 @@ msgid "Herton"
 msgstr ""
 
 #. [side]: id=Yeti, type=Yeti
-#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:119
+#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:127
 msgid "Dangers of the wilderness"
 msgstr ""
 
 #. [side]: id=Yeti, type=Yeti
-#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:122
+#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:130
 msgid "Raged Yeti"
 msgstr ""
 
 #. [side]: id=Denethros, type=Dwarvish Explorer
-#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:143
+#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:151
 msgid "Hostile dwarves"
 msgstr ""
 
 #. [side]: id=Denethros, type=Dwarvish Explorer
-#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:146
+#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:154
 msgid "Denethros"
 msgstr ""
 
 #. [objective]: condition=win
-#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:221
+#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:229
 msgid "Kill the raging yeti"
 msgstr ""
 
 #. [objective]: condition=win
-#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:225
+#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:233
 msgid "Find out the reason for yeti's pain"
 msgstr ""
 
 #. [objective]: condition=lose
-#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:229
-#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:512
+#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:237
+#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:533
 #: The_Fellowship_of_the_Clay/scenarios/12_Dragnet_Operation.cfg:127
 #: The_Fellowship_of_the_Clay/scenarios/12_Dragnet_Operation.cfg:389
 #: The_Fellowship_of_the_Clay/scenarios/14_Dark_Walks-Walks_about_Darkness.cfg:168
@@ -3334,38 +3334,38 @@ msgid "Death of one of your heroes"
 msgstr ""
 
 #. [objective]: condition=lose
-#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:233
-#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:516
+#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:241
+#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:537
 #: The_Fellowship_of_the_Clay/scenarios/12_Dragnet_Operation.cfg:131
 #: The_Fellowship_of_the_Clay/scenarios/12_Dragnet_Operation.cfg:393
 msgid "Death of a member of the Porter's family"
 msgstr ""
 
 #. [message]: speaker=Clyde
-#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:241
+#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:262
 msgid "Could anyone tell me what the reason for this noise was?"
 msgstr ""
 
 #. [message]: speaker=Yeti
-#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:249
+#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:270
 msgid "<i>Graaaaaaaaargh!</i>"
 msgstr ""
 
 #. [message]: speaker=Clyde
-#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:254
+#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:275
 msgid ""
 "Oh, the question just answered itself. This yeti seems to be incredibly "
 "angry, but why?"
 msgstr ""
 
 #. [message]: speaker=Legomir
-#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:258
+#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:279
 msgid ""
 "No, wait...it might just be that they are scared and fleeing from something?"
 msgstr ""
 
 #. [message]: speaker=Feyndwarf
-#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:262
+#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:283
 msgid ""
 "I don't say that we shouldn't find out what is going on but for the moment "
 "it really doesn't make a difference for what reason a Yeti wants to kill us. "
@@ -3373,19 +3373,19 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Elisabeth Porter
-#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:266
+#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:287
 msgid ""
 "You may use my keep to recruit soldiers - you'll need it more than I do."
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:283
+#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:304
 msgid ""
 "So, we were able to pacify this one - but what would scare a yeti like that?"
 msgstr ""
 
 #. [message]: speaker=Aryad
-#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:287
+#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:308
 msgid ""
 "I can see some smoke at the horizon. Yetis do not have problems with "
 "torches, but who would not be fearsome when faced with a forest on fire? And "
@@ -3393,19 +3393,19 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Feyndwarf
-#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:291
+#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:312
 msgid "Congratulations, Sir Hawkeye. Well, then let's go and stop the fire."
 msgstr ""
 
 #. [message]: speaker=Clyde
 #. [message]: speaker=unit
-#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:310
-#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:316
+#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:331
+#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:337
 msgid "You there, with the torch - have you set this blaze?"
 msgstr ""
 
 #. [message]: speaker=Denethros
-#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:322
+#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:343
 msgid ""
 "Yes, this was me and if that didn't help, I need to stop you by myself! I "
 "heard about your presumptuous plans! At least <b>I</b> know the stories "
@@ -3415,14 +3415,14 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Harriett Porter
-#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:455
-#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:592
+#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:476
+#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:613
 msgid "Oh, I'm so glad that we finally finished this fire off!"
 msgstr ""
 
 #. [message]: speaker=Clyde
-#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:476
-#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:613
+#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:497
+#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:634
 msgid ""
 "But it would be a really bad idea to leave this mad dwarf and his friends "
 "behind us, they would just try to assassinate us. <small> Although his soul "
@@ -3431,14 +3431,14 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Clyde
-#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:485
+#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:506
 msgid ""
 "When this stranger whom belongs Wehlot Isle is even driving sturdy dwarves "
 "to madness, the threat is even bigger for us!"
 msgstr ""
 
 #. [message]: speaker=Elisabeth Porter
-#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:489
+#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:510
 msgid ""
 "We've to put out the fire quickly before every being in this forest is "
 "attacking us in fear! We've got a well in Mountainhigh, there your soldiers "
@@ -3446,14 +3446,14 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Harriett Porter
-#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:494
+#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:515
 msgid ""
 "If I may note, destiny gave me the ability to teleport also the people "
 "around me to one of our villages."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:499
+#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:520
 msgid ""
 "To teleport a unit using Harriett's powers, move the unit you want to be "
 "teleported next to her. Then choose 'Teleport this unit' in the right-click "
@@ -3463,17 +3463,17 @@ msgid ""
 msgstr ""
 
 #. [objective]: condition=win
-#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:504
+#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:525
 msgid "Defeat Denethros"
 msgstr ""
 
 #. [objective]: condition=win
-#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:508
+#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:529
 msgid "Stop the fire"
 msgstr ""
 
 #. [objectives]
-#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:518
+#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:539
 msgid ""
 "Note: Richard, with or without Feyndwarf sitting on him, is able to block "
 "the fire's oxygen support. He will be hurt, though.\n"
@@ -3486,52 +3486,52 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=unit
-#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:636
+#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:657
 msgid ""
 "A dwarvish supply tunnel - this explains how dwarves may live in "
 "Mountainhigh!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:646
+#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:667
 msgid ""
 "You saved your life - for now! But death will hunt down all of you, and then "
 "you'll wish I'd had succeeded!"
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:650
+#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:671
 msgid "This degree of insanity really makes me shutter..."
 msgstr ""
 
 #. [message]: speaker=Clyde
-#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:671
+#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:692
 msgid ""
 "<small> Although his soul was tortured to insanity, it makes me feel evil to "
 "have ordered his death - like if my inner light would get dimmed...</small>"
 msgstr ""
 
 #. [message]: speaker=Feyndwarf
-#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:675
+#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:696
 msgid ""
 "Eh, sorry to interrupt your thoughts, but we've got some burnin' trees "
 "around here, which should be put out."
 msgstr ""
 
 #. [message]: speaker=Henry Porter
-#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:684
+#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:705
 msgid ""
 "Harriett can make the travel to the north easier with just teleporting us to "
 "a human settlement, that will save a lot of time."
 msgstr ""
 
 #. [message]: speaker=Harriett Porter
-#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:689
+#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:710
 msgid "Goodbye mom, I'll miss you!"
 msgstr ""
 
 #. [message]: speaker=Henry Porter
-#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:738
+#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:759
 msgid ""
 "Elisabeth!! ... Although the pain will always stay, we have to go to let her "
 "death not be in vain..."
@@ -3751,7 +3751,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Clyde
-#: The_Fellowship_of_the_Clay/scenarios/12_Dragnet_Operation.cfg:541
+#: The_Fellowship_of_the_Clay/scenarios/12_Dragnet_Operation.cfg:542
 msgid ""
 "I've got enough of swamps and saurians, so let us leave this swampy pond."
 msgstr ""
