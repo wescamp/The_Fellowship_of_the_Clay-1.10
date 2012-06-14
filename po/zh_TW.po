@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2012-06-13 15:26-0400\n"
+"POT-Creation-Date: 2012-06-13 20:35-0400\n"
 "PO-Revision-Date: 2012-05-30 23:38-0400\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -39,7 +39,9 @@ msgid "(normal)"
 msgstr ""
 
 #. [campaign]: id=The_Fellowship_of_the_Clay
+#. [unit_type]: id=White Knight of the Light, race=human
 #: The_Fellowship_of_the_Clay/_main.cfg:25
+#: The_Fellowship_of_the_Clay/units/Clyde_lev3.cfg:4
 msgid "White Knight of the Light"
 msgstr ""
 
@@ -58,10 +60,10 @@ msgstr ""
 #. [campaign]: id=The_Fellowship_of_the_Clay
 #: The_Fellowship_of_the_Clay/_main.cfg:28
 msgid ""
-"Set right after 'The Rise of Wesnoth' and before 'Legend of Wesmere' & "
+"Set right after 'The Rise of Wesnoth' and before 'Legend of Wesmere' and "
 "'Sceptre of Fire', the adventure tells the story of human's first capital on "
 "the great continent and a handfull of heros that try to avert its doom.\n"
-"Complete with 16 playable & 2 story scenarios.\n"
+"Complete with 16 playable and 2 story scenarios.\n"
 "\t\n"
 "Main features include:\n"
 "- A main-hero that can mount and dismount his steed\n"
@@ -194,6 +196,7 @@ msgstr ""
 #: The_Fellowship_of_the_Clay/scenarios/07_Bad_news.cfg:155
 #: The_Fellowship_of_the_Clay/scenarios/08_The_plan.cfg:80
 #: The_Fellowship_of_the_Clay/scenarios/17_In_Due_Time.cfg:201
+#: The_Fellowship_of_the_Clay/scenarios/18_Epilogue.cfg:57
 msgid "Brick-kiln"
 msgstr ""
 
@@ -254,7 +257,11 @@ msgid ""
 msgstr ""
 
 #. [side]: type=Knight of the Light, id=Clyde
+#. [unit]: id=Clyde, type=$clyde_type
+#. [unit]: id=Clyde, type=$clyde_type, role=$stored_mounted.role
 #: The_Fellowship_of_the_Clay/scenarios/01_The_assignment.cfg:111
+#: The_Fellowship_of_the_Clay/utils/mounting.cfg:368
+#: The_Fellowship_of_the_Clay/utils/mounting.cfg:577
 msgid "Clyde"
 msgstr ""
 
@@ -283,6 +290,8 @@ msgstr ""
 #: The_Fellowship_of_the_Clay/scenarios/16_The_three_Towers_of_Mount_Quake.cfg:63
 #: The_Fellowship_of_the_Clay/scenarios/17_In_Due_Time.cfg:74
 #: The_Fellowship_of_the_Clay/scenarios/17_In_Due_Time.cfg:99
+#: The_Fellowship_of_the_Clay/scenarios/18_Epilogue.cfg:20
+#: The_Fellowship_of_the_Clay/scenarios/18_Epilogue.cfg:49
 msgid "Allies"
 msgstr ""
 
@@ -291,6 +300,7 @@ msgstr ""
 #: The_Fellowship_of_the_Clay/scenarios/07_Bad_news.cfg:96
 #: The_Fellowship_of_the_Clay/scenarios/08_The_plan.cfg:68
 #: The_Fellowship_of_the_Clay/scenarios/17_In_Due_Time.cfg:95
+#: The_Fellowship_of_the_Clay/scenarios/18_Epilogue.cfg:46
 msgid "Haldric II"
 msgstr ""
 
@@ -684,6 +694,7 @@ msgid "Turn runs out"
 msgstr ""
 
 #. [side]: type=Mounted Knight of the Light, id=Clyde
+#. [unit]: type=$mclyde_type, id=Clyde, role=$stored_clyde.role
 #: The_Fellowship_of_the_Clay/scenarios/02_Magic_invitation.cfg:66
 #: The_Fellowship_of_the_Clay/scenarios/03_Entering_Wesmere.cfg:47
 #: The_Fellowship_of_the_Clay/scenarios/04_The_race.cfg:49
@@ -697,6 +708,8 @@ msgstr ""
 #: The_Fellowship_of_the_Clay/scenarios/14_Dark_Walks-Walks_about_Darkness.cfg:108
 #: The_Fellowship_of_the_Clay/scenarios/16_The_three_Towers_of_Mount_Quake.cfg:72
 #: The_Fellowship_of_the_Clay/scenarios/17_In_Due_Time.cfg:84
+#: The_Fellowship_of_the_Clay/scenarios/18_Epilogue.cfg:28
+#: The_Fellowship_of_the_Clay/utils/mounting.cfg:124
 msgid "Mounted Clyde"
 msgstr ""
 
@@ -957,9 +970,8 @@ msgstr ""
 #. [part]
 #: The_Fellowship_of_the_Clay/scenarios/03_Entering_Wesmere.cfg:13
 msgid ""
-"As fast as he was able to Clyde rode towards Wesmere Forest. He had to cross "
-"the Great River, but Snow-White was a good swimmer and so that was not a "
-"problem."
+"Clyde rode towards Wesmere Forest as fast as he could. He had to cross the "
+"Great River, but Snow-White was a good swimmer and so that was not a problem."
 msgstr ""
 
 #. [side]
@@ -1576,6 +1588,7 @@ msgstr ""
 #: The_Fellowship_of_the_Clay/scenarios/06_Finding_Feyndwarf.cfg:480
 #: The_Fellowship_of_the_Clay/scenarios/07_Bad_news.cfg:644
 #: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:567
+#: The_Fellowship_of_the_Clay/utils/mounting.cfg:999
 msgid "Feyndwarf"
 msgstr ""
 
@@ -2201,9 +2214,11 @@ msgstr ""
 #. [side]: id=Familiar Stranger, type=Ancient Lich
 #. [unit]: id=Familiar Stranger, type=Ancient Lich
 #. [unit]: id=Familiar Stranger, type=Dark Tradesman
+#. [unit]: type=Crow
 #: The_Fellowship_of_the_Clay/scenarios/07_Bad_news.cfg:338
 #: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:106
 #: The_Fellowship_of_the_Clay/scenarios/16_The_three_Towers_of_Mount_Quake.cfg:153
+#: The_Fellowship_of_the_Clay/scenarios/18_Epilogue.cfg:35
 msgid "Familiar Stranger"
 msgstr ""
 
@@ -5267,6 +5282,56 @@ msgid ""
 "destroyed instantly-"
 msgstr ""
 
+#. [scenario]: id=18_Epilogue
+#: The_Fellowship_of_the_Clay/scenarios/18_Epilogue.cfg:5
+msgid "Epilogue"
+msgstr ""
+
+#. [part]
+#: The_Fellowship_of_the_Clay/scenarios/18_Epilogue.cfg:13
+msgid ""
+"After the last undead fell and the dust of the battle settled, Clyde and "
+"Haldric II. met at the brick-kiln."
+msgstr ""
+
+#. [message]: speaker=Clyde
+#: The_Fellowship_of_the_Clay/scenarios/18_Epilogue.cfg:65
+msgid ""
+"My King, we survived this nightmare and Wehlot still stands, but now where "
+"we learned that our city is build upon dark magic and, even more troubling, "
+"as fragile as a little raven-statue: do you really think it is a good idea "
+"to stay in this city for long?"
+msgstr ""
+
+#. [message]: speaker=Haldric II
+#: The_Fellowship_of_the_Clay/scenarios/18_Epilogue.cfg:69
+msgid ""
+"I know what you mean Clyde. There is something in Wehlot's foundation which "
+"shouldn't be part of it. Then again, I don't think that one generation can "
+"build two cities from scratch. I will keep this raven-statue right with me "
+"at my throne room. It should be the best guarded place and there in my line "
+"of sight, I shall remind me every day of the dangers that come with "
+"shortcuts."
+msgstr ""
+
+#. [message]: speaker=Clyde
+#: The_Fellowship_of_the_Clay/scenarios/18_Epilogue.cfg:73
+msgid "So we stay in Wehlot? What will you do next then?"
+msgstr ""
+
+#. [message]: speaker=Haldric II
+#: The_Fellowship_of_the_Clay/scenarios/18_Epilogue.cfg:77
+msgid ""
+"Yes, for now and as long as we take care of the statue, Wehlot is still a "
+"save city. Our sons and grandsons might be able to build a new great city "
+"that does not bear the burden of this one. But I do not want to be "
+"remembered as the King who left nothing but a cursed place. I still have "
+"some plans for that Ruby of Fire. I want it to be transformed into a scepter "
+"- a symbol that should represent the human's Kings power. And Clyde: This "
+"time, I will go myself and arrange an agreement with the dwarfs - you did "
+"already too much for me!"
+msgstr ""
+
 #. [unit_type]: id=Knight of the Light, race=human
 #: The_Fellowship_of_the_Clay/units/Clyde_lev2.cfg:4
 msgid "Knight of the Light"
@@ -5290,6 +5355,7 @@ msgstr ""
 
 #. [attack]: type=arcane
 #: The_Fellowship_of_the_Clay/units/Clyde_lev2.cfg:52
+#: The_Fellowship_of_the_Clay/units/Clyde_lev3.cfg:53
 #: The_Fellowship_of_the_Clay/units/Clyde_lev4.cfg:55
 #: The_Fellowship_of_the_Clay/units/Mounted_Knight_lvl2.cfg:61
 #: The_Fellowship_of_the_Clay/units/Mounted_Knight_lvl3.cfg:61
@@ -5299,11 +5365,19 @@ msgstr ""
 
 #. [attack]: type=arcane
 #: The_Fellowship_of_the_Clay/units/Clyde_lev2.cfg:62
+#: The_Fellowship_of_the_Clay/units/Clyde_lev3.cfg:63
 #: The_Fellowship_of_the_Clay/units/Clyde_lev4.cfg:65
 #: The_Fellowship_of_the_Clay/units/Mounted_Knight_lvl2.cfg:83
 #: The_Fellowship_of_the_Clay/units/Mounted_Knight_lvl3.cfg:82
 #: The_Fellowship_of_the_Clay/units/Mounted_Knight_lvl4.cfg:83
 msgid "lightbeam"
+msgstr ""
+
+#. [unit_type]: id=Mounted White Knight of the Light, race=human
+#. [unit_type]: id=White Knight of the Light, race=human
+#: The_Fellowship_of_the_Clay/units/Clyde_lev3.cfg:18
+#: The_Fellowship_of_the_Clay/units/Mounted_Knight_lvl3.cfg:20
+msgid "Clyde finally got a helmet! And in order to express that he is a true "
 msgstr ""
 
 #. [unit_type]: id=Bright White Knight of the Light, race=human
@@ -5332,6 +5406,65 @@ msgstr ""
 #: The_Fellowship_of_the_Clay/units/Harriett-lvl2.cfg:44
 #: The_Fellowship_of_the_Clay/units/Harriett-lvl3.cfg:46
 msgid "staff"
+msgstr ""
+
+#. [unit_type]: id=Elvish Ancestor, race=undead
+#: The_Fellowship_of_the_Clay/units/Elvish_Spirit_Ancestor.cfg:4
+msgid "Ancestor"
+msgstr ""
+
+#. [unit_type]: id=Elvish Ancestor, race=undead
+#: The_Fellowship_of_the_Clay/units/Elvish_Spirit_Ancestor.cfg:27
+msgid ""
+"Revered warriors of old roam through the elven forests, visible only due to "
+"their shining silver swords. They are only partially present in the mortal "
+"realm, and wounds close as if they had never existed. Their voice can "
+"whisper in the wind words that chill the hearts of their enemies, making "
+"them, ocassionally, abandon the fight prematurely, or even die of sheer fear."
+msgstr ""
+
+#. [attack]: type=arcane
+#: The_Fellowship_of_the_Clay/units/Elvish_Spirit_Ancestor.cfg:31
+#: The_Fellowship_of_the_Clay/units/Elvish_Spirit_Forefather.cfg:32
+#: The_Fellowship_of_the_Clay/units/Elvish_Spirit_Warrior.cfg:32
+msgid "ancient blade"
+msgstr ""
+
+#. [attack]: type=cold
+#: The_Fellowship_of_the_Clay/units/Elvish_Spirit_Ancestor.cfg:43
+#: The_Fellowship_of_the_Clay/units/Elvish_Spirit_Forefather.cfg:44
+msgid "requiem"
+msgstr ""
+
+#. [unit_type]: id=Elvish Forefather, race=undead
+#: The_Fellowship_of_the_Clay/units/Elvish_Spirit_Forefather.cfg:4
+msgid "Forefather"
+msgstr ""
+
+#. [unit_type]: id=Elvish Forefather, race=undead
+#: The_Fellowship_of_the_Clay/units/Elvish_Spirit_Forefather.cfg:28
+msgid ""
+"The ancient elvish lords may come back to this world in times of great need, "
+"to lead their people to glory once again. When attacking, they sing a "
+"chilling death chant, which can freeze in terror their oponents; this has "
+"been known to have caused a fair number of defeats at the hands of elven "
+"armies, and to suddenly turn the fight in favor of them, when victory was "
+"close to be achieved by those who dare oppose the almighty lords of the "
+"forests."
+msgstr ""
+
+#. [unit_type]: id=Elvish Warrior Spirit, race=undead
+#: The_Fellowship_of_the_Clay/units/Elvish_Spirit_Warrior.cfg:4
+msgid "Warrior Spirit"
+msgstr ""
+
+#. [unit_type]: id=Elvish Warrior Spirit, race=undead
+#: The_Fellowship_of_the_Clay/units/Elvish_Spirit_Warrior.cfg:28
+msgid ""
+"The great elvish warriors of times past are not completely gone. They roam "
+"around the forests which formerly served as their home, and wander about "
+"their memories of glorious battles and wars, seeking to perform the feats of "
+"arms they did in the past, and death is no obstacle for their purposes."
 msgstr ""
 
 #. [unit_type]: id=Dwarvish Arcanister TFotC, race=dwarf
@@ -5388,6 +5521,25 @@ msgid ""
 "softly, weakly and on the armor of the defender."
 msgstr ""
 
+#. [unit_type]: id=Haldric II, race=human
+#: The_Fellowship_of_the_Clay/units/Haldric_II.cfg:4
+msgid "King"
+msgstr ""
+
+#. [unit_type]: id=Haldric II, race=human
+#: The_Fellowship_of_the_Clay/units/Haldric_II.cfg:21
+msgid "King of Wesnoth."
+msgstr ""
+
+#. [attack]: type=blade
+#: The_Fellowship_of_the_Clay/units/Haldric_II.cfg:25
+#: The_Fellowship_of_the_Clay/units/High_Lord_Aryad.cfg:73
+#: The_Fellowship_of_the_Clay/units/Isomithir.cfg:46
+#: The_Fellowship_of_the_Clay/units/Logalmier.cfg:36
+#: The_Fellowship_of_the_Clay/units/Lord_Aryad.cfg:39
+msgid "sword"
+msgstr ""
+
 #. [unit_type]: id=Portal Mage, race=human
 #: The_Fellowship_of_the_Clay/units/Harriett-lvl2.cfg:4
 msgid "Portal Mage"
@@ -5435,6 +5587,92 @@ msgid ""
 "side of a battle."
 msgstr ""
 
+#. [unit_type]: id=High Lord Aryad, race=elf
+#: The_Fellowship_of_the_Clay/units/High_Lord_Aryad.cfg:4
+msgid "Elvish High Lord"
+msgstr ""
+
+#. [unit_type]: id=High Lord Aryad, race=elf
+#: The_Fellowship_of_the_Clay/units/High_Lord_Aryad.cfg:19
+msgid ""
+"The leaders of elvenkind command an instinctive loyalty from their people "
+"that rulers of other races can only envy, and earn it with great mindfulness "
+"and wisdom. Quiet and contemplative in times of peace, a High Lord in the "
+"full of his wrath is an awesome sight indeed."
+msgstr ""
+
+#. [attack]: type=arcane
+#: The_Fellowship_of_the_Clay/units/High_Lord_Aryad.cfg:82
+#: The_Fellowship_of_the_Clay/units/Lord_Aryad.cfg:48
+msgid "faerie fire"
+msgstr ""
+
+#. [unit_type]: id=Lord El'Isomithir, race=elf
+#: The_Fellowship_of_the_Clay/units/Isomithir.cfg:4
+msgid "Elvish Marshal"
+msgstr ""
+
+#. [unit_type]: id=Lord El'Isomithir, race=elf
+#: The_Fellowship_of_the_Clay/units/Isomithir.cfg:27
+msgid ""
+"The longevity and natural intelligence of elves make them apt for military "
+"matters, enough even to counter their general distaste for war. Elves "
+"remember things much more clearly than humankind, and can often intuit what "
+"others can only be trained to do. Certainly, on those rare occasions when an "
+"elf sets his mind to war, the strategy that results is often the work of a "
+"master."
+msgstr ""
+
+#. [attack]: type=pierce
+#: The_Fellowship_of_the_Clay/units/Isomithir.cfg:55
+#: The_Fellowship_of_the_Clay/units/Logalmier.cfg:45
+msgid "bow"
+msgstr ""
+
+#. [unit_type]: id=Lady Dionli, race=elf
+#: The_Fellowship_of_the_Clay/units/Lady_Dionli.cfg:4
+msgid "female^Elvish Shyde"
+msgstr ""
+
+#. [unit_type]: id=Lady Dionli, race=elf
+#: The_Fellowship_of_the_Clay/units/Lady_Dionli.cfg:22
+msgid ""
+"Devotion to the path of faerie may eventually transform an elf maiden into a "
+"creature of both worlds. Guided by a power which is little understood, these "
+"beautiful stewards of the elven forests epitomize the grace and mystery of "
+"their people."
+msgstr ""
+
+#. [attack]: type=impact
+#: The_Fellowship_of_the_Clay/units/Lady_Dionli.cfg:41
+msgid "faerie touch"
+msgstr ""
+
+#. [attack]: type=impact
+#: The_Fellowship_of_the_Clay/units/Lady_Dionli.cfg:54
+msgid "ensnare"
+msgstr ""
+
+#. [attack]: type=pierce
+#: The_Fellowship_of_the_Clay/units/Lady_Dionli.cfg:66
+msgid "thorns"
+msgstr ""
+
+#. [unit_type]: id=Lord Logalmier, race=elf
+#: The_Fellowship_of_the_Clay/units/Logalmier.cfg:4
+msgid "Elvish Champion"
+msgstr ""
+
+#. [unit_type]: id=Lord Logalmier, race=elf
+#: The_Fellowship_of_the_Clay/units/Logalmier.cfg:20
+msgid ""
+"Those few elves who deliberately hone themselves into weapons of war become "
+"something which belies the peace-loving reputation of their race. Dedication "
+"and skill are matched with purity of form, and the result is swordsmanship "
+"to which few can compare. Even their archery, treated as a secondary "
+"pursuit, is masterfully executed."
+msgstr ""
+
 #. [unit_type]: id=Lord Aryad, race=elf
 #: The_Fellowship_of_the_Clay/units/Lord_Aryad.cfg:4
 msgid "Elvish Lord"
@@ -5446,16 +5684,6 @@ msgid ""
 "The nobility of the elves are possessed of merit to match their standing in "
 "society. Elvish Lords are the wisest and strongest of their people, and are "
 "fearsome in their command of magic."
-msgstr ""
-
-#. [attack]: type=blade
-#: The_Fellowship_of_the_Clay/units/Lord_Aryad.cfg:39
-msgid "sword"
-msgstr ""
-
-#. [attack]: type=arcane
-#: The_Fellowship_of_the_Clay/units/Lord_Aryad.cfg:48
-msgid "faerie fire"
 msgstr ""
 
 #. [unit_type]: id=Mounted Runesmith, race=gryphon
@@ -5479,6 +5707,8 @@ msgstr ""
 #: The_Fellowship_of_the_Clay/units/Mounted_Feyndwarf_lvl2.cfg:42
 #: The_Fellowship_of_the_Clay/units/Mounted_Feyndwarf_lvl3.cfg:42
 #: The_Fellowship_of_the_Clay/units/Mounted_Feyndwarf_lvl4.cfg:42
+#: The_Fellowship_of_the_Clay/units/NPC_Crow.cfg:36
+#: The_Fellowship_of_the_Clay/units/Richard.cfg:43
 msgid "claws"
 msgstr ""
 
@@ -5501,6 +5731,7 @@ msgstr ""
 #: The_Fellowship_of_the_Clay/units/Mounted_Knight_lvl2.cfg:70
 #: The_Fellowship_of_the_Clay/units/Mounted_Knight_lvl3.cfg:70
 #: The_Fellowship_of_the_Clay/units/Mounted_Knight_lvl4.cfg:71
+#: The_Fellowship_of_the_Clay/units/Unihorse.cfg:42
 msgid "horn"
 msgstr ""
 
@@ -5509,14 +5740,49 @@ msgstr ""
 msgid "Mounted White Knight of the Light"
 msgstr ""
 
-#. [unit_type]: id=Mounted White Knight of the Light, race=human
-#: The_Fellowship_of_the_Clay/units/Mounted_Knight_lvl3.cfg:20
-msgid "Clyde finally got a helmet! And in order to express that he is a true "
-msgstr ""
-
 #. [unit_type]: id=Mounted Bright White Knight of the Light, race=human
 #: The_Fellowship_of_the_Clay/units/Mounted_Knight_lvl4.cfg:4
 msgid "Mounted Bright White Knight of the Light"
+msgstr ""
+
+#. [unit_type]: id=Crow, race=monster
+#: The_Fellowship_of_the_Clay/units/NPC_Crow.cfg:4
+msgid "Crow"
+msgstr ""
+
+#. [unit_type]: id=Crow, race=monster
+#: The_Fellowship_of_the_Clay/units/NPC_Crow.cfg:20
+msgid ""
+"Crows are carrion birds which will eat anything dead. Larger ones such as "
+"this have been also known to feed upon living preys when food is scarce."
+msgstr ""
+
+#. [attack]: type=blade
+#: The_Fellowship_of_the_Clay/units/NPC_Crow.cfg:25
+msgid "beak"
+msgstr ""
+
+#. [unit_type]: id=Gryphon, race=gryphon
+#: The_Fellowship_of_the_Clay/units/Richard.cfg:4
+msgid "Gryphon"
+msgstr ""
+
+#. [unit_type]: id=Gryphon, race=gryphon
+#: The_Fellowship_of_the_Clay/units/Richard.cfg:21
+msgid ""
+"These majestic and powerful creatures are masters of the sky. Gryphons are "
+"both dangerous and wary of other intelligent creatures, and thus should not "
+"be disturbed without a good reason."
+msgstr ""
+
+#. [unit_type]: id=Unihorse, race=monster
+#: The_Fellowship_of_the_Clay/units/Unihorse.cfg:4
+msgid "Unihorse"
+msgstr ""
+
+#. [unit_type]: id=Unihorse, race=monster
+#: The_Fellowship_of_the_Clay/units/Unihorse.cfg:28
+msgid "Snow-white was born in the King's stable after "
 msgstr ""
 
 #. [unit_type]: id=Elvish Forest Guard, race=elf
@@ -5569,6 +5835,30 @@ msgstr ""
 #. [female]
 #: The_Fellowship_of_the_Clay/units/forest_keeper.cfg:194
 msgid "female^Elvish Sharpshooter"
+msgstr ""
+
+#. [unit_type]: id=Small Spider, race=monster
+#: The_Fellowship_of_the_Clay/units/smallspider.cfg:4
+msgid "Small Spider"
+msgstr ""
+
+#. [unit_type]: id=Small Spider, race=monster
+#: The_Fellowship_of_the_Clay/units/smallspider.cfg:22
+msgid ""
+"Smaller spiders which are not fully grown yet once will be Giant Spiders, "
+"but they have still a long way to go. Nevertheless are fangs poisoned, and "
+"they are able to throw nets. Many dwarves and humans got killed by such a "
+"spider, missing its power."
+msgstr ""
+
+#. [attack]: type=blade
+#: The_Fellowship_of_the_Clay/units/smallspider.cfg:26
+msgid "fangs"
+msgstr ""
+
+#. [attack]: type=impact
+#: The_Fellowship_of_the_Clay/units/smallspider.cfg:38
+msgid "web"
 msgstr ""
 
 #: The_Fellowship_of_the_Clay/utils/abilities.cfg:4
@@ -5836,4 +6126,55 @@ msgstr ""
 #. [message]: speaker=Eleonor
 #: The_Fellowship_of_the_Clay/utils/herodeaths.cfg:258
 msgid "No, I am not ready for dying yet! So much still has to be done, and-"
+msgstr ""
+
+#. [set_menu_item]: id=mounting
+#: The_Fellowship_of_the_Clay/utils/mounting.cfg:41
+msgid "mount Snow-White"
+msgstr ""
+
+#. [set_menu_item]: id=dismount
+#: The_Fellowship_of_the_Clay/utils/mounting.cfg:295
+#: The_Fellowship_of_the_Clay/utils/mounting.cfg:483
+msgid "dismount Snow-White"
+msgstr ""
+
+#. [set_menu_item]: id=illuminates_on
+#: The_Fellowship_of_the_Clay/utils/mounting.cfg:675
+msgid "switch on illuminating"
+msgstr ""
+
+#. [set_menu_item]: id=illuminates_off
+#: The_Fellowship_of_the_Clay/utils/mounting.cfg:696
+msgid "switch off illuminating"
+msgstr ""
+
+#. [set_menu_item]: id=mounting_feyn
+#: The_Fellowship_of_the_Clay/utils/mounting.cfg:780
+msgid "mount Richard"
+msgstr ""
+
+#. [unit]: type=$mfeyn_type, id=Feyndwarf, role=$stored_feyndwarf.role
+#: The_Fellowship_of_the_Clay/utils/mounting.cfg:860
+msgid "Mounted Feyndwarf"
+msgstr ""
+
+#. [set_menu_item]: id=dismount_feyn
+#: The_Fellowship_of_the_Clay/utils/mounting.cfg:926
+msgid "dismount Richard"
+msgstr ""
+
+#. [set_menu_item]: id=harriett_tele_unitchoose
+#: The_Fellowship_of_the_Clay/utils/mounting.cfg:1040
+msgid "Teleport this unit"
+msgstr ""
+
+#. [set_menu_item]: id=harriett_tele_locchoose
+#: The_Fellowship_of_the_Clay/utils/mounting.cfg:1075
+msgid "Teleport unit to this location"
+msgstr ""
+
+#. [set_menu_item]: id=harriett_tele_back
+#: The_Fellowship_of_the_Clay/utils/mounting.cfg:1131
+msgid "Cancel teleporting mode"
 msgstr ""
