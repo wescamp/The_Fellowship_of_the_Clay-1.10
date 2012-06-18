@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2012-06-13 20:35-0400\n"
+"POT-Creation-Date: 2012-06-17 22:12-0400\n"
 "PO-Revision-Date: 2012-05-30 23:38-0400\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -16,7 +16,7 @@ msgstr ""
 #. [campaign]: id=The_Fellowship_of_the_Clay
 #. [editor_group]: id=TFotC
 #: The_Fellowship_of_the_Clay/_main.cfg:9
-#: The_Fellowship_of_the_Clay/_main.cfg:131
+#: The_Fellowship_of_the_Clay/_main.cfg:144
 msgid "The Fellowship of the Clay"
 msgstr ""
 
@@ -77,49 +77,60 @@ msgid ""
 "- Dialogue options that change the run of events\n"
 "- Detailed story with a lot of canon references (Wesnoth and general "
 "culture)\n"
+"- Complete in Englsih and German, Russian in progress\n"
 "For bug reports, suggestions, comments and change notes, please visit the "
 "Fellowship of the Clay thread in the forum: http://r.wesnoth.org/t31932"
 msgstr ""
 
 #. [about]
-#: The_Fellowship_of_the_Clay/_main.cfg:43
+#: The_Fellowship_of_the_Clay/_main.cfg:44
 msgid "programming, debugging and testing, maintenance"
 msgstr ""
 
 #. [about]
-#: The_Fellowship_of_the_Clay/_main.cfg:50
+#: The_Fellowship_of_the_Clay/_main.cfg:51
 msgid "story, design"
 msgstr ""
 
 #. [about]
-#: The_Fellowship_of_the_Clay/_main.cfg:57
+#: The_Fellowship_of_the_Clay/_main.cfg:58
 msgid "WML help"
 msgstr ""
 
 #. [about]
-#: The_Fellowship_of_the_Clay/_main.cfg:63
+#: The_Fellowship_of_the_Clay/_main.cfg:64
 msgid "Lua help"
 msgstr ""
 
 #. [about]
-#: The_Fellowship_of_the_Clay/_main.cfg:71
+#: The_Fellowship_of_the_Clay/_main.cfg:72
 msgid "ideas, suggestions, corrections, testing"
 msgstr ""
 
 #. [about]
-#: The_Fellowship_of_the_Clay/_main.cfg:77
+#: The_Fellowship_of_the_Clay/_main.cfg:78
 msgid "New images, portraits and sprites"
 msgstr ""
 
 #. [about]
-#: The_Fellowship_of_the_Clay/_main.cfg:86
+#: The_Fellowship_of_the_Clay/_main.cfg:87
 msgid ""
 "Other images, sprites and portraits taken from various versions of the "
 "following:"
 msgstr ""
 
 #. [about]
-#: The_Fellowship_of_the_Clay/_main.cfg:102
+#: The_Fellowship_of_the_Clay/_main.cfg:103
+msgid "Russian translation"
+msgstr ""
+
+#. [about]
+#: The_Fellowship_of_the_Clay/_main.cfg:109
+msgid "German translation"
+msgstr ""
+
+#. [about]
+#: The_Fellowship_of_the_Clay/_main.cfg:115
 msgid "Music"
 msgstr ""
 
@@ -1142,10 +1153,8 @@ msgid ""
 "them!"
 msgstr ""
 
-#. [message]: speaker=$book_taker
 #. [message]: speaker=unit
 #: The_Fellowship_of_the_Clay/scenarios/03_Entering_Wesmere.cfg:345
-#: The_Fellowship_of_the_Clay/scenarios/03_Entering_Wesmere.cfg:384
 msgid ""
 "This book looks like interesting...hmmm, it is named ''Bat's Depth "
 "Sounder''. It may be usable later. <i>(takes book)</i>"
@@ -1159,6 +1168,13 @@ msgstr ""
 #. [message]: speaker=$book_taker
 #: The_Fellowship_of_the_Clay/scenarios/03_Entering_Wesmere.cfg:379
 msgid "Hey, looks like there's a bookshelf - I wonder what it contains?"
+msgstr ""
+
+#. [message]: speaker=$book_taker
+#: The_Fellowship_of_the_Clay/scenarios/03_Entering_Wesmere.cfg:384
+msgid ""
+"This book looks interesting...hmmm, it is named ''Bat's Depth Sounder''. It "
+"may be usable later. <i>(takes book)</i>"
 msgstr ""
 
 #. [message]: speaker=Clyde
@@ -1642,8 +1658,7 @@ msgstr ""
 #. [message]: speaker=Walklas
 #: The_Fellowship_of_the_Clay/scenarios/06_Finding_Feyndwarf.cfg:301
 msgid ""
-"I don't like caves at all...it is like the stone darkness would paralyze my "
-"mind."
+"I don't like caves at all...it is like the darkness would paralyze my mind."
 msgstr ""
 
 #. [message]: speaker=Feyndwarf
@@ -2011,7 +2026,7 @@ msgstr ""
 #. [objectives]
 #: The_Fellowship_of_the_Clay/scenarios/06_Finding_Feyndwarf.cfg:798
 msgid ""
-"Hint: explore carefully - you don't know what's our there in the darkness..."
+"Hint: explore carefully - you don't know what's out there in the darkness..."
 msgstr ""
 
 #. [message]: speaker=unit
@@ -2074,7 +2089,7 @@ msgstr ""
 #: The_Fellowship_of_the_Clay/scenarios/07_Bad_news.cfg:41
 msgid ""
 "Having invited everybody who was supposed to come, Clyde returned to Wehlot, "
-"which was finished now, to report this to king Haldric II."
+"which was finished by now, to report this to king Haldric II."
 msgstr ""
 
 #. [side]: type=Necromancer, id=Maregor
@@ -2279,8 +2294,8 @@ msgstr ""
 #. [message]: speaker=Haldric II
 #: The_Fellowship_of_the_Clay/scenarios/07_Bad_news.cfg:389
 msgid ""
-"My friend, we just spoke of you! Do you want to see what has become of your "
-"idea? Isn't it great?"
+"My friend, we just spoke of you! Do you want to see what has become out of "
+"your idea? Isn't it great?"
 msgstr ""
 
 #. [message]: speaker=Familiar Stranger
@@ -2345,7 +2360,7 @@ msgstr ""
 #: The_Fellowship_of_the_Clay/scenarios/07_Bad_news.cfg:500
 msgid ""
 "What?? A Knight of the Light? How could I have missed that? but it does not "
-"matter - my powers a far greater than yours!"
+"matter - my powers are far greater than yours!"
 msgstr ""
 
 #. [message]: speaker=Familiar Stranger
@@ -2460,8 +2475,8 @@ msgstr ""
 #: The_Fellowship_of_the_Clay/scenarios/07_Bad_news.cfg:715
 msgid ""
 "This Stranger really seems to be evil, and powerful. If I would have been "
-"here earlier - I would have shot this raven from the sky, like I did those "
-"cursed Bats."
+"here earlier - I would have shot this raven from the sky, like I did with "
+"those cursed Bats."
 msgstr ""
 
 #. [message]: speaker=Clyde
@@ -2513,7 +2528,7 @@ msgstr ""
 #: The_Fellowship_of_the_Clay/scenarios/07_Bad_news.cfg:790
 msgid ""
 "This was not expected, so we will retreat - for now. But the moment will "
-"come you all will die!"
+"come you will all die!"
 msgstr ""
 
 #. [message]: speaker=Haldric II
@@ -4029,8 +4044,8 @@ msgstr ""
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:676
 msgid ""
-"Well, these bones do really look mysterious, they appear to kind of glow. I "
-"feel strong black magic around here, be prepared."
+"Well, these bones really look mysterious, they almost appear to glow. I feel "
+"strong black magic around here, be prepared."
 msgstr ""
 
 #. [unit]: type=Skeleton Archer, id=Bonie
@@ -5383,12 +5398,15 @@ msgid "Clyde finally got a helmet! And in order to express that he is a true "
 msgstr ""
 
 #. [unit_type]: id=Bright White Knight of the Light, race=human
-#. [unit_type]: id=Mounted Bright White Knight of the Light, race=human
 #: The_Fellowship_of_the_Clay/units/Clyde_lev4.cfg:20
-#: The_Fellowship_of_the_Clay/units/Mounted_Knight_lvl4.cfg:21
 msgid ""
 "Clyde was always an ideal knight in every aspect but throughout his "
-"adventure, he has become the "
+"adventure, he has become the 'Bright White Knight of the Light'. This unique "
+"title already indicates that he is a pretty shiny appearance. Naturally, "
+"creatures of the dark don't like him at all. But don't be dazzled by his "
+"brightness, he is the ultimate all-rounder on the battlefield. Though his "
+"magic attack comes not quite close to those of white magi, it is a handy "
+"addition to his extraordinary swordsmanship."
 msgstr ""
 
 #. [unit_type]: id=Dark Tradesman, race=human
@@ -5529,12 +5547,12 @@ msgid "King"
 msgstr ""
 
 #. [unit_type]: id=Haldric II, race=human
-#: The_Fellowship_of_the_Clay/units/Haldric_II.cfg:21
+#: The_Fellowship_of_the_Clay/units/Haldric_II.cfg:22
 msgid "King of Wesnoth."
 msgstr ""
 
 #. [attack]: type=blade
-#: The_Fellowship_of_the_Clay/units/Haldric_II.cfg:25
+#: The_Fellowship_of_the_Clay/units/Haldric_II.cfg:26
 #: The_Fellowship_of_the_Clay/units/High_Lord_Aryad.cfg:73
 #: The_Fellowship_of_the_Clay/units/Isomithir.cfg:46
 #: The_Fellowship_of_the_Clay/units/Logalmier.cfg:36
@@ -5747,6 +5765,13 @@ msgstr ""
 msgid "Mounted Bright White Knight of the Light"
 msgstr ""
 
+#. [unit_type]: id=Mounted Bright White Knight of the Light, race=human
+#: The_Fellowship_of_the_Clay/units/Mounted_Knight_lvl4.cfg:21
+msgid ""
+"Clyde was always an ideal knight in every aspect but throughout his "
+"adventure, he has become the "
+msgstr ""
+
 #. [unit_type]: id=Crow, race=monster
 #: The_Fellowship_of_the_Clay/units/NPC_Crow.cfg:4
 msgid "Crow"
@@ -5953,7 +5978,7 @@ msgstr ""
 
 #: The_Fellowship_of_the_Clay/utils/abilities.cfg:239
 msgid ""
-" This unit darkens the surrounding area, making chaotic units fight better, "
+"This unit darkens the surrounding area, making chaotic units fight better, "
 "and lawful units fight worse."
 msgstr ""
 

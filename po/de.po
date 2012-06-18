@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: The_Fellowship_of_the_Clay-1.10\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2012-06-13 20:35-0400\n"
+"POT-Creation-Date: 2012-06-17 22:12-0400\n"
 "PO-Revision-Date: 2012-06-15 19:17+0100\n"
 "Last-Translator: Carsten <Carsten.Griesel@gmail.com>\n"
 "Language-Team: none\n"
@@ -17,7 +17,7 @@ msgstr ""
 #. [campaign]: id=The_Fellowship_of_the_Clay
 #. [editor_group]: id=TFotC
 #: The_Fellowship_of_the_Clay/_main.cfg:9
-#: The_Fellowship_of_the_Clay/_main.cfg:131
+#: The_Fellowship_of_the_Clay/_main.cfg:144
 msgid "The Fellowship of the Clay"
 msgstr "Die Gefolgschaft des Lehms"
 
@@ -62,6 +62,7 @@ msgstr "Scheinender, Weißer Ritter des Lichts"
 
 #. [campaign]: id=The_Fellowship_of_the_Clay
 #: The_Fellowship_of_the_Clay/_main.cfg:28
+#, fuzzy
 msgid ""
 "Set right after 'The Rise of Wesnoth' and before 'Legend of Wesmere' and "
 "'Sceptre of Fire', the adventure tells the story of human's first capital on "
@@ -78,6 +79,7 @@ msgid ""
 "- Dialogue options that change the run of events\n"
 "- Detailed story with a lot of canon references (Wesnoth and general "
 "culture)\n"
+"- Complete in Englsih and German, Russian in progress\n"
 "For bug reports, suggestions, comments and change notes, please visit the "
 "Fellowship of the Clay thread in the forum: http://r.wesnoth.org/t31932"
 msgstr ""
@@ -102,44 +104,54 @@ msgstr ""
 "t31932"
 
 #. [about]
-#: The_Fellowship_of_the_Clay/_main.cfg:43
+#: The_Fellowship_of_the_Clay/_main.cfg:44
 msgid "programming, debugging and testing, maintenance"
 msgstr "Programmierung, Fehlerbereinigung und Pflege"
 
 #. [about]
-#: The_Fellowship_of_the_Clay/_main.cfg:50
+#: The_Fellowship_of_the_Clay/_main.cfg:51
 msgid "story, design"
 msgstr "Geschichte und Kampagnendesign"
 
 #. [about]
-#: The_Fellowship_of_the_Clay/_main.cfg:57
+#: The_Fellowship_of_the_Clay/_main.cfg:58
 msgid "WML help"
 msgstr "WML Unterstützung"
 
 #. [about]
-#: The_Fellowship_of_the_Clay/_main.cfg:63
+#: The_Fellowship_of_the_Clay/_main.cfg:64
 msgid "Lua help"
 msgstr "Lua Unterstützung"
 
 #. [about]
-#: The_Fellowship_of_the_Clay/_main.cfg:71
+#: The_Fellowship_of_the_Clay/_main.cfg:72
 msgid "ideas, suggestions, corrections, testing"
 msgstr "Ideen, Vorschläge, Verbesserungen und Testen"
 
 #. [about]
-#: The_Fellowship_of_the_Clay/_main.cfg:77
+#: The_Fellowship_of_the_Clay/_main.cfg:78
 msgid "New images, portraits and sprites"
 msgstr "Neue Bilder, Portraits und Sprites"
 
 #. [about]
-#: The_Fellowship_of_the_Clay/_main.cfg:86
+#: The_Fellowship_of_the_Clay/_main.cfg:87
 msgid ""
 "Other images, sprites and portraits taken from various versions of the "
 "following:"
 msgstr "Andere Bilder, Sprites und Portraits aus:"
 
 #. [about]
-#: The_Fellowship_of_the_Clay/_main.cfg:102
+#: The_Fellowship_of_the_Clay/_main.cfg:103
+msgid "Russian translation"
+msgstr ""
+
+#. [about]
+#: The_Fellowship_of_the_Clay/_main.cfg:109
+msgid "German translation"
+msgstr ""
+
+#. [about]
+#: The_Fellowship_of_the_Clay/_main.cfg:115
 msgid "Music"
 msgstr "Musik"
 
@@ -1362,10 +1374,8 @@ msgstr ""
 "Fledermäuse auszubilden ist wirklich eine wundervolle Art die dunklen Künste "
 "zu trainieren! Und nun tötet sie alle meine kleinen Freunde!"
 
-#. [message]: speaker=$book_taker
 #. [message]: speaker=unit
 #: The_Fellowship_of_the_Clay/scenarios/03_Entering_Wesmere.cfg:345
-#: The_Fellowship_of_the_Clay/scenarios/03_Entering_Wesmere.cfg:384
 msgid ""
 "This book looks like interesting...hmmm, it is named ''Bat's Depth "
 "Sounder''. It may be usable later. <i>(takes book)</i>"
@@ -1384,6 +1394,17 @@ msgstr "Meine Fledermäuse werden mich rächen und ihr werdet alle sterben..."
 msgid "Hey, looks like there's a bookshelf - I wonder what it contains?"
 msgstr ""
 "Hey, schaut her, ein Bürcherregal. Ich frage mich, was sich darin befindet."
+
+#. [message]: speaker=$book_taker
+#: The_Fellowship_of_the_Clay/scenarios/03_Entering_Wesmere.cfg:384
+#, fuzzy
+msgid ""
+"This book looks interesting...hmmm, it is named ''Bat's Depth Sounder''. It "
+"may be usable later. <i>(takes book)</i>"
+msgstr ""
+"Dieses Buch scheint irgendwie interessant... hmmm, sein name ist \"Das "
+"Echolot der Fledermäuse\". Es könnte ja später noch von Nutzen sein. <i>"
+"(nimmt das Buch)</i>"
 
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/03_Entering_Wesmere.cfg:408
@@ -1943,9 +1964,9 @@ msgstr "Ich höre Stimmen aus dem Thronsaal - last und die Zwerge besuchen!"
 
 #. [message]: speaker=Walklas
 #: The_Fellowship_of_the_Clay/scenarios/06_Finding_Feyndwarf.cfg:301
+#, fuzzy
 msgid ""
-"I don't like caves at all...it is like the stone darkness would paralyze my "
-"mind."
+"I don't like caves at all...it is like the darkness would paralyze my mind."
 msgstr ""
 "Ich mag Hölen überhaupt nicht... es ist als ob die die Dunkelheit den Geist "
 "lahmlegen würde."
@@ -2398,8 +2419,9 @@ msgstr "Tod von Cylde oder einer der Heldeneinheiten"
 
 #. [objectives]
 #: The_Fellowship_of_the_Clay/scenarios/06_Finding_Feyndwarf.cfg:798
+#, fuzzy
 msgid ""
-"Hint: explore carefully - you don't know what's our there in the darkness..."
+"Hint: explore carefully - you don't know what's out there in the darkness..."
 msgstr ""
 "Tipp: Erkundschaftet vorsichtig - man weiß nie, was einem in der Dunkelheit "
 "begegnet..."
@@ -2479,9 +2501,10 @@ msgstr "Schlechte Neuigkeiten"
 
 #. [part]
 #: The_Fellowship_of_the_Clay/scenarios/07_Bad_news.cfg:41
+#, fuzzy
 msgid ""
 "Having invited everybody who was supposed to come, Clyde returned to Wehlot, "
-"which was finished now, to report this to king Haldric II."
+"which was finished by now, to report this to king Haldric II."
 msgstr ""
 "Da Clyde nun jeden eingeladen hatte, der kommen sollte, kehrte Clyde nach "
 "Wehlot zurück um Haldric II zu berichten. Die Stadt war mitlerweile "
@@ -2719,9 +2742,10 @@ msgstr ""
 
 #. [message]: speaker=Haldric II
 #: The_Fellowship_of_the_Clay/scenarios/07_Bad_news.cfg:389
+#, fuzzy
 msgid ""
-"My friend, we just spoke of you! Do you want to see what has become of your "
-"idea? Isn't it great?"
+"My friend, we just spoke of you! Do you want to see what has become out of "
+"your idea? Isn't it great?"
 msgstr ""
 "Mein Freund, wir haben gerade von euch gesprochen! Wollt ihr also doch "
 "betrachten, was aus eurer Idee geworden ist? Großartig, findet ihr nicht?"
@@ -2807,9 +2831,10 @@ msgstr "Niht so schnell..."
 
 #. [message]: speaker=Familiar Stranger
 #: The_Fellowship_of_the_Clay/scenarios/07_Bad_news.cfg:500
+#, fuzzy
 msgid ""
 "What?? A Knight of the Light? How could I have missed that? but it does not "
-"matter - my powers a far greater than yours!"
+"matter - my powers are far greater than yours!"
 msgstr ""
 "Was?? Ein Ritter des Lichts? Wie konnte mir das entgehen? Aber es spielt "
 "auch keine Rolle - meine Kräfte sind um ein Vielfaches größer als die euren!"
@@ -2948,10 +2973,11 @@ msgstr ""
 
 #. [message]: speaker=Legomir
 #: The_Fellowship_of_the_Clay/scenarios/07_Bad_news.cfg:715
+#, fuzzy
 msgid ""
 "This Stranger really seems to be evil, and powerful. If I would have been "
-"here earlier - I would have shot this raven from the sky, like I did those "
-"cursed Bats."
+"here earlier - I would have shot this raven from the sky, like I did with "
+"those cursed Bats."
 msgstr ""
 "Dieser Fremde scheint wirklich bösartig... und mächtig. Wenn ich eher hier "
 "gewesen wäre - ich hätte diese Krähe vom Himmel geholt, genau wie diese "
@@ -3016,9 +3042,10 @@ msgstr ""
 
 #. [message]: speaker=Maregor
 #: The_Fellowship_of_the_Clay/scenarios/07_Bad_news.cfg:790
+#, fuzzy
 msgid ""
 "This was not expected, so we will retreat - for now. But the moment will "
-"come you all will die!"
+"come you will all die!"
 msgstr ""
 "Für den Moment werden wir uns zurück ziehen. Aber der Zeitpunkt wird kommen, "
 "an dem ihr alle sterben werdet!"
@@ -4903,9 +4930,10 @@ msgstr "Bewegt Cylde zu dem mysteriösen Skelett"
 
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:676
+#, fuzzy
 msgid ""
-"Well, these bones do really look mysterious, they appear to kind of glow. I "
-"feel strong black magic around here, be prepared."
+"Well, these bones really look mysterious, they almost appear to glow. I feel "
+"strong black magic around here, be prepared."
 msgstr ""
 "Nun, diese Knochen sehen wirklich mysteriös aus - sie glühen beinahe. Ich "
 "muss schwarze Magie am Werk sein, seid also gewappnet."
@@ -6660,21 +6688,16 @@ msgid "Clyde finally got a helmet! And in order to express that he is a true "
 msgstr "Clyde hat endlich einen Helm bekommen."
 
 #. [unit_type]: id=Bright White Knight of the Light, race=human
-#. [unit_type]: id=Mounted Bright White Knight of the Light, race=human
 #: The_Fellowship_of_the_Clay/units/Clyde_lev4.cfg:20
-#: The_Fellowship_of_the_Clay/units/Mounted_Knight_lvl4.cfg:21
 msgid ""
 "Clyde was always an ideal knight in every aspect but throughout his "
-"adventure, he has become the "
+"adventure, he has become the 'Bright White Knight of the Light'. This unique "
+"title already indicates that he is a pretty shiny appearance. Naturally, "
+"creatures of the dark don't like him at all. But don't be dazzled by his "
+"brightness, he is the ultimate all-rounder on the battlefield. Though his "
+"magic attack comes not quite close to those of white magi, it is a handy "
+"addition to his extraordinary swordsmanship."
 msgstr ""
-"Clyde war schon immer der in jedem Aspekt ideale Ritter aber durch sein "
-"Abenteuer, wurde er der 'Hell-weiße Ritter des Lichts'. Dieser einzigartige "
-"Titel bezeugt bereits sein strahlendes Auftreten. Natürlich mögen ihn "
-"Kreaturen der Dunkelheit deshalb überhaupt nicht. Aber lasst euch nicht von "
-"seiner Helligkeit blenden, er ist der ultimative Alleskönner auf dem "
-"Schlachtfeld. Auch wenn seine Magieatacke nicht ganz an die der weißen "
-"Magier herran reicht, ist es eine nützliche Beigabe zu seinen "
-"außergewöhnlichen Schwertkünsten."
 
 #. [unit_type]: id=Dark Tradesman, race=human
 #: The_Fellowship_of_the_Clay/units/Dark_Tradesman.cfg:4
@@ -6845,12 +6868,12 @@ msgid "King"
 msgstr "König"
 
 #. [unit_type]: id=Haldric II, race=human
-#: The_Fellowship_of_the_Clay/units/Haldric_II.cfg:21
+#: The_Fellowship_of_the_Clay/units/Haldric_II.cfg:22
 msgid "King of Wesnoth."
 msgstr "König von Wesnoth."
 
 #. [attack]: type=blade
-#: The_Fellowship_of_the_Clay/units/Haldric_II.cfg:25
+#: The_Fellowship_of_the_Clay/units/Haldric_II.cfg:26
 #: The_Fellowship_of_the_Clay/units/High_Lord_Aryad.cfg:73
 #: The_Fellowship_of_the_Clay/units/Isomithir.cfg:46
 #: The_Fellowship_of_the_Clay/units/Logalmier.cfg:36
@@ -7119,6 +7142,21 @@ msgstr "Aufgesessener weißer Ritter des Lichts"
 msgid "Mounted Bright White Knight of the Light"
 msgstr "Aufgesessener hell weißer Ritter des Lichts"
 
+#. [unit_type]: id=Mounted Bright White Knight of the Light, race=human
+#: The_Fellowship_of_the_Clay/units/Mounted_Knight_lvl4.cfg:21
+msgid ""
+"Clyde was always an ideal knight in every aspect but throughout his "
+"adventure, he has become the "
+msgstr ""
+"Clyde war schon immer der in jedem Aspekt ideale Ritter aber durch sein "
+"Abenteuer, wurde er der 'Hell-weiße Ritter des Lichts'. Dieser einzigartige "
+"Titel bezeugt bereits sein strahlendes Auftreten. Natürlich mögen ihn "
+"Kreaturen der Dunkelheit deshalb überhaupt nicht. Aber lasst euch nicht von "
+"seiner Helligkeit blenden, er ist der ultimative Alleskönner auf dem "
+"Schlachtfeld. Auch wenn seine Magieatacke nicht ganz an die der weißen "
+"Magier herran reicht, ist es eine nützliche Beigabe zu seinen "
+"außergewöhnlichen Schwertkünsten."
+
 #. [unit_type]: id=Crow, race=monster
 #: The_Fellowship_of_the_Clay/units/NPC_Crow.cfg:4
 msgid "Crow"
@@ -7370,8 +7408,9 @@ msgstr ""
 "Trefferwahrscheinlichkeit."
 
 #: The_Fellowship_of_the_Clay/utils/abilities.cfg:239
+#, fuzzy
 msgid ""
-" This unit darkens the surrounding area, making chaotic units fight better, "
+"This unit darkens the surrounding area, making chaotic units fight better, "
 "and lawful units fight worse."
 msgstr ""
 "Diese Eihneit verdunkelt die direkte Umgebung, so dass chaotische Einheiten "
