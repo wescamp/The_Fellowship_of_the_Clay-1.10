@@ -18,7 +18,7 @@ msgstr ""
 #: The_Fellowship_of_the_Clay/_main.cfg:9
 #: The_Fellowship_of_the_Clay/_main.cfg:144
 msgid "The Fellowship of the Clay"
-msgstr "Братство живущих"
+msgstr ""
 
 #. [campaign]: id=The_Fellowship_of_the_Clay
 #: The_Fellowship_of_the_Clay/_main.cfg:19
@@ -85,7 +85,7 @@ msgstr ""
 #. [about]
 #: The_Fellowship_of_the_Clay/_main.cfg:44
 msgid "programming, debugging and testing, maintenance"
-msgstr ""
+msgstr "программирование, отладка и тестирование, поддержка"
 
 #. [about]
 #: The_Fellowship_of_the_Clay/_main.cfg:51
@@ -105,7 +105,7 @@ msgstr ""
 #. [about]
 #: The_Fellowship_of_the_Clay/_main.cfg:72
 msgid "ideas, suggestions, corrections, testing"
-msgstr ""
+msgstr "идеи, предложения, исправления, тестирование"
 
 #. [about]
 #: The_Fellowship_of_the_Clay/_main.cfg:78
@@ -122,12 +122,12 @@ msgstr ""
 #. [about]
 #: The_Fellowship_of_the_Clay/_main.cfg:103
 msgid "Russian translation"
-msgstr ""
+msgstr "Перевод на русский язык"
 
 #. [about]
 #: The_Fellowship_of_the_Clay/_main.cfg:109
 msgid "German translation"
-msgstr ""
+msgstr "Перевод на немецкий язык"
 
 #. [about]
 #: The_Fellowship_of_the_Clay/_main.cfg:115
@@ -231,7 +231,7 @@ msgstr "Конюшня"
 #: The_Fellowship_of_the_Clay/scenarios/17_In_Due_Time.cfg:201
 #: The_Fellowship_of_the_Clay/scenarios/18_Epilogue.cfg:57
 msgid "Brick-kiln"
-msgstr ""
+msgstr "Обжиговая печь"
 
 #. [label]
 #: The_Fellowship_of_the_Clay/scenarios/01_The_assignment.cfg:64
@@ -385,9 +385,8 @@ msgstr ""
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/01_The_assignment.cfg:191
 msgid "Truly spoken. Am I not needed here to continue to protect our people?"
-msgstr ""
-"Истинно так. Но не лучше ли мне остаться здесь, чтобы продолжить защищать "
-"Вас и Ваших подданных?"
+msgstr "Истинно так. Но не лучше ли мне остаться здесь, чтобы продолжить "
+"защищать Вас и Ваших подданных?"
 
 #. [message]: speaker=Haldric II
 #: The_Fellowship_of_the_Clay/scenarios/01_The_assignment.cfg:195
@@ -423,7 +422,7 @@ msgid ""
 "royal steed!"
 msgstr ""
 "Но мой король! Это же не простая лошадь! Кроме того, она принадлежит Вам, "
-"ведь она - прямой потомок Снежинки!"
+"ведь она - прямой потомок Снежинки, Вашей королевской лошади!"
 
 #. [message]: speaker=Haldric II
 #: The_Fellowship_of_the_Clay/scenarios/01_The_assignment.cfg:211
@@ -498,7 +497,7 @@ msgstr ""
 #. [objective]: condition=win
 #: The_Fellowship_of_the_Clay/scenarios/01_The_assignment.cfg:317
 msgid "Defeat the Orcish riot squad."
-msgstr "Уничтожте разбушевавшихся орков."
+msgstr "Уничтожьте разбушевавшихся орков."
 
 #. [objective]: condition=lose
 #: The_Fellowship_of_the_Clay/scenarios/01_The_assignment.cfg:321
@@ -627,7 +626,8 @@ msgstr "Новые цели:"
 #. [objective]: condition=win
 #: The_Fellowship_of_the_Clay/scenarios/01_The_assignment.cfg:417
 msgid "Mount Snow-White by going next to her and go to right-click-menu"
-msgstr "Оседлайте Метель, подойдя к ней и используя контекстное меню"
+msgstr "Оседлайте Метель, подойдя к ней и используя меню, появляющееся при "
+"клике правой кнокой мыши"
 
 #. [objective]: condition=win
 #: The_Fellowship_of_the_Clay/scenarios/01_The_assignment.cfg:421
@@ -716,12 +716,12 @@ msgstr "Метель ест цветы, её любимую пищу."
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/01_The_assignment.cfg:573
 msgid "Snow-White has eaten from $grass different grass areas."
-msgstr "Метели хочет ещё."
+msgstr "Метель съела $grass цветов и хочет ещё."
 
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/01_The_assignment.cfg:577
 msgid "Lets find some more food for her."
-msgstr "Поищем ещё цветов для неё."
+msgstr "Поищем больше цветов для неё."
 
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/01_The_assignment.cfg:594
@@ -1248,7 +1248,6 @@ msgstr "Эй, похоже, тут целая библиотека! Интере
 
 #. [message]: speaker=$book_taker
 #: The_Fellowship_of_the_Clay/scenarios/03_Entering_Wesmere.cfg:384
-#, fuzzy
 msgid ""
 "This book looks interesting...hmmm, it is named ''Bat's Depth Sounder''. It "
 "may be usable later. <i>(takes book)</i>"
@@ -1313,7 +1312,8 @@ msgstr "Ка-лиан"
 #. [objective]: condition=win
 #: The_Fellowship_of_the_Clay/scenarios/04_The_race.cfg:136
 msgid "Own the most villages after 10 rounds passed"
-msgstr ""
+msgstr "Захватите и удержите наибольшее количество деревень в течение 10 "
+"раундов"
 
 #. [objective]: condition=lose
 #: The_Fellowship_of_the_Clay/scenarios/04_The_race.cfg:140
@@ -1494,7 +1494,7 @@ msgstr ""
 #. [message]: speaker=Legomir
 #: The_Fellowship_of_the_Clay/scenarios/04_The_race.cfg:452
 msgid "Walkas and I will join Clyde and show him the way to the Dwarves."
-msgstr "Мы с Волкласом присоединимся к Клайду и покажем ему дорогу к гномам."
+msgstr "Мы с Волклесом присоединимся к Клайду и покажем ему дорогу к гномам."
 
 #. [message]: speaker=Eleonor
 #: The_Fellowship_of_the_Clay/scenarios/04_The_race.cfg:487
@@ -1527,7 +1527,7 @@ msgstr "Следуйте за грифоном"
 #: The_Fellowship_of_the_Clay/scenarios/05_Meet_the_dwarfs.cfg:46
 #: The_Fellowship_of_the_Clay/scenarios/05_Meet_the_dwarfs.cfg:265
 msgid "Death of Snow-White, Clyde, Legomir or Walklas"
-msgstr "Смерть Метели, Клайда, Легомира или Волкласа"
+msgstr "Смерть Метели, Клайда, Легомира или Волклеса"
 
 #. [unit]: id=Dulothras, type=Dwarvish Fighter
 #: The_Fellowship_of_the_Clay/scenarios/05_Meet_the_dwarfs.cfg:76
@@ -1692,7 +1692,7 @@ msgstr ""
 #. [unit]: type=Dwarvish Sentinel, id=Aigatusol
 #: The_Fellowship_of_the_Clay/scenarios/06_Finding_Feyndwarf.cfg:79
 msgid "Aigatusol"
-msgstr ""
+msgstr "Айгатусол"
 
 #. [unit]: type=Dwarvish Sentinel, id=Throndgard
 #: The_Fellowship_of_the_Clay/scenarios/06_Finding_Feyndwarf.cfg:88
@@ -1728,12 +1728,12 @@ msgstr "Сауна Фейндварфа"
 #. [label]
 #: The_Fellowship_of_the_Clay/scenarios/06_Finding_Feyndwarf.cfg:239
 msgid "Kal Alamos"
-msgstr ""
+msgstr "Кал Аламос"
 
 #. [label]
 #: The_Fellowship_of_the_Clay/scenarios/06_Finding_Feyndwarf.cfg:243
 msgid "Passage of Darkness"
-msgstr ""
+msgstr "Галерея кромешной тьмы"
 
 #. [label]
 #: The_Fellowship_of_the_Clay/scenarios/06_Finding_Feyndwarf.cfg:247
@@ -1757,12 +1757,10 @@ msgstr "Я слышу в тронном зале голоса. Нанесём ж
 
 #. [message]: speaker=Walklas
 #: The_Fellowship_of_the_Clay/scenarios/06_Finding_Feyndwarf.cfg:301
-#, fuzzy
 msgid ""
 "I don't like caves at all...it is like the darkness would paralyze my mind."
 msgstr ""
-"Не нравятся мне эти пещеры... тьма материальна, словно камень. Это "
-"парализует мой разум."
+"Не нравятся мне эти пещеры... тьма парализует мой разум."
 
 #. [message]: speaker=Feyndwarf
 #: The_Fellowship_of_the_Clay/scenarios/06_Finding_Feyndwarf.cfg:308
@@ -1803,6 +1801,8 @@ msgid ""
 "And how we get out of here? This chasm looks really inpassable and very deep "
 "to me."
 msgstr ""
+"И как мы выберемся отсюда? Пропасть слишком глубока и широка, мы не сможем "
+"через неё перебраться."
 
 #. [message]: speaker=Feyndwarf
 #: The_Fellowship_of_the_Clay/scenarios/06_Finding_Feyndwarf.cfg:352
@@ -1810,6 +1810,8 @@ msgid ""
 "No problem. I constructed a bridge which you cannot see, 'cause it's folded. "
 "Quite unusual, isn't it?"
 msgstr ""
+"Хе-хе. Я уже давно соорудил тут мост. Правда, его не видно, потому что он "
+"сложен. Довольно необычно, а?"
 
 #. [message]: speaker=Feyndwarf
 #: The_Fellowship_of_the_Clay/scenarios/06_Finding_Feyndwarf.cfg:363
@@ -1819,12 +1821,12 @@ msgstr ""
 #. [message]: speaker=narrator
 #: The_Fellowship_of_the_Clay/scenarios/06_Finding_Feyndwarf.cfg:367
 msgid "A long walk and a few spiders later..."
-msgstr ""
+msgstr "После долгого пути и ещё нескольких пауков..."
 
 #. [message]: speaker=Namcarthos
 #: The_Fellowship_of_the_Clay/scenarios/06_Finding_Feyndwarf.cfg:393
 msgid "Ah, Feyndwarf, finally! Fix that damm security code!"
-msgstr "А, Фейндварф, наконец-то! Исправь этот чёртов пароль!"
+msgstr "А, Фейндварф, наконец-то! Исправь этот чёртов замок!"
 
 #. [message]: speaker=Feyndwarf
 #: The_Fellowship_of_the_Clay/scenarios/06_Finding_Feyndwarf.cfg:397
@@ -1880,7 +1882,7 @@ msgstr ""
 #. [message]: speaker=Feyndwarf
 #: The_Fellowship_of_the_Clay/scenarios/06_Finding_Feyndwarf.cfg:425
 msgid "Gulp. That far south? I guess that will take a few months."
-msgstr ""
+msgstr "*вздыхает* Далеко на юг? Похоже, это займёт несколько месяцев."
 
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/06_Finding_Feyndwarf.cfg:429
@@ -1888,11 +1890,13 @@ msgid ""
 "Hmm, I see, some mean of transportation is needed. We still have the "
 "Gryphon... don't you think you could ride it?"
 msgstr ""
+"Хмм... Я думаю, нужно какое-то транспортное средство. У нас тут грифон "
+"бесхозный есть... Может ты на нём полетишь?"
 
 #. [message]: speaker=Feyndwarf
 #: The_Fellowship_of_the_Clay/scenarios/06_Finding_Feyndwarf.cfg:433
 msgid "Me? Oh no ... no no no! I'm not the guy who wants to fall from the sky!"
-msgstr "Я? О нет... нет, нет, нет! Я вовсе не хочу грохнутся с неба!"
+msgstr "Я? О нет... нет, нет, нет! Я вовсе не хочу грохнуться с неба!"
 
 #. [message]: speaker=Namcarthos
 #: The_Fellowship_of_the_Clay/scenarios/06_Finding_Feyndwarf.cfg:437
@@ -1900,6 +1904,8 @@ msgid ""
 "Feyndwarf, if ye want to see what these humans did, I guess there's no other "
 "way."
 msgstr ""
+"Фейндварф, ну надо же глянуть, чего там эти люди настроили. Сам-то ты туда не "
+"дотопаешь."
 
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/06_Finding_Feyndwarf.cfg:441
@@ -1934,12 +1940,12 @@ msgstr ""
 #. [message]: speaker=Richard
 #: The_Fellowship_of_the_Clay/scenarios/06_Finding_Feyndwarf.cfg:495
 msgid "*gryphon noise*"
-msgstr ""
+msgstr "*грифон хлопает крыльями*"
 
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/06_Finding_Feyndwarf.cfg:503
 msgid "Now let me show you how you control a steed..."
-msgstr ""
+msgstr "Теперь позволь мне показать, как управлять им..."
 
 #. [message]: speaker=Feyndwarf
 #: The_Fellowship_of_the_Clay/scenarios/06_Finding_Feyndwarf.cfg:507
@@ -1961,7 +1967,8 @@ msgstr "Ооооааааааааааа..."
 #. [message]: speaker=Namcarthos
 #: The_Fellowship_of_the_Clay/scenarios/06_Finding_Feyndwarf.cfg:528
 msgid "Hohoho, ye really made my day human! Mebbe, we'll meet again!"
-msgstr ""
+msgstr "Хохохо, ты здорово развеселил меня, человек! Возможно, мы увидисмя "
+"снова!"
 
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/06_Finding_Feyndwarf.cfg:532
@@ -2031,9 +2038,8 @@ msgid ""
 "guys ha' returned! And ye caught a Gryphon. Satisfactory. That means ye can "
 "go fetch Feyndwarf!"
 msgstr ""
-"Чёрт! Какая досада! Проклятье! Где этот чёртов рунный кузнец?! О, ну хоть "
-"эти ребята вернулись. Поймали грифона? Хорошо. Значит и Фейндварфа сможете "
-"привести!"
+"Чёрт! Какая досада! Проклятье! Где этот чёртов кузнец?! А, ну хоть эти ребята "
+"вернулись. Поймали грифона? Славно. Значит и Фейндварфа сможете притащить!"
 
 #. [message]: speaker=Dulothras
 #: The_Fellowship_of_the_Clay/scenarios/06_Finding_Feyndwarf.cfg:717
@@ -2051,6 +2057,8 @@ msgid ""
 "He withdrew from lecturing for a while to do undisturbed studies for tha' "
 "bomb you wanted to have and for which we had to find a Gryphon."
 msgstr ""
+"Он временно прекратил читать лекции, чтобы спокойно провести все исследования "
+"для тех бомб, что Вы хотите получить. Для них же и мы за грифоном гонялись."
 
 #. [message]: speaker=Namcarthos
 #: The_Fellowship_of_the_Clay/scenarios/06_Finding_Feyndwarf.cfg:729
@@ -2059,11 +2067,15 @@ msgid ""
 "gate he made for me won't open! An' what do I ha' from all my riches if I "
 "cannot access them!?"
 msgstr ""
+"А, да-да, я знал это! Ладно, но сейчас он мне здесь нужен. Этот чертов "
+"кодовый замок, который я велел ему повесить на двери моей сокровищницы, не "
+"открывается! Зачем мне все мои богатства, если они за закрытыми дверями "
+"лежат?!"
 
 #. [message]: speaker=Catulos
 #: The_Fellowship_of_the_Clay/scenarios/06_Finding_Feyndwarf.cfg:733
 msgid "But ah thought the code worked perfectly so far?"
-msgstr ""
+msgstr "Но ведь замок вроде бы нормально работает?"
 
 #. [message]: speaker=Namcarthos
 #: The_Fellowship_of_the_Clay/scenarios/06_Finding_Feyndwarf.cfg:737
@@ -2071,11 +2083,13 @@ msgid ""
 "Yes, until someone made me forget the sequence! An' if ye do not want me to "
 "blame you, you better get that Runesmith here at once!"
 msgstr ""
+"Работал... Пока я код не забыл... Так что если не хотите, чтобы я вас "
+"отправил ещё одного грифона ловить, живо приведите мне этого кузнеца!"
 
 #. [message]: speaker=Aigulos
 #: The_Fellowship_of_the_Clay/scenarios/06_Finding_Feyndwarf.cfg:741
 msgid "But he retreated to his secret lab 'Kal Alamos'."
-msgstr ""
+msgstr "Но ведь он сейчас в своей секретной лаборатории «Кал Аламос»..."
 
 #. [message]: speaker=Namcarthos
 #: The_Fellowship_of_the_Clay/scenarios/06_Finding_Feyndwarf.cfg:745
@@ -2124,7 +2138,7 @@ msgstr ""
 #. [objective]: condition=win
 #: The_Fellowship_of_the_Clay/scenarios/06_Finding_Feyndwarf.cfg:792
 msgid "Find Feyndwarf, following the dark passage"
-msgstr ""
+msgstr "Найдите Фейндварфа, пройдя через галерею кромешной тьмы"
 
 #. [objective]: condition=lose
 #: The_Fellowship_of_the_Clay/scenarios/06_Finding_Feyndwarf.cfg:796
@@ -2133,7 +2147,6 @@ msgstr "Смерть Клайда или одного из ключевых пе
 
 #. [objectives]
 #: The_Fellowship_of_the_Clay/scenarios/06_Finding_Feyndwarf.cfg:798
-#, fuzzy
 msgid ""
 "Hint: explore carefully - you don't know what's out there in the darkness..."
 msgstr ""
@@ -2147,6 +2160,9 @@ msgid ""
 "abysses are nothng for me! <i>(shutters)</i> Clyde should go in, his inner "
 "light will be a guide and protector for him."
 msgstr ""
+"Неее, я дальше не пойду, дальше уж слишком страшно. Всякие бездонные пропасти "
+"— это не для меня. Пусть Клайд идёт, его внутренний свет будет ему "
+"проводником и защитником."
 
 #. [message]: speaker=Dulothras
 #: The_Fellowship_of_the_Clay/scenarios/06_Finding_Feyndwarf.cfg:817
@@ -2159,6 +2175,8 @@ msgid ""
 "Oh my, it is really getting dark in here. Even my white magic seems to be "
 "supressed..."
 msgstr ""
+"Да, здесь действительно очень темно. Даже моих магическиех сил не хватает, "
+"чтобы хоть немного рассеять тьму..."
 
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/06_Finding_Feyndwarf.cfg:883
@@ -2182,7 +2200,7 @@ msgstr ""
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/06_Finding_Feyndwarf.cfg:986
 msgid "Well, I am not sure, but I think it's myself..."
-msgstr ""
+msgstr "Эээ, я не уверен, но похоже, что это я сам так свечусь..."
 
 #. [message]: speaker=Feyndwarf
 #: The_Fellowship_of_the_Clay/scenarios/06_Finding_Feyndwarf.cfg:1004
@@ -2202,6 +2220,8 @@ msgid ""
 "Having invited everybody who was supposed to come, Clyde returned to Wehlot, "
 "which was finished by now, to report this to king Haldric II."
 msgstr ""
+"Пригласив всех, кого было необходимо, Клайд поспешил обратно в Вехлот, чтобы "
+"доложить королю Хальдрику II об успешном окончании своей миссии."
 
 #. [side]: type=Necromancer, id=Maregor
 #: The_Fellowship_of_the_Clay/scenarios/07_Bad_news.cfg:107
@@ -2353,32 +2373,32 @@ msgstr ""
 #. [message]: speaker=City guard
 #: The_Fellowship_of_the_Clay/scenarios/07_Bad_news.cfg:346
 msgid "Who goes there?"
-msgstr ""
+msgstr "Кто идёт сюда?"
 
 #. [message]: speaker=Familiar Stranger
 #: The_Fellowship_of_the_Clay/scenarios/07_Bad_news.cfg:350
 msgid "A tradesman."
-msgstr ""
+msgstr "Торговец."
 
 #. [message]: speaker=City guard
 #: The_Fellowship_of_the_Clay/scenarios/07_Bad_news.cfg:354
 msgid "And what do you trade?"
-msgstr ""
+msgstr "Чем ты торгуешь?"
 
 #. [message]: speaker=Familiar Stranger
 #: The_Fellowship_of_the_Clay/scenarios/07_Bad_news.cfg:358
 msgid "With things people desire."
-msgstr ""
+msgstr "Всем, чего хотят люди."
 
 #. [message]: speaker=City guard
 #: The_Fellowship_of_the_Clay/scenarios/07_Bad_news.cfg:362
 msgid "Ah... And with whom do you want to do your business?"
-msgstr ""
+msgstr "А... И с кем же ты хочешь торговать?"
 
 #. [message]: speaker=Familiar Stranger
 #: The_Fellowship_of_the_Clay/scenarios/07_Bad_news.cfg:366
 msgid "With the King."
-msgstr ""
+msgstr "С королём."
 
 #. [message]: speaker=City guard
 #: The_Fellowship_of_the_Clay/scenarios/07_Bad_news.cfg:370
@@ -2685,6 +2705,7 @@ msgstr ""
 msgid ""
 "No, even my marksmanship was not able to save my life... I'm sorry, Clyde..."
 msgstr ""
+"Нет, даже меткая стрельба не смогла спасти мою жизнь... Мне жаль, Клайд..."
 
 #. [message]: speaker=Aryad
 #: The_Fellowship_of_the_Clay/scenarios/07_Bad_news.cfg:900
@@ -5525,7 +5546,7 @@ msgstr ""
 #. [unit_type]: id=Dark Tradesman, race=human
 #: The_Fellowship_of_the_Clay/units/Dark_Tradesman.cfg:4
 msgid "Dark Tradesman"
-msgstr ""
+msgstr "Тёмный торговец"
 
 #. [unit_type]: id=Dark Tradesman, race=human
 #: The_Fellowship_of_the_Clay/units/Dark_Tradesman.cfg:18
@@ -5588,9 +5609,8 @@ msgstr ""
 
 #. [unit_type]: id=Elvish Warrior Spirit, race=undead
 #: The_Fellowship_of_the_Clay/units/Elvish_Spirit_Warrior.cfg:4
-#, fuzzy
 msgid "Warrior Spirit"
-msgstr "Злой Дух"
+msgstr ""
 
 #. [unit_type]: id=Elvish Warrior Spirit, race=undead
 #: The_Fellowship_of_the_Clay/units/Elvish_Spirit_Warrior.cfg:28
@@ -5658,12 +5678,12 @@ msgstr ""
 #. [unit_type]: id=Haldric II, race=human
 #: The_Fellowship_of_the_Clay/units/Haldric_II.cfg:4
 msgid "King"
-msgstr ""
+msgstr "Король"
 
 #. [unit_type]: id=Haldric II, race=human
 #: The_Fellowship_of_the_Clay/units/Haldric_II.cfg:22
 msgid "King of Wesnoth."
-msgstr ""
+msgstr "Король Веснота."
 
 #. [attack]: type=blade
 #: The_Fellowship_of_the_Clay/units/Haldric_II.cfg:26
@@ -5723,9 +5743,8 @@ msgstr ""
 
 #. [unit_type]: id=High Lord Aryad, race=elf
 #: The_Fellowship_of_the_Clay/units/High_Lord_Aryad.cfg:4
-#, fuzzy
 msgid "Elvish High Lord"
-msgstr "Лорд эльфов"
+msgstr "Верховный Лорд"
 
 #. [unit_type]: id=High Lord Aryad, race=elf
 #: The_Fellowship_of_the_Clay/units/High_Lord_Aryad.cfg:19
@@ -5744,9 +5763,8 @@ msgstr ""
 
 #. [unit_type]: id=Lord El'Isomithir, race=elf
 #: The_Fellowship_of_the_Clay/units/Isomithir.cfg:4
-#, fuzzy
 msgid "Elvish Marshal"
-msgstr "Стрелок"
+msgstr "Маршал"
 
 #. [unit_type]: id=Lord El'Isomithir, race=elf
 #: The_Fellowship_of_the_Clay/units/Isomithir.cfg:27
@@ -5762,15 +5780,13 @@ msgstr ""
 #. [attack]: type=pierce
 #: The_Fellowship_of_the_Clay/units/Isomithir.cfg:55
 #: The_Fellowship_of_the_Clay/units/Logalmier.cfg:45
-#, fuzzy
 msgid "bow"
-msgstr "длинный лук"
+msgstr "лук"
 
 #. [unit_type]: id=Lady Dionli, race=elf
 #: The_Fellowship_of_the_Clay/units/Lady_Dionli.cfg:4
-#, fuzzy
 msgid "female^Elvish Shyde"
-msgstr "Снайперша"
+msgstr "Шида"
 
 #. [unit_type]: id=Lady Dionli, race=elf
 #: The_Fellowship_of_the_Clay/units/Lady_Dionli.cfg:22
@@ -5784,24 +5800,22 @@ msgstr ""
 #. [attack]: type=impact
 #: The_Fellowship_of_the_Clay/units/Lady_Dionli.cfg:41
 msgid "faerie touch"
-msgstr ""
+msgstr "касание феи"
 
 #. [attack]: type=impact
 #: The_Fellowship_of_the_Clay/units/Lady_Dionli.cfg:54
 msgid "ensnare"
-msgstr ""
+msgstr "заплетает"
 
 #. [attack]: type=pierce
 #: The_Fellowship_of_the_Clay/units/Lady_Dionli.cfg:66
-#, fuzzy
 msgid "thorns"
-msgstr "рог"
+msgstr "шипы"
 
 #. [unit_type]: id=Lord Logalmier, race=elf
 #: The_Fellowship_of_the_Clay/units/Logalmier.cfg:4
-#, fuzzy
 msgid "Elvish Champion"
-msgstr "Лорд эльфов"
+msgstr "Витязь"
 
 #. [unit_type]: id=Lord Logalmier, race=elf
 #: The_Fellowship_of_the_Clay/units/Logalmier.cfg:20
@@ -5895,7 +5909,7 @@ msgstr ""
 #. [unit_type]: id=Crow, race=monster
 #: The_Fellowship_of_the_Clay/units/NPC_Crow.cfg:4
 msgid "Crow"
-msgstr ""
+msgstr "Ворон"
 
 #. [unit_type]: id=Crow, race=monster
 #: The_Fellowship_of_the_Clay/units/NPC_Crow.cfg:20
@@ -5907,13 +5921,12 @@ msgstr ""
 #. [attack]: type=blade
 #: The_Fellowship_of_the_Clay/units/NPC_Crow.cfg:25
 msgid "beak"
-msgstr ""
+msgstr "клюв"
 
 #. [unit_type]: id=Gryphon, race=gryphon
 #: The_Fellowship_of_the_Clay/units/Richard.cfg:4
-#, fuzzy
 msgid "Gryphon"
-msgstr "Дикий грифон"
+msgstr "Грифон"
 
 #. [unit_type]: id=Gryphon, race=gryphon
 #: The_Fellowship_of_the_Clay/units/Richard.cfg:21
@@ -5988,7 +6001,7 @@ msgstr "Снайперша"
 #. [unit_type]: id=Small Spider, race=monster
 #: The_Fellowship_of_the_Clay/units/smallspider.cfg:4
 msgid "Small Spider"
-msgstr ""
+msgstr "Малый паук"
 
 #. [unit_type]: id=Small Spider, race=monster
 #: The_Fellowship_of_the_Clay/units/smallspider.cfg:22
@@ -6002,12 +6015,12 @@ msgstr ""
 #. [attack]: type=blade
 #: The_Fellowship_of_the_Clay/units/smallspider.cfg:26
 msgid "fangs"
-msgstr ""
+msgstr "клыки"
 
 #. [attack]: type=impact
 #: The_Fellowship_of_the_Clay/units/smallspider.cfg:38
 msgid "web"
-msgstr ""
+msgstr "паутина"
 
 #: The_Fellowship_of_the_Clay/utils/abilities.cfg:4
 msgid ""
@@ -6136,8 +6149,8 @@ msgstr ""
 #. [advancement]: id=TFotC_amla_heal_full
 #: The_Fellowship_of_the_Clay/utils/amla.cfg:11
 msgid "max hitpoints +0, max experience +0%; heal full, unpoison, unslow"
-msgstr ""
-"максимум здоровья +0, максимум опыта +0%, вылечить, исцелить, сбросить путы"
+msgstr "максимум здоровья +0, максимум опыта +0%, вылечить, исцелить, сбросить "
+"путы"
 
 #. [advancement]: id=TFotC_amla_default
 #: The_Fellowship_of_the_Clay/utils/amla.cfg:33
@@ -6231,6 +6244,7 @@ msgstr ""
 msgid ""
 "No, even my marksmanship was able to save my life... I'm sorry, Clyde..."
 msgstr ""
+"Нет, даже меткая стрельба не смогла спасти мою жизнь... Мне жаль, Клайд..."
 
 #. [message]: speaker=Legomir
 #: The_Fellowship_of_the_Clay/utils/herodeaths.cfg:181
@@ -6247,7 +6261,7 @@ msgstr "Без нашего короля мы погибнем!"
 #. [message]: speaker=unit
 #: The_Fellowship_of_the_Clay/utils/herodeaths.cfg:206
 msgid "Aaargh!"
-msgstr ""
+msgstr "Аааххх!"
 
 #. [message]: speaker=Richard
 #: The_Fellowship_of_the_Clay/utils/herodeaths.cfg:221
@@ -6279,58 +6293,55 @@ msgstr ""
 #. [message]: speaker=Eleonor
 #: The_Fellowship_of_the_Clay/utils/herodeaths.cfg:258
 msgid "No, I am not ready for dying yet! So much still has to be done, and-"
-msgstr ""
+msgstr "Нет, я не готов умереть! Так много ещё нужно сделать, и-"
 
 #. [set_menu_item]: id=mounting
 #: The_Fellowship_of_the_Clay/utils/mounting.cfg:41
-#, fuzzy
 msgid "mount Snow-White"
-msgstr "Метель"
+msgstr "Оседлать Метель"
 
 #. [set_menu_item]: id=dismount
 #: The_Fellowship_of_the_Clay/utils/mounting.cfg:295
 #: The_Fellowship_of_the_Clay/utils/mounting.cfg:483
-#, fuzzy
 msgid "dismount Snow-White"
-msgstr "Смерть Метели"
+msgstr "Сойти с седла"
 
 #. [set_menu_item]: id=illuminates_on
 #: The_Fellowship_of_the_Clay/utils/mounting.cfg:675
 msgid "switch on illuminating"
-msgstr ""
+msgstr "Включить иллюминацию"
 
 #. [set_menu_item]: id=illuminates_off
 #: The_Fellowship_of_the_Clay/utils/mounting.cfg:696
 msgid "switch off illuminating"
-msgstr ""
+msgstr "Выключить иллюминацию"
 
 #. [set_menu_item]: id=mounting_feyn
 #: The_Fellowship_of_the_Clay/utils/mounting.cfg:780
 msgid "mount Richard"
-msgstr ""
+msgstr "Оседлать грифона"
 
 #. [unit]: type=$mfeyn_type, id=Feyndwarf, role=$stored_feyndwarf.role
 #: The_Fellowship_of_the_Clay/utils/mounting.cfg:860
-#, fuzzy
 msgid "Mounted Feyndwarf"
-msgstr "Поиски Фейндварфа"
+msgstr "Фейндварф"
 
 #. [set_menu_item]: id=dismount_feyn
 #: The_Fellowship_of_the_Clay/utils/mounting.cfg:926
 msgid "dismount Richard"
-msgstr ""
+msgstr "Сойти с седла"
 
 #. [set_menu_item]: id=harriett_tele_unitchoose
 #: The_Fellowship_of_the_Clay/utils/mounting.cfg:1040
 msgid "Teleport this unit"
-msgstr ""
+msgstr "Телепортировать"
 
 #. [set_menu_item]: id=harriett_tele_locchoose
 #: The_Fellowship_of_the_Clay/utils/mounting.cfg:1075
 msgid "Teleport unit to this location"
-msgstr ""
+msgstr "Телепортировать сюда"
 
 #. [set_menu_item]: id=harriett_tele_back
 #: The_Fellowship_of_the_Clay/utils/mounting.cfg:1131
 msgid "Cancel teleporting mode"
-msgstr ""
+msgstr "Отменить телепортацию"
