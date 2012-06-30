@@ -1056,6 +1056,9 @@ msgid ""
 "Clyde rode towards Wesmere Forest as fast as he could. He had to cross the "
 "Great River, but Snow-White was a good swimmer and so that was not a problem."
 msgstr ""
+"Клайд ехал к Весмирскому лесу со всей возможной поспешностью. По пути ему "
+"пришлось пересечь Великую реку. К счастью, Метель оказалась хорошим пловцом "
+"и серьёзных проблем не возникло."
 
 #. [side]
 #: The_Fellowship_of_the_Clay/scenarios/03_Entering_Wesmere.cfg:58
@@ -1089,6 +1092,8 @@ msgid ""
 "foliage. I better get down and look if there is some path leading into the "
 "woods."
 msgstr ""
+"Вот и Весмирский лес, моя дорогая. Я почти ничего не вижу сквозь густую "
+"листву, придётся спешиваться и искать дорогу."
 
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/03_Entering_Wesmere.cfg:139
@@ -1127,6 +1132,10 @@ msgid ""
 "<i>(getting closer)</i> My dear goodness...is it?...is it?...It is a "
 "unicorn! Stand still or you will scare it away!"
 msgstr ""
+"Метель? Что за сказки ты рассказываешь? Твоя лошадь? Пригласить нас? Вы, "
+"люди, что, совсем с ума посходили? Замолчи, я должен получше рассмотреть тебя "
+"и эту бедную эльфийскую лошадь! ...<i>(присматривается)</i> Бог ты мой! "
+"Это... это... это же единорог! Не двигайся, иначе ты его испугаешь!"
 
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/03_Entering_Wesmere.cfg:193
@@ -1135,11 +1144,14 @@ msgid ""
 "Snow-flake. But we believe that her father might be a Unicorn, which, I "
 "guess, would make her a unihorse."
 msgstr ""
+"На самом деле, Метель не совсем единорог. Её родила Снежинка — королевская "
+"лошадь. Но мы верим, что её отцом был настоящий единорог, поэтому и назвали "
+"её единорожкой."
 
 #. [message]: speaker=Walklas
 #: The_Fellowship_of_the_Clay/scenarios/03_Entering_Wesmere.cfg:197
 msgid "Stop talking that nonsense!"
-msgstr "Хватить молоть чепуху!"
+msgstr "Хватит молоть чепуху!"
 
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/03_Entering_Wesmere.cfg:202
@@ -1153,7 +1165,7 @@ msgstr ""
 #. [message]: speaker=Walklas
 #: The_Fellowship_of_the_Clay/scenarios/03_Entering_Wesmere.cfg:206
 msgid "You...you can talk to it?"
-msgstr "Ты... ты можешь говорить с ней?"
+msgstr "Ты... ты можешь с ней разговаривать?"
 
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/03_Entering_Wesmere.cfg:210
@@ -1161,6 +1173,8 @@ msgid ""
 "Well, I don't speak her language, but she normally listens to what I say to "
 "her. And now I want to invite elves and dwarves for the finishing of Wehlot."
 msgstr ""
+"Ну, я не говорю на её языке, зато она меня хорошо понимает. А теперь я хочу "
+"пригласить эльфов и гномов в Вехлот."
 
 #. [message]: speaker=Walklas
 #: The_Fellowship_of_the_Clay/scenarios/03_Entering_Wesmere.cfg:214
@@ -1168,6 +1182,8 @@ msgid ""
 "I still do not completely understand, but the council has to see this: A "
 "human with a horsocorn! Follow m- what the...?"
 msgstr ""
+"Я до сих пор не совсем понимаю тебя, но наш совет, надеюсь, разберётся. Поди, "
+"и они не часто видят людей с рогатыми лошадьми! Иди за м- что такое?"
 
 #. [unit]: type=Elvish Forest Guard, id=Legomir
 #: The_Fellowship_of_the_Clay/scenarios/03_Entering_Wesmere.cfg:226
@@ -1194,6 +1210,12 @@ msgid ""
 "magic involved here, a whole flock came outside and attacked me - as if "
 "there is some intelligence behind this."
 msgstr ""
+"О, привет вам! Это ты Клайд? Вы оба должны помочь мне. Совет послал меня "
+"разузнать, откуда в лесу появились эти агрессивные летучие мыши. Оказалось, "
+"что мыши вылетают из одной пещеры неподалёку. Когда я подстрелил одну мышь, "
+"чтобы совет мог разобраться, не замешаны ли здесь тёмные силы, на меня "
+"накинулась целая стая этих созданий. Такое ощущение, что ими движет единая "
+"сила."
 
 #. [objective]: condition=win
 #: The_Fellowship_of_the_Clay/scenarios/03_Entering_Wesmere.cfg:274
@@ -1216,6 +1238,8 @@ msgid ""
 "Wait, I heard something...like an animal crying...this cave over there "
 "seemed to be the source.."
 msgstr ""
+"Подождите, я слышал что-то... похоже на крик какого-то животного... кажется, "
+"звук шёл из той пещеры."
 
 #. [message]: speaker=second_unit
 #: The_Fellowship_of_the_Clay/scenarios/03_Entering_Wesmere.cfg:329
@@ -1228,6 +1252,7 @@ msgid ""
 "Training bats is really a wonderful skilling of dark powers! And now kill "
 "them!"
 msgstr ""
+"Призыв летучих мышей — отличное умение для темного мага! Убить их!"
 
 #. [message]: speaker=unit
 #: The_Fellowship_of_the_Clay/scenarios/03_Entering_Wesmere.cfg:345
@@ -1235,8 +1260,8 @@ msgid ""
 "This book looks like interesting...hmmm, it is named ''Bat's Depth "
 "Sounder''. It may be usable later. <i>(takes book)</i>"
 msgstr ""
-"Интересную книгу я нашел. Называется «Как летучие мыши ориентируются в "
-"пространстве». Она может нам пригодиться. <i>(берёт книгу)</i>"
+"Занятную книгу я нашел. Называется «Акустические локаторы летучих мышей». Она "
+"может нам пригодиться. <i>(берёт книгу)</i>"
 
 #. [message]: speaker=Batryn
 #: The_Fellowship_of_the_Clay/scenarios/03_Entering_Wesmere.cfg:359
@@ -1254,8 +1279,8 @@ msgid ""
 "This book looks interesting...hmmm, it is named ''Bat's Depth Sounder''. It "
 "may be usable later. <i>(takes book)</i>"
 msgstr ""
-"Интересную книгу я нашел. Называется «Как летучие мыши ориентируются в "
-"пространстве». Она может нам пригодиться. <i>(берёт книгу)</i>"
+"Занятную книгу я нашел. Называется «Акустические локаторы летучих мышей». Она "
+"может нам пригодиться. <i>(берёт книгу)</i>"
 
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/03_Entering_Wesmere.cfg:408
@@ -1624,7 +1649,7 @@ msgstr ""
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/05_Meet_the_dwarfs.cfg:238
 msgid "Up to the mountain top where the gryphon was headed, then."
-msgstr "Тогда мы отправляемся к вершите горы на поиски логова грифона."
+msgstr "Тогда мы отправляемся к вершине горы на поиски логова грифона."
 
 #. [message]: speaker=Aigulos
 #: The_Fellowship_of_the_Clay/scenarios/05_Meet_the_dwarfs.cfg:242
@@ -2136,7 +2161,8 @@ msgstr "Если нет другого пути..."
 msgid ""
 "Oh, and Snow-White, please stay here at the throne room. Caves are not a "
 "good place for unihorses."
-msgstr ""
+msgstr "Ох, Метель, пожалуйста, оставайся в тронном зале. Пещеры — не очень "
+"хорошее место для единорожек."
 
 #. [objective]: condition=win
 #: The_Fellowship_of_the_Clay/scenarios/06_Finding_Feyndwarf.cfg:793
@@ -5526,7 +5552,7 @@ msgstr ""
 #: The_Fellowship_of_the_Clay/units/Mounted_Knight_lvl3.cfg:61
 #: The_Fellowship_of_the_Clay/units/Mounted_Knight_lvl4.cfg:62
 msgid "holy sword"
-msgstr ""
+msgstr "священный меч"
 
 #. [attack]: type=arcane
 #: The_Fellowship_of_the_Clay/units/Clyde_lev2.cfg:62
@@ -5992,7 +6018,7 @@ msgstr ""
 #. [unit_type]: id=Unihorse, race=monster
 #: The_Fellowship_of_the_Clay/units/Unihorse.cfg:4
 msgid "Unihorse"
-msgstr ""
+msgstr "Единорожка"
 
 #. [unit_type]: id=Unihorse, race=monster
 #: The_Fellowship_of_the_Clay/units/Unihorse.cfg:28
