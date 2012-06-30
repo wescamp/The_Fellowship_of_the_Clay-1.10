@@ -5653,6 +5653,10 @@ msgid ""
 "that is his intent. His skill in runecrafting is unrivaled, and the glyphs "
 "he carves into his weapons and armor deflect the blows of his enemies."
 msgstr ""
+"Чародей — сильнейший из заклинателей рун. Он мгновенно уничтожит раненого "
+"врага; редко кому удаётся уйти от его ударов. Никто не превзойдёт его в "
+"рунических навыках; знаки, который он наносит на оружие и броню, отражают "
+"удары его врагов."
 
 #. [attack]: type=impact
 #: The_Fellowship_of_the_Clay/units/Feyndwarf_Arcanister.cfg:41
@@ -5679,6 +5683,10 @@ msgid ""
 "their runes cause the physical blows of their enemies to deal less damage "
 "than would be expected."
 msgstr ""
+"Высший ранг, которого может достичь гном, не одарённый сверхъестественным "
+"даром — ранг мастера рун. Они бьют не слабее лучших воинов, так что и без "
+"своего искусства были бы весьма опасны. С ним же они почти что неуязвимы: их "
+"руны изрядно уменьшают урон, наносимый физическими атаками."
 
 #. [unit_type]: id=Dwarvish Runesmith TFotC, race=dwarf
 #: The_Fellowship_of_the_Clay/units/Feyndwarf_Runesmith.cfg:4
@@ -5693,6 +5701,9 @@ msgid ""
 "and accuracy, and disrupt the blows of their enemies, causing them to strike "
 "softly, weakly and on the armor of the defender."
 msgstr ""
+"Рунные кузнецы, потренировав свои навыки, наносят мистические руны на оружие "
+"и броню. Эти руны дают их ударам точность и силу, и отражают удары врагов, "
+"заставляя их бить мягче, слабее и попадать по броне."
 
 #. [unit_type]: id=Haldric II, race=human
 #: The_Fellowship_of_the_Clay/units/Haldric_II.cfg:4
@@ -5773,6 +5784,10 @@ msgid ""
 "and wisdom. Quiet and contemplative in times of peace, a High Lord in the "
 "full of his wrath is an awesome sight indeed."
 msgstr ""
+"Предводители эльфов располагают таким авторитетом и верностью своих "
+"подданных, что правители других рас могут им только завидовать; и этим "
+"влиянием они пользуются мудро и разумно. Спокойный и рассудительный в мирное "
+"время, в гневе Верховный Лорд внушает ужас."
 
 #. [attack]: type=arcane
 #: The_Fellowship_of_the_Clay/units/High_Lord_Aryad.cfg:82
@@ -5795,6 +5810,11 @@ msgid ""
 "elf sets his mind to war, the strategy that results is often the work of a "
 "master."
 msgstr ""
+"Долголетие и природный ум помогают эльфам осваивать военное дело, невзирая на "
+"их нелюбовь к войне. Эльфийская память острее человеческой, и они часто "
+"интуитивно понимают то, чему другим приходится учиться. В тех редких случаях, "
+"когда эльф посвящает свои мысли военному делу, он непременно становится "
+"мастером стратегии."
 
 #. [attack]: type=pierce
 #: The_Fellowship_of_the_Clay/units/Isomithir.cfg:55
@@ -5815,6 +5835,10 @@ msgid ""
 "beautiful stewards of the elven forests epitomize the grace and mystery of "
 "their people."
 msgstr ""
+"Обращение к волшебной части своей сущности в конце концов превращает "
+"эльфийскую женщину в существо двух миров. Мало кто может понять, какие силы "
+"движут этими прекрасными хранительницами эльфийских лесов, воплотившими в "
+"себе грацию и таинственность своего народа."
 
 #. [attack]: type=impact
 #: The_Fellowship_of_the_Clay/units/Lady_Dionli.cfg:41
@@ -5845,6 +5869,11 @@ msgid ""
 "to which few can compare. Even their archery, treated as a secondary "
 "pursuit, is masterfully executed."
 msgstr ""
+"Из-за тех немногих эльфов, что сознательно сделали себя орудием войны, их "
+"расу незаслуженно лишили репутации миролюбивой. Безупречное сочетание "
+"самоотверженности и сноровки дали в результате такой уровень владения мечом, "
+"что мало кто может с ними сравнится. И даже луком, который считается у них "
+"второстепенным оружием, они владеют мастерски."
 
 #. [unit_type]: id=Lord Aryad, race=elf
 #: The_Fellowship_of_the_Clay/units/Lord_Aryad.cfg:4
@@ -5858,6 +5887,9 @@ msgid ""
 "society. Elvish Lords are the wisest and strongest of their people, and are "
 "fearsome in their command of magic."
 msgstr ""
+"Благородство эльфийской знати — достоинство, определяющее их положение в "
+"обществе. Эльфийские Лорды — мудрейшие и сильнейшие среди своего народа, при "
+"этом им доступна и грозная магиия."
 
 #. [unit_type]: id=Mounted Runesmith, race=gryphon
 #: The_Fellowship_of_the_Clay/units/Mounted_Feyndwarf_lvl2.cfg:4
@@ -5954,6 +5986,8 @@ msgid ""
 "both dangerous and wary of other intelligent creatures, and thus should not "
 "be disturbed without a good reason."
 msgstr ""
+"Эти величественные и могучие создания господствуют в небе. Грифоны равно "
+"опасны и умны, поэтому не стоит их беспокоить без веской причины."
 
 #. [unit_type]: id=Unihorse, race=monster
 #: The_Fellowship_of_the_Clay/units/Unihorse.cfg:4
