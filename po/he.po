@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2012-06-30 09:24-0400\n"
+"POT-Creation-Date: 2012-07-01 16:07-0400\n"
 "PO-Revision-Date: 2012-05-30 23:38-0400\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -285,20 +285,20 @@ msgstr ""
 #: The_Fellowship_of_the_Clay/scenarios/01_The_assignment.cfg:155
 #: The_Fellowship_of_the_Clay/scenarios/02_Magic_invitation.cfg:56
 #: The_Fellowship_of_the_Clay/scenarios/03_Entering_Wesmere.cfg:37
-#: The_Fellowship_of_the_Clay/scenarios/04_The_race.cfg:38
+#: The_Fellowship_of_the_Clay/scenarios/04_The_race.cfg:39
 #: The_Fellowship_of_the_Clay/scenarios/05_Meet_the_dwarfs.cfg:54
 #: The_Fellowship_of_the_Clay/scenarios/06_Finding_Feyndwarf.cfg:49
 #: The_Fellowship_of_the_Clay/scenarios/07_Bad_news.cfg:75
 #: The_Fellowship_of_the_Clay/scenarios/07_Bad_news.cfg:100
 #: The_Fellowship_of_the_Clay/scenarios/08_The_plan.cfg:48
 #: The_Fellowship_of_the_Clay/scenarios/08_The_plan.cfg:72
-#: The_Fellowship_of_the_Clay/scenarios/09_Recruiting_Harriett.cfg:107
+#: The_Fellowship_of_the_Clay/scenarios/09_Recruiting_Harriett.cfg:111
 #: The_Fellowship_of_the_Clay/scenarios/10_Convincing_the_Father.cfg:22
-#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:62
+#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:63
 #: The_Fellowship_of_the_Clay/scenarios/12_Dragnet_Operation.cfg:61
 #: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:76
-#: The_Fellowship_of_the_Clay/scenarios/14_Dark_Walks-Walks_about_Darkness.cfg:99
-#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:73
+#: The_Fellowship_of_the_Clay/scenarios/14_Dark_Walks-Walks_about_Darkness.cfg:100
+#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:74
 #: The_Fellowship_of_the_Clay/scenarios/16_The_three_Towers_of_Mount_Quake.cfg:64
 #: The_Fellowship_of_the_Clay/scenarios/17_In_Due_Time.cfg:74
 #: The_Fellowship_of_the_Clay/scenarios/17_In_Due_Time.cfg:99
@@ -709,15 +709,15 @@ msgstr ""
 #. [unit]: type=$mclyde_type, id=Clyde, role=$stored_clyde.role
 #: The_Fellowship_of_the_Clay/scenarios/02_Magic_invitation.cfg:66
 #: The_Fellowship_of_the_Clay/scenarios/03_Entering_Wesmere.cfg:47
-#: The_Fellowship_of_the_Clay/scenarios/04_The_race.cfg:49
+#: The_Fellowship_of_the_Clay/scenarios/04_The_race.cfg:50
 #: The_Fellowship_of_the_Clay/scenarios/05_Meet_the_dwarfs.cfg:62
 #: The_Fellowship_of_the_Clay/scenarios/06_Finding_Feyndwarf.cfg:59
 #: The_Fellowship_of_the_Clay/scenarios/07_Bad_news.cfg:85
 #: The_Fellowship_of_the_Clay/scenarios/08_The_plan.cfg:57
-#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:71
+#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:72
 #: The_Fellowship_of_the_Clay/scenarios/12_Dragnet_Operation.cfg:70
 #: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:85
-#: The_Fellowship_of_the_Clay/scenarios/14_Dark_Walks-Walks_about_Darkness.cfg:108
+#: The_Fellowship_of_the_Clay/scenarios/14_Dark_Walks-Walks_about_Darkness.cfg:109
 #: The_Fellowship_of_the_Clay/scenarios/16_The_three_Towers_of_Mount_Quake.cfg:73
 #: The_Fellowship_of_the_Clay/scenarios/17_In_Due_Time.cfg:84
 #: The_Fellowship_of_the_Clay/scenarios/18_Epilogue.cfg:28
@@ -1198,78 +1198,78 @@ msgid "And so Clyde visited the Elven Council in Wesmere Forest, the Ka'lian."
 msgstr ""
 
 #. [side]
-#: The_Fellowship_of_the_Clay/scenarios/04_The_race.cfg:57
+#: The_Fellowship_of_the_Clay/scenarios/04_The_race.cfg:58
 msgid "Ka'lian"
 msgstr ""
 
 #. [unit]: id=Logalmier, type=Lord Logalmier
-#: The_Fellowship_of_the_Clay/scenarios/04_The_race.cfg:64
+#: The_Fellowship_of_the_Clay/scenarios/04_The_race.cfg:65
 msgid "Logalmier"
 msgstr ""
 
 #. [unit]: id=Dionli, type=Lady Dionli
-#: The_Fellowship_of_the_Clay/scenarios/04_The_race.cfg:76
+#: The_Fellowship_of_the_Clay/scenarios/04_The_race.cfg:77
 msgid "Dionli"
 msgstr ""
 
 #. [unit]: id=El'Isomithir, type=Lord El'Isomithir
-#: The_Fellowship_of_the_Clay/scenarios/04_The_race.cfg:88
+#: The_Fellowship_of_the_Clay/scenarios/04_The_race.cfg:89
 msgid "El'Isomithir"
 msgstr ""
 
 #. [unit]: id=Aryad, type=Lord Aryad
-#: The_Fellowship_of_the_Clay/scenarios/04_The_race.cfg:100
+#: The_Fellowship_of_the_Clay/scenarios/04_The_race.cfg:101
 #: The_Fellowship_of_the_Clay/scenarios/07_Bad_news.cfg:612
 msgid "Aryad"
 msgstr ""
 
 #. [label]
-#: The_Fellowship_of_the_Clay/scenarios/04_The_race.cfg:131
+#: The_Fellowship_of_the_Clay/scenarios/04_The_race.cfg:132
 msgid "The Ka'lian"
 msgstr ""
 
 #. [objective]: condition=win
-#: The_Fellowship_of_the_Clay/scenarios/04_The_race.cfg:136
+#: The_Fellowship_of_the_Clay/scenarios/04_The_race.cfg:137
 msgid "Own the most villages after 10 rounds passed"
 msgstr ""
 
 #. [objective]: condition=lose
-#: The_Fellowship_of_the_Clay/scenarios/04_The_race.cfg:140
+#: The_Fellowship_of_the_Clay/scenarios/04_The_race.cfg:141
 #: The_Fellowship_of_the_Clay/scenarios/06_Finding_Feyndwarf.cfg:258
 msgid "Death of Clyde or Snow-White"
 msgstr ""
 
 #. [objective]: condition=lose
-#: The_Fellowship_of_the_Clay/scenarios/04_The_race.cfg:144
+#: The_Fellowship_of_the_Clay/scenarios/04_The_race.cfg:145
 msgid "Death of Eleonor"
 msgstr ""
 
 #. [objective]: condition=lose
-#: The_Fellowship_of_the_Clay/scenarios/04_The_race.cfg:148
+#: The_Fellowship_of_the_Clay/scenarios/04_The_race.cfg:149
 msgid "You attack one of the elves"
 msgstr ""
 
 #. [objectives]
-#: The_Fellowship_of_the_Clay/scenarios/04_The_race.cfg:150
+#: The_Fellowship_of_the_Clay/scenarios/04_The_race.cfg:151
 msgid ""
 "It may be that there are some angry animals if you enter a village. You "
 "cannot recruit here."
 msgstr ""
 
 #. [message]: speaker=Walklas
-#: The_Fellowship_of_the_Clay/scenarios/04_The_race.cfg:171
+#: The_Fellowship_of_the_Clay/scenarios/04_The_race.cfg:172
 msgid ""
 "Venerated council members, I bring a human who wants to invite some snow-"
 "flakes and who is accompanied by a creature that appears to be a unicorn!"
 msgstr ""
 
 #. [message]: speaker=El'Isomithir
-#: The_Fellowship_of_the_Clay/scenarios/04_The_race.cfg:175
+#: The_Fellowship_of_the_Clay/scenarios/04_The_race.cfg:176
 msgid "Walklas, what are you talking about?"
 msgstr ""
 
 #. [message]: speaker=Clyde
-#: The_Fellowship_of_the_Clay/scenarios/04_The_race.cfg:181
+#: The_Fellowship_of_the_Clay/scenarios/04_The_race.cfg:182
 msgid ""
 "If I may my Sire: I am Clyde, envoy of King Haldric II and this is my "
 "Unihorse 'Snow-white'. I come to invite you to the celebration on the "
@@ -1277,14 +1277,14 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Logalmier
-#: The_Fellowship_of_the_Clay/scenarios/04_The_race.cfg:185
+#: The_Fellowship_of_the_Clay/scenarios/04_The_race.cfg:186
 msgid ""
 "Things have come to a pretty pass if humans think we will join applauding "
 "their ephemeral residues."
 msgstr ""
 
 #. [message]: speaker=Clyde
-#: The_Fellowship_of_the_Clay/scenarios/04_The_race.cfg:189
+#: The_Fellowship_of_the_Clay/scenarios/04_The_race.cfg:190
 msgid ""
 "Sire, it is only that we want to share our blitheness with those who allowed "
 "us to settle on their continent. Is it not natural that we want to give some "
@@ -1292,14 +1292,14 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Dionli
-#: The_Fellowship_of_the_Clay/scenarios/04_The_race.cfg:193
+#: The_Fellowship_of_the_Clay/scenarios/04_The_race.cfg:194
 msgid ""
 "Well, your people seem to have improved in diplomacy, but I guess just "
 "buttering us up, won't convince us yet."
 msgstr ""
 
 #. [message]: speaker=Legomir
-#: The_Fellowship_of_the_Clay/scenarios/04_The_race.cfg:198
+#: The_Fellowship_of_the_Clay/scenarios/04_The_race.cfg:199
 msgid ""
 "My Lord, I know this human. I want to vouch for him and his people. He just "
 "helped me to clear our forest from the recent Bat plague! And besides, "
@@ -1308,7 +1308,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Aryad
-#: The_Fellowship_of_the_Clay/scenarios/04_The_race.cfg:202
+#: The_Fellowship_of_the_Clay/scenarios/04_The_race.cfg:203
 msgid ""
 "Yes, that creature is remarkable, indeed. I have an idea: If you can compete "
 "with one of our best riders, I might considering your relationship to Mother "
@@ -1316,17 +1316,17 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Clyde
-#: The_Fellowship_of_the_Clay/scenarios/04_The_race.cfg:206
+#: The_Fellowship_of_the_Clay/scenarios/04_The_race.cfg:207
 msgid "With pleasure my Lord."
 msgstr ""
 
 #. [unit]: type=Elvish Outrider, id=Eleonor
-#: The_Fellowship_of_the_Clay/scenarios/04_The_race.cfg:211
+#: The_Fellowship_of_the_Clay/scenarios/04_The_race.cfg:212
 msgid "Eleonor"
 msgstr ""
 
 #. [message]: speaker=Aryad
-#: The_Fellowship_of_the_Clay/scenarios/04_The_race.cfg:224
+#: The_Fellowship_of_the_Clay/scenarios/04_The_race.cfg:225
 msgid ""
 "This here is one of our fastest scouts, Eleonor, he rides a Mustang. Rules "
 "are simple; the winner is who has the most villages under his banner after "
@@ -1334,32 +1334,32 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Legomir
-#: The_Fellowship_of_the_Clay/scenarios/04_The_race.cfg:228
+#: The_Fellowship_of_the_Clay/scenarios/04_The_race.cfg:229
 msgid ""
 "Clyde, I don't think this was a wise idea - an Elvish Outrider will most "
 "certainly out-ride you."
 msgstr ""
 
 #. [message]: speaker=Clyde
-#: The_Fellowship_of_the_Clay/scenarios/04_The_race.cfg:232
+#: The_Fellowship_of_the_Clay/scenarios/04_The_race.cfg:233
 msgid ""
 "Well, then I have to do the impossible, don't I? Oh, and remeber that I'm "
 "able to dismount, so we're already two."
 msgstr ""
 
 #. [message]: speaker=El'Isomithir
-#: The_Fellowship_of_the_Clay/scenarios/04_The_race.cfg:340
+#: The_Fellowship_of_the_Clay/scenarios/04_The_race.cfg:341
 msgid "No! That's against the rules! I knew, never trust a human."
 msgstr ""
 
 #. [message]: speaker=Clyde
-#: The_Fellowship_of_the_Clay/scenarios/04_The_race.cfg:363
+#: The_Fellowship_of_the_Clay/scenarios/04_The_race.cfg:364
 msgid ""
 "I have $village_number_1 villages, Eleonor has $village_number_2 villages."
 msgstr ""
 
 #. [message]: speaker=Aryad
-#: The_Fellowship_of_the_Clay/scenarios/04_The_race.cfg:394
+#: The_Fellowship_of_the_Clay/scenarios/04_The_race.cfg:395
 msgid ""
 "Impressive $village_number_1 villages to $village_number_2! Though you may "
 "not ride as well as an Elf, your relationship to your hybrid is remarkable. "
@@ -1367,32 +1367,32 @@ msgid ""
 msgstr ""
 
 #. [object]
-#: The_Fellowship_of_the_Clay/scenarios/04_The_race.cfg:403
-#: The_Fellowship_of_the_Clay/scenarios/04_The_race.cfg:421
+#: The_Fellowship_of_the_Clay/scenarios/04_The_race.cfg:404
+#: The_Fellowship_of_the_Clay/scenarios/04_The_race.cfg:422
 msgid "Elvish Riding Lessons"
 msgstr ""
 
 #. [object]
-#: The_Fellowship_of_the_Clay/scenarios/04_The_race.cfg:404
+#: The_Fellowship_of_the_Clay/scenarios/04_The_race.cfg:405
 msgid ""
 "The elves of Wesmere showed Clyde how to ride even faster. Snow-Whites "
 "movement was increased by one!"
 msgstr ""
 
 #. [object]
-#: The_Fellowship_of_the_Clay/scenarios/04_The_race.cfg:422
+#: The_Fellowship_of_the_Clay/scenarios/04_The_race.cfg:423
 msgid "The elves of Wesmere showed Clyde how to ride even faster."
 msgstr ""
 
 #. [message]: speaker=Aryad
-#: The_Fellowship_of_the_Clay/scenarios/04_The_race.cfg:440
+#: The_Fellowship_of_the_Clay/scenarios/04_The_race.cfg:441
 msgid ""
 "Now that we took care of that, we would be pleased to look at whatever you "
 "want to show to us."
 msgstr ""
 
 #. [message]: speaker=Clyde
-#: The_Fellowship_of_the_Clay/scenarios/04_The_race.cfg:444
+#: The_Fellowship_of_the_Clay/scenarios/04_The_race.cfg:445
 msgid ""
 "I am glad that you will visit Wehlot, but I need to ask the dwarves too. So "
 "I would ask you for one more favor: Could show me the way to the Dwarf's "
@@ -1400,24 +1400,24 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Aryad
-#: The_Fellowship_of_the_Clay/scenarios/04_The_race.cfg:448
+#: The_Fellowship_of_the_Clay/scenarios/04_The_race.cfg:449
 msgid ""
 "If you insist on visiting the stone-heads, I won't hold you back. See you in "
 "Wehlot then."
 msgstr ""
 
 #. [message]: speaker=Legomir
-#: The_Fellowship_of_the_Clay/scenarios/04_The_race.cfg:452
+#: The_Fellowship_of_the_Clay/scenarios/04_The_race.cfg:453
 msgid "Walkas and I will join Clyde and show him the way to the Dwarves."
 msgstr ""
 
 #. [message]: speaker=Eleonor
-#: The_Fellowship_of_the_Clay/scenarios/04_The_race.cfg:487
+#: The_Fellowship_of_the_Clay/scenarios/04_The_race.cfg:488
 msgid "Impressing. But not good enough."
 msgstr ""
 
 #. [message]: speaker=Eleonor
-#: The_Fellowship_of_the_Clay/scenarios/04_The_race.cfg:502
+#: The_Fellowship_of_the_Clay/scenarios/04_The_race.cfg:503
 msgid "No..."
 msgstr ""
 
@@ -2106,7 +2106,7 @@ msgstr ""
 #: The_Fellowship_of_the_Clay/scenarios/07_Bad_news.cfg:111
 #: The_Fellowship_of_the_Clay/scenarios/07_Bad_news.cfg:125
 #: The_Fellowship_of_the_Clay/scenarios/07_Bad_news.cfg:139
-#: The_Fellowship_of_the_Clay/scenarios/14_Dark_Walks-Walks_about_Darkness.cfg:147
+#: The_Fellowship_of_the_Clay/scenarios/14_Dark_Walks-Walks_about_Darkness.cfg:148
 #: The_Fellowship_of_the_Clay/scenarios/17_In_Due_Time.cfg:111
 #: The_Fellowship_of_the_Clay/scenarios/17_In_Due_Time.cfg:122
 #: The_Fellowship_of_the_Clay/scenarios/17_In_Due_Time.cfg:133
@@ -2232,7 +2232,7 @@ msgstr ""
 #. [unit]: id=Familiar Stranger, type=Dark Tradesman
 #. [unit]: type=Crow
 #: The_Fellowship_of_the_Clay/scenarios/07_Bad_news.cfg:338
-#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:106
+#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:107
 #: The_Fellowship_of_the_Clay/scenarios/16_The_three_Towers_of_Mount_Quake.cfg:154
 #: The_Fellowship_of_the_Clay/scenarios/18_Epilogue.cfg:35
 msgid "Familiar Stranger"
@@ -2912,65 +2912,70 @@ msgid ""
 "And you are very white - now let's find that girl Merdor was speaking of!"
 msgstr ""
 
+#. [part]
+#: The_Fellowship_of_the_Clay/scenarios/09_Recruiting_Harriett.cfg:73
+msgid "Eventualy, the Fellowship was approaching the Vally Merdor described."
+msgstr ""
+
 #. [label]
 #. [side]: id=Elisabeth Porter, type=Silver Mage
 #. [side]: type=Silver Mage, id=Elisabeth Porter
-#: The_Fellowship_of_the_Clay/scenarios/09_Recruiting_Harriett.cfg:121
-#: The_Fellowship_of_the_Clay/scenarios/09_Recruiting_Harriett.cfg:204
-#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:80
-#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:168
+#: The_Fellowship_of_the_Clay/scenarios/09_Recruiting_Harriett.cfg:125
+#: The_Fellowship_of_the_Clay/scenarios/09_Recruiting_Harriett.cfg:208
+#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:81
+#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:169
 msgid "Mountainhigh"
 msgstr ""
 
 #. [side]: id=Elisabeth Porter, type=Silver Mage
 #. [side]: type=Silver Mage, id=Elisabeth Porter
-#: The_Fellowship_of_the_Clay/scenarios/09_Recruiting_Harriett.cfg:133
-#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:83
+#: The_Fellowship_of_the_Clay/scenarios/09_Recruiting_Harriett.cfg:137
+#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:84
 msgid "Elisabeth Porter"
 msgstr ""
 
 #. [unit]: type=Spearman, id=Guard
-#: The_Fellowship_of_the_Clay/scenarios/09_Recruiting_Harriett.cfg:140
+#: The_Fellowship_of_the_Clay/scenarios/09_Recruiting_Harriett.cfg:144
 msgid "Rhearrec"
 msgstr ""
 
 #. [unit]: type=Mage, id=Blarryn
-#: The_Fellowship_of_the_Clay/scenarios/09_Recruiting_Harriett.cfg:149
+#: The_Fellowship_of_the_Clay/scenarios/09_Recruiting_Harriett.cfg:153
 msgid "Blarryn"
 msgstr ""
 
 #. [unit]: type=Dwarvish Fighter, id=Pathredusol
-#: The_Fellowship_of_the_Clay/scenarios/09_Recruiting_Harriett.cfg:158
+#: The_Fellowship_of_the_Clay/scenarios/09_Recruiting_Harriett.cfg:162
 msgid "Pathredusol"
 msgstr ""
 
 #. [label]
-#: The_Fellowship_of_the_Clay/scenarios/09_Recruiting_Harriett.cfg:200
-#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:164
+#: The_Fellowship_of_the_Clay/scenarios/09_Recruiting_Harriett.cfg:204
+#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:165
 msgid "Porter's House"
 msgstr ""
 
 #. [label]
-#: The_Fellowship_of_the_Clay/scenarios/09_Recruiting_Harriett.cfg:208
-#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:172
+#: The_Fellowship_of_the_Clay/scenarios/09_Recruiting_Harriett.cfg:212
+#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:173
 msgid "Valley of the Yetis"
 msgstr ""
 
 #. [objective]: condition=win
-#: The_Fellowship_of_the_Clay/scenarios/09_Recruiting_Harriett.cfg:218
+#: The_Fellowship_of_the_Clay/scenarios/09_Recruiting_Harriett.cfg:222
 msgid "Move every unit of yours to Mountainhigh"
 msgstr ""
 
 #. [objective]: condition=lose
-#: The_Fellowship_of_the_Clay/scenarios/09_Recruiting_Harriett.cfg:222
-#: The_Fellowship_of_the_Clay/scenarios/09_Recruiting_Harriett.cfg:387
+#: The_Fellowship_of_the_Clay/scenarios/09_Recruiting_Harriett.cfg:226
+#: The_Fellowship_of_the_Clay/scenarios/09_Recruiting_Harriett.cfg:391
 #: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:226
 #: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:365
 #: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:660
 #: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:758
 #: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:823
-#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:323
-#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:458
+#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:324
+#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:459
 #: The_Fellowship_of_the_Clay/scenarios/16_The_three_Towers_of_Mount_Quake.cfg:422
 #: The_Fellowship_of_the_Clay/scenarios/16_The_three_Towers_of_Mount_Quake.cfg:433
 #: The_Fellowship_of_the_Clay/scenarios/17_In_Due_Time.cfg:244
@@ -2978,7 +2983,7 @@ msgid "Death of one of your hero units"
 msgstr ""
 
 #. [message]: speaker=Merdor
-#: The_Fellowship_of_the_Clay/scenarios/09_Recruiting_Harriett.cfg:251
+#: The_Fellowship_of_the_Clay/scenarios/09_Recruiting_Harriett.cfg:255
 msgid ""
 "Here we are. Behind this mountainous ridge lies the valley of the Yetis. We "
 "have to get through it to reach Mountainhigh. When we traverse a rivulet, we "
@@ -2986,86 +2991,86 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=narrator
-#: The_Fellowship_of_the_Clay/scenarios/09_Recruiting_Harriett.cfg:269
+#: The_Fellowship_of_the_Clay/scenarios/09_Recruiting_Harriett.cfg:273
 msgid "Mountainhigh, two days south-east. Beware of the yetis!"
 msgstr ""
 
 #. [message]: speaker=Clyde
-#: The_Fellowship_of_the_Clay/scenarios/09_Recruiting_Harriett.cfg:289
+#: The_Fellowship_of_the_Clay/scenarios/09_Recruiting_Harriett.cfg:293
 msgid "I doubt I have ever seen such huge fists..."
 msgstr ""
 
 #. [message]: speaker=Clyde
-#: The_Fellowship_of_the_Clay/scenarios/09_Recruiting_Harriett.cfg:308
+#: The_Fellowship_of_the_Clay/scenarios/09_Recruiting_Harriett.cfg:312
 msgid ""
 "How can somebody life behind these Yetis? Every time you want to get there "
 "or you want to leave from there, you get beaten up?!"
 msgstr ""
 
 #. [message]: speaker=Merdor
-#: The_Fellowship_of_the_Clay/scenarios/09_Recruiting_Harriett.cfg:312
+#: The_Fellowship_of_the_Clay/scenarios/09_Recruiting_Harriett.cfg:316
 msgid ""
 "Not if you are a silver mage... guess why Mountainhigh is home to some who "
 "don't like visitors that much."
 msgstr ""
 
 #. [message]: speaker=Merdor
-#: The_Fellowship_of_the_Clay/scenarios/09_Recruiting_Harriett.cfg:322
+#: The_Fellowship_of_the_Clay/scenarios/09_Recruiting_Harriett.cfg:326
 msgid "Hail there!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: The_Fellowship_of_the_Clay/scenarios/09_Recruiting_Harriett.cfg:326
+#: The_Fellowship_of_the_Clay/scenarios/09_Recruiting_Harriett.cfg:330
 msgid "My goodness, travelers in the valley!"
 msgstr ""
 
 #. [message]: speaker=Elisabeth Porter
-#: The_Fellowship_of_the_Clay/scenarios/09_Recruiting_Harriett.cfg:331
+#: The_Fellowship_of_the_Clay/scenarios/09_Recruiting_Harriett.cfg:335
 msgid ""
 "Merdor, I told you not to come here. I hope you don't come because of "
 "Harriett!"
 msgstr ""
 
 #. [message]: speaker=Merdor
-#: The_Fellowship_of_the_Clay/scenarios/09_Recruiting_Harriett.cfg:335
+#: The_Fellowship_of_the_Clay/scenarios/09_Recruiting_Harriett.cfg:339
 msgid ""
 "Elisabeth, we are a desperate delegation of King Haldric II. We came to ask "
 "you for help."
 msgstr ""
 
 #. [message]: speaker=Elisabeth Porter
-#: The_Fellowship_of_the_Clay/scenarios/09_Recruiting_Harriett.cfg:339
+#: The_Fellowship_of_the_Clay/scenarios/09_Recruiting_Harriett.cfg:343
 msgid ""
 "I guess you are desperate to come through the valley. Run faster old man, or "
 "you will attract the Yetis to the village."
 msgstr ""
 
 #. [message]: speaker=Elisabeth Porter
-#: The_Fellowship_of_the_Clay/scenarios/09_Recruiting_Harriett.cfg:363
+#: The_Fellowship_of_the_Clay/scenarios/09_Recruiting_Harriett.cfg:367
 msgid ""
 "As I feared - you got some of the Yetis on your tail. Now we have to engage "
 "them while we normally have a peaceful coexistence!"
 msgstr ""
 
 #. [message]: speaker=Elisabeth Porter
-#: The_Fellowship_of_the_Clay/scenarios/09_Recruiting_Harriett.cfg:367
+#: The_Fellowship_of_the_Clay/scenarios/09_Recruiting_Harriett.cfg:371
 msgid ""
 "That was not a very good first impression your group made there, I have to "
 "tell you this! But what is it what you want and how could be help."
 msgstr ""
 
 #. [message]: speaker=Clyde
-#: The_Fellowship_of_the_Clay/scenarios/09_Recruiting_Harriett.cfg:371
+#: The_Fellowship_of_the_Clay/scenarios/09_Recruiting_Harriett.cfg:375
 msgid "Dear Ms Porter, if I may..."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: The_Fellowship_of_the_Clay/scenarios/09_Recruiting_Harriett.cfg:375
+#: The_Fellowship_of_the_Clay/scenarios/09_Recruiting_Harriett.cfg:379
 msgid "Clyde explains everything"
 msgstr ""
 
 #. [message]: speaker=Elisabeth Porter
-#: The_Fellowship_of_the_Clay/scenarios/09_Recruiting_Harriett.cfg:379
+#: The_Fellowship_of_the_Clay/scenarios/09_Recruiting_Harriett.cfg:383
 msgid ""
 "So you did come because of Harriett! Curse you Merdor! I will not just give "
 "you my daughter so that you can bring her into danger! Though, I can "
@@ -3074,71 +3079,71 @@ msgid ""
 msgstr ""
 
 #. [objective]: condition=win
-#: The_Fellowship_of_the_Clay/scenarios/09_Recruiting_Harriett.cfg:383
+#: The_Fellowship_of_the_Clay/scenarios/09_Recruiting_Harriett.cfg:387
 msgid "Move Merdor or Clyde, without his horse, to Porter's house"
 msgstr ""
 
 #. [message]: speaker=narrator
 #. [side]: type=Silver Mage, id=Henry Porter
-#: The_Fellowship_of_the_Clay/scenarios/09_Recruiting_Harriett.cfg:417
-#: The_Fellowship_of_the_Clay/scenarios/09_Recruiting_Harriett.cfg:425
-#: The_Fellowship_of_the_Clay/scenarios/09_Recruiting_Harriett.cfg:441
+#: The_Fellowship_of_the_Clay/scenarios/09_Recruiting_Harriett.cfg:421
+#: The_Fellowship_of_the_Clay/scenarios/09_Recruiting_Harriett.cfg:429
+#: The_Fellowship_of_the_Clay/scenarios/09_Recruiting_Harriett.cfg:445
 #: The_Fellowship_of_the_Clay/scenarios/10_Convincing_the_Father.cfg:36
 #: The_Fellowship_of_the_Clay/scenarios/10_Convincing_the_Father.cfg:44
 msgid "Henry Porter"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: The_Fellowship_of_the_Clay/scenarios/09_Recruiting_Harriett.cfg:419
+#: The_Fellowship_of_the_Clay/scenarios/09_Recruiting_Harriett.cfg:423
 msgid ""
 "I'd appreciate it if you could dismount before enterning, otherwise you "
 "would damage the floor planks."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: The_Fellowship_of_the_Clay/scenarios/09_Recruiting_Harriett.cfg:427
+#: The_Fellowship_of_the_Clay/scenarios/09_Recruiting_Harriett.cfg:431
 msgid "You will not get my daughter Merdor, not again!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: The_Fellowship_of_the_Clay/scenarios/09_Recruiting_Harriett.cfg:431
+#: The_Fellowship_of_the_Clay/scenarios/09_Recruiting_Harriett.cfg:435
 msgid "Is he a kind of clairvoyant?"
 msgstr ""
 
 #. [message]: speaker=narrator
 #. [unit]: id=Harriett Porter, type=Portal Mage
 #. [unit]: type=Portal Mage, id=Harriett Porter
-#: The_Fellowship_of_the_Clay/scenarios/09_Recruiting_Harriett.cfg:435
-#: The_Fellowship_of_the_Clay/scenarios/09_Recruiting_Harriett.cfg:447
+#: The_Fellowship_of_the_Clay/scenarios/09_Recruiting_Harriett.cfg:439
+#: The_Fellowship_of_the_Clay/scenarios/09_Recruiting_Harriett.cfg:451
 #: The_Fellowship_of_the_Clay/scenarios/10_Convincing_the_Father.cfg:51
-#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:205
+#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:206
 msgid "Harriett Porter"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: The_Fellowship_of_the_Clay/scenarios/09_Recruiting_Harriett.cfg:437
+#: The_Fellowship_of_the_Clay/scenarios/09_Recruiting_Harriett.cfg:441
 msgid "But dad..."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: The_Fellowship_of_the_Clay/scenarios/09_Recruiting_Harriett.cfg:443
+#: The_Fellowship_of_the_Clay/scenarios/09_Recruiting_Harriett.cfg:447
 msgid ""
 "No I am not, Harriett just listened to your conversation with Elisabeth. And "
 "you, young lady, I will not allow you to travel anywhere!"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: The_Fellowship_of_the_Clay/scenarios/09_Recruiting_Harriett.cfg:449
+#: The_Fellowship_of_the_Clay/scenarios/09_Recruiting_Harriett.cfg:453
 msgid "You know that you can't prevent it, if I want to!"
 msgstr ""
 
 #. [message]: speaker=Elisabeth Porter
-#: The_Fellowship_of_the_Clay/scenarios/09_Recruiting_Harriett.cfg:453
+#: The_Fellowship_of_the_Clay/scenarios/09_Recruiting_Harriett.cfg:457
 msgid "Henry, let them inside!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: The_Fellowship_of_the_Clay/scenarios/09_Recruiting_Harriett.cfg:478
+#: The_Fellowship_of_the_Clay/scenarios/09_Recruiting_Harriett.cfg:482
 msgid ""
 "An old dwarvish supply tunnel...looks like the ceiling is going to fall down "
 "somewhen. I should better leave."
@@ -3305,99 +3310,99 @@ msgid ""
 msgstr ""
 
 #. [part]
-#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:24
+#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:25
 msgid ""
 "Going out to find out the reason for the noise, the fellowship noticed, that "
 "the village was threatened..."
 msgstr ""
 
 #. [unit]: type=Spearman, id=Volcyn
-#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:92
+#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:93
 msgid "Volcyn"
 msgstr ""
 
 #. [unit]: type=Dwarvish Fighter, id=Pelodrur
-#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:104
+#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:105
 msgid "Pelodrur"
 msgstr ""
 
 #. [unit]: type=Bowman, id=Herton
-#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:111
+#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:112
 msgid "Herton"
 msgstr ""
 
 #. [side]: id=Yeti, type=Yeti
-#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:127
+#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:128
 msgid "Dangers of the wilderness"
 msgstr ""
 
 #. [side]: id=Yeti, type=Yeti
-#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:130
+#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:131
 msgid "Raged Yeti"
 msgstr ""
 
 #. [side]: id=Denethros, type=Dwarvish Explorer
-#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:151
+#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:152
 msgid "Hostile dwarves"
 msgstr ""
 
 #. [side]: id=Denethros, type=Dwarvish Explorer
-#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:154
+#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:155
 msgid "Denethros"
 msgstr ""
 
 #. [objective]: condition=win
-#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:229
+#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:230
 msgid "Kill the raging yeti"
 msgstr ""
 
 #. [objective]: condition=win
-#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:233
+#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:234
 msgid "Find out the reason for yeti's pain"
 msgstr ""
 
 #. [objective]: condition=lose
-#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:237
-#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:533
+#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:238
+#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:534
 #: The_Fellowship_of_the_Clay/scenarios/12_Dragnet_Operation.cfg:128
 #: The_Fellowship_of_the_Clay/scenarios/12_Dragnet_Operation.cfg:390
-#: The_Fellowship_of_the_Clay/scenarios/14_Dark_Walks-Walks_about_Darkness.cfg:168
+#: The_Fellowship_of_the_Clay/scenarios/14_Dark_Walks-Walks_about_Darkness.cfg:169
 msgid "Death of one of your heroes"
 msgstr ""
 
 #. [objective]: condition=lose
-#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:241
-#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:537
+#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:242
+#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:538
 #: The_Fellowship_of_the_Clay/scenarios/12_Dragnet_Operation.cfg:132
 #: The_Fellowship_of_the_Clay/scenarios/12_Dragnet_Operation.cfg:394
 msgid "Death of a member of the Porter's family"
 msgstr ""
 
 #. [message]: speaker=Clyde
-#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:262
+#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:263
 msgid "Could anyone tell me what the reason for this noise was?"
 msgstr ""
 
 #. [message]: speaker=Yeti
-#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:270
+#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:271
 msgid "<i>Graaaaaaaaargh!</i>"
 msgstr ""
 
 #. [message]: speaker=Clyde
-#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:275
+#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:276
 msgid ""
 "Oh, the question just answered itself. This yeti seems to be incredibly "
 "angry, but why?"
 msgstr ""
 
 #. [message]: speaker=Legomir
-#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:279
+#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:280
 msgid ""
 "No, wait...it might just be that they are scared and fleeing from something?"
 msgstr ""
 
 #. [message]: speaker=Feyndwarf
-#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:283
+#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:284
 msgid ""
 "I don't say that we shouldn't find out what is going on but for the moment "
 "it really doesn't make a difference for what reason a Yeti wants to kill us. "
@@ -3405,19 +3410,19 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Elisabeth Porter
-#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:287
+#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:288
 msgid ""
 "You may use my keep to recruit soldiers - you'll need it more than I do."
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:304
+#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:305
 msgid ""
 "So, we were able to pacify this one - but what would scare a yeti like that?"
 msgstr ""
 
 #. [message]: speaker=Aryad
-#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:308
+#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:309
 msgid ""
 "I can see some smoke at the horizon. Yetis do not have problems with "
 "torches, but who would not be fearsome when faced with a forest on fire? And "
@@ -3425,19 +3430,19 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Feyndwarf
-#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:312
+#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:313
 msgid "Congratulations, Sir Hawkeye. Well, then let's go and stop the fire."
 msgstr ""
 
 #. [message]: speaker=Clyde
 #. [message]: speaker=unit
-#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:331
-#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:337
+#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:332
+#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:338
 msgid "You there, with the torch - have you set this blaze?"
 msgstr ""
 
 #. [message]: speaker=Denethros
-#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:343
+#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:344
 msgid ""
 "Yes, this was me and if that didn't help, I need to stop you by myself! I "
 "heard about your presumptuous plans! At least <b>I</b> know the stories "
@@ -3447,13 +3452,13 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Harriett Porter
-#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:476
-#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:613
+#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:477
+#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:614
 msgid "Oh, I'm so glad that we finally finished this fire off!"
 msgstr ""
 
 #. [message]: speaker=Clyde
-#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:497
+#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:498
 msgid ""
 "But it would be a really bad idea to leave this mad dwarf and his friends "
 "behind us, they would just try to assassinate us. <small> Although his soul "
@@ -3462,14 +3467,14 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Clyde
-#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:506
+#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:507
 msgid ""
 "When this stranger is even driving sturdy dwarves to madness, the threat is "
 "even bigger for us!"
 msgstr ""
 
 #. [message]: speaker=Elisabeth Porter
-#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:510
+#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:511
 msgid ""
 "We've to put out the fire quickly before every being in this forest is "
 "attacking us in fear! We've got a well in Mountainhigh, there your soldiers "
@@ -3477,14 +3482,14 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Harriett Porter
-#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:515
+#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:516
 msgid ""
 "If I may note, destiny gave me the ability to teleport also the people "
 "around me to one of our villages."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:520
+#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:521
 msgid ""
 "To teleport a unit using Harriett's powers, move the unit you want to be "
 "teleported next to her. Then choose 'Teleport this unit' in the right-click "
@@ -3495,17 +3500,17 @@ msgid ""
 msgstr ""
 
 #. [objective]: condition=win
-#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:525
+#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:526
 msgid "Defeat Denethros"
 msgstr ""
 
 #. [objective]: condition=win
-#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:529
+#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:530
 msgid "Stop the fire"
 msgstr ""
 
 #. [objectives]
-#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:539
+#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:540
 msgid ""
 "Note: Richard, with or without Feyndwarf sitting on him, is able to block "
 "the fire's oxygen support. He will be hurt, though.\n"
@@ -3518,7 +3523,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Clyde
-#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:634
+#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:635
 msgid ""
 "But it would be a really bad idea to leave this mad dwarf and his friends "
 "behind us, they would just try to assassinate us. <small> Although his soul "
@@ -3527,52 +3532,52 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=unit
-#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:657
+#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:658
 msgid ""
 "A dwarvish supply tunnel - this explains how dwarves may live in "
 "Mountainhigh!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:667
+#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:668
 msgid ""
 "You saved your life - for now! But death will hunt down all of you, and then "
 "you'll wish I'd had succeeded!"
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:671
+#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:672
 msgid "This degree of insanity really makes me shutter..."
 msgstr ""
 
 #. [message]: speaker=Clyde
-#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:692
+#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:693
 msgid ""
 "<small> Although his soul was tortured to insanity, it makes me feel evil to "
 "have ordered his death - like if my inner light would get dimmed...</small>"
 msgstr ""
 
 #. [message]: speaker=Feyndwarf
-#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:696
+#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:697
 msgid ""
 "Eh, sorry to interrupt your thoughts, but we've got some burnin' trees "
 "around here, which should be put out."
 msgstr ""
 
 #. [message]: speaker=Henry Porter
-#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:705
+#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:706
 msgid ""
 "Harriett can make the travel to the north easier by just teleporting us to a "
 "human settlement, that will save a lot of time."
 msgstr ""
 
 #. [message]: speaker=Harriett Porter
-#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:710
+#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:711
 msgid "Goodbye mom, I'll miss you!"
 msgstr ""
 
 #. [message]: speaker=Henry Porter
-#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:759
+#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:760
 msgid ""
 "Elisabeth!! ... Although the pain will always stay, we have to go to let her "
 "death not be in vain..."
@@ -4291,22 +4296,22 @@ msgid ""
 msgstr ""
 
 #. [side]: type=Great Troll, type=Troll Hero, id=Bragh
-#: The_Fellowship_of_the_Clay/scenarios/14_Dark_Walks-Walks_about_Darkness.cfg:118
+#: The_Fellowship_of_the_Clay/scenarios/14_Dark_Walks-Walks_about_Darkness.cfg:119
 msgid "Trolls"
 msgstr ""
 
 #. [side]: type=Great Troll, type=Troll Hero, id=Bragh
-#: The_Fellowship_of_the_Clay/scenarios/14_Dark_Walks-Walks_about_Darkness.cfg:131
+#: The_Fellowship_of_the_Clay/scenarios/14_Dark_Walks-Walks_about_Darkness.cfg:132
 msgid "Bragh"
 msgstr ""
 
 #. [objective]: condition=win
-#: The_Fellowship_of_the_Clay/scenarios/14_Dark_Walks-Walks_about_Darkness.cfg:164
+#: The_Fellowship_of_the_Clay/scenarios/14_Dark_Walks-Walks_about_Darkness.cfg:165
 msgid "Get <i>all</i> of your troops to the eastern map edge"
 msgstr ""
 
 #. [objectives]
-#: The_Fellowship_of_the_Clay/scenarios/14_Dark_Walks-Walks_about_Darkness.cfg:170
+#: The_Fellowship_of_the_Clay/scenarios/14_Dark_Walks-Walks_about_Darkness.cfg:171
 msgid ""
 "Your keep will disappear after the first turn, so choose wisely.\n"
 "Clyde has to be the last one disappearing from the map.\n"
@@ -4315,22 +4320,22 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Harriett Porter
-#: The_Fellowship_of_the_Clay/scenarios/14_Dark_Walks-Walks_about_Darkness.cfg:301
+#: The_Fellowship_of_the_Clay/scenarios/14_Dark_Walks-Walks_about_Darkness.cfg:302
 msgid "Here we are, I teleported us to te place Bonie described to me."
 msgstr ""
 
 #. [message]: speaker=Bonie
-#: The_Fellowship_of_the_Clay/scenarios/14_Dark_Walks-Walks_about_Darkness.cfg:305
+#: The_Fellowship_of_the_Clay/scenarios/14_Dark_Walks-Walks_about_Darkness.cfg:306
 msgid "Now, I have to admit I have never been to my master's home myself..."
 msgstr ""
 
 #. [message]: speaker=Clyde
-#: The_Fellowship_of_the_Clay/scenarios/14_Dark_Walks-Walks_about_Darkness.cfg:309
+#: The_Fellowship_of_the_Clay/scenarios/14_Dark_Walks-Walks_about_Darkness.cfg:310
 msgid "...you would not play any tricks on us after we just saved you, right?"
 msgstr ""
 
 #. [message]: speaker=Bonie
-#: The_Fellowship_of_the_Clay/scenarios/14_Dark_Walks-Walks_about_Darkness.cfg:313
+#: The_Fellowship_of_the_Clay/scenarios/14_Dark_Walks-Walks_about_Darkness.cfg:314
 msgid ""
 "No no, we were about to move here shortly before he cursed me - he was "
 "surprised that some Elves had the courage to engage him and thus didn't like "
@@ -4340,43 +4345,43 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Clyde
-#: The_Fellowship_of_the_Clay/scenarios/14_Dark_Walks-Walks_about_Darkness.cfg:317
+#: The_Fellowship_of_the_Clay/scenarios/14_Dark_Walks-Walks_about_Darkness.cfg:318
 msgid ""
 "At least he is consistent with his preferences about his home! How did the "
 "Elves find him anyway?"
 msgstr ""
 
 #. [message]: speaker=Bonie
-#: The_Fellowship_of_the_Clay/scenarios/14_Dark_Walks-Walks_about_Darkness.cfg:321
+#: The_Fellowship_of_the_Clay/scenarios/14_Dark_Walks-Walks_about_Darkness.cfg:322
 msgid ""
 "He told them, where to bring the youngsters! After the Dwarves gave in "
 "without resistance, he was very sure that the Elves would do so too."
 msgstr ""
 
 #. [message]: speaker=Merdor
-#: The_Fellowship_of_the_Clay/scenarios/14_Dark_Walks-Walks_about_Darkness.cfg:325
+#: The_Fellowship_of_the_Clay/scenarios/14_Dark_Walks-Walks_about_Darkness.cfg:326
 msgid ""
 "Hm, that would explain why he played the double trick with the clay on the "
 "Humans..."
 msgstr ""
 
 #. [message]: speaker=Feyndwarf
-#: The_Fellowship_of_the_Clay/scenarios/14_Dark_Walks-Walks_about_Darkness.cfg:329
+#: The_Fellowship_of_the_Clay/scenarios/14_Dark_Walks-Walks_about_Darkness.cfg:330
 msgid "He also dealt with my people?"
 msgstr ""
 
 #. [message]: speaker=Bonie
-#: The_Fellowship_of_the_Clay/scenarios/14_Dark_Walks-Walks_about_Darkness.cfg:333
+#: The_Fellowship_of_the_Clay/scenarios/14_Dark_Walks-Walks_about_Darkness.cfg:334
 msgid "As far as I know - that was before my time, you know."
 msgstr ""
 
 #. [message]: speaker=Clyde
-#: The_Fellowship_of_the_Clay/scenarios/14_Dark_Walks-Walks_about_Darkness.cfg:337
+#: The_Fellowship_of_the_Clay/scenarios/14_Dark_Walks-Walks_about_Darkness.cfg:338
 msgid "So, where are we exactly then?"
 msgstr ""
 
 #. [message]: speaker=Bonie
-#: The_Fellowship_of_the_Clay/scenarios/14_Dark_Walks-Walks_about_Darkness.cfg:341
+#: The_Fellowship_of_the_Clay/scenarios/14_Dark_Walks-Walks_about_Darkness.cfg:342
 msgid ""
 "We are at least two day's marches afar from his place but we shouldn't have "
 "teleported any closer as the concentration of his minions wouldn't have "
@@ -4388,7 +4393,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Merdor
-#: The_Fellowship_of_the_Clay/scenarios/14_Dark_Walks-Walks_about_Darkness.cfg:345
+#: The_Fellowship_of_the_Clay/scenarios/14_Dark_Walks-Walks_about_Darkness.cfg:346
 msgid ""
 "Clyde, you don't think about engaging the troops here, right? Even by the "
 "most positive estimates about what would await us, we would be hopelessly "
@@ -4396,7 +4401,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Clyde
-#: The_Fellowship_of_the_Clay/scenarios/14_Dark_Walks-Walks_about_Darkness.cfg:349
+#: The_Fellowship_of_the_Clay/scenarios/14_Dark_Walks-Walks_about_Darkness.cfg:350
 msgid ""
 "I know. Though I definitely do not like the idea of letting undead walk "
 "towards our friends and families, our priorities must be to get to the "
@@ -4406,53 +4411,53 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Legomir
-#: The_Fellowship_of_the_Clay/scenarios/14_Dark_Walks-Walks_about_Darkness.cfg:416
+#: The_Fellowship_of_the_Clay/scenarios/14_Dark_Walks-Walks_about_Darkness.cfg:417
 msgid ""
 "Trolls. It is as if you would find them behind every mountain. I guess we "
 "have to fight our way past them if we want to avoid the undead army."
 msgstr ""
 
 #. [unit]: type=Dwarvish Fighter, id=Anigulos
-#: The_Fellowship_of_the_Clay/scenarios/14_Dark_Walks-Walks_about_Darkness.cfg:490
+#: The_Fellowship_of_the_Clay/scenarios/14_Dark_Walks-Walks_about_Darkness.cfg:491
 msgid "Anigulos"
 msgstr ""
 
 #. [unit]: type=Dwarvish Explorer, id=Eregusol
-#: The_Fellowship_of_the_Clay/scenarios/14_Dark_Walks-Walks_about_Darkness.cfg:500
+#: The_Fellowship_of_the_Clay/scenarios/14_Dark_Walks-Walks_about_Darkness.cfg:501
 msgid "Eregusol"
 msgstr ""
 
 #. [message]: speaker=Anigulos
-#: The_Fellowship_of_the_Clay/scenarios/14_Dark_Walks-Walks_about_Darkness.cfg:507
+#: The_Fellowship_of_the_Clay/scenarios/14_Dark_Walks-Walks_about_Darkness.cfg:508
 msgid ""
 "Hey there, we heard there're some undead marchin' through here, need a "
 "hammer?"
 msgstr ""
 
 #. [unit]: type=Troll, id=Gha
-#: The_Fellowship_of_the_Clay/scenarios/14_Dark_Walks-Walks_about_Darkness.cfg:516
+#: The_Fellowship_of_the_Clay/scenarios/14_Dark_Walks-Walks_about_Darkness.cfg:517
 msgid "Gha"
 msgstr ""
 
 #. [unit]: type=Troll Rocklobber, id=Bork
-#: The_Fellowship_of_the_Clay/scenarios/14_Dark_Walks-Walks_about_Darkness.cfg:527
+#: The_Fellowship_of_the_Clay/scenarios/14_Dark_Walks-Walks_about_Darkness.cfg:528
 msgid "Bork"
 msgstr ""
 
 #. [message]: speaker=Bork
-#: The_Fellowship_of_the_Clay/scenarios/14_Dark_Walks-Walks_about_Darkness.cfg:535
+#: The_Fellowship_of_the_Clay/scenarios/14_Dark_Walks-Walks_about_Darkness.cfg:536
 msgid "Dwarves! I see dwarves! Die for invading this land!"
 msgstr ""
 
 #. [message]: speaker=Clyde
-#: The_Fellowship_of_the_Clay/scenarios/14_Dark_Walks-Walks_about_Darkness.cfg:573
+#: The_Fellowship_of_the_Clay/scenarios/14_Dark_Walks-Walks_about_Darkness.cfg:574
 msgid ""
 "Seems we have no one left here. To the next task, then! We should be quite "
 "close now."
 msgstr ""
 
 #. [message]: speaker=Clyde
-#: The_Fellowship_of_the_Clay/scenarios/14_Dark_Walks-Walks_about_Darkness.cfg:589
+#: The_Fellowship_of_the_Clay/scenarios/14_Dark_Walks-Walks_about_Darkness.cfg:590
 msgid ""
 "No, I will not flee and leave my brave soldiers alone here. I will be the "
 "last to move on."
@@ -4461,7 +4466,7 @@ msgstr ""
 #. [scenario]: id=15_Army_of_Darkness
 #. [side]: id=Ethel, type=Draug
 #: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:16
-#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:87
+#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:88
 msgid "Army of Darkness"
 msgstr ""
 
@@ -4474,75 +4479,75 @@ msgid ""
 msgstr ""
 
 #. [side]: id=Ethel, type=Draug
-#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:91
+#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:92
 msgid "Ethel"
 msgstr ""
 
 #. [message]: speaker=Clyde
-#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:205
+#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:206
 msgid ""
 "I think that is enough now. The flood has given the river an alternative "
 "bed, so the water will pour in here until the abyss becomes a lake."
 msgstr ""
 
 #. [message]: speaker=Feyndwarf
-#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:209
+#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:210
 msgid ""
 "Yeah, that's true. But our primary goal is to kill that damned necromancer, "
 "and we saw him disappearing."
 msgstr ""
 
 #. [message]: speaker=Clyde
-#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:213
+#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:214
 msgid ""
 "Those three towers we see on the horizon in the north where the Stranger "
 "headed are certainly the place of the expected confrontation."
 msgstr ""
 
 #. [message]: speaker=Clyde
-#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:217
+#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:218
 msgid ""
 "Well, now where we have dealt with that, we can finally get this stranger!"
 msgstr ""
 
 #. [label]
-#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:241
+#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:242
 msgid "Eternal Gap"
 msgstr ""
 
 #. [label]
-#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:245
+#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:246
 msgid "Barrage"
 msgstr ""
 
 #. [label]
-#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:249
+#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:250
 msgid "Mount Lava"
 msgstr ""
 
 #. [label]
-#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:253
+#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:254
 msgid "Haunt"
 msgstr ""
 
 #. [objective]: condition=win
-#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:319
-#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:450
+#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:320
+#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:451
 msgid "Dump the rock into the lava"
 msgstr ""
 
 #. [message]: speaker=Clyde
-#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:331
+#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:332
 msgid "We slipped through the undead hordes..."
 msgstr ""
 
 #. [message]: speaker=Clyde
-#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:335
+#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:336
 msgid "...just to arrive at their spring. Look, there, the Stranger!"
 msgstr ""
 
 #. [message]: speaker=Familiar Stranger
-#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:339
+#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:340
 msgid ""
 "The bones got rolling! Everything developed as planned. The pitiful humans "
 "will either be corrupted or cease to exist forever! After them, no living "
@@ -4550,7 +4555,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Familiar Stranger
-#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:358
+#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:359
 msgid ""
 "Tearing open this abyss would not have been possible without the corruption "
 "of the other races - I can feel my powers swell! Already, every other "
@@ -4560,7 +4565,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Merdor
-#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:387
+#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:388
 msgid ""
 "It looks like he just committed his troops. We somehow have to close that "
 "abyss - otherwise undead will pour out forever - even if we defeat the "
@@ -4568,12 +4573,12 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Feyndwarf
-#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:391
+#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:392
 msgid "Hum, let's see... we somehow gotta block that abyss there."
 msgstr ""
 
 #. [message]: speaker=Feyndwarf
-#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:401
+#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:402
 msgid ""
 "That lava stream over there could be helpful, couldn't it? We could dump "
 "that rock into it - the lava would flow to the lowest point and regorge into "
@@ -4581,7 +4586,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Lorelei
-#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:407
+#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:408
 msgid ""
 "I fear that this might not do the trick as the lava alone might just vanish "
 "in that gap. But we could add the water from the lake in the south. If we "
@@ -4590,7 +4595,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Clyde
-#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:411
+#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:412
 msgid ""
 "It sounds like a plan but I see three problems here: First, we have to dumb "
 "that pretty big rock into the lava, second we somehow have to blow up the "
@@ -4599,7 +4604,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=legomir
-#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:415
+#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:416
 msgid ""
 "Obviously, they have the instruction to move out. Only if we attract their "
 "intention they will engage us... I fear that dumping that lava into the "
@@ -4607,7 +4612,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Merdor
-#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:419
+#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:420
 msgid ""
 "True! I <b>strongly</b> suggest that we try to get someone to the lake "
 "before we dump the rock into the lava. Only by carrying out both parts of "
@@ -4617,7 +4622,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Feyndwarf
-#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:423
+#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:424
 msgid ""
 "For the barrage, I have just the right kind of explosive. Everyone can use "
 "it so I might try out my runic hammer on that rock and show it who's in "
@@ -4625,26 +4630,26 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Merdor
-#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:427
+#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:428
 msgid ""
 "That might work, but that's a pretty big rock. I'll also see if I can move "
 "it with my magic, but alternatives would be very welcome."
 msgstr ""
 
 #. [message]: speaker=Clyde
-#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:431
+#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:432
 msgid ""
 "As nearly unknown magical creatures, unihorses may have surprising powers! "
 "Count Snow-White in!"
 msgstr ""
 
 #. [message]: speaker=Harriett Porter
-#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:435
+#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:436
 msgid "I volunteer to try if I can move the rock with my teleportation powers."
 msgstr ""
 
 #. [message]: speaker=Lorelei
-#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:445
+#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:446
 msgid ""
 "As I have the feeling that I might not be of much help with the rock, I "
 "should probably take Feyndwarf's explosive and take care of the barrage - "
@@ -4653,90 +4658,90 @@ msgid ""
 msgstr ""
 
 #. [objective]: condition=win
-#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:454
+#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:455
 msgid "Let Lorelei blow up the dam"
 msgstr ""
 
 #. [message]: speaker=Aryad
 #. [message]: speaker=Legomir
-#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:565
-#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:571
+#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:566
+#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:572
 msgid ""
 "Obviously, they have the instruction to move out unless they see us - seems "
 "like these are the groups of undead we encountered outside."
 msgstr ""
 
 #. [message]: speaker=Merdor
-#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:577
+#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:578
 msgid ""
 "Indeed. Seems like they haven't recognized we're here yet. Let's act fast, "
 "maybe we can finish the rock plan before we're attacked."
 msgstr ""
 
 #. [message]: speaker=Merdor
-#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:602
+#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:603
 msgid "I'll see what I can do here..."
 msgstr ""
 
 #. [message]: speaker=Merdor
-#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:617
+#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:618
 msgid ""
 "No, this damn rock isn't moving. We'll have to look for something else..."
 msgstr ""
 
 #. [message]: speaker=Feyndwarf
-#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:630
+#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:631
 msgid "Move, rock!"
 msgstr ""
 
 #. [message]: speaker=Feyndwarf
-#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:649
+#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:650
 msgid ""
 "No, the rock ain't movin'. If I'd hit harder, I'd shatter the rock all over "
 "the place."
 msgstr ""
 
 #. [message]: speaker=Cyde
-#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:675
+#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:676
 msgid "Go, Snow White!"
 msgstr ""
 
 #. [message]: speaker=Snow White
-#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:705
+#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:706
 msgid "Weeeee."
 msgstr ""
 
 #. [message]: speaker=Clyde
-#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:709
+#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:710
 msgid "Hum, seems like we have to use another alternative."
 msgstr ""
 
 #. [message]: speaker=Harriett Porter
-#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:722
+#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:723
 msgid "What works with people should also work with stones. Let's see..."
 msgstr ""
 
 #. [message]: speaker=Harriett Porter
-#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:770
+#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:771
 msgid ""
 "It worked! Now we should blow up the barrage as fast as we can or we have to "
 "deal with all the undead and there would be little hope to escape."
 msgstr ""
 
 #. [message]: speaker=Ethel
-#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:774
+#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:775
 msgid "Hey! Who is this? How did they get in here?"
 msgstr ""
 
 #. [message]: speaker=Clyde
-#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:796
+#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:797
 msgid ""
 "I doubt that the lava will suffice to block that abyss. There's a dam south "
 "of here, if we break it, water will flood it and solidify the lava faster."
 msgstr ""
 
 #. [message]: speaker=Lorelei
-#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:800
+#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:801
 msgid ""
 "I'm quite capable of doing this. However, you all should keep back a little, "
 "because water is flowing faster than lava and if we block each other, we'll "
@@ -4744,54 +4749,54 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Legomir
-#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:831
+#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:832
 msgid ""
 "Clyde was right, the lava is not enough. Hopefully Merdor's plan with the "
 "dam will work."
 msgstr ""
 
 #. [message]: speaker=Lorelei
-#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:880
-#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:956
+#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:881
+#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:957
 msgid ""
 "No, I will not blow up anything if someone is standing on top of the dam. I "
 "refuse to kill my allies."
 msgstr ""
 
 #. [message]: speaker=Lorelei
-#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:886
-#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:944
+#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:887
+#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:945
 msgid "Shall I blow this dam up now?"
 msgstr ""
 
 #. [option]: speaker=Lorelei
-#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:888
-#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:946
+#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:889
+#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:947
 msgid "Sure, go for it."
 msgstr ""
 
 #. [message]: speaker=Lorelei
-#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:898
+#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:899
 msgid ""
 "The others should throw the stone into the lava first. I should wait with "
 "this until they have finished."
 msgstr ""
 
 #. [message]: speaker=Lorelei
-#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:904
-#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:962
+#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:905
+#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:963
 msgid "Three, two, one, ignite the light!"
 msgstr ""
 
 #. [message]: speaker=Lorelei
-#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:913
-#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:971
+#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:914
+#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:972
 msgid "Hey, that was fun. I should do that more often!"
 msgstr ""
 
 #. [option]: speaker=Lorelei
-#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:920
-#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:978
+#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:921
+#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:979
 msgid "Hold on a minute."
 msgstr ""
 
