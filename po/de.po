@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: The_Fellowship_of_the_Clay-1.10\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2012-07-01 16:07-0400\n"
-"PO-Revision-Date: 2012-07-06 19:32+0100\n"
+"PO-Revision-Date: 2012-07-11 12:12+0100\n"
 "Last-Translator: Carsten <Carsten.Griesel@gmail.com>\n"
 "Language-Team: none\n"
 "Language: de\n"
@@ -6938,12 +6938,12 @@ msgid ""
 "SPECIAL_NOTE^ Silver Magi are well-attuned to their magical natures and are "
 "highly resistant to non-physical damage."
 msgstr ""
-"SPECIAL_NOTE^ Silberne Magier sind in den magischen Künsten derart geschult, "
-"dass sie einen besonders hohen Widerstand gegenüber nicht physischen "
-"Angriffen aufweisen. Diese Einheit verfügt über Angriffe magischer Natur, "
-"welche immer eine hohe Trefferwahrscheinlichkeit aufweisen. Durch die Magie "
-"der Bewegung ist es dieser Einheit möglich, im Bruchteil eines Augenblicks "
-"von einem in ein anderes eigenes und unbesetztes Dorf zu springen."
+"Silberne Magier sind in den magischen Künsten derart geschult, dass sie "
+"einen besonders hohen Widerstand gegenüber nicht physischen Angriffen "
+"aufweisen. Diese Einheit verfügt über Angriffe magischer Natur, welche immer "
+"eine hohe Trefferwahrscheinlichkeit aufweisen. Durch die Magie der Bewegung "
+"ist es dieser Einheit möglich, im Bruchteil eines Augenblicks von einem in "
+"ein anderes eigenes und unbesetztes Dorf zu springen."
 
 #. [attack]: type=fire
 #: The_Fellowship_of_the_Clay/units/Harriett-lvl2.cfg:53
@@ -7005,7 +7005,7 @@ msgstr "Feenfeuer"
 #. [unit_type]: id=Lord El'Isomithir, race=elf
 #: The_Fellowship_of_the_Clay/units/Isomithir.cfg:4
 msgid "Elvish Marshal"
-msgstr "Elfischer Marschal"
+msgstr "Elfenmarschal"
 
 #. [unit_type]: id=Lord El'Isomithir, race=elf
 #: The_Fellowship_of_the_Clay/units/Isomithir.cfg:27
@@ -7034,7 +7034,7 @@ msgstr "Langbogen"
 #. [unit_type]: id=Lady Dionli, race=elf
 #: The_Fellowship_of_the_Clay/units/Lady_Dionli.cfg:4
 msgid "female^Elvish Shyde"
-msgstr "female^Elvish Waldfee"
+msgstr "Waldfee"
 
 #. [unit_type]: id=Lady Dionli, race=elf
 #: The_Fellowship_of_the_Clay/units/Lady_Dionli.cfg:22
@@ -7267,7 +7267,7 @@ msgstr "Langbogen"
 #. [female]
 #: The_Fellowship_of_the_Clay/units/forest_guard.cfg:190
 msgid "female^Elvish Marksman"
-msgstr "female^elfen Langbogenschützin"
+msgstr "Elfenlangbogenschützin"
 
 #. [unit_type]: id=Elvish Forest Keeper, race=elf
 #: The_Fellowship_of_the_Clay/units/forest_keeper.cfg:4
@@ -7290,7 +7290,7 @@ msgstr ""
 #. [female]
 #: The_Fellowship_of_the_Clay/units/forest_keeper.cfg:194
 msgid "female^Elvish Sharpshooter"
-msgstr "female^elfen Scharfschützin"
+msgstr "Elfenscharfschützin"
 
 #. [unit_type]: id=Small Spider, race=monster
 #: The_Fellowship_of_the_Clay/units/smallspider.cfg:4
@@ -7400,7 +7400,7 @@ msgstr "Regeneration"
 #. [regenerate]: id=regenerates
 #: The_Fellowship_of_the_Clay/utils/abilities.cfg:213
 msgid "female^regenerates"
-msgstr "female^Regeneration"
+msgstr "Regeneration"
 
 #. [regenerate]: id=regenerates
 #: The_Fellowship_of_the_Clay/utils/abilities.cfg:214
