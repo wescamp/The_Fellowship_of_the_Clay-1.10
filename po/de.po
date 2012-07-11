@@ -62,6 +62,7 @@ msgstr "Hell-weißer Ritter des Lichts"
 
 #. [campaign]: id=The_Fellowship_of_the_Clay
 #: The_Fellowship_of_the_Clay/_main.cfg:28
+#, fuzzy
 msgid ""
 "Set right after 'The Rise of Wesnoth' and before 'Legend of Wesmere' and "
 "'Sceptre of Fire', the adventure tells the story of human's first capital on "
@@ -925,7 +926,7 @@ msgstr "Gebt uns euer Gold oder eure Schiffe werden nie wieder in See stechen!"
 #. [unit]: id=Zzix, type=Saurian Skirmisher
 #: The_Fellowship_of_the_Clay/scenarios/02_Magic_invitation.cfg:153
 msgid "Zzix"
-msgstr " Zzix "
+msgstr "Zzix"
 
 #. [unit]: id=Kasszix, type=Saurian Soothsayer
 #: The_Fellowship_of_the_Clay/scenarios/02_Magic_invitation.cfg:167
@@ -6932,7 +6933,7 @@ msgid ""
 "SPECIAL_NOTE^ Silver Magi are well-attuned to their magical natures and are "
 "highly resistant to non-physical damage."
 msgstr ""
-"Silberne Magier sind in den magischen Künsten derart geschult, dass sie "
+" Silberne Magier sind in den magischen Künsten derart geschult, dass sie "
 "einen besonders hohen Widerstand gegenüber nicht physischen Angriffen "
 "aufweisen. Diese Einheit verfügt über Angriffe magischer Natur, welche immer "
 "eine hohe Trefferwahrscheinlichkeit aufweisen. Durch die Magie der Bewegung "
