@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2012-07-01 16:07-0400\n"
+"POT-Creation-Date: 2012-07-11 15:22-0400\n"
 "PO-Revision-Date: 2012-05-30 23:38-0400\n"
 "Last-Translator: Lampslave\n"
 "Language-Team: none\n"
@@ -319,7 +319,7 @@ msgstr "Клайд"
 #: The_Fellowship_of_the_Clay/scenarios/12_Dragnet_Operation.cfg:61
 #: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:76
 #: The_Fellowship_of_the_Clay/scenarios/14_Dark_Walks-Walks_about_Darkness.cfg:100
-#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:74
+#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:73
 #: The_Fellowship_of_the_Clay/scenarios/16_The_three_Towers_of_Mount_Quake.cfg:64
 #: The_Fellowship_of_the_Clay/scenarios/17_In_Due_Time.cfg:74
 #: The_Fellowship_of_the_Clay/scenarios/17_In_Due_Time.cfg:99
@@ -2393,7 +2393,7 @@ msgstr "..."
 #. [unit]: id=Familiar Stranger, type=Dark Tradesman
 #. [unit]: type=Crow
 #: The_Fellowship_of_the_Clay/scenarios/07_Bad_news.cfg:338
-#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:107
+#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:106
 #: The_Fellowship_of_the_Clay/scenarios/16_The_three_Towers_of_Mount_Quake.cfg:154
 #: The_Fellowship_of_the_Clay/scenarios/18_Epilogue.cfg:35
 msgid "Familiar Stranger"
@@ -4630,7 +4630,7 @@ msgstr ""
 #. [scenario]: id=15_Army_of_Darkness
 #. [side]: id=Ethel, type=Draug
 #: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:16
-#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:88
+#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:87
 msgid "Army of Darkness"
 msgstr "Армия тьмы"
 
@@ -4643,33 +4643,33 @@ msgid ""
 msgstr ""
 
 #. [side]: id=Ethel, type=Draug
-#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:92
+#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:91
 msgid "Ethel"
 msgstr ""
 
 #. [message]: speaker=Clyde
-#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:206
+#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:205
 msgid ""
 "I think that is enough now. The flood has given the river an alternative "
 "bed, so the water will pour in here until the abyss becomes a lake."
 msgstr ""
 
 #. [message]: speaker=Feyndwarf
-#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:210
+#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:209
 msgid ""
 "Yeah, that's true. But our primary goal is to kill that damned necromancer, "
 "and we saw him disappearing."
 msgstr ""
 
 #. [message]: speaker=Clyde
-#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:214
+#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:213
 msgid ""
 "Those three towers we see on the horizon in the north where the Stranger "
 "headed are certainly the place of the expected confrontation."
 msgstr ""
 
 #. [message]: speaker=Clyde
-#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:218
+#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:217
 msgid ""
 "Well, now where we have dealt with that, we can finally get this stranger!"
 msgstr ""
@@ -4921,7 +4921,6 @@ msgstr ""
 
 #. [message]: speaker=Lorelei
 #: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:881
-#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:957
 msgid ""
 "No, I will not blow up anything if someone is standing on top of the dam. I "
 "refuse to kill my allies."
@@ -4929,13 +4928,11 @@ msgstr ""
 
 #. [message]: speaker=Lorelei
 #: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:887
-#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:945
 msgid "Shall I blow this dam up now?"
 msgstr ""
 
 #. [option]: speaker=Lorelei
 #: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:889
-#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:947
 msgid "Sure, go for it."
 msgstr ""
 
@@ -4948,19 +4945,16 @@ msgstr ""
 
 #. [message]: speaker=Lorelei
 #: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:905
-#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:963
 msgid "Three, two, one, ignite the light!"
 msgstr ""
 
 #. [message]: speaker=Lorelei
 #: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:914
-#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:972
 msgid "Hey, that was fun. I should do that more often!"
 msgstr ""
 
 #. [option]: speaker=Lorelei
 #: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:921
-#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:979
 msgid "Hold on a minute."
 msgstr ""
 
@@ -5430,49 +5424,49 @@ msgid ""
 msgstr ""
 
 #. [message]: race=elf
-#: The_Fellowship_of_the_Clay/scenarios/17_In_Due_Time.cfg:470
+#: The_Fellowship_of_the_Clay/scenarios/17_In_Due_Time.cfg:481
 msgid ""
 "We are here to honor our alliance with the humans and help fight on your "
 "side. Lord Aryad sends his regards!"
 msgstr ""
 
 #. [message]: speaker=Haldric II
-#: The_Fellowship_of_the_Clay/scenarios/17_In_Due_Time.cfg:474
+#: The_Fellowship_of_the_Clay/scenarios/17_In_Due_Time.cfg:485
 msgid ""
 "Your support is very much appreciated as you would have guessed when locking "
 "around."
 msgstr ""
 
 #. [message]: speaker=Ilonar
-#: The_Fellowship_of_the_Clay/scenarios/17_In_Due_Time.cfg:483
+#: The_Fellowship_of_the_Clay/scenarios/17_In_Due_Time.cfg:494
 msgid ""
 "There's a relatively simple way to quicken this battle: unleash the dragon!"
 msgstr ""
 
 #. [message]: speaker=Skeledragon
-#: The_Fellowship_of_the_Clay/scenarios/17_In_Due_Time.cfg:521
+#: The_Fellowship_of_the_Clay/scenarios/17_In_Due_Time.cfg:532
 msgid "<b>ROAAAAR!</b>"
 msgstr ""
 
 #. [event]: id=Aquaille
-#: The_Fellowship_of_the_Clay/scenarios/17_In_Due_Time.cfg:538
+#: The_Fellowship_of_the_Clay/scenarios/17_In_Due_Time.cfg:549
 msgid "Aquaille"
 msgstr ""
 
 #. [message]: speaker=Aquaille
-#: The_Fellowship_of_the_Clay/scenarios/17_In_Due_Time.cfg:552
+#: The_Fellowship_of_the_Clay/scenarios/17_In_Due_Time.cfg:563
 msgid ""
 "We were told there would be trouble here, so these warriors were called to "
 "help. Not in vain, as I see."
 msgstr ""
 
 #. [message]: speaker=Clyde
-#: The_Fellowship_of_the_Clay/scenarios/17_In_Due_Time.cfg:559
+#: The_Fellowship_of_the_Clay/scenarios/17_In_Due_Time.cfg:570
 msgid "So this was it. Wehlot's destruction has been averted."
 msgstr ""
 
 #. [message]: speaker=Clyde
-#: The_Fellowship_of_the_Clay/scenarios/17_In_Due_Time.cfg:572
+#: The_Fellowship_of_the_Clay/scenarios/17_In_Due_Time.cfg:583
 msgid ""
 "The undead have reached the statue! If they break it, this city will be "
 "destroyed instantly-"
