@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: The_Fellowship_of_the_Clay-1.10\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2012-07-11 15:22-0400\n"
-"PO-Revision-Date: 2012-07-11 12:12+0100\n"
+"PO-Revision-Date: 2012-07-13 00:01+0100\n"
 "Last-Translator: Carsten <Carsten.Griesel@gmail.com>\n"
 "Language-Team: none\n"
 "Language: de\n"
@@ -58,7 +58,7 @@ msgstr "(schwer)"
 #: The_Fellowship_of_the_Clay/_main.cfg:26
 #: The_Fellowship_of_the_Clay/units/Clyde_lev4.cfg:4
 msgid "Bright White Knight of the Light"
-msgstr "Hell-weißer Ritter des Lichts"
+msgstr "Heller, weißer Ritter des Lichts"
 
 #. [campaign]: id=The_Fellowship_of_the_Clay
 #: The_Fellowship_of_the_Clay/_main.cfg:28
@@ -403,10 +403,10 @@ msgstr ""
 "Oh doch, das seid ihr mein Lieber! Und ich möchte die Fertigstellung Wehlots "
 "zusammen mit den Elfen und Zwergen feiern. Eigentlich wären das Meerfolk "
 "auch herzlich willkommen, aber ich fürchte, wir haben keinen Anhaltspunkt, "
-"wie wir sie kontaktieren. Jedenfalls will ich alle Einladen und jeder soll "
+"wie wir sie kontaktieren. Jedenfalls will ich alle einladen und jeder soll "
 "wissen, dass er in dieser Stadt willkommen ist. Auch wenn ich nicht weiß, ob "
 "es realistisch ist, wäre es großartig, wenn einige hier mit uns leben wollen "
-"würden. Nur durch einen solchen, langanhaltenden Interkulturellen Austausch "
+"würden. Nur durch einen solchen, langanhaltenden interkulturellen Austausch "
 "können wir hoffen uns besser kennenzulernen und wahre Freunde und Verbündete "
 "zu werden."
 
@@ -425,7 +425,7 @@ msgid ""
 "think??"
 msgstr ""
 "Du hast das bis jetzt tadellos bewerkstelligt. Aber da die "
-"Verteidigungsanlagen nun fast  fertiggestellt sind, kann ich unsere Truppen "
+"Verteidigungsanlagen nun fast fertiggestellt sind, kann ich unsere Truppen "
 "wohl auch ohne deine Hilfe führen. Denkst du nicht?!?"
 
 #. [message]: speaker=Clyde
@@ -627,7 +627,7 @@ msgid ""
 "click menu."
 msgstr ""
 "Ihr seid nun in der Lage, auf sie aufzusitzen. Um dies zu tun, müsst ihr "
-"direkt neben ihr stehen und dann ‘Aufsitzen‘ im Rechtsklick-Menü wählen."
+"direkt neben ihr stehen und dann 'Aufsitzen' im Rechtsklick-Menü wählen."
 
 #. [message]: speaker=Stable Lad
 #: The_Fellowship_of_the_Clay/scenarios/01_The_assignment.cfg:402
@@ -647,8 +647,8 @@ msgid ""
 "will lose one move point when mounting and two when dismounting."
 msgstr ""
 "Nach dem Absitzen sind alle eure Bewegungspunkte verbraucht, aber ihr könnt "
-"noch Angreifen.Schneewittchen verliert ein Bewegungspunkt beim Aufsitzen und "
-"zwei beim Absitzen. "
+"noch Angreifen. Schneewittchen verliert ein Bewegungspunkt beim Aufsitzen "
+"und zwei beim Absitzen. "
 
 #. [message]: speaker=Stable Lad
 #: The_Fellowship_of_the_Clay/scenarios/01_The_assignment.cfg:410
@@ -662,9 +662,9 @@ msgstr ""
 "Schneewittchen ist eine Level zwei Kreatur und wird es auch immer bleiben. "
 "Allerdings kann sie ihre Gesundheit oder ihre Angriffsstärke erhöhen, wenn "
 "sie volle Erfahrung hat. Wenn ihr allerdings aufgesessen seid, werden "
-"jegliche Erfahrungspunktexperience. <b>Clyde's</b> angerechnet. Also wird "
-"Schneewittchen nach dem Absitzen den gleichen  Erfahrungstand haben, wie "
-"<b>VOR dem Aufsitzen</b>."
+"jegliche Erfahrungspunkte <b>Clyde</b> angerechnet. Also wird Schneewittchen "
+"nach dem Absitzen den gleichen  Erfahrungstand haben, wie <b>VOR dem "
+"Aufsitzen</b>."
 
 #. [objectives]
 #: The_Fellowship_of_the_Clay/scenarios/01_The_assignment.cfg:413
@@ -675,7 +675,7 @@ msgstr "Neues Ziel: "
 #: The_Fellowship_of_the_Clay/scenarios/01_The_assignment.cfg:417
 msgid "Mount Snow-White by going next to her and go to right-click-menu"
 msgstr ""
-"Sitz auf Schneewittchen auf indem du dich neben sie stellst und ‘Aufsitzen‘ "
+"Sitz auf Schneewittchen auf indem du dich neben sie stellst und 'Aufsitzen' "
 "im Rechtsklick-Menü wählt"
 
 #. [objective]: condition=win
@@ -704,7 +704,7 @@ msgid ""
 "After having eaten some tiny purple flowers, Snow-White feels the power "
 "returning. She starts to run even faster than before."
 msgstr ""
-"Nachdem Schneewittchen einige kleine pinke Blume gegessen hat, fühlt sie, "
+"Nachdem Schneewittchen einige kleine pinke Blumen gegessen hat, fühlt sie, "
 "wie ihre Kräfte zurück kehren. Sie wird nun noch schneller galoppieren."
 
 #. [message]: speaker=narrator
@@ -984,7 +984,7 @@ msgid ""
 "happen to know?"
 msgstr ""
 "Lass dir dein helles Köpfchen nicht von solche oberflächlichen Fragen "
-"verdunkeln.Ich kennen ihn nun mal."
+"verdunkeln. Ich kennen ihn nun mal."
 
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/02_Magic_invitation.cfg:262
@@ -1035,7 +1035,7 @@ msgid ""
 "- and I like to know how the newly founded school is getting along."
 msgstr ""
 "Ja mein lieber Merdor, wir sind immer neugierig, was die Neuankömmlinge so "
-"treiben - - und uns interessiert, wie sich die neu gegründete Schule "
+"treiben - und uns interessiert, wie sich die neu gegründete Schule "
 "entwickelt."
 
 #. [message]: speaker=Merdor
@@ -6715,7 +6715,7 @@ msgid ""
 "addition to his extraordinary swordsmanship."
 msgstr ""
 "Clyde war schon immer der ideale Ritter aber durch seine Erfahrungen ist er "
-"schließlich zum 'Hell-weißen Ritter des Lichts' geworden. Dieser "
+"schließlich zum 'Hellen, weißen Ritter des Lichts' geworden. Dieser "
 "einzigartige Titel besagt bereits, dass er eine ganz schön strahlende "
 "Persöhnlichkeit ist. Natürlich mögen Kreaturen der Dunkelheit ihn ganz und "
 "gar nicht! Es empfiehlt sich, sich nicht von seiner Erscheinung blenden zu "
@@ -7173,11 +7173,11 @@ msgid ""
 "adventure, he has become the "
 msgstr ""
 "Clyde war schon immer der in jedem Aspekt ideale Ritter aber durch sein "
-"Abenteuer, wurde er der 'Hell-weiße Ritter des Lichts'. Dieser einzigartige "
-"Titel bezeugt bereits sein strahlendes Auftreten. Natürlich mögen ihn "
-"Kreaturen der Dunkelheit deshalb überhaupt nicht. Aber lasst euch nicht von "
-"seiner Helligkeit blenden, er ist der ultimative Alleskönner auf dem "
-"Schlachtfeld. Auch wenn seine Magieatacke nicht ganz an die der weißen "
+"Abenteuer, wurde er der 'Helle, weiße Ritter des Lichts'. Dieser "
+"einzigartige Titel bezeugt bereits sein strahlendes Auftreten. Natürlich "
+"mögen ihn Kreaturen der Dunkelheit deshalb überhaupt nicht. Aber lasst euch "
+"nicht von seiner Helligkeit blenden, er ist der ultimative Alleskönner auf "
+"dem Schlachtfeld. Auch wenn seine Magieatacke nicht ganz an die der weißen "
 "Magier herran reicht, ist es eine nützliche Beigabe zu seinen "
 "außergewöhnlichen Schwertkünsten."
 
