@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2012-07-11 15:22-0400\n"
+"POT-Creation-Date: 2012-07-17 15:37-0400\n"
 "PO-Revision-Date: 2012-05-30 23:38-0400\n"
 "Last-Translator: Lampslave\n"
 "Language-Team: none\n"
@@ -32,7 +32,8 @@ msgstr "Светлый рыцарь"
 
 #. [campaign]: id=The_Fellowship_of_the_Clay
 #: The_Fellowship_of_the_Clay/_main.cfg:24
-msgid "(easiest)"
+#, fuzzy
+msgid "(easy)"
 msgstr "(легко)"
 
 #. [campaign]: id=The_Fellowship_of_the_Clay
@@ -49,7 +50,8 @@ msgstr "Сияющий рыцарь"
 
 #. [campaign]: id=The_Fellowship_of_the_Clay
 #: The_Fellowship_of_the_Clay/_main.cfg:26
-msgid "(hardest)"
+#, fuzzy
+msgid "(hard)"
 msgstr "(сложно)"
 
 #. [campaign]: id=The_Fellowship_of_the_Clay
@@ -77,7 +79,7 @@ msgid ""
 "- Dialogue options that change the run of events\n"
 "- Detailed story with a lot of canon references (Wesnoth and general "
 "culture)\n"
-"- Complete in Englsih and German, Russian in progress\n"
+"- Complete in English and German, Russian in progress\n"
 "For bug reports, suggestions, comments and change notes, please visit the "
 "Fellowship of the Clay thread in the forum: http://r.wesnoth.org/t31932"
 msgstr ""
@@ -524,6 +526,7 @@ msgstr "Смерть крестьянина или охотника"
 
 #. [objective]: condition=lose
 #: The_Fellowship_of_the_Clay/scenarios/01_The_assignment.cfg:337
+#: The_Fellowship_of_the_Clay/scenarios/02_Magic_invitation.cfg:48
 msgid "Turns run out"
 msgstr "Время вышло"
 
@@ -669,8 +672,7 @@ msgstr ""
 msgid ""
 "Mounted Clyde's movement was increased to 9!\n"
 "Snow Whites movement was increased to 10!"
-msgstr ""
-"Теперь у Метели 10 очков передвижения, а с всадником на спине — 9."
+msgstr "Теперь у Метели 10 очков передвижения, а с всадником на спине — 9."
 
 #. [unit]: type=Ghost, id=Ghost
 #: The_Fellowship_of_the_Clay/scenarios/01_The_assignment.cfg:502
@@ -704,9 +706,9 @@ msgid ""
 "Now lets go to Alduin, to invite Merdor the Mage! I have heard that there is "
 "a small city next to it, where we can go by ship to Alduin."
 msgstr ""
-"Отправляемся на Алдуин, чтобы пригласить мага Мердора! Я слышал, на побережье "
-"есть небольшой город, там мы сможем нанять корабль, который отвезёт нас на "
-"остров Алдуин."
+"Отправляемся на Алдуин, чтобы пригласить мага Мердора! Я слышал, на "
+"побережье есть небольшой город, там мы сможем нанять корабль, который "
+"отвезёт нас на остров Алдуин."
 
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/01_The_assignment.cfg:556
@@ -783,11 +785,6 @@ msgstr "Доберитесь до крепости Черноводья и да�
 msgid "Death of Clyde or Snow-white"
 msgstr "Смерть Клайда или Метели"
 
-#. [objective]: condition=lose
-#: The_Fellowship_of_the_Clay/scenarios/02_Magic_invitation.cfg:48
-msgid "Turn runs out"
-msgstr "Время вышло"
-
 #. [side]: type=Mounted Knight of the Light, id=Clyde
 #. [unit]: type=$mclyde_type, id=Clyde, role=$stored_clyde.role
 #: The_Fellowship_of_the_Clay/scenarios/02_Magic_invitation.cfg:66
@@ -851,8 +848,9 @@ msgstr "Игого!"
 #. [message]: speaker=narrator
 #: The_Fellowship_of_the_Clay/scenarios/02_Magic_invitation.cfg:130
 msgid "Clyde is able to dismount after he makes another step!"
-msgstr "Клайд сможет сойти с седла после того, как его лошадь сделает хотя бы "
-"один шаг!"
+msgstr ""
+"Клайд сможет сойти с седла после того, как его лошадь сделает хотя бы один "
+"шаг!"
 
 #. [message]: speaker=Athearrec
 #: The_Fellowship_of_the_Clay/scenarios/02_Magic_invitation.cfg:134
@@ -915,8 +913,9 @@ msgstr "Балоа"
 #. [message]: speaker=Lorelei
 #: The_Fellowship_of_the_Clay/scenarios/02_Magic_invitation.cfg:250
 msgid "Hi Clyde, I see you could use some help with those who wrack the sea."
-msgstr "Привет, Клайд! Похоже, тебе пригодится наша помощь в борьбе против "
-"этих морских разбойников."
+msgstr ""
+"Привет, Клайд! Похоже, тебе пригодится наша помощь в борьбе против этих "
+"морских разбойников."
 
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/02_Magic_invitation.cfg:254
@@ -929,8 +928,8 @@ msgid ""
 "Don't let your lucid mind get dimmed by such superficial questions - I just "
 "happen to know?"
 msgstr ""
-"Не забивай свою ясную голову столь несущественными попросами. Я просто знаю и "
-"всё."
+"Не забивай свою ясную голову столь несущественными попросами. Я просто знаю "
+"и всё."
 
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/02_Magic_invitation.cfg:262
@@ -988,8 +987,8 @@ msgid ""
 "Yes, yes, the school is doing well... Yikes! There are dead Nagas on the "
 "coast! Have you seen them? They could have sunken my ship!"
 msgstr ""
-"Спасибо, у нас всё хорошо... Ой! Там на песке мертвые наги! Вы видели их? Они "
-"могли потопить мой корабль!"
+"Спасибо, у нас всё хорошо... Ой! Там на песке мертвые наги! Вы видели их? "
+"Они могли потопить мой корабль!"
 
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/02_Magic_invitation.cfg:342
@@ -1035,8 +1034,8 @@ msgid ""
 "has a harbor."
 msgstr ""
 "Хорошо, это экономит мне время. Вы можете вернуться на свой корабль и "
-"продолжить путь по реке, что находится к югу отсюда. Она приведёт Вас прямо в "
-"Вехлот, там теперь и гавань есть."
+"продолжить путь по реке, что находится к югу отсюда. Она приведёт Вас прямо "
+"в Вехлот, там теперь и гавань есть."
 
 #. [message]: speaker=Merdor
 #: The_Fellowship_of_the_Clay/scenarios/02_Magic_invitation.cfg:362
@@ -3124,7 +3123,7 @@ msgstr ""
 
 #. [part]
 #: The_Fellowship_of_the_Clay/scenarios/09_Recruiting_Harriett.cfg:73
-msgid "Eventualy, the Fellowship was approaching the Vally Merdor described."
+msgid "Eventualy, the Fellowship was approaching the valley Merdor described."
 msgstr ""
 
 #. [label]
@@ -3962,8 +3961,8 @@ msgid ""
 "Goodbye, traveler, <small>and have a nice meeting withh the walking bones, "
 "hehe.</small>"
 msgstr ""
-"Прощщай, путник, <small>приятной вссстречи с ходячими ссскелетами, хе-хе."
-"</small>"
+"Прощщай, путник, <small>приятной вссстречи с ходячими ссскелетами, хе-хе.</"
+"small>"
 
 #. [option]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/12_Dragnet_Operation.cfg:447
@@ -6082,7 +6081,7 @@ msgstr "Страж леса"
 #. [unit_type]: id=Elvish Forest Guard, race=elf
 #: The_Fellowship_of_the_Clay/units/forest_guard.cfg:20
 msgid ""
-"Some elves wnat to guard the woodlands even more than rangers, everybody "
+"Some elves want to guard the woodlands even more than rangers, everybody "
 "hurting a plant without an accepted explanation is immediately killed by an "
 "arrow, which will miss never, or cut in pieces by a sword faster than the "
 "eye is able to see it."
@@ -6475,3 +6474,6 @@ msgstr "Телепортировать сюда"
 #: The_Fellowship_of_the_Clay/utils/mounting.cfg:1131
 msgid "Cancel teleporting mode"
 msgstr "Отменить телепортацию"
+
+#~ msgid "Turn runs out"
+#~ msgstr "Время вышло"

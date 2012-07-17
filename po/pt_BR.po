@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: The_Fellowship_of_the_Clay-1.10\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2012-07-11 15:22-0400\n"
+"POT-Creation-Date: 2012-07-17 15:37-0400\n"
 "PO-Revision-Date: 2012-07-11 00:10+0100\n"
 "Last-Translator: rodrigo\n"
 "Language-Team: none\n"
@@ -33,7 +33,8 @@ msgstr "Cavaleiro Luzeiro"
 
 #. [campaign]: id=The_Fellowship_of_the_Clay
 #: The_Fellowship_of_the_Clay/_main.cfg:24
-msgid "(easiest)"
+#, fuzzy
+msgid "(easy)"
 msgstr "(fácil)"
 
 #. [campaign]: id=The_Fellowship_of_the_Clay
@@ -50,7 +51,8 @@ msgstr "Alveiro Cavaleiro Luzeiro"
 
 #. [campaign]: id=The_Fellowship_of_the_Clay
 #: The_Fellowship_of_the_Clay/_main.cfg:26
-msgid "(hardest)"
+#, fuzzy
+msgid "(hard)"
 msgstr "(difícil)"
 
 #. [campaign]: id=The_Fellowship_of_the_Clay
@@ -78,7 +80,7 @@ msgid ""
 "- Dialogue options that change the run of events\n"
 "- Detailed story with a lot of canon references (Wesnoth and general "
 "culture)\n"
-"- Complete in Englsih and German, Russian in progress\n"
+"- Complete in English and German, Russian in progress\n"
 "For bug reports, suggestions, comments and change notes, please visit the "
 "Fellowship of the Clay thread in the forum: http://r.wesnoth.org/t31932"
 msgstr ""
@@ -478,6 +480,7 @@ msgstr ""
 
 #. [objective]: condition=lose
 #: The_Fellowship_of_the_Clay/scenarios/01_The_assignment.cfg:337
+#: The_Fellowship_of_the_Clay/scenarios/02_Magic_invitation.cfg:48
 msgid "Turns run out"
 msgstr ""
 
@@ -700,11 +703,6 @@ msgstr ""
 #. [objective]: condition=lose
 #: The_Fellowship_of_the_Clay/scenarios/02_Magic_invitation.cfg:44
 msgid "Death of Clyde or Snow-white"
-msgstr ""
-
-#. [objective]: condition=lose
-#: The_Fellowship_of_the_Clay/scenarios/02_Magic_invitation.cfg:48
-msgid "Turn runs out"
 msgstr ""
 
 #. [side]: type=Mounted Knight of the Light, id=Clyde
@@ -2916,7 +2914,7 @@ msgstr ""
 
 #. [part]
 #: The_Fellowship_of_the_Clay/scenarios/09_Recruiting_Harriett.cfg:73
-msgid "Eventualy, the Fellowship was approaching the Vally Merdor described."
+msgid "Eventualy, the Fellowship was approaching the valley Merdor described."
 msgstr ""
 
 #. [label]
@@ -5857,7 +5855,7 @@ msgstr ""
 #. [unit_type]: id=Elvish Forest Guard, race=elf
 #: The_Fellowship_of_the_Clay/units/forest_guard.cfg:20
 msgid ""
-"Some elves wnat to guard the woodlands even more than rangers, everybody "
+"Some elves want to guard the woodlands even more than rangers, everybody "
 "hurting a plant without an accepted explanation is immediately killed by an "
 "arrow, which will miss never, or cut in pieces by a sword faster than the "
 "eye is able to see it."

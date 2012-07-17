@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: The_Fellowship_of_the_Clay-1.10\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2012-07-11 15:22-0400\n"
+"POT-Creation-Date: 2012-07-17 15:37-0400\n"
 "PO-Revision-Date: 2012-07-13 00:01+0100\n"
 "Last-Translator: Carsten <Carsten.Griesel@gmail.com>\n"
 "Language-Team: none\n"
@@ -33,7 +33,8 @@ msgstr "Ritter des Lichts"
 
 #. [campaign]: id=The_Fellowship_of_the_Clay
 #: The_Fellowship_of_the_Clay/_main.cfg:24
-msgid "(easiest)"
+#, fuzzy
+msgid "(easy)"
 msgstr "(leicht)"
 
 #. [campaign]: id=The_Fellowship_of_the_Clay
@@ -50,7 +51,8 @@ msgstr "Weißer Ritter des Lichts"
 
 #. [campaign]: id=The_Fellowship_of_the_Clay
 #: The_Fellowship_of_the_Clay/_main.cfg:26
-msgid "(hardest)"
+#, fuzzy
+msgid "(hard)"
 msgstr "(schwer)"
 
 #. [campaign]: id=The_Fellowship_of_the_Clay
@@ -79,7 +81,7 @@ msgid ""
 "- Dialogue options that change the run of events\n"
 "- Detailed story with a lot of canon references (Wesnoth and general "
 "culture)\n"
-"- Complete in Englsih and German, Russian in progress\n"
+"- Complete in English and German, Russian in progress\n"
 "For bug reports, suggestions, comments and change notes, please visit the "
 "Fellowship of the Clay thread in the forum: http://r.wesnoth.org/t31932"
 msgstr ""
@@ -559,6 +561,7 @@ msgstr "Tod eines Bauern"
 
 #. [objective]: condition=lose
 #: The_Fellowship_of_the_Clay/scenarios/01_The_assignment.cfg:337
+#: The_Fellowship_of_the_Clay/scenarios/02_Magic_invitation.cfg:48
 msgid "Turns run out"
 msgstr "Erreichen des Zuglimits"
 
@@ -831,11 +834,6 @@ msgstr ""
 #: The_Fellowship_of_the_Clay/scenarios/02_Magic_invitation.cfg:44
 msgid "Death of Clyde or Snow-white"
 msgstr "Tod von Schneewittchen"
-
-#. [objective]: condition=lose
-#: The_Fellowship_of_the_Clay/scenarios/02_Magic_invitation.cfg:48
-msgid "Turn runs out"
-msgstr "Erreichen des Zuglimits"
 
 #. [side]: type=Mounted Knight of the Light, id=Clyde
 #. [unit]: type=$mclyde_type, id=Clyde, role=$stored_clyde.role
@@ -3548,7 +3546,8 @@ msgstr ""
 
 #. [part]
 #: The_Fellowship_of_the_Clay/scenarios/09_Recruiting_Harriett.cfg:73
-msgid "Eventualy, the Fellowship was approaching the Vally Merdor described."
+#, fuzzy
+msgid "Eventualy, the Fellowship was approaching the valley Merdor described."
 msgstr ""
 "Schließlich erreichte die Gefolgschaft das Tal, welches Merdor beschrieben "
 "hatte."
@@ -7234,8 +7233,9 @@ msgstr "Elfischer Waldwächter"
 
 #. [unit_type]: id=Elvish Forest Guard, race=elf
 #: The_Fellowship_of_the_Clay/units/forest_guard.cfg:20
+#, fuzzy
 msgid ""
-"Some elves wnat to guard the woodlands even more than rangers, everybody "
+"Some elves want to guard the woodlands even more than rangers, everybody "
 "hurting a plant without an accepted explanation is immediately killed by an "
 "arrow, which will miss never, or cut in pieces by a sword faster than the "
 "eye is able to see it."
@@ -7697,3 +7697,6 @@ msgstr "Einheit hierher teleportieren"
 #: The_Fellowship_of_the_Clay/utils/mounting.cfg:1131
 msgid "Cancel teleporting mode"
 msgstr "Teleportationsmodus abbrechen"
+
+#~ msgid "Turn runs out"
+#~ msgstr "Erreichen des Zuglimits"
