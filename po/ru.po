@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2012-07-17 15:37-0400\n"
+"POT-Creation-Date: 2012-08-05 20:14-0400\n"
 "PO-Revision-Date: 2012-05-30 23:38-0400\n"
 "Last-Translator: Lampslave\n"
 "Language-Team: none\n"
@@ -15,54 +15,54 @@ msgstr ""
 
 #. [campaign]: id=The_Fellowship_of_the_Clay
 #. [editor_group]: id=TFotC
-#: The_Fellowship_of_the_Clay/_main.cfg:9
-#: The_Fellowship_of_the_Clay/_main.cfg:144
+#: The_Fellowship_of_the_Clay/_main.cfg:26
+#: The_Fellowship_of_the_Clay/_main.cfg:157
 msgid "The Fellowship of the Clay"
 msgstr ""
 
 #. [campaign]: id=The_Fellowship_of_the_Clay
-#: The_Fellowship_of_the_Clay/_main.cfg:19
+#: The_Fellowship_of_the_Clay/_main.cfg:36
 msgid "TFotC"
 msgstr ""
 
 #. [campaign]: id=The_Fellowship_of_the_Clay
-#: The_Fellowship_of_the_Clay/_main.cfg:24
+#: The_Fellowship_of_the_Clay/_main.cfg:41
 msgid "Knight of the Light "
 msgstr "Светлый рыцарь"
 
 #. [campaign]: id=The_Fellowship_of_the_Clay
-#: The_Fellowship_of_the_Clay/_main.cfg:24
+#: The_Fellowship_of_the_Clay/_main.cfg:41
 #, fuzzy
 msgid "(easy)"
 msgstr "(легко)"
 
 #. [campaign]: id=The_Fellowship_of_the_Clay
-#: The_Fellowship_of_the_Clay/_main.cfg:25
+#: The_Fellowship_of_the_Clay/_main.cfg:42
 msgid "(normal)"
 msgstr "(нормально)"
 
 #. [campaign]: id=The_Fellowship_of_the_Clay
 #. [unit_type]: id=White Knight of the Light, race=human
-#: The_Fellowship_of_the_Clay/_main.cfg:25
+#: The_Fellowship_of_the_Clay/_main.cfg:42
 #: The_Fellowship_of_the_Clay/units/Clyde_lev3.cfg:4
 msgid "White Knight of the Light"
 msgstr "Сияющий рыцарь"
 
 #. [campaign]: id=The_Fellowship_of_the_Clay
-#: The_Fellowship_of_the_Clay/_main.cfg:26
+#: The_Fellowship_of_the_Clay/_main.cfg:43
 #, fuzzy
 msgid "(hard)"
 msgstr "(сложно)"
 
 #. [campaign]: id=The_Fellowship_of_the_Clay
 #. [unit_type]: id=Bright White Knight of the Light, race=human
-#: The_Fellowship_of_the_Clay/_main.cfg:26
+#: The_Fellowship_of_the_Clay/_main.cfg:43
 #: The_Fellowship_of_the_Clay/units/Clyde_lev4.cfg:4
 msgid "Bright White Knight of the Light"
 msgstr "Ослепительный рыцарь"
 
 #. [campaign]: id=The_Fellowship_of_the_Clay
-#: The_Fellowship_of_the_Clay/_main.cfg:28
+#: The_Fellowship_of_the_Clay/_main.cfg:45
 msgid ""
 "Set right after 'The Rise of Wesnoth' and before 'Legend of Wesmere' and "
 "'Sceptre of Fire', the adventure tells the story of human's first capital on "
@@ -79,62 +79,48 @@ msgid ""
 "- Dialogue options that change the run of events\n"
 "- Detailed story with a lot of canon references (Wesnoth and general "
 "culture)\n"
-"- Complete in English and German, Russian in progress\n"
+"- Complete in English and German, Russian in progress, Brasilian Portuguese "
+"started\n"
 "For bug reports, suggestions, comments and change notes, please visit the "
 "Fellowship of the Clay thread in the forum: http://r.wesnoth.org/t31932"
 msgstr ""
 
 #. [about]
-#: The_Fellowship_of_the_Clay/_main.cfg:44
+#: The_Fellowship_of_the_Clay/_main.cfg:61
 msgid "programming, debugging and testing, maintenance"
 msgstr "программирование, отладка и тестирование, поддержка"
 
 #. [about]
-#: The_Fellowship_of_the_Clay/_main.cfg:51
+#: The_Fellowship_of_the_Clay/_main.cfg:68
 msgid "story, design"
 msgstr ""
 
 #. [about]
-#: The_Fellowship_of_the_Clay/_main.cfg:58
+#: The_Fellowship_of_the_Clay/_main.cfg:75
 msgid "WML help"
 msgstr "помощь с WML"
 
 #. [about]
-#: The_Fellowship_of_the_Clay/_main.cfg:64
+#: The_Fellowship_of_the_Clay/_main.cfg:81
 msgid "Lua help"
 msgstr "помощь с Lua"
 
 #. [about]
-#: The_Fellowship_of_the_Clay/_main.cfg:72
+#: The_Fellowship_of_the_Clay/_main.cfg:89
 msgid "ideas, suggestions, corrections, testing"
 msgstr "идеи, предложения, исправления, тестирование"
 
 #. [about]
-#: The_Fellowship_of_the_Clay/_main.cfg:78
+#: The_Fellowship_of_the_Clay/_main.cfg:95
 msgid "New images, portraits and sprites"
 msgstr ""
 
 #. [about]
-#: The_Fellowship_of_the_Clay/_main.cfg:87
+#: The_Fellowship_of_the_Clay/_main.cfg:104
 msgid ""
 "Other images, sprites and portraits taken from various versions of the "
 "following:"
 msgstr ""
-
-#. [about]
-#: The_Fellowship_of_the_Clay/_main.cfg:103
-msgid "Russian translation"
-msgstr "Перевод на русский язык"
-
-#. [about]
-#: The_Fellowship_of_the_Clay/_main.cfg:109
-msgid "German translation"
-msgstr "Перевод на немецкий язык"
-
-#. [about]
-#: The_Fellowship_of_the_Clay/_main.cfg:115
-msgid "Music"
-msgstr "Музыка"
 
 #. [scenario]: id=01_The_Assignment
 #: The_Fellowship_of_the_Clay/scenarios/01_The_assignment.cfg:5
@@ -523,12 +509,6 @@ msgstr "Смерть Метели"
 #: The_Fellowship_of_the_Clay/scenarios/01_The_assignment.cfg:333
 msgid "Death of Peasant"
 msgstr "Смерть крестьянина или охотника"
-
-#. [objective]: condition=lose
-#: The_Fellowship_of_the_Clay/scenarios/01_The_assignment.cfg:337
-#: The_Fellowship_of_the_Clay/scenarios/02_Magic_invitation.cfg:48
-msgid "Turns run out"
-msgstr "Время вышло"
 
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/01_The_assignment.cfg:357
@@ -5602,16 +5582,6 @@ msgstr ""
 msgid "holy sword"
 msgstr "священный меч"
 
-#. [attack]: type=arcane
-#: The_Fellowship_of_the_Clay/units/Clyde_lev2.cfg:62
-#: The_Fellowship_of_the_Clay/units/Clyde_lev3.cfg:63
-#: The_Fellowship_of_the_Clay/units/Clyde_lev4.cfg:65
-#: The_Fellowship_of_the_Clay/units/Mounted_Knight_lvl2.cfg:83
-#: The_Fellowship_of_the_Clay/units/Mounted_Knight_lvl3.cfg:82
-#: The_Fellowship_of_the_Clay/units/Mounted_Knight_lvl4.cfg:83
-msgid "lightbeam"
-msgstr "луч света"
-
 #. [unit_type]: id=Mounted White Knight of the Light, race=human
 #. [unit_type]: id=White Knight of the Light, race=human
 #: The_Fellowship_of_the_Clay/units/Clyde_lev3.cfg:18
@@ -5647,13 +5617,6 @@ msgid ""
 "Some tradesmen don't have a really good aura, and they seem mysterious. "
 "Nobody ever saw their faces."
 msgstr ""
-
-#. [attack]: type=impact
-#: The_Fellowship_of_the_Clay/units/Dark_Tradesman.cfg:22
-#: The_Fellowship_of_the_Clay/units/Harriett-lvl2.cfg:44
-#: The_Fellowship_of_the_Clay/units/Harriett-lvl3.cfg:46
-msgid "staff"
-msgstr "посох"
 
 #. [unit_type]: id=Elvish Ancestor, race=undead
 #: The_Fellowship_of_the_Clay/units/Elvish_Spirit_Ancestor.cfg:4
@@ -5715,11 +5678,6 @@ msgid ""
 msgstr ""
 
 #. [unit_type]: id=Dwarvish Arcanister TFotC, race=dwarf
-#: The_Fellowship_of_the_Clay/units/Feyndwarf_Arcanister.cfg:4
-msgid "Dwarvish Arcanister"
-msgstr "Чародей"
-
-#. [unit_type]: id=Dwarvish Arcanister TFotC, race=dwarf
 #: The_Fellowship_of_the_Clay/units/Feyndwarf_Arcanister.cfg:24
 msgid ""
 "The most powerful of all the runecrafters, the Dwarvish Arcanister destroys "
@@ -5731,21 +5689,6 @@ msgstr ""
 "врага; редко кому удаётся уйти от его ударов. Никто не превзойдёт его в "
 "рунических навыках; знаки, который он наносит на оружие и броню, отражают "
 "удары его врагов."
-
-#. [attack]: type=impact
-#: The_Fellowship_of_the_Clay/units/Feyndwarf_Arcanister.cfg:41
-#: The_Fellowship_of_the_Clay/units/Feyndwarf_Runemaster.cfg:40
-#: The_Fellowship_of_the_Clay/units/Feyndwarf_Runesmith.cfg:43
-#: The_Fellowship_of_the_Clay/units/Mounted_Feyndwarf_lvl2.cfg:51
-#: The_Fellowship_of_the_Clay/units/Mounted_Feyndwarf_lvl3.cfg:51
-#: The_Fellowship_of_the_Clay/units/Mounted_Feyndwarf_lvl4.cfg:51
-msgid "hammer"
-msgstr "молот"
-
-#. [unit_type]: id=Dwarvish Runemaster TFotC, race=dwarf
-#: The_Fellowship_of_the_Clay/units/Feyndwarf_Runemaster.cfg:4
-msgid "Dwarvish Runemaster"
-msgstr "Мастер рун"
 
 #. [unit_type]: id=Dwarvish Runemaster TFotC, race=dwarf
 #: The_Fellowship_of_the_Clay/units/Feyndwarf_Runemaster.cfg:23
@@ -5761,11 +5704,6 @@ msgstr ""
 "даром — ранг мастера рун. Они бьют не слабее лучших воинов, так что и без "
 "своего искусства были бы весьма опасны. С ним же они почти что неуязвимы: их "
 "руны изрядно уменьшают урон, наносимый физическими атаками."
-
-#. [unit_type]: id=Dwarvish Runesmith TFotC, race=dwarf
-#: The_Fellowship_of_the_Clay/units/Feyndwarf_Runesmith.cfg:4
-msgid "Dwarvish Runesmith"
-msgstr "Рунный кузнец"
 
 #. [unit_type]: id=Dwarvish Runesmith TFotC, race=dwarf
 #: The_Fellowship_of_the_Clay/units/Feyndwarf_Runesmith.cfg:26
@@ -5788,15 +5726,6 @@ msgstr "Король"
 #: The_Fellowship_of_the_Clay/units/Haldric_II.cfg:22
 msgid "King of Wesnoth."
 msgstr "Король Веснота."
-
-#. [attack]: type=blade
-#: The_Fellowship_of_the_Clay/units/Haldric_II.cfg:26
-#: The_Fellowship_of_the_Clay/units/High_Lord_Aryad.cfg:73
-#: The_Fellowship_of_the_Clay/units/Isomithir.cfg:46
-#: The_Fellowship_of_the_Clay/units/Logalmier.cfg:36
-#: The_Fellowship_of_the_Clay/units/Lord_Aryad.cfg:39
-msgid "sword"
-msgstr "меч"
 
 #. [unit_type]: id=Portal Mage, race=human
 #: The_Fellowship_of_the_Clay/units/Harriett-lvl2.cfg:4
@@ -5846,11 +5775,6 @@ msgid ""
 msgstr ""
 
 #. [unit_type]: id=High Lord Aryad, race=elf
-#: The_Fellowship_of_the_Clay/units/High_Lord_Aryad.cfg:4
-msgid "Elvish High Lord"
-msgstr "Верховный Лорд"
-
-#. [unit_type]: id=High Lord Aryad, race=elf
 #: The_Fellowship_of_the_Clay/units/High_Lord_Aryad.cfg:19
 msgid ""
 "The leaders of elvenkind command an instinctive loyalty from their people "
@@ -5862,44 +5786,6 @@ msgstr ""
 "подданных, что правители других рас могут им только завидовать; и этим "
 "влиянием они пользуются мудро и разумно. Спокойный и рассудительный в мирное "
 "время, в гневе Верховный Лорд внушает ужас."
-
-#. [attack]: type=arcane
-#: The_Fellowship_of_the_Clay/units/High_Lord_Aryad.cfg:82
-#: The_Fellowship_of_the_Clay/units/Lord_Aryad.cfg:48
-msgid "faerie fire"
-msgstr ""
-
-#. [unit_type]: id=Lord El'Isomithir, race=elf
-#: The_Fellowship_of_the_Clay/units/Isomithir.cfg:4
-msgid "Elvish Marshal"
-msgstr "Маршал"
-
-#. [unit_type]: id=Lord El'Isomithir, race=elf
-#: The_Fellowship_of_the_Clay/units/Isomithir.cfg:27
-msgid ""
-"The longevity and natural intelligence of elves make them apt for military "
-"matters, enough even to counter their general distaste for war. Elves "
-"remember things much more clearly than humankind, and can often intuit what "
-"others can only be trained to do. Certainly, on those rare occasions when an "
-"elf sets his mind to war, the strategy that results is often the work of a "
-"master."
-msgstr ""
-"Долголетие и природный ум помогают эльфам осваивать военное дело, невзирая "
-"на их нелюбовь к войне. Эльфийская память острее человеческой, и они часто "
-"интуитивно понимают то, чему другим приходится учиться. В тех редких "
-"случаях, когда эльф посвящает свои мысли военному делу, он непременно "
-"становится мастером стратегии."
-
-#. [attack]: type=pierce
-#: The_Fellowship_of_the_Clay/units/Isomithir.cfg:55
-#: The_Fellowship_of_the_Clay/units/Logalmier.cfg:45
-msgid "bow"
-msgstr "лук"
-
-#. [unit_type]: id=Lady Dionli, race=elf
-#: The_Fellowship_of_the_Clay/units/Lady_Dionli.cfg:4
-msgid "female^Elvish Shyde"
-msgstr "Шида"
 
 #. [unit_type]: id=Lady Dionli, race=elf
 #: The_Fellowship_of_the_Clay/units/Lady_Dionli.cfg:22
@@ -5913,57 +5799,6 @@ msgstr ""
 "эльфийскую женщину в существо двух миров. Мало кто может понять, какие силы "
 "движут этими прекрасными хранительницами эльфийских лесов, воплотившими в "
 "себе грацию и таинственность своего народа."
-
-#. [attack]: type=impact
-#: The_Fellowship_of_the_Clay/units/Lady_Dionli.cfg:41
-msgid "faerie touch"
-msgstr "касание феи"
-
-#. [attack]: type=impact
-#: The_Fellowship_of_the_Clay/units/Lady_Dionli.cfg:54
-msgid "ensnare"
-msgstr "заплетает"
-
-#. [attack]: type=pierce
-#: The_Fellowship_of_the_Clay/units/Lady_Dionli.cfg:66
-msgid "thorns"
-msgstr "шипы"
-
-#. [unit_type]: id=Lord Logalmier, race=elf
-#: The_Fellowship_of_the_Clay/units/Logalmier.cfg:4
-msgid "Elvish Champion"
-msgstr "Витязь"
-
-#. [unit_type]: id=Lord Logalmier, race=elf
-#: The_Fellowship_of_the_Clay/units/Logalmier.cfg:20
-msgid ""
-"Those few elves who deliberately hone themselves into weapons of war become "
-"something which belies the peace-loving reputation of their race. Dedication "
-"and skill are matched with purity of form, and the result is swordsmanship "
-"to which few can compare. Even their archery, treated as a secondary "
-"pursuit, is masterfully executed."
-msgstr ""
-"Из-за тех немногих эльфов, что сознательно сделали себя орудием войны, их "
-"расу незаслуженно лишили репутации миролюбивой. Безупречное сочетание "
-"самоотверженности и сноровки дали в результате такой уровень владения мечом, "
-"что мало кто может с ними сравнится. И даже луком, который считается у них "
-"второстепенным оружием, они владеют мастерски."
-
-#. [unit_type]: id=Lord Aryad, race=elf
-#: The_Fellowship_of_the_Clay/units/Lord_Aryad.cfg:4
-msgid "Elvish Lord"
-msgstr "Лорд эльфов"
-
-#. [unit_type]: id=Lord Aryad, race=elf
-#: The_Fellowship_of_the_Clay/units/Lord_Aryad.cfg:18
-msgid ""
-"The nobility of the elves are possessed of merit to match their standing in "
-"society. Elvish Lords are the wisest and strongest of their people, and are "
-"fearsome in their command of magic."
-msgstr ""
-"Благородство эльфийской знати — достоинство, определяющее их положение в "
-"обществе. Эльфийские Лорды — мудрейшие и сильнейшие среди своего народа, при "
-"этом им доступна и грозная магиия."
 
 #. [unit_type]: id=Mounted Runesmith, race=gryphon
 #: The_Fellowship_of_the_Clay/units/Mounted_Feyndwarf_lvl2.cfg:4
@@ -5981,15 +5816,6 @@ msgid ""
 "at first, he quickly learned how to do it, and now it is almost impossible "
 "to get him down on earth."
 msgstr ""
-
-#. [attack]: type=blade
-#: The_Fellowship_of_the_Clay/units/Mounted_Feyndwarf_lvl2.cfg:42
-#: The_Fellowship_of_the_Clay/units/Mounted_Feyndwarf_lvl3.cfg:42
-#: The_Fellowship_of_the_Clay/units/Mounted_Feyndwarf_lvl4.cfg:42
-#: The_Fellowship_of_the_Clay/units/NPC_Crow.cfg:36
-#: The_Fellowship_of_the_Clay/units/Richard.cfg:43
-msgid "claws"
-msgstr "когти"
 
 #. [unit_type]: id=Mounted Runemaster, race=gryphon
 #: The_Fellowship_of_the_Clay/units/Mounted_Feyndwarf_lvl3.cfg:4
@@ -6048,21 +5874,6 @@ msgstr ""
 msgid "beak"
 msgstr "клюв"
 
-#. [unit_type]: id=Gryphon, race=gryphon
-#: The_Fellowship_of_the_Clay/units/Richard.cfg:4
-msgid "Gryphon"
-msgstr "Грифон"
-
-#. [unit_type]: id=Gryphon, race=gryphon
-#: The_Fellowship_of_the_Clay/units/Richard.cfg:21
-msgid ""
-"These majestic and powerful creatures are masters of the sky. Gryphons are "
-"both dangerous and wary of other intelligent creatures, and thus should not "
-"be disturbed without a good reason."
-msgstr ""
-"Эти величественные и могучие создания господствуют в небе. Грифоны равно "
-"опасны и умны, поэтому не стоит их беспокоить без веской причины."
-
 #. [unit_type]: id=Unihorse, race=monster
 #: The_Fellowship_of_the_Clay/units/Unihorse.cfg:4
 msgid "Unihorse"
@@ -6087,25 +5898,6 @@ msgid ""
 "eye is able to see it."
 msgstr ""
 
-#. [attack]: type=blade
-#: The_Fellowship_of_the_Clay/units/forest_guard.cfg:64
-#: The_Fellowship_of_the_Clay/units/forest_keeper.cfg:63
-msgid "short sword"
-msgstr "короткий меч"
-
-#. [attack]: type=pierce
-#: The_Fellowship_of_the_Clay/units/forest_guard.cfg:73
-#: The_Fellowship_of_the_Clay/units/forest_guard.cfg:85
-#: The_Fellowship_of_the_Clay/units/forest_keeper.cfg:72
-#: The_Fellowship_of_the_Clay/units/forest_keeper.cfg:84
-msgid "longbow"
-msgstr "длинный лук"
-
-#. [female]
-#: The_Fellowship_of_the_Clay/units/forest_guard.cfg:190
-msgid "female^Elvish Marksman"
-msgstr "Стрелок"
-
 #. [unit_type]: id=Elvish Forest Keeper, race=elf
 #: The_Fellowship_of_the_Clay/units/forest_keeper.cfg:4
 msgid "Elvish Forest Keeper"
@@ -6120,11 +5912,6 @@ msgid ""
 "almost one with trees and plants."
 msgstr ""
 
-#. [female]
-#: The_Fellowship_of_the_Clay/units/forest_keeper.cfg:194
-msgid "female^Elvish Sharpshooter"
-msgstr "Снайперша"
-
 #. [unit_type]: id=Small Spider, race=monster
 #: The_Fellowship_of_the_Clay/units/smallspider.cfg:4
 msgid "Small Spider"
@@ -6138,16 +5925,6 @@ msgid ""
 "they are able to throw nets. Many dwarves and humans got killed by such a "
 "spider, missing its power."
 msgstr ""
-
-#. [attack]: type=blade
-#: The_Fellowship_of_the_Clay/units/smallspider.cfg:26
-msgid "fangs"
-msgstr "клыки"
-
-#. [attack]: type=impact
-#: The_Fellowship_of_the_Clay/units/smallspider.cfg:38
-msgid "web"
-msgstr "паутина"
 
 #: The_Fellowship_of_the_Clay/utils/abilities.cfg:4
 msgid ""
@@ -6200,16 +5977,6 @@ msgid ""
 "damage; L3 units will do 50% more, L2 will do 75% more, L1 units will do "
 "100% more and L0 units will do 125% more."
 msgstr ""
-
-#. [regenerate]: id=regenerates
-#: The_Fellowship_of_the_Clay/utils/abilities.cfg:212
-msgid "regenerates"
-msgstr "регенерирует"
-
-#. [regenerate]: id=regenerates
-#: The_Fellowship_of_the_Clay/utils/abilities.cfg:213
-msgid "female^regenerates"
-msgstr "регенерирует"
 
 #. [regenerate]: id=regenerates
 #: The_Fellowship_of_the_Clay/utils/abilities.cfg:214
@@ -6474,6 +6241,140 @@ msgstr "Телепортировать сюда"
 #: The_Fellowship_of_the_Clay/utils/mounting.cfg:1131
 msgid "Cancel teleporting mode"
 msgstr "Отменить телепортацию"
+
+#~ msgid "Russian translation"
+#~ msgstr "Перевод на русский язык"
+
+#~ msgid "German translation"
+#~ msgstr "Перевод на немецкий язык"
+
+#~ msgid "Music"
+#~ msgstr "Музыка"
+
+#~ msgid "Turns run out"
+#~ msgstr "Время вышло"
+
+#~ msgid "lightbeam"
+#~ msgstr "луч света"
+
+#~ msgid "staff"
+#~ msgstr "посох"
+
+#~ msgid "Dwarvish Arcanister"
+#~ msgstr "Чародей"
+
+#~ msgid "hammer"
+#~ msgstr "молот"
+
+#~ msgid "Dwarvish Runemaster"
+#~ msgstr "Мастер рун"
+
+#~ msgid "Dwarvish Runesmith"
+#~ msgstr "Рунный кузнец"
+
+#~ msgid "sword"
+#~ msgstr "меч"
+
+#~ msgid "Elvish High Lord"
+#~ msgstr "Верховный Лорд"
+
+#~ msgid "Elvish Marshal"
+#~ msgstr "Маршал"
+
+#~ msgid ""
+#~ "The longevity and natural intelligence of elves make them apt for "
+#~ "military matters, enough even to counter their general distaste for war. "
+#~ "Elves remember things much more clearly than humankind, and can often "
+#~ "intuit what others can only be trained to do. Certainly, on those rare "
+#~ "occasions when an elf sets his mind to war, the strategy that results is "
+#~ "often the work of a master."
+#~ msgstr ""
+#~ "Долголетие и природный ум помогают эльфам осваивать военное дело, "
+#~ "невзирая на их нелюбовь к войне. Эльфийская память острее человеческой, и "
+#~ "они часто интуитивно понимают то, чему другим приходится учиться. В тех "
+#~ "редких случаях, когда эльф посвящает свои мысли военному делу, он "
+#~ "непременно становится мастером стратегии."
+
+#~ msgid "bow"
+#~ msgstr "лук"
+
+#~ msgid "female^Elvish Shyde"
+#~ msgstr "Шида"
+
+#~ msgid "faerie touch"
+#~ msgstr "касание феи"
+
+#~ msgid "ensnare"
+#~ msgstr "заплетает"
+
+#~ msgid "thorns"
+#~ msgstr "шипы"
+
+#~ msgid "Elvish Champion"
+#~ msgstr "Витязь"
+
+#~ msgid ""
+#~ "Those few elves who deliberately hone themselves into weapons of war "
+#~ "become something which belies the peace-loving reputation of their race. "
+#~ "Dedication and skill are matched with purity of form, and the result is "
+#~ "swordsmanship to which few can compare. Even their archery, treated as a "
+#~ "secondary pursuit, is masterfully executed."
+#~ msgstr ""
+#~ "Из-за тех немногих эльфов, что сознательно сделали себя орудием войны, их "
+#~ "расу незаслуженно лишили репутации миролюбивой. Безупречное сочетание "
+#~ "самоотверженности и сноровки дали в результате такой уровень владения "
+#~ "мечом, что мало кто может с ними сравнится. И даже луком, который "
+#~ "считается у них второстепенным оружием, они владеют мастерски."
+
+#~ msgid "Elvish Lord"
+#~ msgstr "Лорд эльфов"
+
+#~ msgid ""
+#~ "The nobility of the elves are possessed of merit to match their standing "
+#~ "in society. Elvish Lords are the wisest and strongest of their people, "
+#~ "and are fearsome in their command of magic."
+#~ msgstr ""
+#~ "Благородство эльфийской знати — достоинство, определяющее их положение в "
+#~ "обществе. Эльфийские Лорды — мудрейшие и сильнейшие среди своего народа, "
+#~ "при этом им доступна и грозная магиия."
+
+#~ msgid "claws"
+#~ msgstr "когти"
+
+#~ msgid "Gryphon"
+#~ msgstr "Грифон"
+
+#~ msgid ""
+#~ "These majestic and powerful creatures are masters of the sky. Gryphons "
+#~ "are both dangerous and wary of other intelligent creatures, and thus "
+#~ "should not be disturbed without a good reason."
+#~ msgstr ""
+#~ "Эти величественные и могучие создания господствуют в небе. Грифоны равно "
+#~ "опасны и умны, поэтому не стоит их беспокоить без веской причины."
+
+#~ msgid "short sword"
+#~ msgstr "короткий меч"
+
+#~ msgid "longbow"
+#~ msgstr "длинный лук"
+
+#~ msgid "female^Elvish Marksman"
+#~ msgstr "Стрелок"
+
+#~ msgid "female^Elvish Sharpshooter"
+#~ msgstr "Снайперша"
+
+#~ msgid "fangs"
+#~ msgstr "клыки"
+
+#~ msgid "web"
+#~ msgstr "паутина"
+
+#~ msgid "regenerates"
+#~ msgstr "регенерирует"
+
+#~ msgid "female^regenerates"
+#~ msgstr "регенерирует"
 
 #~ msgid "Turn runs out"
 #~ msgstr "Время вышло"
