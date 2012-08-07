@@ -33,7 +33,6 @@ msgstr "Ritter des Lichts"
 
 #. [campaign]: id=The_Fellowship_of_the_Clay
 #: The_Fellowship_of_the_Clay/_main.cfg:41
-#, fuzzy
 msgid "(easy)"
 msgstr "(leicht)"
 
@@ -51,7 +50,6 @@ msgstr "Weißer Ritter des Lichts"
 
 #. [campaign]: id=The_Fellowship_of_the_Clay
 #: The_Fellowship_of_the_Clay/_main.cfg:43
-#, fuzzy
 msgid "(hard)"
 msgstr "(schwer)"
 
@@ -64,7 +62,6 @@ msgstr "Heller, weißer Ritter des Lichts"
 
 #. [campaign]: id=The_Fellowship_of_the_Clay
 #: The_Fellowship_of_the_Clay/_main.cfg:45
-#, fuzzy
 msgid ""
 "Set right after 'The Rise of Wesnoth' and before 'Legend of Wesmere' and "
 "'Sceptre of Fire', the adventure tells the story of human's first capital on "
@@ -3526,7 +3523,6 @@ msgstr ""
 
 #. [part]
 #: The_Fellowship_of_the_Clay/scenarios/09_Recruiting_Harriett.cfg:73
-#, fuzzy
 msgid "Eventualy, the Fellowship was approaching the valley Merdor described."
 msgstr ""
 "Schließlich erreichte die Gefolgschaft das Tal, welches Merdor beschrieben "
@@ -7032,7 +7028,6 @@ msgstr "Elfischer Waldwächter"
 
 #. [unit_type]: id=Elvish Forest Guard, race=elf
 #: The_Fellowship_of_the_Clay/units/forest_guard.cfg:20
-#, fuzzy
 msgid ""
 "Some elves want to guard the woodlands even more than rangers, everybody "
 "hurting a plant without an accepted explanation is immediately killed by an "
@@ -7452,156 +7447,3 @@ msgstr "Einheit hierher teleportieren"
 #: The_Fellowship_of_the_Clay/utils/mounting.cfg:1131
 msgid "Cancel teleporting mode"
 msgstr "Teleportationsmodus abbrechen"
-
-#~ msgid "Russian translation"
-#~ msgstr "Russische Übersetzung"
-
-#~ msgid "German translation"
-#~ msgstr "Deutsche Übersetzung"
-
-#~ msgid "Music"
-#~ msgstr "Musik"
-
-#~ msgid "Turns run out"
-#~ msgstr "Erreichen des Zuglimits"
-
-#~ msgid "lightbeam"
-#~ msgstr "Lichtstrahl"
-
-#~ msgid "staff"
-#~ msgstr "Stab"
-
-#~ msgid "Dwarvish Arcanister"
-#~ msgstr "Zwergischer Wielandsschmied"
-
-#~ msgid "hammer"
-#~ msgstr "Hammer"
-
-#~ msgid "Dwarvish Runemaster"
-#~ msgstr "Zwergischer Runenmeister"
-
-#~ msgid "Dwarvish Runesmith"
-#~ msgstr "Zwergischer Runenschmied"
-
-#~ msgid "sword"
-#~ msgstr "Schwert"
-
-#~ msgid "Elvish High Lord"
-#~ msgstr "Elfischer Hoch-Adliger"
-
-#~ msgid "faerie fire"
-#~ msgstr "Feenfeuer"
-
-#~ msgid "Elvish Marshal"
-#~ msgstr "Elfenmarschal"
-
-#~ msgid ""
-#~ "The longevity and natural intelligence of elves make them apt for "
-#~ "military matters, enough even to counter their general distaste for war. "
-#~ "Elves remember things much more clearly than humankind, and can often "
-#~ "intuit what others can only be trained to do. Certainly, on those rare "
-#~ "occasions when an elf sets his mind to war, the strategy that results is "
-#~ "often the work of a master."
-#~ msgstr ""
-#~ "Durch die lange Lebensdauer und ihr gutes Auffassungsvermögen vergessen "
-#~ "Elfen so schnell nichts. Selbst wenn es ihnen ein Gräuel ist, erinnern "
-#~ "sie sich noch an den Verlauf jeder Schlacht und jedes noch so kleinen "
-#~ "Geplänkels. Wo andere Strategien und Taktiken jahrelang mühevoll erlernen "
-#~ "müssen, kann der Elfenmarschall auf seinen Erfahrungsschatz "
-#~ "zurückgreifen. Dies eröffnet ihm die Möglichkeit, viel schneller auf "
-#~ "Änderungen im gegnerischen Kampfverhalten zu reagieren als jeder andere "
-#~ "Heerführer. "
-
-#~ msgid "bow"
-#~ msgstr "Langbogen"
-
-#~ msgid "female^Elvish Shyde"
-#~ msgstr "Waldfee"
-
-#~ msgid "faerie touch"
-#~ msgstr "Feenberührung"
-
-#~ msgid "ensnare"
-#~ msgstr "umgarnen"
-
-#~ msgid "thorns"
-#~ msgstr "Dornen"
-
-#~ msgid "Elvish Champion"
-#~ msgstr "Elfischer Meister"
-
-#~ msgid ""
-#~ "Those few elves who deliberately hone themselves into weapons of war "
-#~ "become something which belies the peace-loving reputation of their race. "
-#~ "Dedication and skill are matched with purity of form, and the result is "
-#~ "swordsmanship to which few can compare. Even their archery, treated as a "
-#~ "secondary pursuit, is masterfully executed."
-#~ msgstr ""
-#~ "Die wenigen Elfen, die sich auf den Umgang mit Kriegswaffen "
-#~ "spezialisieren und ständig bemüht sind, ihre Kampfkünste zu verfeinern, "
-#~ "werden zu etwas, was alle Behauptungen über die Unfähigkeit der Elfen zum "
-#~ "Kriegshandwerk Lügen straft. Hingabe und Talent gepaart mit der Schönheit "
-#~ "ihrer Bewegungen ergeben eine Meisterschaft des Schwertkampfes, die zu "
-#~ "erreichen, nur wenige Mitglieder der anderen Rassen hoffen können. Selbst "
-#~ "die Kunst des Bogenschießens – von den Schwertmeistern nur als "
-#~ "nebensächlich bedacht – führen sie mit solcher Hingabe aus, dass sie nur "
-#~ "noch von den Scharfschützen ihrer Rasse übertroffen werden."
-
-#~ msgid "Elvish Lord"
-#~ msgstr "Elfischer Adliger"
-
-#~ msgid ""
-#~ "The nobility of the elves are possessed of merit to match their standing "
-#~ "in society. Elvish Lords are the wisest and strongest of their people, "
-#~ "and are fearsome in their command of magic."
-#~ msgstr ""
-#~ "Die Angehörigen des elfischen Adels, haben sich ihren Platz in der "
-#~ "Gesellschaft mit Recht verdient. Da nur wenige Elfen in den Stand des "
-#~ "Adels erhoben werden, findet man dort die weisesten und mächtigsten "
-#~ "Angehörigen des Elfenvolkes. Wer glaubt, dass elfische Barone schwächlich "
-#~ "wären und sich hinter einer Schar von Leibwächtern verstecken, der irrt. "
-#~ "Mit dem Schwert in der Hand machen sie in jedem Kampf, den sie führen, "
-#~ "eine gute Figur. Zudem verfügen sie über Zaubersprüche, die das weiße "
-#~ "Feuer der Feen auf die Feinde herab regnen lassen. "
-
-#~ msgid "claws"
-#~ msgstr "Krallen"
-
-#~ msgid "Gryphon"
-#~ msgstr "Greif"
-
-#~ msgid ""
-#~ "These majestic and powerful creatures are masters of the sky. Gryphons "
-#~ "are both dangerous and wary of other intelligent creatures, and thus "
-#~ "should not be disturbed without a good reason."
-#~ msgstr ""
-#~ "Halb Löwe, halb Vogel beherrschen diese majestätischen Kreaturen den "
-#~ "Himmel. Da sie andere intelligente Rassen meiden, sollte man Greifen "
-#~ "nicht ohne wichtigen Grund stören."
-
-#~ msgid "short sword"
-#~ msgstr "Kurzschwert"
-
-#~ msgid "longbow"
-#~ msgstr "Langbogen"
-
-#~ msgid "female^Elvish Marksman"
-#~ msgstr "Elfenlangbogenschützin"
-
-#~ msgid "female^Elvish Sharpshooter"
-#~ msgstr "Elfenscharfschützin"
-
-#~ msgid "fangs"
-#~ msgstr "Reiszähne"
-
-#~ msgid "web"
-#~ msgstr "Netz"
-
-#~ msgid "regenerates"
-#~ msgstr "Regeneration"
-
-#~ msgid "female^regenerates"
-#~ msgstr "Regeneration"
-
-#~ msgid "Turn runs out"
-#~ msgstr "Erreichen des Zuglimits"
