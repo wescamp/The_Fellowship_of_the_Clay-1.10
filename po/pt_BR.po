@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: The_Fellowship_of_the_Clay-1.10\n"
-"Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
+"Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-08-05 20:14-0400\n"
 "PO-Revision-Date: 2012-07-11 00:10+0100\n"
 "Last-Translator: rodrigo\n"
