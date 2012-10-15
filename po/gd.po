@@ -2,19 +2,19 @@ msgid ""
 msgstr ""
 "Project-Id-Version: The_Fellowship_of_the_Clay-1.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-09-04 21:04-0400\n"
+"POT-Creation-Date: 2012-10-15 12:21+0200\n"
 "PO-Revision-Date: 2012-09-04 21:04-0400\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
+"Language: gd\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: gd\n"
 
 #. [campaign]: id=The_Fellowship_of_the_Clay
 #. [editor_group]: id=TFotC
 #: The_Fellowship_of_the_Clay/_main.cfg:26
-#: The_Fellowship_of_the_Clay/_main.cfg:157
+#: The_Fellowship_of_the_Clay/_main.cfg:163
 msgid "The Fellowship of the Clay"
 msgstr ""
 
@@ -63,7 +63,8 @@ msgid ""
 "Set right after 'The Rise of Wesnoth' and before 'Legend of Wesmere' and "
 "'Sceptre of Fire', the adventure tells the story of human's first capital on "
 "the great continent and a handfull of heros that try to avert its doom.\n"
-"Complete with 16 playable and 2 story scenarios.\n"
+"Complete with 16 playable and 2 story scenarios. All new game mechanism are "
+"explained during the conversations, so reading the dialogues is advised.\n"
 "\t\n"
 "Main features include:\n"
 "- A main-hero that can mount and dismount his steed\n"
@@ -113,6 +114,11 @@ msgstr ""
 
 #. [about]
 #: The_Fellowship_of_the_Clay/_main.cfg:104
+msgid "Text fine Tuning"
+msgstr ""
+
+#. [about]
+#: The_Fellowship_of_the_Clay/_main.cfg:110
 msgid ""
 "Other images, sprites and portraits taken from various versions of the "
 "following:"
@@ -128,7 +134,7 @@ msgstr ""
 msgid ""
 "When the humans arrived at the great continent, they needed a new and safe "
 "home. Building such a capital city, called Wehlot, was what King Haldric "
-"planned and started after human's arrival on the great continent."
+"planned and started after humans arrived on the great continent."
 msgstr ""
 
 #. [part]
@@ -144,7 +150,7 @@ msgstr ""
 #: The_Fellowship_of_the_Clay/scenarios/01_The_assignment.cfg:23
 msgid ""
 "Second, as humans landed first on the Isle of Alduin which also caused the "
-"mages school being founded there, he did not want to be too far from the "
+"mages school to be founded there, he did not want to be too far from the "
 "school - just in case of emergency."
 msgstr ""
 
@@ -166,7 +172,7 @@ msgstr ""
 #: The_Fellowship_of_the_Clay/scenarios/01_The_assignment.cfg:35
 msgid ""
 "Under mysterious circumstances, Haldric died, never able tell his son - "
-"Haldic II - about the stranger and the deal he made with him."
+"Haldric II - about the stranger and the deal he made with him."
 msgstr ""
 
 #. [part]
@@ -178,7 +184,7 @@ msgstr ""
 
 #. [part]
 #: The_Fellowship_of_the_Clay/scenarios/01_The_assignment.cfg:43
-msgid "We write the year 23 YW..."
+msgid "We start our story in the year 23 YW..."
 msgstr ""
 
 #. [label]
@@ -206,9 +212,8 @@ msgstr ""
 
 #. [label]
 #: The_Fellowship_of_the_Clay/scenarios/01_The_assignment.cfg:68
-#: The_Fellowship_of_the_Clay/scenarios/07_Bad_news.cfg:163
 #: The_Fellowship_of_the_Clay/scenarios/17_In_Due_Time.cfg:209
-msgid "Woodman's house"
+msgid "Woodsman's house"
 msgstr ""
 
 #. [label]
@@ -311,10 +316,10 @@ msgstr ""
 #. [message]: speaker=Haldric II
 #: The_Fellowship_of_the_Clay/scenarios/01_The_assignment.cfg:179
 msgid ""
-"Clyde, now where we are almost done with Wehlot, I want to direct our "
-"attention to different matters: I want to intensify our diplomatic relations "
-"with the other people of the continent. And naturally, I rely on you here: "
-"We simply don't have anyone else who will make such a good impression on the "
+"Clyde, now that we are almost done with Wehlot, I want to direct our "
+"attention to other matters: I want to intensify our diplomatic relations "
+"with the other people of the continent. Naturally, I rely on you here: We "
+"simply don't have anyone else who will make such a good impression on the "
 "elves and dwarves!"
 msgstr ""
 
@@ -326,18 +331,19 @@ msgstr ""
 #. [message]: speaker=Haldric II
 #: The_Fellowship_of_the_Clay/scenarios/01_The_assignment.cfg:187
 msgid ""
-"Oh yes, you are my dear! And I want to celebrate the finishing of Wehlot "
+"Oh yes, you are my dear! I want to celebrate the finishing of Wehlot "
 "together with the elves and dwarves. Actually, having the Mermen here would "
-"be great too, but I guess we don't know how to contact them again. I want to "
-"invite them and let them know that they are welcome in this city. I don't "
-"know if they would do it, I would love it if some of them would like to live "
-"with us here. Only by such a long lasting intercultural exchange we could "
-"learn to know each other better and hope to become real friends and allies."
+"be great too, but we don't know how to contact them. I want to invite them "
+"and let them know that they are welcome in this city. I don't know if they "
+"would do it, but I would love it if some of them would like to live with us "
+"here. Only by such a long lasting intercultural exchange could we learn to "
+"know each other better and hope to become real friends and allies."
 msgstr ""
 
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/01_The_assignment.cfg:191
-msgid "Truly spoken. Am I not needed here to continue to protect our people?"
+msgid ""
+"Truly spoken. But am I not needed here to continue to protect our people?"
 msgstr ""
 
 #. [message]: speaker=Haldric II
@@ -365,17 +371,17 @@ msgstr ""
 #: The_Fellowship_of_the_Clay/scenarios/01_The_assignment.cfg:207
 msgid ""
 "But my King! She is the direct descendent of Snow-flake! And she is such a "
-"unique being! She clearly belongs to you as she continues the line of your "
-"royal steed!"
+"unique being! She belongs to you as she continues the line of your royal "
+"steed!"
 msgstr ""
 
 #. [message]: speaker=Haldric II
 #: The_Fellowship_of_the_Clay/scenarios/01_The_assignment.cfg:211
 msgid ""
-"My dear Clyde, don't dispraise yourself! You know exactly that you are the "
-"only one whom she ever allowed to mount her. As I said, you'll need her to "
-"do as I ordered. So get to the stables, prepare her and begin your mission "
-"to bring a delegation of mages, elves and dwarves here."
+"My dear Clyde, don't underestimate yourself! You know that you are the only "
+"one whom she ever allowed to mount her. As I said, you'll need her to do as "
+"I ordered. So get to the stables, prepare her and begin your mission to "
+"bring a delegation of mages, elves and dwarves here."
 msgstr ""
 
 #. [message]: speaker=Clyde
@@ -456,7 +462,7 @@ msgstr ""
 
 #. [objective]: condition=lose
 #: The_Fellowship_of_the_Clay/scenarios/01_The_assignment.cfg:333
-msgid "Death of Peasant"
+msgid "Death of any of the Peasants"
 msgstr ""
 
 #. [message]: speaker=Clyde
@@ -467,8 +473,8 @@ msgstr ""
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/01_The_assignment.cfg:375
 msgid ""
-"There you are my agile beauty! Let's go to the seven dwarves now - or how "
-"many there really are! If even Haldric II would know that even I was never "
+"There you are my agile beauty! Let's go to the seven dwarves now - or "
+"however many there really are! If Haldric II knew that even I was never "
 "really able to ride you as fast as you could go... and now, your saddle even "
 "got lost..."
 msgstr ""
@@ -483,39 +489,37 @@ msgstr ""
 #: The_Fellowship_of_the_Clay/scenarios/01_The_assignment.cfg:383
 msgid ""
 "Ah, I see, the little Orc disruption caused you not to get your favorite "
-"graminoids and now you are hungry! Well, the storage in the stables is... "
-"well there is no storage anymore... Let's see if you let me on your back "
-"without a saddle and then we see which grass you like most!"
+"food and now you are hungry! Well, the storage in the stables is... well "
+"there is no storage anymore... Let's see if you let me on your back without "
+"a saddle and then we see which grass you like most!"
 msgstr ""
 
 #. [message]: speaker=Stable Lad
 #: The_Fellowship_of_the_Clay/scenarios/01_The_assignment.cfg:390
 msgid ""
-"Oh, Snow-White really appears to like you! I think she allows you to ride "
-"her now."
+"Oh, Snow-White really appears to like you! I think she will allow you to "
+"ride her now."
 msgstr ""
 
 #. [message]: speaker=Stable Lad
 #: The_Fellowship_of_the_Clay/scenarios/01_The_assignment.cfg:394
 msgid ""
-"<b>LISTEN CAREFULLY!</b> I'll give you a little refresher about the details "
-"of mounting Snow-white:"
+"<b>LISTEN CAREFULLY!</b> I'll give you a little tutorial on mounting Snow-"
+"white:"
 msgstr ""
 
 #. [message]: speaker=Stable Lad
 #: The_Fellowship_of_the_Clay/scenarios/01_The_assignment.cfg:398
 msgid ""
-"You will become able to mount Snow-white shortly. You do that be going next "
-"to her or let her move next to you and then you can mount via the right-"
-"click menu."
+"You can either go next to her or move her next to you. Then you can mount "
+"via the right-click menu."
 msgstr ""
 
 #. [message]: speaker=Stable Lad
 #: The_Fellowship_of_the_Clay/scenarios/01_The_assignment.cfg:402
 msgid ""
-"Under normal circumstances, you are able to dismount her by right clicking "
-"on a field next to her and command 'dismount'. This way you dismount to the "
-"field you clicked on."
+"Under normal circumstances, you can dismount to a field next to her by right "
+"clicking on it and using 'dismount' in the menu."
 msgstr ""
 
 #. [message]: speaker=Stable Lad
@@ -528,11 +532,12 @@ msgstr ""
 #. [message]: speaker=Stable Lad
 #: The_Fellowship_of_the_Clay/scenarios/01_The_assignment.cfg:410
 msgid ""
-"Snow-white is a level two creature and will stay it the whole time. But she "
-"can increase her health or attack depending on your choice when she has full "
-"experience. If you are mounted however, all the experience gained will count "
-"has <b>Clyde's</b> experience. Thus, when dismounting, Snow-white will have "
-"the same amount of experience as <b>BEFORE you mounted her</b>."
+"Snow-white is a level two creature and will stay at that level the whole "
+"time. But she can increase her health or attack depending on your choice "
+"when she has full experience. If you are mounted however, all the experience "
+"gained will count has <b>Clyde's</b> experience. Thus, when dismounting, "
+"Snow-white will have the same amount of experience as <b>BEFORE you mounted "
+"her</b>."
 msgstr ""
 
 #. [objectives]
@@ -542,17 +547,17 @@ msgstr ""
 
 #. [objective]: condition=win
 #: The_Fellowship_of_the_Clay/scenarios/01_The_assignment.cfg:417
-msgid "Mount Snow-White by going next to her and go to right-click-menu"
+msgid "Mount Snow-White by going next to her and using the right-click-menu."
 msgstr ""
 
 #. [objective]: condition=win
 #: The_Fellowship_of_the_Clay/scenarios/01_The_assignment.cfg:421
-msgid "Let Snow-White eat some Flowers"
+msgid "Let Snow-White eat some Flowers."
 msgstr ""
 
 #. [objective]: condition=win
 #: The_Fellowship_of_the_Clay/scenarios/01_The_assignment.cfg:425
-msgid "Go to the north end of the road after that"
+msgid "Go to the north end of the road after that."
 msgstr ""
 
 #. [message]: speaker=Clyde
@@ -568,8 +573,8 @@ msgstr ""
 #. [object]
 #: The_Fellowship_of_the_Clay/scenarios/01_The_assignment.cfg:473
 msgid ""
-"After having eaten some tiny purple flowers, Snow-White feels the power "
-"returning. She starts to run even faster than before."
+"After having eaten some tiny purple flowers, Snow-White feels her power "
+"increasing. She starts to run faster than before."
 msgstr ""
 
 #. [message]: speaker=narrator
@@ -592,9 +597,9 @@ msgstr ""
 #. [message]: speaker=Ghost
 #: The_Fellowship_of_the_Clay/scenarios/01_The_assignment.cfg:512
 msgid ""
-"An evil deed caused my soul not to find any peace after death. Since then I "
-"try to hide and not harm anyone but you look as you can finally free my soul "
-"- I beg you to do so!"
+"An evil deed caused my soul to not find any peace after death. Since then I "
+"tried to hide and not harm anyone but you look as if you can finally free my "
+"soul - I beg you to do so!"
 msgstr ""
 
 #. [message]: speaker=Clyde
@@ -606,7 +611,7 @@ msgstr ""
 #: The_Fellowship_of_the_Clay/scenarios/01_The_assignment.cfg:527
 msgid ""
 "Now lets go to Alduin, to invite Merdor the Mage! I have heard that there is "
-"a small city next to it, where we can go by ship to Alduin."
+"a small port next to it, from where we can go by ship to Alduin."
 msgstr ""
 
 #. [message]: speaker=Clyde
@@ -647,7 +652,7 @@ msgstr ""
 #. [message]: speaker=Haldric II
 #: The_Fellowship_of_the_Clay/scenarios/01_The_assignment.cfg:614
 msgid ""
-"Without workers and peasants, there is no chance to arise an empire "
+"Without workers and peasants, there is no chance to raise an empire "
 "anymore..."
 msgstr ""
 
@@ -727,7 +732,7 @@ msgstr ""
 
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/02_Magic_invitation.cfg:121
-msgid "I really think that we are getting used to each other, hu?"
+msgid "I really think that we are getting used to each other, huh?"
 msgstr ""
 
 #. [message]: speaker=Clyde
@@ -742,157 +747,156 @@ msgstr ""
 
 #. [message]: speaker=narrator
 #: The_Fellowship_of_the_Clay/scenarios/02_Magic_invitation.cfg:130
-msgid "Clyde is able to dismount after he makes another step!"
+msgid "Clyde can now dismount after he takes another step!"
 msgstr ""
 
 #. [message]: speaker=Athearrec
 #: The_Fellowship_of_the_Clay/scenarios/02_Magic_invitation.cfg:134
 msgid ""
-"A Knight! ... Even one of the Light! Quick, these scale-heads want to sink "
-"our ships if we don't pay them. That is protection racket!\n"
-"Do something! I'll give you command over the city guard so that you can "
-"install law and order again!"
+"A Knight! ... Not just that, but one of the Light! Quick, these scale-heads "
+"want to sink our ships if we don't pay them. Do something! I'll give you "
+"command over the city guard so that you can install law and order again!"
 msgstr ""
 
 #. [message]: speaker=Grisas
-#: The_Fellowship_of_the_Clay/scenarios/02_Magic_invitation.cfg:139
+#: The_Fellowship_of_the_Clay/scenarios/02_Magic_invitation.cfg:138
 msgid "Give us gold, or your ships will never cross the ocean again!"
 msgstr ""
 
 #. [unit]: id=Zzix, type=Saurian Skirmisher
-#: The_Fellowship_of_the_Clay/scenarios/02_Magic_invitation.cfg:153
+#: The_Fellowship_of_the_Clay/scenarios/02_Magic_invitation.cfg:152
 msgid "Zzix"
 msgstr ""
 
 #. [unit]: id=Kasszix, type=Saurian Soothsayer
-#: The_Fellowship_of_the_Clay/scenarios/02_Magic_invitation.cfg:167
+#: The_Fellowship_of_the_Clay/scenarios/02_Magic_invitation.cfg:166
 msgid "Kasszix"
 msgstr ""
 
 #. [unit]: id=Sinariss, type=Saurian Flanker
-#: The_Fellowship_of_the_Clay/scenarios/02_Magic_invitation.cfg:182
+#: The_Fellowship_of_the_Clay/scenarios/02_Magic_invitation.cfg:181
 msgid "Sinariss"
 msgstr ""
 
 #. [message]: speaker=Zzix
-#: The_Fellowship_of_the_Clay/scenarios/02_Magic_invitation.cfg:191
+#: The_Fellowship_of_the_Clay/scenarios/02_Magic_invitation.cfg:190
 msgid "Hah, sssneaking around humanss is jussst sso easy!"
 msgstr ""
 
 #. [message]: speaker=Kasszix
-#: The_Fellowship_of_the_Clay/scenarios/02_Magic_invitation.cfg:195
+#: The_Fellowship_of_the_Clay/scenarios/02_Magic_invitation.cfg:194
 msgid "A ssurprised human iss a human who isss easy to kill! Catchh thhem!"
 msgstr ""
 
 #. [message]: speaker=Grisas
-#: The_Fellowship_of_the_Clay/scenarios/02_Magic_invitation.cfg:210
+#: The_Fellowship_of_the_Clay/scenarios/02_Magic_invitation.cfg:209
 msgid "Some more humans don't interest me! Kill them all!"
 msgstr ""
 
 #. [unit]: type=Mermaid Priestess, id=Lorelei
-#: The_Fellowship_of_the_Clay/scenarios/02_Magic_invitation.cfg:221
+#: The_Fellowship_of_the_Clay/scenarios/02_Magic_invitation.cfg:220
 msgid "Lorelei"
 msgstr ""
 
 #. [unit]: type=Merman Fighter, id=Baloa
-#: The_Fellowship_of_the_Clay/scenarios/02_Magic_invitation.cfg:239
+#: The_Fellowship_of_the_Clay/scenarios/02_Magic_invitation.cfg:238
 msgid "Baloa"
 msgstr ""
 
 #. [message]: speaker=Lorelei
-#: The_Fellowship_of_the_Clay/scenarios/02_Magic_invitation.cfg:250
-msgid "Hi Clyde, I see you could use some help with those who wrack the sea."
+#: The_Fellowship_of_the_Clay/scenarios/02_Magic_invitation.cfg:249
+msgid "Hi Clyde, I see you could use some help with those who wreck the sea."
 msgstr ""
 
 #. [message]: speaker=Clyde
-#: The_Fellowship_of_the_Clay/scenarios/02_Magic_invitation.cfg:254
+#: The_Fellowship_of_the_Clay/scenarios/02_Magic_invitation.cfg:253
 msgid "Ehh... Hi there! How do you know my name?"
 msgstr ""
 
 #. [message]: speaker=Lorelei
-#: The_Fellowship_of_the_Clay/scenarios/02_Magic_invitation.cfg:258
+#: The_Fellowship_of_the_Clay/scenarios/02_Magic_invitation.cfg:257
 msgid ""
 "Don't let your lucid mind get dimmed by such superficial questions - I just "
 "happen to know?"
 msgstr ""
 
 #. [message]: speaker=Clyde
-#: The_Fellowship_of_the_Clay/scenarios/02_Magic_invitation.cfg:262
+#: The_Fellowship_of_the_Clay/scenarios/02_Magic_invitation.cfg:261
 msgid "Well then, Ms. Mermaid, I would be grateful for your help."
 msgstr ""
 
 #. [message]: speaker=Narrator
-#: The_Fellowship_of_the_Clay/scenarios/02_Magic_invitation.cfg:266
+#: The_Fellowship_of_the_Clay/scenarios/02_Magic_invitation.cfg:265
 msgid "You can now recruit Mermen!"
 msgstr ""
 
 #. [message]: speaker=Athearrec
-#: The_Fellowship_of_the_Clay/scenarios/02_Magic_invitation.cfg:276
+#: The_Fellowship_of_the_Clay/scenarios/02_Magic_invitation.cfg:275
 msgid "Thank you very much for your help!"
 msgstr ""
 
 #. [message]: speaker=Clyde
-#: The_Fellowship_of_the_Clay/scenarios/02_Magic_invitation.cfg:286
+#: The_Fellowship_of_the_Clay/scenarios/02_Magic_invitation.cfg:285
 msgid "Oh, a ship from Alduin is coming!"
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: The_Fellowship_of_the_Clay/scenarios/02_Magic_invitation.cfg:298
+#: The_Fellowship_of_the_Clay/scenarios/02_Magic_invitation.cfg:297
 msgid "Weeeehee! Weheehe!"
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: The_Fellowship_of_the_Clay/scenarios/02_Magic_invitation.cfg:304
+#: The_Fellowship_of_the_Clay/scenarios/02_Magic_invitation.cfg:303
 msgid "Clyde, a ship from Alduin is coming!"
 msgstr ""
 
 #. [unit]: type=Arch Mage, id=Merdor
-#: The_Fellowship_of_the_Clay/scenarios/02_Magic_invitation.cfg:320
+#: The_Fellowship_of_the_Clay/scenarios/02_Magic_invitation.cfg:319
 #: The_Fellowship_of_the_Clay/scenarios/07_Bad_news.cfg:556
 msgid "Merdor"
 msgstr ""
 
 #. [message]: speaker=Merdor
-#: The_Fellowship_of_the_Clay/scenarios/02_Magic_invitation.cfg:330
+#: The_Fellowship_of_the_Clay/scenarios/02_Magic_invitation.cfg:329
 msgid "Ah, my friends the Mermen - you have been following me again, did you?"
 msgstr ""
 
 #. [message]: speaker=Lorelei
-#: The_Fellowship_of_the_Clay/scenarios/02_Magic_invitation.cfg:334
+#: The_Fellowship_of_the_Clay/scenarios/02_Magic_invitation.cfg:333
 msgid ""
 "Yes dear Merdor, we continue to be interested in the doings of the newcomers "
-"- and I like to know how the newly founded school is getting along."
+"- and I would like to know how the newly founded school is getting along."
 msgstr ""
 
 #. [message]: speaker=Merdor
-#: The_Fellowship_of_the_Clay/scenarios/02_Magic_invitation.cfg:338
+#: The_Fellowship_of_the_Clay/scenarios/02_Magic_invitation.cfg:337
 msgid ""
 "Yes, yes, the school is doing well... Yikes! There are dead Nagas on the "
 "coast! Have you seen them? They could have sunken my ship!"
 msgstr ""
 
 #. [message]: speaker=Clyde
-#: The_Fellowship_of_the_Clay/scenarios/02_Magic_invitation.cfg:342
+#: The_Fellowship_of_the_Clay/scenarios/02_Magic_invitation.cfg:341
 msgid "Yes, we just defeated them; so that they would not sink your ship!"
 msgstr ""
 
 #. [message]: speaker=Merdor
-#: The_Fellowship_of_the_Clay/scenarios/02_Magic_invitation.cfg:346
+#: The_Fellowship_of_the_Clay/scenarios/02_Magic_invitation.cfg:345
 msgid ""
-"Oh, then I think a thanks is in order! Wait, don't I know you? Yes, yes, you "
-"where this talented Paladin who did the internship at the school! You are "
+"Oh, then I think thanks are in order! Wait, don't I know you? Yes, yes, you "
+"were this talented Paladin who did your internship at the school! You are "
 "Clyde the Knight!"
 msgstr ""
 
 #. [message]: speaker=Clyde
-#: The_Fellowship_of_the_Clay/scenarios/02_Magic_invitation.cfg:350
+#: The_Fellowship_of_the_Clay/scenarios/02_Magic_invitation.cfg:349
 msgid ""
 "Yes Master Merdor, it is me. I just wanted to come to Alduin to invite you "
 "to attend the celebration on the occasion of Wehlot's completion!"
 msgstr ""
 
 #. [message]: speaker=Merdor
-#: The_Fellowship_of_the_Clay/scenarios/02_Magic_invitation.cfg:354
+#: The_Fellowship_of_the_Clay/scenarios/02_Magic_invitation.cfg:353
 msgid ""
 "Really? You wanted to come to invite me? That is nice of you boy, but don't "
 "you know - I am Arch Mage 'Master Merdor', I just know when there is a "
@@ -900,7 +904,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Clyde
-#: The_Fellowship_of_the_Clay/scenarios/02_Magic_invitation.cfg:358
+#: The_Fellowship_of_the_Clay/scenarios/02_Magic_invitation.cfg:357
 msgid ""
 "Great, this saves me some time. You can go back to your ship and take the "
 "river in the south leading east. It directly brings you to Wehlot which even "
@@ -908,22 +912,22 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Merdor
-#: The_Fellowship_of_the_Clay/scenarios/02_Magic_invitation.cfg:362
+#: The_Fellowship_of_the_Clay/scenarios/02_Magic_invitation.cfg:361
 msgid ""
-"Oh, I didn't know that - how comfortable to get informed. Eventually your "
-"travel here wasn't completely in vain. Nice Unihorse by the way."
+"Oh, I didn't know that - how comfortable. Eventually your travel here wasn't "
+"completely in vain. Nice Unihorse, by the way."
 msgstr ""
 
 #. [message]: speaker=Clyde
-#: The_Fellowship_of_the_Clay/scenarios/02_Magic_invitation.cfg:366
+#: The_Fellowship_of_the_Clay/scenarios/02_Magic_invitation.cfg:365
 msgid ""
-"At least... This brings me to another fortunate event: Dear Ms Mermaid, you "
+"At least... This brings me to another fortunate event: Dear Ms. Mermaid, you "
 "and your company are invited too! The king just mentioned that he would love "
-"to have you there but he was afraid that I could not contact you."
+"to have you there but was afraid that I could not contact you."
 msgstr ""
 
 #. [message]: speaker=Lorelei
-#: The_Fellowship_of_the_Clay/scenarios/02_Magic_invitation.cfg:370
+#: The_Fellowship_of_the_Clay/scenarios/02_Magic_invitation.cfg:369
 msgid ""
 "An invitation? How nice is that! And I didn't bring my ceremonial sea-shell-"
 "bra! But I guess that shouldn't keep us from enjoying a good party. And "
@@ -931,21 +935,21 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Clyde
-#: The_Fellowship_of_the_Clay/scenarios/02_Magic_invitation.cfg:374
+#: The_Fellowship_of_the_Clay/scenarios/02_Magic_invitation.cfg:373
 msgid ""
 "Very bright! Then, my dear Lorelei, Master Merdor, we will meet again at "
 "Wehlot! I must go invite the Elves now!"
 msgstr ""
 
 #. [message]: speaker=Athearrec
-#: The_Fellowship_of_the_Clay/scenarios/02_Magic_invitation.cfg:389
+#: The_Fellowship_of_the_Clay/scenarios/02_Magic_invitation.cfg:388
 msgid ""
 "What a strange man... Good luck Clyde! I heard there are some more people "
-"you want to invite. Maybe I am coming also to your party, see you there!"
+"you want to invite."
 msgstr ""
 
 #. [message]: speaker=Lorelei
-#: The_Fellowship_of_the_Clay/scenarios/02_Magic_invitation.cfg:393
+#: The_Fellowship_of_the_Clay/scenarios/02_Magic_invitation.cfg:392
 msgid "I'll leave you for now, but we'll meet again in Wehlot!"
 msgstr ""
 
@@ -1031,7 +1035,7 @@ msgstr ""
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/03_Entering_Wesmere.cfg:193
 msgid ""
-"Actually, Snow-white is not a real Unicorn, she was born by the King's mare "
+"Actually, Snow-white is not a real Unicorn, she was born to the King's mare "
 "Snow-flake. But we believe that her father might be a Unicorn, which, I "
 "guess, would make her a unihorse."
 msgstr ""
@@ -1057,14 +1061,15 @@ msgstr ""
 #: The_Fellowship_of_the_Clay/scenarios/03_Entering_Wesmere.cfg:210
 msgid ""
 "Well, I don't speak her language, but she normally listens to what I say to "
-"her. And now I want to invite elves and dwarves for the finishing of Wehlot."
+"her. And now I want to invite elves and dwarves to celebrate the finishing "
+"of Wehlot."
 msgstr ""
 
 #. [message]: speaker=Walklas
 #: The_Fellowship_of_the_Clay/scenarios/03_Entering_Wesmere.cfg:214
 msgid ""
 "I still do not completely understand, but the council has to see this: A "
-"human with a horsocorn! Follow m- what the...?"
+"human with a horsocorn! Follow me- what the...?"
 msgstr ""
 
 #. [unit]: type=Elvish Forest Guard, id=Legomir
@@ -1085,12 +1090,12 @@ msgstr ""
 #. [message]: speaker=Legomir
 #: The_Fellowship_of_the_Clay/scenarios/03_Entering_Wesmere.cfg:263
 msgid ""
-"Oh, hi there! Is that you Clyde? You two could help me out: I was send by "
-"the council to investigate the recent emergence of the aggressive Dread Bats "
-"in the forest and was able to trace it back to this cave over there. When I "
-"shot one down so that the council could investigate if there is some dark "
-"magic involved here, a whole flock came outside and attacked me - as if "
-"there is some intelligence behind this."
+"You two could help me out: I was sent by the council to investigate the "
+"recent emergence of the aggressive Dread Bats in the forest and was able to "
+"trace it back to this cave over there. When I shot one down so that the "
+"council could investigate if there is some dark magic involved here, a whole "
+"flock came outside and attacked me - as if there is some intelligence behind "
+"this."
 msgstr ""
 
 #. [objective]: condition=win
@@ -1227,8 +1232,8 @@ msgstr ""
 #. [objectives]
 #: The_Fellowship_of_the_Clay/scenarios/04_The_race.cfg:151
 msgid ""
-"It may be that there are some angry animals if you enter a village. You "
-"cannot recruit here."
+"It is possible that you may encounter some angry animals if you enter a "
+"village. Also, note that you cannot recruit in the scenario."
 msgstr ""
 
 #. [message]: speaker=Walklas
@@ -1255,15 +1260,15 @@ msgstr ""
 #: The_Fellowship_of_the_Clay/scenarios/04_The_race.cfg:186
 msgid ""
 "Things have come to a pretty pass if humans think we will join applauding "
-"their ephemeral residues."
+"their ephemeral achievements."
 msgstr ""
 
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/04_The_race.cfg:190
 msgid ""
-"Sire, it is only that we want to share our blitheness with those who allowed "
-"us to settle on their continent. Is it not natural that we want to give some "
-"of this earlier hospitality back?"
+"Sire, it is only that we want to share our joy with those who allowed us to "
+"settle on their continent. Is it not natural that we give some of your "
+"hospitality back?"
 msgstr ""
 
 #. [message]: speaker=Dionli
@@ -1286,8 +1291,8 @@ msgstr ""
 #: The_Fellowship_of_the_Clay/scenarios/04_The_race.cfg:203
 msgid ""
 "Yes, that creature is remarkable, indeed. I have an idea: If you can compete "
-"with one of our best riders, I might considering your relationship to Mother "
-"Nature not to be as distorted as I thought and I will follow you invitation."
+"with one of our best riders, I might consider your relationship to Mother "
+"Nature not to be as distorted as I thought and I will follow your invitation."
 msgstr ""
 
 #. [message]: speaker=Clyde
@@ -1304,8 +1309,9 @@ msgstr ""
 #: The_Fellowship_of_the_Clay/scenarios/04_The_race.cfg:225
 msgid ""
 "This here is one of our fastest scouts, Eleonor, he rides a Mustang. Rules "
-"are simple; the winner is who has the most villages under his banner after "
-"ten rounds. The race starts in 60 seconds! I wish you both a swift ride."
+"are simple; the winner is the one who has the most villages under his banner "
+"after ten rounds. The race starts in 60 seconds! I wish you both a swift "
+"ride."
 msgstr ""
 
 #. [message]: speaker=Legomir
@@ -1318,7 +1324,7 @@ msgstr ""
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/04_The_race.cfg:233
 msgid ""
-"Well, then I have to do the impossible, don't I? Oh, and remeber that I'm "
+"Well, then I have to do the impossible, don't I? Oh, and remember that I'm "
 "able to dismount, so we're already two."
 msgstr ""
 
@@ -1370,7 +1376,7 @@ msgstr ""
 #: The_Fellowship_of_the_Clay/scenarios/04_The_race.cfg:445
 msgid ""
 "I am glad that you will visit Wehlot, but I need to ask the dwarves too. So "
-"I would ask you for one more favor: Could show me the way to the Dwarf's "
+"I ask you for one more favor: Could show me the way to the Dwarf's "
 "mountains? We would then meet in Wehlot again."
 msgstr ""
 
@@ -1388,7 +1394,7 @@ msgstr ""
 
 #. [message]: speaker=Eleonor
 #: The_Fellowship_of_the_Clay/scenarios/04_The_race.cfg:488
-msgid "Impressing. But not good enough."
+msgid "Impressive. But not good enough."
 msgstr ""
 
 #. [message]: speaker=Eleonor
@@ -1511,7 +1517,7 @@ msgstr ""
 #: The_Fellowship_of_the_Clay/scenarios/05_Meet_the_dwarfs.cfg:256
 msgid ""
 "Hey, there're some raidin' orcs over ther! They'll kill the gryphon! An' "
-"we'll next if we don't attack them immmediately!"
+"we'll be next if we don't attack them immmediately!"
 msgstr ""
 
 #. [objective]: condition=win
@@ -1531,7 +1537,7 @@ msgstr ""
 
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/05_Meet_the_dwarfs.cfg:284
-msgid "One problem lesser in this dangerous world."
+msgid "One problem less in this dangerous world."
 msgstr ""
 
 #. [message]: speaker=Richard
@@ -1547,7 +1553,7 @@ msgstr ""
 #. [part]
 #: The_Fellowship_of_the_Clay/scenarios/06_Finding_Feyndwarf.cfg:18
 msgid ""
-"To invite the dwarfs, Clyde followed the four gryphon hunters, to a chamber "
+"To invite the dwarfs, Clyde followed the four gryphon hunters to a chamber "
 "under the surface."
 msgstr ""
 
@@ -1632,7 +1638,8 @@ msgstr ""
 #. [message]: speaker=Walklas
 #: The_Fellowship_of_the_Clay/scenarios/06_Finding_Feyndwarf.cfg:302
 msgid ""
-"I don't like caves at all...it is like the darkness would paralyze my mind."
+"I don't like caves at all...it as if like the darkness would paralyze my "
+"mind."
 msgstr ""
 
 #. [message]: speaker=Feyndwarf
@@ -1671,8 +1678,8 @@ msgstr ""
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/06_Finding_Feyndwarf.cfg:349
 msgid ""
-"And how we get out of here? This chasm looks really inpassable and very deep "
-"to me."
+"And how do we get out of here? This chasm looks really inpassable and very "
+"deep to me."
 msgstr ""
 
 #. [message]: speaker=Feyndwarf
@@ -1717,10 +1724,10 @@ msgstr ""
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/06_Finding_Feyndwarf.cfg:410
 msgid ""
-"Your lordship, if I may now: I am Clyde, envoy of King Haldric II. I come to "
-"invite you to the celebration on the occasion of Wehlot's completion - our "
-"new city. It might interest you that we used an artificial stone which has "
-"to be baked."
+"Your lordship, if I may now: I am Clyde, envoy of King Haldric II. I invite "
+"you to the celebration on the occasion of Wehlot's completion - our new "
+"city. It might interest you that we used an artificial stone which has to be "
+"baked."
 msgstr ""
 
 #. [message]: speaker=Namcarthos
@@ -1734,7 +1741,7 @@ msgstr ""
 #. [message]: speaker=Feyndwarf
 #: The_Fellowship_of_the_Clay/scenarios/06_Finding_Feyndwarf.cfg:418
 msgid ""
-"You say a stone to bake?!? If I may Namcarthos, I would go on your place to "
+"You say a stone to bake?!? If I may Namcarthos, I would go in your place to "
 "have a look at what the humans did there."
 msgstr ""
 
@@ -1754,7 +1761,7 @@ msgstr ""
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/06_Finding_Feyndwarf.cfg:430
 msgid ""
-"Hmm, I see, some mean of transportation is needed. We still have the "
+"Hmm, I see, some means of transportation is needed. We still have the "
 "Gryphon... don't you think you could ride it?"
 msgstr ""
 
@@ -1796,7 +1803,7 @@ msgstr ""
 #. [message]: speaker=Feyndwarf
 #: The_Fellowship_of_the_Clay/scenarios/06_Finding_Feyndwarf.cfg:492
 msgid ""
-"Hmm, his feathers feel soft, very soft indeed. It's better than in my "
+"Hmm, his feathers feel soft, very soft indeed. It's feel better than in my "
 "child's bed."
 msgstr ""
 
@@ -1834,7 +1841,7 @@ msgstr ""
 
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/06_Finding_Feyndwarf.cfg:533
-msgid "Thank you. I have to leave now. Good by then!"
+msgid "Thank you. I have to leave now. Good bye then!"
 msgstr ""
 
 #. [message]: speaker=Feyndwarf
@@ -2007,7 +2014,7 @@ msgstr ""
 #: The_Fellowship_of_the_Clay/scenarios/06_Finding_Feyndwarf.cfg:814
 msgid ""
 "I don't believe that I'm courageous enough to go any further - floorless "
-"abysses are nothng for me! <i>(shutters)</i> Clyde should go in, his inner "
+"abysses are nothng for me! <i>(shudders)</i> Clyde should go in, his inner "
 "light will be a guide and protector for him."
 msgstr ""
 
@@ -2098,6 +2105,11 @@ msgstr ""
 msgid "Mal-Regesar"
 msgstr ""
 
+#. [label]
+#: The_Fellowship_of_the_Clay/scenarios/07_Bad_news.cfg:163
+msgid "Woodman's house"
+msgstr ""
+
 #. [objective]: condition=win
 #: The_Fellowship_of_the_Clay/scenarios/07_Bad_news.cfg:194
 msgid "Resist until end of turns"
@@ -2130,15 +2142,15 @@ msgstr ""
 
 #. [message]: speaker=Haldric II
 #: The_Fellowship_of_the_Clay/scenarios/07_Bad_news.cfg:297
-msgid "Clyde, you are back and you contacted and invited everyone?"
+msgid "Clyde, you are back. Did you contact and invite everyone?"
 msgstr ""
 
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/07_Bad_news.cfg:301
 msgid ""
-"Yes, they should arrive any day now. I even found some Merman! Well, I hope "
-"that Dwarf will not fall from the sky. You know, we had to come up with an "
-"idea that a Dwarf could make it in time."
+"Yes, they should arrive any day now. I even found some Mermen! And you know "
+"what, we had to come up with an idea to let the Dwarf envoy make it in time. "
+"I just hope he does not fall from the sky."
 msgstr ""
 
 #. [message]: speaker=Haldric II
@@ -2156,20 +2168,20 @@ msgstr ""
 #. [message]: speaker=Haldric II
 #: The_Fellowship_of_the_Clay/scenarios/07_Bad_news.cfg:313
 msgid ""
-"Clyde, can you believe it? We've done it. Wehlot is completed in just one "
-"generation and it is far bigger and brighter than father ever imagined. It "
-"is not only the perfect capital, but also the perfect fortress, isn't it?"
+"Clyde, can you believe it? We've done it. Wehlot has been completed in just "
+"one generation and it is far bigger and brighter than father ever imagined. "
+"It is not only the perfect capital, but also the perfect fortress, isn't it?"
 msgstr ""
 
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/07_Bad_news.cfg:317
 msgid ""
-"Yes indeed! It is really a wonder that your father found this island in this "
-"lake that just seemed made for hosting a castle. And then this new method of "
-"creating stones with clay and fire - it really allowed us to expand the "
-"castle to the edge of the island in such a short time. I just wonder why "
-"your father always wanted to keep the castle on the island as small as "
-"possible while building villages around it."
+"Yes indeed! It is a wonder that your father found this island in this lake "
+"that just seemed made for hosting a castle. And then this new method of "
+"creating stones with clay and fire - it allowed us to expand the castle to "
+"the edge of the island in such a short time. I just wonder why your father "
+"always wanted to keep the castle on the island as small as possible while "
+"building villages around it."
 msgstr ""
 
 #. [message]: speaker=Haldric II
@@ -2187,7 +2199,7 @@ msgstr ""
 #: The_Fellowship_of_the_Clay/scenarios/07_Bad_news.cfg:325
 msgid ""
 "True! It was really your ingenuity that made Wehlot what it is - and of "
-"course the invention of the brink that was shown to us by this stranger."
+"course the invention of the brick that was shown to us by this stranger."
 msgstr ""
 
 #. [message]: speaker=Haldric II
@@ -2245,7 +2257,7 @@ msgstr ""
 
 #. [message]: speaker=City guard
 #: The_Fellowship_of_the_Clay/scenarios/07_Bad_news.cfg:370
-msgid "Uh, well, I have to ask if he receives you. Whom should I announce?"
+msgid "Uh, well, I have to ask if he will receive you. Whom should I announce?"
 msgstr ""
 
 #. [message]: speaker=Familiar Stranger
@@ -2287,8 +2299,8 @@ msgstr ""
 #. [message]: speaker=Familiar Stranger
 #: The_Fellowship_of_the_Clay/scenarios/07_Bad_news.cfg:401
 msgid ""
-"In fact, we do have a contract. I closed it with you father when I gave him "
-"the Wehlot island. I hereby claim five of your people's children!"
+"In fact, we do have a contract. I entered into it with your father when I "
+"gave him Wehlot island. I hereby claim five of your people's children!"
 msgstr ""
 
 #. [message]: speaker=Haldric II
@@ -2300,7 +2312,7 @@ msgstr ""
 
 #. [message]: speaker=Haldric II
 #: The_Fellowship_of_the_Clay/scenarios/07_Bad_news.cfg:413
-msgid "Clyde, can you believe this? It really looks as my father's seal..."
+msgid "Clyde, can you believe this? It really looks like my father's seal..."
 msgstr ""
 
 #. [message]: speaker=Haldric II
@@ -2308,8 +2320,7 @@ msgstr ""
 msgid ""
 "Well, whatever foul game you are playing here, Stranger, I am certainly not "
 "handing any children over to you. The opposite is the case: I will have you "
-"arrested for you obviously are a beguiler and a pedophile! Clyde, arrest "
-"this man!"
+"arrested for being a beguiler and a pedophile! Clyde, arrest this man!"
 msgstr ""
 
 #. [message]: speaker=Familiar Stranger
@@ -2371,7 +2382,7 @@ msgstr ""
 #. [message]: speaker=Haldric II
 #: The_Fellowship_of_the_Clay/scenarios/07_Bad_news.cfg:590
 msgid ""
-"Merdor, do you have any idea what we could do about this - this stranger "
+"Merdor, do you have any idea what we could do about this - this stranger who "
 "really seems to own us."
 msgstr ""
 
@@ -2408,14 +2419,14 @@ msgstr ""
 #: The_Fellowship_of_the_Clay/scenarios/07_Bad_news.cfg:687
 msgid ""
 "My guests, I am King Haldric II. I am very honored by your presence... if "
-"only the situation would be as planned!"
+"only the situation were as planned!"
 msgstr ""
 
 #. [message]: speaker=narrator
 #: The_Fellowship_of_the_Clay/scenarios/07_Bad_news.cfg:691
 msgid ""
-"Haldric II, Merdor, Lorelei and Clyde explain their new guests what happened "
-"before."
+"Haldric II, Merdor, Lorelei and Clyde explain to their new guests the "
+"situation."
 msgstr ""
 
 #. [message]: speaker=Lorelei
@@ -2448,15 +2459,15 @@ msgstr ""
 #. [message]: speaker=Legomir
 #: The_Fellowship_of_the_Clay/scenarios/07_Bad_news.cfg:715
 msgid ""
-"This Stranger really seems to be evil, and powerful. If I would have been "
-"here earlier - I would have shot this raven from the sky, like I did with "
-"those cursed Bats."
+"This Stranger really seems to be evil, and powerful. If I had been here "
+"earlier - I would have shot this raven from the sky, like I did with those "
+"cursed Bats."
 msgstr ""
 
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/07_Bad_news.cfg:719
 msgid ""
-"Probably, this would not have been the most sensible way of acting. I guess "
+"Probably, that would not have been the most sensible way of acting. I guess "
 "his death would also let the city collapse - if he really can be killed. He "
 "barely got a scratch from my Holy Light."
 msgstr ""
@@ -2464,8 +2475,8 @@ msgstr ""
 #. [message]: speaker=Aryad
 #: The_Fellowship_of_the_Clay/scenarios/07_Bad_news.cfg:723
 msgid ""
-"I guess we will find out pretty soon, if your stranger is bluffing. New moon "
-"is arriving."
+"I guess we will find out pretty soon, if your stranger is bluffing. The new "
+"moon is arriving."
 msgstr ""
 
 #. [message]: speaker=Merdor
@@ -2494,20 +2505,20 @@ msgstr ""
 #: The_Fellowship_of_the_Clay/scenarios/07_Bad_news.cfg:779
 msgid ""
 "Our master really doesn't like people who attack him, and those who did "
-"never had a long life. So you will die tragically tonight, if you like it or "
-"not."
+"never had a long life. So you will die tragically tonight, whether you like "
+"it or not."
 msgstr ""
 
 #. [message]: speaker=Maregor
 #: The_Fellowship_of_the_Clay/scenarios/07_Bad_news.cfg:790
 msgid ""
 "This was not expected, so we will retreat - for now. But the moment will "
-"come you will all die!"
+"come when you will all die!"
 msgstr ""
 
 #. [message]: speaker=Haldric II
 #: The_Fellowship_of_the_Clay/scenarios/07_Bad_news.cfg:794
-msgid "Morning is arriving, it looks as we really have survived this night."
+msgid "Morning is arriving, it looks as if we really have survived this night."
 msgstr ""
 
 #. [message]: speaker=unit
@@ -2570,9 +2581,9 @@ msgstr ""
 #. [part]
 #: The_Fellowship_of_the_Clay/scenarios/08_The_plan.cfg:13
 msgid ""
-"Having defeated the undead forces, it apeared to Wehlot's townsman how "
-"mighty their foe and how desperate the situation seemed to be. Near the "
-"brick-kiln a council was made about what to do next."
+"Having defeated the undead forces, it was clear to Wehlot's townsmen how "
+"mighty their foe was and how desperate the situation seemed to be. Near the "
+"brick-kiln a council was held to decide the next steps."
 msgstr ""
 
 #. [message]: speaker=Haldric II
@@ -2587,7 +2598,7 @@ msgstr ""
 #. [message]: speaker=Feyndwarf
 #: The_Fellowship_of_the_Clay/scenarios/08_The_plan.cfg:114
 msgid ""
-"Mumbeling and investigating the brick-kiln: I might have an idea... I might "
+"Mumbling and investigating the brick-kiln: I might have an idea... I might "
 "be able to craft some runes, which capture the stone-making power of this "
 "fire. This way, we could turn his own powers against him, neutralizing him "
 "by petrifying him, and thus conserving the powers that keep this city "
@@ -2601,7 +2612,7 @@ msgstr ""
 
 #. [message]: speaker=Lorelei
 #: The_Fellowship_of_the_Clay/scenarios/08_The_plan.cfg:122
-msgid "And the force of the spell in the fire should equal to his own potency."
+msgid "And the force of the spell in the fire should equal his own potency."
 msgstr ""
 
 #. [message]: speaker=Haldric II
@@ -2670,23 +2681,22 @@ msgid ""
 "tell a story about a stranger who claimed the life of children. The tale "
 "states that one of our highest Lords also refused to comply and assembled an "
 "army instead. Following this legend, the whole army was defeated quickly, "
-"just provoking the wrath of death himself. I myself considered this story "
-"just as a parable to invoke the humbleness of our people towards death "
-"himself. Still if there is some truth to it, so might its geographic "
-"reference has some truth. It states that the Stanger resides within 'the "
-"hills close to the swamps'."
+"just provoking the wrath of death himself. I myself considered this just a "
+"parable to make our people humble. Still if there is some truth to it, so "
+"might its geographic reference have some validity. It states that the "
+"Stanger resides within 'the hills close to the swamps'."
 msgstr ""
 
 #. [message]: speaker=Feyndwarf
 #: The_Fellowship_of_the_Clay/scenarios/08_The_plan.cfg:166
 msgid ""
 "That would still leave two possibilities: The hills around the Swamp of the "
-"Dread and the Eastmark hills at the Bitter Swamps."
+"Dread or the Eastmark hills at the Bitter Swamps."
 msgstr ""
 
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/08_The_plan.cfg:170
-msgid "And how could we check the two mountains quick enough?"
+msgid "And how could we check the two mountains quickly?"
 msgstr ""
 
 #. [message]: speaker=Merdor
@@ -2705,7 +2715,7 @@ msgstr ""
 #: The_Fellowship_of_the_Clay/scenarios/08_The_plan.cfg:182
 msgid ""
 "No, no! I mean Harriett! She might be able to get us there in a blink of an "
-"eye! Hmm... while we still have to get to her village in the Dulatus Hills."
+"eye! Hmm... but  we still have to get to her village in the Dulatus Hills."
 msgstr ""
 
 #. [message]: speaker=Haldric II
@@ -2717,10 +2727,10 @@ msgstr ""
 #: The_Fellowship_of_the_Clay/scenarios/08_The_plan.cfg:190
 msgid ""
 "Ah, sure... Some time ago, there was a nice silvermage-couple at our school, "
-"the Porters. And they have a daughter called Harriett. She is the first mage "
-"ever, who was able to teleport not herself, but someone else! Unfortunately, "
-"the Porters had some disagreement with the School and so they left Alduin "
-"for a small village in the mountains, called Mountainhigh."
+"the Porters. And they have a daughter called Harriett. She was the first "
+"mage ever, who was able to teleport not herself, but someone else! "
+"Unfortunately, the Porters had some disagreement with the School and so they "
+"left Alduin for a small village in the mountains, called Mountainhigh."
 msgstr ""
 
 #. [message]: speaker=Clyde
@@ -2731,7 +2741,7 @@ msgstr ""
 #. [message]: speaker=Merdor
 #: The_Fellowship_of_the_Clay/scenarios/08_The_plan.cfg:198
 msgid ""
-"The Porters still hold contact to me, so they told me its location. They "
+"The Porters still hold contact with me, so they told me its location. They "
 "also said something about a 'Valley of the Yetis.'"
 msgstr ""
 
@@ -2742,12 +2752,12 @@ msgstr ""
 
 #. [message]: speaker=Legomir
 #: The_Fellowship_of_the_Clay/scenarios/08_The_plan.cfg:206
-msgid "I certainly go with Clyde!"
+msgid "I shall certainly go with Clyde!"
 msgstr ""
 
 #. [message]: speaker=Feyndwarf
 #: The_Fellowship_of_the_Clay/scenarios/08_The_plan.cfg:210
-msgid "I think about this 'Rune on the Arrow' issue and join!"
+msgid "I will think about this 'Rune on the Arrow' issue and join!"
 msgstr ""
 
 #. [message]: speaker=Aryad
@@ -2770,7 +2780,7 @@ msgstr ""
 
 #. [message]: speaker=Eleonor
 #: The_Fellowship_of_the_Clay/scenarios/08_The_plan.cfg:226
-msgid "I will leave now, and I hope everything is going fine for you."
+msgid "I will leave now, and I hope everything goes fine for you."
 msgstr ""
 
 #. [scenario]: id=09_Recruiting_Harriett
@@ -2815,13 +2825,13 @@ msgstr ""
 #: The_Fellowship_of_the_Clay/scenarios/09_Recruiting_Harriett.cfg:37
 msgid ""
 "Ok, listen carefully: When Haldric's II father Haldric bought the piece of "
-"land your city is build on, his mother Jessica felt that something was very "
+"land your city is built on, his mother Jessica felt that something was very "
 "wrong. She cried a lot during this time because Haldric II was just born and "
 "now she was already afraid about the life of her child - you know Haldric's "
 "II parents disagreed about almost everything. One day, when she was sitting "
-"on the riverside of river Aethen and cried, my mother saw her. My mother "
-"felt very involved by Jessica's story as she also could feel that something "
-"was not right. She came up with an idea that had some chance to counter an "
+"on the riverside of river Aethen and cried, my mother saw her. My mother got "
+"very involved in Jessica's story as she also could feel that something was "
+"not right. She came up with an idea that had some chance to counter an "
 "incalculable, future menace: An incalculable future blessing."
 msgstr ""
 
@@ -2847,14 +2857,14 @@ msgid ""
 "you! She, my mother and a white Mage agreed to use white magic on her unborn "
 "child so that you might become a true taintless knight and friend of Haldric "
 "II. No one could guarantee that it would work, so further steps like sending "
-"you to Alduin where taken. And looking at you: It did work!"
+"you to Alduin were taken. And look at you: It did work!"
 msgstr ""
 
 #. [part]
 #: The_Fellowship_of_the_Clay/scenarios/09_Recruiting_Harriett.cfg:57
 msgid ""
-"You mean I am just here to fulfill someone else's plan - like a marionette? "
-"All my actions and all my believes - everything determined by other people? "
+"You mean I am here just to fulfill someone else's plan - like a marionette? "
+"All my actions and all my beliefs - everything determined by other people? "
 "Are you telling me that I never had any choice, that there is no room for a "
 "personality of my own, that basically, there is no 'me', no Clyde?"
 msgstr ""
@@ -2865,15 +2875,15 @@ msgid ""
 "If you would live in the water, you wouldn't regard things as personality "
 "and choices as incompatible with the flow of causality - you wouldn't need "
 "to come up with such a concept as an 'unmoved mover' to consider yourself "
-"free. It is true, a lot of things had and have an influence on you. But "
-"freedom of action means not that you make your choices without a basis. And "
-"it doesn't mean that you are actually performing all the possibilities "
-"between which you had to choose: You can always just execute one branch of a "
-"decision tree! Freedom just means that there have been other branches too! "
-"Eventually, we are all bound to causality and even if your personality is "
-"itself bound in this way, it is still this very piece of you that makes "
-"either good or bad decisions. So be glad that you tend to do the good ones, "
-"I can tell you that there are worse!"
+"free. It is true, a lot of things have had, have and will have an influence "
+"on you. But freedom of action means not that you make your choices without a "
+"basis. And it doesn't mean that you are actually performing all the "
+"possibilities between which you had to choose: You can always just execute "
+"one branch of a decision tree! Freedom just means that there have been other "
+"branches too! Eventually, we are all bound to causality and even if your "
+"personality is itself bound in this way, it is still this very piece of you "
+"that makes either good or bad decisions. So be glad that you tend to do the "
+"good ones, I can tell you that there are worse!"
 msgstr ""
 
 #. [part]
@@ -2889,7 +2899,7 @@ msgstr ""
 
 #. [part]
 #: The_Fellowship_of_the_Clay/scenarios/09_Recruiting_Harriett.cfg:73
-msgid "Eventualy, the Fellowship was approaching the valley Merdor described."
+msgid "Eventually, the Fellowship approached the valley Merdor described."
 msgstr ""
 
 #. [label]
@@ -2961,8 +2971,8 @@ msgstr ""
 #: The_Fellowship_of_the_Clay/scenarios/09_Recruiting_Harriett.cfg:255
 msgid ""
 "Here we are. Behind this mountainous ridge lies the valley of the Yetis. We "
-"have to get through it to reach Mountainhigh. When we traverse a rivulet, we "
-"should be almost there!"
+"have to get through it to reach Mountainhigh. When we traverse the rivulet, "
+"we should be almost there!"
 msgstr ""
 
 #. [message]: speaker=narrator
@@ -2978,7 +2988,7 @@ msgstr ""
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/09_Recruiting_Harriett.cfg:312
 msgid ""
-"How can somebody life behind these Yetis? Every time you want to get there "
+"How can somebody live behind these Yetis? Every time you want to get there "
 "or you want to leave from there, you get beaten up?!"
 msgstr ""
 
@@ -3002,7 +3012,7 @@ msgstr ""
 #. [message]: speaker=Elisabeth Porter
 #: The_Fellowship_of_the_Clay/scenarios/09_Recruiting_Harriett.cfg:335
 msgid ""
-"Merdor, I told you not to come here. I hope you don't come because of "
+"Merdor, I told you not to come here. I hope you didn't come because of "
 "Harriett!"
 msgstr ""
 
@@ -3016,8 +3026,8 @@ msgstr ""
 #. [message]: speaker=Elisabeth Porter
 #: The_Fellowship_of_the_Clay/scenarios/09_Recruiting_Harriett.cfg:343
 msgid ""
-"I guess you are desperate to come through the valley. Run faster old man, or "
-"you will attract the Yetis to the village."
+"I guess you were enought desperate to come through the valley. Run faster "
+"old man, or you will attract the Yetis to the village."
 msgstr ""
 
 #. [message]: speaker=Elisabeth Porter
@@ -3041,16 +3051,16 @@ msgstr ""
 
 #. [message]: speaker=narrator
 #: The_Fellowship_of_the_Clay/scenarios/09_Recruiting_Harriett.cfg:379
-msgid "Clyde explains everything"
+msgid "Clyde explains everything..."
 msgstr ""
 
 #. [message]: speaker=Elisabeth Porter
 #: The_Fellowship_of_the_Clay/scenarios/09_Recruiting_Harriett.cfg:383
 msgid ""
 "So you did come because of Harriett! Curse you Merdor! I will not just give "
-"you my daughter so that you can bring her into danger! Though, I can "
-"understand the danger Wehlot is in. Well, you should go to our house at the "
-"end of the street and discuss the situation with Henry."
+"you my daughter so that you can take her into danger! Though, I can "
+"understand the peril Wehlot is in. Well(sighs). You should go to our house "
+"at the end of the street and discuss the situation with Henry."
 msgstr ""
 
 #. [objective]: condition=win
@@ -3142,16 +3152,16 @@ msgstr ""
 #. [message]: speaker=Harriett Porter
 #: The_Fellowship_of_the_Clay/scenarios/10_Convincing_the_Father.cfg:103
 msgid ""
-"Dad, until know my abilities caused nothing but trouble. I always wanted to "
+"Dad, until now my abilities caused nothing but trouble. I always wanted to "
 "put it to some good use, I beg you to let me go."
 msgstr ""
 
 #. [message]: speaker=Henry Porter
 #: The_Fellowship_of_the_Clay/scenarios/10_Convincing_the_Father.cfg:107
 msgid ""
-"Ach my girl, I know that I can't avoid that you will leave the village "
-"sometime... under three conditions: First, you are the leader of that "
-"mission, Clyde, right? Second, I will join you - I won't allow that you "
+"Ach my girl, I know that I can't avoid that sometime you will leave the "
+"village...OK..under three conditions: First, you are the leader of that "
+"mission, Clyde, right? Second, I will join you - I will not allow you to "
 "leave without my protection! Third: Clyde, you look like a capable fighter "
 "and leader. But prove it in a simulated fight with me, here and now!"
 msgstr ""
@@ -3164,7 +3174,7 @@ msgstr ""
 #. [message]: speaker=Henry Porter
 #: The_Fellowship_of_the_Clay/scenarios/10_Convincing_the_Father.cfg:115
 msgid ""
-"Harriett, please, go somewhere else now. I don't want that you get hurt here."
+"Harriett, please, go somewhere else now. I don't want you to get hurt here."
 msgstr ""
 
 #. [message]: speaker=Harriett Porter
@@ -3261,7 +3271,7 @@ msgstr ""
 #: The_Fellowship_of_the_Clay/scenarios/10_Convincing_the_Father.cfg:402
 msgid ""
 "I have to admit, you're an excellent fighter. I think it's appropiate that "
-"we two will come with you. Let's go to the Swamp of the Dread then!"
+"we two come with you. Let's go to the Swamp of the Dread then!"
 msgstr ""
 
 #. [message]: speaker=Henry Porter
@@ -3280,14 +3290,14 @@ msgstr ""
 #. [part]
 #: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:21
 msgid ""
-"After having argreed with Henry about Harriett and him coming with them, "
-"they suddenly were disturbed by rumbling and shouting."
+"After having agreed with Henry about Harriett and his coming with them, they "
+"were suddenly disturbed by rumbling and shouting."
 msgstr ""
 
 #. [part]
 #: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:25
 msgid ""
-"Going out to find out the reason for the noise, the fellowship noticed, that "
+"Going out to find out the reason for the noise, the fellowship noticed that "
 "the village was threatened..."
 msgstr ""
 
@@ -3333,7 +3343,7 @@ msgstr ""
 
 #. [objective]: condition=win
 #: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:234
-msgid "Find out the reason for yeti's pain"
+msgid "Find out the reason for the yeti's pain"
 msgstr ""
 
 #. [objective]: condition=lose
@@ -3347,10 +3357,9 @@ msgstr ""
 
 #. [objective]: condition=lose
 #: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:242
-#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:538
 #: The_Fellowship_of_the_Clay/scenarios/12_Dragnet_Operation.cfg:132
 #: The_Fellowship_of_the_Clay/scenarios/12_Dragnet_Operation.cfg:394
-msgid "Death of a member of the Porter's family"
+msgid "Death of a member of the Porter family"
 msgstr ""
 
 #. [message]: speaker=Clyde
@@ -3386,8 +3395,7 @@ msgstr ""
 
 #. [message]: speaker=Elisabeth Porter
 #: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:288
-msgid ""
-"You may use my keep to recruit soldiers - you'll need it more than I do."
+msgid "You may use my keep to recruit soldiers - you need it more than I do."
 msgstr ""
 
 #. [message]: speaker=second_unit
@@ -3438,36 +3446,36 @@ msgid ""
 "But it would be a really bad idea to leave this mad dwarf and his friends "
 "behind us, they would just try to assassinate us. <small> Although his soul "
 "was tortured to insanity, it makes me feel evil to order his death - as if "
-"my inner light would get dimmed...</small>"
+"my inner light will dim...</small>"
 msgstr ""
 
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:507
 msgid ""
-"When this stranger is even driving sturdy dwarves to madness, the threat is "
+"When this stranger is driving even sturdy dwarves to madness, the threat is "
 "even bigger for us!"
 msgstr ""
 
 #. [message]: speaker=Elisabeth Porter
 #: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:511
 msgid ""
-"We've to put out the fire quickly before every being in this forest is "
-"attacking us in fear! We've got a well in Mountainhigh, there your soldiers "
-"could get some water."
+"We've to put out the fire quickly before every being in this forest attacks "
+"us in fear! We've got a well in Mountainhigh from where your soldiers can "
+"get water."
 msgstr ""
 
 #. [message]: speaker=Harriett Porter
 #: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:516
 msgid ""
-"If I may note, destiny gave me the ability to teleport also the people "
-"around me to one of our villages."
+"If I may note, destiny gave me the ability to teleport the people around me "
+"to one of our villages."
 msgstr ""
 
 #. [message]: speaker=narrator
 #: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:521
 msgid ""
-"To teleport a unit using Harriett's powers, move the unit you want to be "
-"teleported next to her. Then choose 'Teleport this unit' in the right-click "
+"To teleport a unit using Harriett's powers, move the unit you want to "
+"teleport next to her. Then choose 'Teleport this unit' in the right-click "
 "menu. You now have two possibilities when clicking the right mouse button: "
 "'Back', after which you can rechoose the unit to be teleported, and "
 "'Teleport unit here', on any village of your own. The unit will then be "
@@ -3484,6 +3492,11 @@ msgstr ""
 msgid "Stop the fire"
 msgstr ""
 
+#. [objective]: condition=lose
+#: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:538
+msgid "Death of a member of the Porter's family"
+msgstr ""
+
 #. [objectives]
 #: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:540
 msgid ""
@@ -3493,7 +3506,7 @@ msgid ""
 "does.\n"
 "Third note: move a unit to the well in Mountainhigh to get some water, which "
 "may be used to stop the fire.\n"
-"Last note: Harrietts ability to teleport an adjacent unit to an owned "
+"Last note: Harriett's ability to teleport an adjacent unit to an owned "
 "village might be useful here."
 msgstr ""
 
@@ -3503,7 +3516,7 @@ msgid ""
 "But it would be a really bad idea to leave this mad dwarf and his friends "
 "behind us, they would just try to assassinate us. <small> Although his soul "
 "was tortured to insanity, it makes me feel evil to order his death - like if "
-"my inner light would get dimmed...</small>"
+"my inner light will dim...</small>"
 msgstr ""
 
 #. [message]: speaker=unit
@@ -3522,14 +3535,14 @@ msgstr ""
 
 #. [message]: speaker=second_unit
 #: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:672
-msgid "This degree of insanity really makes me shutter..."
+msgid "This degree of insanity really makes me shudder..."
 msgstr ""
 
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:693
 msgid ""
 "<small> Although his soul was tortured to insanity, it makes me feel evil to "
-"have ordered his death - like if my inner light would get dimmed...</small>"
+"have ordered his death - like if my inner light will dim...</small>"
 msgstr ""
 
 #. [message]: speaker=Feyndwarf
@@ -3542,8 +3555,8 @@ msgstr ""
 #. [message]: speaker=Henry Porter
 #: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:706
 msgid ""
-"Harriett can make the travel to the north easier by just teleporting us to a "
-"human settlement, that will save a lot of time."
+"Harriett can make the travel to the north easier by teleporting us to a "
+"human settlement. That will save a lot of time."
 msgstr ""
 
 #. [message]: speaker=Harriett Porter
@@ -3566,13 +3579,13 @@ msgstr ""
 #. [part]
 #: The_Fellowship_of_the_Clay/scenarios/12_Dragnet_Operation.cfg:18
 msgid ""
-"Harriett was teleporting the whole group away to the north, which shortened "
-"the needed time drastically."
+"Harriett teleported the whole group to the north, which shortened the time "
+"drastically."
 msgstr ""
 
 #. [part]
 #: The_Fellowship_of_the_Clay/scenarios/12_Dragnet_Operation.cfg:22
-msgid "So the fellowship arrived at a small village in the Swamps of Dread."
+msgid "The fellowship arrived at a small village in the Swamps of Dread."
 msgstr ""
 
 #. [side]: type=Saurian Ambusher, type=Saurian Flanker, id=Raszikz
@@ -3617,8 +3630,8 @@ msgstr ""
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/12_Dragnet_Operation.cfg:211
 msgid ""
-"Since we just left the last human encampment, this bridge is probably not "
-"built by humans."
+"Since we just left the last human encampment, this bridge has probably not "
+"been built by humans."
 msgstr ""
 
 #. [message]: speaker=Aryad
@@ -3629,8 +3642,8 @@ msgstr ""
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/12_Dragnet_Operation.cfg:219
 msgid ""
-"We can assume that it is some kind of trap from some swamp inhabitants then. "
-"I propose to send our Merman into the swamps to back us up against whatever "
+"We can assume that it is some kind of trap from swamp inhabitants then. I "
+"propose to send our Merman into the swamps to back us up against whatever "
 "threat we will encounter when we are on the bridge."
 msgstr ""
 
@@ -3669,7 +3682,7 @@ msgstr ""
 #. [message]: speaker=unit
 #: The_Fellowship_of_the_Clay/scenarios/12_Dragnet_Operation.cfg:327
 msgid ""
-"Ach, this swamp is really slowing me down, and additionaly, there were "
+"Ach, this swamp is really slowing me down, and additionally, there are "
 "lizards hidden in here. I'd better stay on the path..."
 msgstr ""
 
@@ -3743,7 +3756,7 @@ msgstr ""
 #. [option]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/12_Dragnet_Operation.cfg:478
 msgid ""
-"We need someone who knows the mountains. You do. Show us a save path, "
+"We need someone who knows the mountains. You do. Show us a safe path, "
 "otherwise my blade will have to cut your filthy throat!"
 msgstr ""
 
@@ -3761,14 +3774,12 @@ msgstr ""
 
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/12_Dragnet_Operation.cfg:516
-msgid "Hey, I'm not able to shine anymore - did my inner life leave me?"
+msgid "Hey, I'm not able to shine anymore - did my inner light leave me?"
 msgstr ""
 
 #. [message]: speaker=Lorelei
 #: The_Fellowship_of_the_Clay/scenarios/12_Dragnet_Operation.cfg:522
-msgid ""
-"Obviously, since pressing service of somebody is not considered to be a nice "
-"action."
+msgid "Obviously, since pressing someone into service is not a nice action."
 msgstr ""
 
 #. [message]: speaker=Clyde
@@ -4252,7 +4263,7 @@ msgid "Thank you, my lord."
 msgstr ""
 
 #. [message]: speaker=Galion
-#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:1093
+#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:1096
 msgid ""
 "Stop it! I cannot take this any longer! For you have killed too many elves "
 "we will be at war as long as I live!"
@@ -4352,13 +4363,13 @@ msgstr ""
 
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/14_Dark_Walks-Walks_about_Darkness.cfg:338
-msgid "So, where are we exactly then?"
+msgid "So, exactly where are we then?"
 msgstr ""
 
 #. [message]: speaker=Bonie
 #: The_Fellowship_of_the_Clay/scenarios/14_Dark_Walks-Walks_about_Darkness.cfg:342
 msgid ""
-"We are at least two day's marches afar from his place but we shouldn't have "
+"We are at least two days march away from his place but we couldn't have "
 "teleported any closer as the concentration of his minions wouldn't have "
 "allowed us to stay undetected. In fact, I guess we will encounter them "
 "<b>very</b> soon. We are on the upper cliff of a canyon that was formed by "
@@ -4534,7 +4545,7 @@ msgstr ""
 msgid ""
 "Tearing open this abyss would not have been possible without the corruption "
 "of the other races - I can feel my powers swell! Already, every other "
-"attempt of necromancing is pathetic compared to what I accomplished. I won't "
+"attempt of necromancy is pathetic compared to what I accomplished. I won't "
 "be a stranger to the living for long - I will be known as the greatest "
 "necromancer ever existed!"
 msgstr ""
@@ -4572,10 +4583,10 @@ msgstr ""
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:412
 msgid ""
-"It sounds like a plan but I see three problems here: First, we have to dumb "
-"that pretty big rock into the lava, second we somehow have to blow up the "
-"barrage and third, we somehow have to get to that lake without attracting "
-"all this undead."
+"It sounds like a good plan but I see three problems here: First, we have to "
+"dump that pretty big rock into the lava, second we somehow have to blow up "
+"the barrage and third, we somehow have to get to that lake without "
+"attracting all these undead."
 msgstr ""
 
 #. [message]: speaker=legomir
@@ -4591,9 +4602,9 @@ msgstr ""
 msgid ""
 "True! I <b>strongly</b> suggest that we try to get someone to the lake "
 "before we dump the rock into the lava. Only by carrying out both parts of "
-"our plan nearly synchronously we can succeed before the undead realize "
-"what's going on. Harriett, I am pretty sure that we need your powers here to "
-"realize the speed we need - one way or the other."
+"our plan synchronously, or nearly so, can we succeed before the undead "
+"realize what's going on. Harriett, I am pretty sure that we need your powers "
+"here to realize the speed we need - one way or the other."
 msgstr ""
 
 #. [message]: speaker=Feyndwarf
@@ -4719,8 +4730,7 @@ msgstr ""
 #: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:801
 msgid ""
 "I'm quite capable of doing this. However, you all should keep back a little, "
-"because water is flowing faster than lava and if we block each other, we'll "
-"drown."
+"because water flows faster than lava and if we block each other, we'll drown."
 msgstr ""
 
 #. [message]: speaker=Legomir
@@ -4778,8 +4788,8 @@ msgstr ""
 #: The_Fellowship_of_the_Clay/scenarios/16_The_three_Towers_of_Mount_Quake.cfg:18
 msgid ""
 "Eventually, Clyde and the fellowship were about to confront their fiercest "
-"enemy. Everybody was aware that not only he was incredibly powerful, but "
-"they also had to treat him with kid gloves - or Wehlot would be gone."
+"enemy. Everyone was aware not only of his incredible powers, but also that "
+"they had to treat him with kid gloves - or Wehlot would be gone."
 msgstr ""
 
 #. [side]: id=Ebrithil, type=Death Knight
@@ -4858,8 +4868,8 @@ msgstr ""
 #. [message]: speaker=Merdor
 #: The_Fellowship_of_the_Clay/scenarios/16_The_three_Towers_of_Mount_Quake.cfg:330
 msgid ""
-"It's an ingenious spell, every person mildly magically featured could cast "
-"it. Even you, dear Clyde."
+"It's an ingenious spell, any person with magically skills could cast it. "
+"Even you, dear Clyde."
 msgstr ""
 
 #. [message]: speaker=Clyde
@@ -4883,8 +4893,8 @@ msgid ""
 "against him by hitting him with an arrow comprising the magic fire from "
 "Wehlot will only succeed if we could hit him while he is in his raven form "
 "and his defensive capabilities are reduced. So we somehow have to get him to "
-"fly somewhere and there Legomir has to wait, the arrow prepared by Fenydwarf "
-"ready to fire."
+"fly somewhere and there Legomir has to wait  with the arrow prepared by "
+"Fenydwarf ready to fire."
 msgstr ""
 
 #. [message]: speaker=Feyndwarf
@@ -4908,23 +4918,23 @@ msgstr ""
 #. [message]: speaker=Harriett Porter
 #: The_Fellowship_of_the_Clay/scenarios/16_The_three_Towers_of_Mount_Quake.cfg:363
 msgid ""
-"If that is the only problem, I kept one of my father's health potions. If he "
-"uses his strongest magic to wound you as you suppose, I guess it will make "
-"him angry if you look as good as ever!"
+"If that is the only problem, I kept one of my father's health potions. Even "
+"if he uses his strongest magic to wound you as you suppose, it will still "
+"make him angry if you look as good as ever!"
 msgstr ""
 
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/16_The_three_Towers_of_Mount_Quake.cfg:367
 msgid ""
-"<b>Ok, the plan is as follows: We somehow have to get Legomir to that "
-"western tower, which seems to be the prison tower.</b>"
+"<b>Ok, the plan is as follows: We have to get Legomir to that western tower, "
+"which seems to be the prison tower.</b>"
 msgstr ""
 
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/16_The_three_Towers_of_Mount_Quake.cfg:373
 msgid ""
-"<b>That means we need a village there, so Harriett is able to teleport him "
-"there.</b>"
+"<b>That means we need a village there, so Harriett can teleport him there.</"
+"b>"
 msgstr ""
 
 #. [message]: speaker=Clyde
@@ -4964,8 +4974,8 @@ msgstr ""
 #: The_Fellowship_of_the_Clay/scenarios/16_The_three_Towers_of_Mount_Quake.cfg:448
 msgid ""
 "<b>As soon as he attacks me with all his might, every other support will be "
-"welcome. We have to drive him to that tower where Legomir is hopefully "
-"waiting already.</b>"
+"welcome. We have to drive him to that tower where Legomir will be hopefully "
+"waiting by them.</b>"
 msgstr ""
 
 #. [message]: speaker=Merdor
@@ -4974,8 +4984,8 @@ msgid ""
 "That is a complicated plan, but a well thought-out one. But there is one "
 "last thing: If all of this succeeds, Legomir will hit the Stranger in his "
 "Raven form in the sky, turning him to stone. If this little Raven-statue "
-"will crush at the ground, Wehlot will certainly be gone. We thus should "
-"avoid that and take him back with us to Wehlot instead."
+"will drop to the ground and be crushed, Wehlot will certainly be gone. We "
+"thus should avoid that and take him back with us to Wehlot instead."
 msgstr ""
 
 #. [message]: speaker=Rash
@@ -4994,7 +5004,7 @@ msgstr ""
 #: The_Fellowship_of_the_Clay/scenarios/16_The_three_Towers_of_Mount_Quake.cfg:467
 msgid ""
 "You seem to have business with the sorcerer living here. You have bad luck: "
-"We promised to protect him in exchange for his protection of our hatchery."
+"We promised to protect him in exchange for his protecting our hatchery."
 msgstr ""
 
 #. [message]: speaker=Familiar Stranger
@@ -5023,7 +5033,7 @@ msgstr ""
 #: The_Fellowship_of_the_Clay/scenarios/16_The_three_Towers_of_Mount_Quake.cfg:524
 msgid ""
 "Ha, that is nice. You continue to surprise me. Not a frequent feeling for "
-"me... come here and let me teach you your death, puny human!"
+"me... come here and let me show you your death, puny human!"
 msgstr ""
 
 #. [message]: speaker=unit
@@ -5140,7 +5150,7 @@ msgstr ""
 msgid ""
 "After a brief moment of relief, it quickly came to Clyde's mind that there "
 "still was an entire army marching towards Wehlot. Only because of Harriett, "
-"they could hope to catch up with those troops they had avoided ealier."
+"could they hope to catch up with those troops they had avoided earlier."
 msgstr ""
 
 #. [side]: type=Ancient Lich, id=Emmeriz
@@ -5199,7 +5209,7 @@ msgid ""
 "Those troops were already commissioned when we engaged the Stranger. I think "
 "all those stories where you just have to deal with an evil sorcerer and all "
 "his evil deeds are made undone do not reflect reality very well. I guess we "
-"have no other option as to defend ourselves!"
+"have no other option but to defend ourselves!"
 msgstr ""
 
 #. [message]: speaker=Haldric II
@@ -5209,7 +5219,7 @@ msgstr ""
 
 #. [message]: speaker=Emmeriz
 #: The_Fellowship_of_the_Clay/scenarios/17_In_Due_Time.cfg:395
-msgid "For you crossed our master's plans, you shall die anyway!"
+msgid "Since you crossed our master's plans, you shall die!"
 msgstr ""
 
 #. [message]: speaker=Clyde
@@ -5243,7 +5253,7 @@ msgstr ""
 #. [message]: speaker=Haldric II
 #: The_Fellowship_of_the_Clay/scenarios/17_In_Due_Time.cfg:485
 msgid ""
-"Your support is very much appreciated as you would have guessed when locking "
+"Your support is very much appreciated as you would have guessed when looking "
 "around."
 msgstr ""
 
@@ -5291,16 +5301,16 @@ msgstr ""
 #: The_Fellowship_of_the_Clay/scenarios/18_Epilogue.cfg:13
 msgid ""
 "After the last undead fell and the dust of the battle settled, Clyde and "
-"Haldric II. met at the brick-kiln."
+"Haldric II met at the brick-kiln."
 msgstr ""
 
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/18_Epilogue.cfg:65
 msgid ""
-"My King, we survived this nightmare and Wehlot still stands, but now where "
-"we learned that our city is build upon dark magic and, even more troubling, "
-"as fragile as a little raven-statue: do you really think it is a good idea "
-"to stay in this city for long?"
+"My King, we survived this nightmare and Wehlot still stands. But now we have "
+"learned that our city is built upon dark magic. Even more troublesome is "
+"that it is as fragile as a little raven-statue. Do you really think it is a "
+"good idea to stay here for long?"
 msgstr ""
 
 #. [message]: speaker=Haldric II
@@ -5323,13 +5333,13 @@ msgstr ""
 #: The_Fellowship_of_the_Clay/scenarios/18_Epilogue.cfg:77
 msgid ""
 "Yes, for now and as long as we take care of the statue, Wehlot is still a "
-"save city. Our sons and grandsons might be able to build a new great city "
+"safe city. Our sons and grandsons might be able to build a new great city "
 "that does not bear the burden of this one. But I do not want to be "
 "remembered as the King who left nothing but a cursed place. I still have "
 "some plans for that Ruby of Fire. I want it to be transformed into a scepter "
-"- a symbol that should represent the human's King's power. And Clyde: This "
-"time, I will go myself and arrange an agreement with the dwarves - you did "
-"already too much for me!"
+"- a symbol that should represent the human King's power. And Clyde: This "
+"time, I will go myself and arrange an agreement with the dwarves - you "
+"already did too much for me!"
 msgstr ""
 
 #. [unit_type]: id=Knight of the Light, race=human
