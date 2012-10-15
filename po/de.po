@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: The_Fellowship_of_the_Clay-1.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-10-15 12:21+0200\n"
-"PO-Revision-Date: 2012-07-13 00:01+0100\n"
+"PO-Revision-Date: 2012-10-15 20:12+0100\n"
 "Last-Translator: Carsten <Carsten.Griesel@gmail.com>\n"
 "Language-Team: none\n"
 "Language: de\n"
@@ -11,8 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Poedit-Language: German\n"
-"X-Poedit-Country: GERMANY\n"
+"X-Generator: Poedit 1.5.4\n"
 
 #. [campaign]: id=The_Fellowship_of_the_Clay
 #. [editor_group]: id=TFotC
@@ -62,7 +61,6 @@ msgstr "Heller, weißer Ritter des Lichts"
 
 #. [campaign]: id=The_Fellowship_of_the_Clay
 #: The_Fellowship_of_the_Clay/_main.cfg:45
-#, fuzzy
 msgid ""
 "Set right after 'The Rise of Wesnoth' and before 'Legend of Wesmere' and "
 "'Sceptre of Fire', the adventure tells the story of human's first capital on "
@@ -138,7 +136,7 @@ msgstr "Neue Bilder, Portraits und Sprites"
 #. [about]
 #: The_Fellowship_of_the_Clay/_main.cfg:104
 msgid "Text fine Tuning"
-msgstr ""
+msgstr "Textschliff (Englisch)"
 
 #. [about]
 #: The_Fellowship_of_the_Clay/_main.cfg:110
@@ -154,7 +152,6 @@ msgstr "Die Aufgabe"
 
 #. [part]
 #: The_Fellowship_of_the_Clay/scenarios/01_The_assignment.cfg:15
-#, fuzzy
 msgid ""
 "When the humans arrived at the great continent, they needed a new and safe "
 "home. Building such a capital city, called Wehlot, was what King Haldric "
@@ -180,7 +177,6 @@ msgstr ""
 
 #. [part]
 #: The_Fellowship_of_the_Clay/scenarios/01_The_assignment.cfg:23
-#, fuzzy
 msgid ""
 "Second, as humans landed first on the Isle of Alduin which also caused the "
 "mages school to be founded there, he did not want to be too far from the "
@@ -212,7 +208,6 @@ msgstr ""
 
 #. [part]
 #: The_Fellowship_of_the_Clay/scenarios/01_The_assignment.cfg:35
-#, fuzzy
 msgid ""
 "Under mysterious circumstances, Haldric died, never able tell his son - "
 "Haldric II - about the stranger and the deal he made with him."
@@ -232,7 +227,6 @@ msgstr ""
 
 #. [part]
 #: The_Fellowship_of_the_Clay/scenarios/01_The_assignment.cfg:43
-#, fuzzy
 msgid "We start our story in the year 23 YW..."
 msgstr "Wir schreiben das Jahr 23 JW..."
 
@@ -262,7 +256,6 @@ msgstr "Steinbruch"
 #. [label]
 #: The_Fellowship_of_the_Clay/scenarios/01_The_assignment.cfg:68
 #: The_Fellowship_of_the_Clay/scenarios/17_In_Due_Time.cfg:209
-#, fuzzy
 msgid "Woodsman's house"
 msgstr "Haus des Försters"
 
@@ -367,7 +360,6 @@ msgstr "Orks"
 
 #. [message]: speaker=Haldric II
 #: The_Fellowship_of_the_Clay/scenarios/01_The_assignment.cfg:179
-#, fuzzy
 msgid ""
 "Clyde, now that we are almost done with Wehlot, I want to direct our "
 "attention to other matters: I want to intensify our diplomatic relations "
@@ -388,7 +380,6 @@ msgstr "Mein König, ich bin sicher nicht so vorbildlich, wie Ihr es darstellt."
 
 #. [message]: speaker=Haldric II
 #: The_Fellowship_of_the_Clay/scenarios/01_The_assignment.cfg:187
-#, fuzzy
 msgid ""
 "Oh yes, you are my dear! I want to celebrate the finishing of Wehlot "
 "together with the elves and dwarves. Actually, having the Mermen here would "
@@ -410,7 +401,6 @@ msgstr ""
 
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/01_The_assignment.cfg:191
-#, fuzzy
 msgid ""
 "Truly spoken. But am I not needed here to continue to protect our people?"
 msgstr ""
@@ -446,7 +436,6 @@ msgstr ""
 
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/01_The_assignment.cfg:207
-#, fuzzy
 msgid ""
 "But my King! She is the direct descendent of Snow-flake! And she is such a "
 "unique being! She belongs to you as she continues the line of your royal "
@@ -458,7 +447,6 @@ msgstr ""
 
 #. [message]: speaker=Haldric II
 #: The_Fellowship_of_the_Clay/scenarios/01_The_assignment.cfg:211
-#, fuzzy
 msgid ""
 "My dear Clyde, don't underestimate yourself! You know that you are the only "
 "one whom she ever allowed to mount her. As I said, you'll need her to do as "
@@ -556,7 +544,6 @@ msgstr "Tod von Schneewittchen"
 
 #. [objective]: condition=lose
 #: The_Fellowship_of_the_Clay/scenarios/01_The_assignment.cfg:333
-#, fuzzy
 msgid "Death of any of the Peasants"
 msgstr "Tod eines Bauern"
 
@@ -567,7 +554,6 @@ msgstr "Mein König, wir sind die Orks losgeworden!"
 
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/01_The_assignment.cfg:375
-#, fuzzy
 msgid ""
 "There you are my agile beauty! Let's go to the seven dwarves now - or "
 "however many there really are! If Haldric II knew that even I was never "
@@ -588,7 +574,6 @@ msgstr "Hüüh, brrrr! (Sie leckt eure Hand und drückt ihren Kopf gegen euch.)"
 
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/01_The_assignment.cfg:383
-#, fuzzy
 msgid ""
 "Ah, I see, the little Orc disruption caused you not to get your favorite "
 "food and now you are hungry! Well, the storage in the stables is... well "
@@ -603,7 +588,6 @@ msgstr ""
 
 #. [message]: speaker=Stable Lad
 #: The_Fellowship_of_the_Clay/scenarios/01_The_assignment.cfg:390
-#, fuzzy
 msgid ""
 "Oh, Snow-White really appears to like you! I think she will allow you to "
 "ride her now."
@@ -613,7 +597,6 @@ msgstr ""
 
 #. [message]: speaker=Stable Lad
 #: The_Fellowship_of_the_Clay/scenarios/01_The_assignment.cfg:394
-#, fuzzy
 msgid ""
 "<b>LISTEN CAREFULLY!</b> I'll give you a little tutorial on mounting Snow-"
 "white:"
@@ -623,7 +606,6 @@ msgstr ""
 
 #. [message]: speaker=Stable Lad
 #: The_Fellowship_of_the_Clay/scenarios/01_The_assignment.cfg:398
-#, fuzzy
 msgid ""
 "You can either go next to her or move her next to you. Then you can mount "
 "via the right-click menu."
@@ -633,7 +615,6 @@ msgstr ""
 
 #. [message]: speaker=Stable Lad
 #: The_Fellowship_of_the_Clay/scenarios/01_The_assignment.cfg:402
-#, fuzzy
 msgid ""
 "Under normal circumstances, you can dismount to a field next to her by right "
 "clicking on it and using 'dismount' in the menu."
@@ -654,7 +635,6 @@ msgstr ""
 
 #. [message]: speaker=Stable Lad
 #: The_Fellowship_of_the_Clay/scenarios/01_The_assignment.cfg:410
-#, fuzzy
 msgid ""
 "Snow-white is a level two creature and will stay at that level the whole "
 "time. But she can increase her health or attack depending on your choice "
@@ -677,7 +657,6 @@ msgstr "Neues Ziel: "
 
 #. [objective]: condition=win
 #: The_Fellowship_of_the_Clay/scenarios/01_The_assignment.cfg:417
-#, fuzzy
 msgid "Mount Snow-White by going next to her and using the right-click-menu."
 msgstr ""
 "Sitz auf Schneewittchen auf indem du dich neben sie stellst und 'Aufsitzen' "
@@ -685,13 +664,11 @@ msgstr ""
 
 #. [objective]: condition=win
 #: The_Fellowship_of_the_Clay/scenarios/01_The_assignment.cfg:421
-#, fuzzy
 msgid "Let Snow-White eat some Flowers."
 msgstr "Lass Schneewittchen einige Blumen auf Blumenfeldern essen"
 
 #. [objective]: condition=win
 #: The_Fellowship_of_the_Clay/scenarios/01_The_assignment.cfg:425
-#, fuzzy
 msgid "Go to the north end of the road after that."
 msgstr "Gehe danach zum nördlichen Ende des Weges"
 
@@ -707,7 +684,6 @@ msgstr "Gesunde Blume"
 
 #. [object]
 #: The_Fellowship_of_the_Clay/scenarios/01_The_assignment.cfg:473
-#, fuzzy
 msgid ""
 "After having eaten some tiny purple flowers, Snow-White feels her power "
 "increasing. She starts to run faster than before."
@@ -736,7 +712,6 @@ msgstr "<b>Waah, ein Geist!</b>... Wer bist du?"
 
 #. [message]: speaker=Ghost
 #: The_Fellowship_of_the_Clay/scenarios/01_The_assignment.cfg:512
-#, fuzzy
 msgid ""
 "An evil deed caused my soul to not find any peace after death. Since then I "
 "tried to hide and not harm anyone but you look as if you can finally free my "
@@ -754,7 +729,6 @@ msgstr "Fürchte dich nicht, mein Schwert wird deine arme Seele befreien."
 
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/01_The_assignment.cfg:527
-#, fuzzy
 msgid ""
 "Now lets go to Alduin, to invite Merdor the Mage! I have heard that there is "
 "a small port next to it, from where we can go by ship to Alduin."
@@ -802,7 +776,6 @@ msgstr "Orkische Verstärkungen sind eingetroffen! Wir sind verloren!"
 
 #. [message]: speaker=Haldric II
 #: The_Fellowship_of_the_Clay/scenarios/01_The_assignment.cfg:614
-#, fuzzy
 msgid ""
 "Without workers and peasants, there is no chance to raise an empire "
 "anymore..."
@@ -890,7 +863,6 @@ msgstr "Grisas"
 
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/02_Magic_invitation.cfg:121
-#, fuzzy
 msgid "I really think that we are getting used to each other, huh?"
 msgstr ""
 "Hey, wir zwei scheinen uns ja schon ganz schön gut aneinander gewöhnt zu "
@@ -908,13 +880,11 @@ msgstr "Hüüh"
 
 #. [message]: speaker=narrator
 #: The_Fellowship_of_the_Clay/scenarios/02_Magic_invitation.cfg:130
-#, fuzzy
 msgid "Clyde can now dismount after he takes another step!"
 msgstr "Clyde ist nun in der Lage abzusitzen!"
 
 #. [message]: speaker=Athearrec
 #: The_Fellowship_of_the_Clay/scenarios/02_Magic_invitation.cfg:134
-#, fuzzy
 msgid ""
 "A Knight! ... Not just that, but one of the Light! Quick, these scale-heads "
 "want to sink our ships if we don't pay them. Do something! I'll give you "
@@ -975,7 +945,6 @@ msgstr "Baloa"
 
 #. [message]: speaker=Lorelei
 #: The_Fellowship_of_the_Clay/scenarios/02_Magic_invitation.cfg:249
-#, fuzzy
 msgid "Hi Clyde, I see you could use some help with those who wreck the sea."
 msgstr ""
 "Hallo Clyde, wie ich sehe, könntest du etwas Hilfe mit diesen Meer-"
@@ -1039,7 +1008,6 @@ msgstr ""
 
 #. [message]: speaker=Lorelei
 #: The_Fellowship_of_the_Clay/scenarios/02_Magic_invitation.cfg:333
-#, fuzzy
 msgid ""
 "Yes dear Merdor, we continue to be interested in the doings of the newcomers "
 "- and I would like to know how the newly founded school is getting along."
@@ -1067,7 +1035,6 @@ msgstr ""
 
 #. [message]: speaker=Merdor
 #: The_Fellowship_of_the_Clay/scenarios/02_Magic_invitation.cfg:345
-#, fuzzy
 msgid ""
 "Oh, then I think thanks are in order! Wait, don't I know you? Yes, yes, you "
 "were this talented Paladin who did your internship at the school! You are "
@@ -1112,7 +1079,6 @@ msgstr ""
 
 #. [message]: speaker=Merdor
 #: The_Fellowship_of_the_Clay/scenarios/02_Magic_invitation.cfg:361
-#, fuzzy
 msgid ""
 "Oh, I didn't know that - how comfortable. Eventually your travel here wasn't "
 "completely in vain. Nice Unihorse, by the way."
@@ -1123,7 +1089,6 @@ msgstr ""
 
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/02_Magic_invitation.cfg:365
-#, fuzzy
 msgid ""
 "At least... This brings me to another fortunate event: Dear Ms. Mermaid, you "
 "and your company are invited too! The king just mentioned that he would love "
@@ -1157,7 +1122,6 @@ msgstr ""
 
 #. [message]: speaker=Athearrec
 #: The_Fellowship_of_the_Clay/scenarios/02_Magic_invitation.cfg:388
-#, fuzzy
 msgid ""
 "What a strange man... Good luck Clyde! I heard there are some more people "
 "you want to invite."
@@ -1269,7 +1233,6 @@ msgstr ""
 
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/03_Entering_Wesmere.cfg:193
-#, fuzzy
 msgid ""
 "Actually, Snow-white is not a real Unicorn, she was born to the King's mare "
 "Snow-flake. But we believe that her father might be a Unicorn, which, I "
@@ -1300,7 +1263,6 @@ msgstr "Sie...sie versteht dich?"
 
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/03_Entering_Wesmere.cfg:210
-#, fuzzy
 msgid ""
 "Well, I don't speak her language, but she normally listens to what I say to "
 "her. And now I want to invite elves and dwarves to celebrate the finishing "
@@ -1312,7 +1274,6 @@ msgstr ""
 
 #. [message]: speaker=Walklas
 #: The_Fellowship_of_the_Clay/scenarios/03_Entering_Wesmere.cfg:214
-#, fuzzy
 msgid ""
 "I still do not completely understand, but the council has to see this: A "
 "human with a horsocorn! Follow me- what the...?"
@@ -1337,7 +1298,6 @@ msgstr "Legomir! Was ist passiert?"
 
 #. [message]: speaker=Legomir
 #: The_Fellowship_of_the_Clay/scenarios/03_Entering_Wesmere.cfg:263
-#, fuzzy
 msgid ""
 "You two could help me out: I was sent by the council to investigate the "
 "recent emergence of the aggressive Dread Bats in the forest and was able to "
@@ -1503,7 +1463,6 @@ msgstr "Ihr greift einen Elfen an"
 
 #. [objectives]
 #: The_Fellowship_of_the_Clay/scenarios/04_The_race.cfg:151
-#, fuzzy
 msgid ""
 "It is possible that you may encounter some angry animals if you enter a "
 "village. Also, note that you cannot recruit in the scenario."
@@ -1540,7 +1499,6 @@ msgstr ""
 
 #. [message]: speaker=Logalmier
 #: The_Fellowship_of_the_Clay/scenarios/04_The_race.cfg:186
-#, fuzzy
 msgid ""
 "Things have come to a pretty pass if humans think we will join applauding "
 "their ephemeral achievements."
@@ -1550,7 +1508,6 @@ msgstr ""
 
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/04_The_race.cfg:190
-#, fuzzy
 msgid ""
 "Sire, it is only that we want to share our joy with those who allowed us to "
 "settle on their continent. Is it not natural that we give some of your "
@@ -1584,7 +1541,6 @@ msgstr ""
 
 #. [message]: speaker=Aryad
 #: The_Fellowship_of_the_Clay/scenarios/04_The_race.cfg:203
-#, fuzzy
 msgid ""
 "Yes, that creature is remarkable, indeed. I have an idea: If you can compete "
 "with one of our best riders, I might consider your relationship to Mother "
@@ -1607,7 +1563,6 @@ msgstr "Eleonor"
 
 #. [message]: speaker=Aryad
 #: The_Fellowship_of_the_Clay/scenarios/04_The_race.cfg:225
-#, fuzzy
 msgid ""
 "This here is one of our fastest scouts, Eleonor, he rides a Mustang. Rules "
 "are simple; the winner is the one who has the most villages under his banner "
@@ -1630,7 +1585,6 @@ msgstr ""
 
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/04_The_race.cfg:233
-#, fuzzy
 msgid ""
 "Well, then I have to do the impossible, don't I? Oh, and remember that I'm "
 "able to dismount, so we're already two."
@@ -1697,7 +1651,6 @@ msgstr ""
 
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/04_The_race.cfg:445
-#, fuzzy
 msgid ""
 "I am glad that you will visit Wehlot, but I need to ask the dwarves too. So "
 "I ask you for one more favor: Could show me the way to the Dwarf's "
@@ -1726,7 +1679,6 @@ msgstr ""
 
 #. [message]: speaker=Eleonor
 #: The_Fellowship_of_the_Clay/scenarios/04_The_race.cfg:488
-#, fuzzy
 msgid "Impressive. But not good enough."
 msgstr "Eindrucksvoll aber nicht gut genug."
 
@@ -1865,7 +1817,6 @@ msgstr "Endlich löst sich dieser verdammte Nebel auf!"
 
 #. [message]: speaker=Thardusol
 #: The_Fellowship_of_the_Clay/scenarios/05_Meet_the_dwarfs.cfg:256
-#, fuzzy
 msgid ""
 "Hey, there're some raidin' orcs over ther! They'll kill the gryphon! An' "
 "we'll be next if we don't attack them immmediately!"
@@ -1890,7 +1841,6 @@ msgstr "Tod des Greifen"
 
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/05_Meet_the_dwarfs.cfg:284
-#, fuzzy
 msgid "One problem less in this dangerous world."
 msgstr "Ein Problem in einer gefährlichen Welt weniger."
 
@@ -1906,7 +1856,6 @@ msgstr "Findet Feynzwerg"
 
 #. [part]
 #: The_Fellowship_of_the_Clay/scenarios/06_Finding_Feyndwarf.cfg:18
-#, fuzzy
 msgid ""
 "To invite the dwarfs, Clyde followed the four gryphon hunters to a chamber "
 "under the surface."
@@ -1994,7 +1943,6 @@ msgstr "Ich höre Stimmen aus dem Thronsaal - last und die Zwerge besuchen!"
 
 #. [message]: speaker=Walklas
 #: The_Fellowship_of_the_Clay/scenarios/06_Finding_Feyndwarf.cfg:302
-#, fuzzy
 msgid ""
 "I don't like caves at all...it as if like the darkness would paralyze my "
 "mind."
@@ -2047,7 +1995,6 @@ msgstr "Ja, hier ist eine versteckte Tür."
 
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/06_Finding_Feyndwarf.cfg:349
-#, fuzzy
 msgid ""
 "And how do we get out of here? This chasm looks really inpassable and very "
 "deep to me."
@@ -2102,7 +2049,6 @@ msgstr "Ja doch, ja doch, die Tür..."
 
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/06_Finding_Feyndwarf.cfg:410
-#, fuzzy
 msgid ""
 "Your lordship, if I may now: I am Clyde, envoy of King Haldric II. I invite "
 "you to the celebration on the occasion of Wehlot's completion - our new "
@@ -2128,7 +2074,6 @@ msgstr ""
 
 #. [message]: speaker=Feyndwarf
 #: The_Fellowship_of_the_Clay/scenarios/06_Finding_Feyndwarf.cfg:418
-#, fuzzy
 msgid ""
 "You say a stone to bake?!? If I may Namcarthos, I would go in your place to "
 "have a look at what the humans did there."
@@ -2155,7 +2100,6 @@ msgstr ""
 
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/06_Finding_Feyndwarf.cfg:430
-#, fuzzy
 msgid ""
 "Hmm, I see, some means of transportation is needed. We still have the "
 "Gryphon... don't you think you could ride it?"
@@ -2207,7 +2151,6 @@ msgstr "<b>Jungs, geht ihm zur Hand!!</b>"
 
 #. [message]: speaker=Feyndwarf
 #: The_Fellowship_of_the_Clay/scenarios/06_Finding_Feyndwarf.cfg:492
-#, fuzzy
 msgid ""
 "Hmm, his feathers feel soft, very soft indeed. It's feel better than in my "
 "child's bed."
@@ -2253,7 +2196,6 @@ msgstr ""
 
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/06_Finding_Feyndwarf.cfg:533
-#, fuzzy
 msgid "Thank you. I have to leave now. Good bye then!"
 msgstr "Vielen Dank. Ich muss nun los. Auf Wiedersehen!"
 
@@ -2464,7 +2406,6 @@ msgstr ""
 
 #. [message]: speaker=unit
 #: The_Fellowship_of_the_Clay/scenarios/06_Finding_Feyndwarf.cfg:814
-#, fuzzy
 msgid ""
 "I don't believe that I'm courageous enough to go any further - floorless "
 "abysses are nothng for me! <i>(shudders)</i> Clyde should go in, his inner "
@@ -2615,13 +2556,11 @@ msgstr "Mein König..."
 
 #. [message]: speaker=Haldric II
 #: The_Fellowship_of_the_Clay/scenarios/07_Bad_news.cfg:297
-#, fuzzy
 msgid "Clyde, you are back. Did you contact and invite everyone?"
 msgstr "Clyde, Ihr seid zurück und ihr habt alle erreicht und eingeladen?"
 
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/07_Bad_news.cfg:301
-#, fuzzy
 msgid ""
 "Yes, they should arrive any day now. I even found some Mermen! And you know "
 "what, we had to come up with an idea to let the Dwarf envoy make it in time. "
@@ -2648,7 +2587,6 @@ msgstr "Nein, tut es nicht."
 
 #. [message]: speaker=Haldric II
 #: The_Fellowship_of_the_Clay/scenarios/07_Bad_news.cfg:313
-#, fuzzy
 msgid ""
 "Clyde, can you believe it? We've done it. Wehlot has been completed in just "
 "one generation and it is far bigger and brighter than father ever imagined. "
@@ -2661,7 +2599,6 @@ msgstr ""
 
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/07_Bad_news.cfg:317
-#, fuzzy
 msgid ""
 "Yes indeed! It is a wonder that your father found this island in this lake "
 "that just seemed made for hosting a castle. And then this new method of "
@@ -2697,7 +2634,6 @@ msgstr ""
 
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/07_Bad_news.cfg:325
-#, fuzzy
 msgid ""
 "True! It was really your ingenuity that made Wehlot what it is - and of "
 "course the invention of the brick that was shown to us by this stranger."
@@ -2763,7 +2699,6 @@ msgstr "Mit dem König."
 
 #. [message]: speaker=City guard
 #: The_Fellowship_of_the_Clay/scenarios/07_Bad_news.cfg:370
-#, fuzzy
 msgid "Uh, well, I have to ask if he will receive you. Whom should I announce?"
 msgstr "Nagut, ich werde fragen, ob er euch empfängt. Wenn soll ich anmelden?"
 
@@ -2814,7 +2749,6 @@ msgstr ""
 
 #. [message]: speaker=Familiar Stranger
 #: The_Fellowship_of_the_Clay/scenarios/07_Bad_news.cfg:401
-#, fuzzy
 msgid ""
 "In fact, we do have a contract. I entered into it with your father when I "
 "gave him Wehlot island. I hereby claim five of your people's children!"
@@ -2834,7 +2768,6 @@ msgstr ""
 
 #. [message]: speaker=Haldric II
 #: The_Fellowship_of_the_Clay/scenarios/07_Bad_news.cfg:413
-#, fuzzy
 msgid "Clyde, can you believe this? It really looks like my father's seal..."
 msgstr ""
 "Clyde, könnt ihr das glauben? Es sieht wirklich aus wie das Siegel meines "
@@ -2842,7 +2775,6 @@ msgstr ""
 
 #. [message]: speaker=Haldric II
 #: The_Fellowship_of_the_Clay/scenarios/07_Bad_news.cfg:417
-#, fuzzy
 msgid ""
 "Well, whatever foul game you are playing here, Stranger, I am certainly not "
 "handing any children over to you. The opposite is the case: I will have you "
@@ -2927,7 +2859,6 @@ msgstr ""
 
 #. [message]: speaker=Haldric II
 #: The_Fellowship_of_the_Clay/scenarios/07_Bad_news.cfg:590
-#, fuzzy
 msgid ""
 "Merdor, do you have any idea what we could do about this - this stranger who "
 "really seems to own us."
@@ -2971,7 +2902,6 @@ msgstr ""
 
 #. [message]: speaker=Haldric II
 #: The_Fellowship_of_the_Clay/scenarios/07_Bad_news.cfg:687
-#, fuzzy
 msgid ""
 "My guests, I am King Haldric II. I am very honored by your presence... if "
 "only the situation were as planned!"
@@ -2981,7 +2911,6 @@ msgstr ""
 
 #. [message]: speaker=narrator
 #: The_Fellowship_of_the_Clay/scenarios/07_Bad_news.cfg:691
-#, fuzzy
 msgid ""
 "Haldric II, Merdor, Lorelei and Clyde explain to their new guests the "
 "situation."
@@ -3023,7 +2952,6 @@ msgstr ""
 
 #. [message]: speaker=Legomir
 #: The_Fellowship_of_the_Clay/scenarios/07_Bad_news.cfg:715
-#, fuzzy
 msgid ""
 "This Stranger really seems to be evil, and powerful. If I had been here "
 "earlier - I would have shot this raven from the sky, like I did with those "
@@ -3035,7 +2963,6 @@ msgstr ""
 
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/07_Bad_news.cfg:719
-#, fuzzy
 msgid ""
 "Probably, that would not have been the most sensible way of acting. I guess "
 "his death would also let the city collapse - if he really can be killed. He "
@@ -3048,7 +2975,6 @@ msgstr ""
 
 #. [message]: speaker=Aryad
 #: The_Fellowship_of_the_Clay/scenarios/07_Bad_news.cfg:723
-#, fuzzy
 msgid ""
 "I guess we will find out pretty soon, if your stranger is bluffing. The new "
 "moon is arriving."
@@ -3084,7 +3010,6 @@ msgstr "Zu den Waffen!"
 
 #. [message]: speaker=Kramakal
 #: The_Fellowship_of_the_Clay/scenarios/07_Bad_news.cfg:779
-#, fuzzy
 msgid ""
 "Our master really doesn't like people who attack him, and those who did "
 "never had a long life. So you will die tragically tonight, whether you like "
@@ -3095,7 +3020,6 @@ msgstr ""
 
 #. [message]: speaker=Maregor
 #: The_Fellowship_of_the_Clay/scenarios/07_Bad_news.cfg:790
-#, fuzzy
 msgid ""
 "This was not expected, so we will retreat - for now. But the moment will "
 "come when you will all die!"
@@ -3105,7 +3029,6 @@ msgstr ""
 
 #. [message]: speaker=Haldric II
 #: The_Fellowship_of_the_Clay/scenarios/07_Bad_news.cfg:794
-#, fuzzy
 msgid "Morning is arriving, it looks as if we really have survived this night."
 msgstr ""
 "Die Sonne geht auf, es macht den Anschein, als ob wir das überstanden hätten."
@@ -3175,7 +3098,6 @@ msgstr "Der Plan"
 
 #. [part]
 #: The_Fellowship_of_the_Clay/scenarios/08_The_plan.cfg:13
-#, fuzzy
 msgid ""
 "Having defeated the undead forces, it was clear to Wehlot's townsmen how "
 "mighty their foe was and how desperate the situation seemed to be. Near the "
@@ -3200,7 +3122,6 @@ msgstr ""
 
 #. [message]: speaker=Feyndwarf
 #: The_Fellowship_of_the_Clay/scenarios/08_The_plan.cfg:114
-#, fuzzy
 msgid ""
 "Mumbling and investigating the brick-kiln: I might have an idea... I might "
 "be able to craft some runes, which capture the stone-making power of this "
@@ -3223,7 +3144,6 @@ msgstr ""
 
 #. [message]: speaker=Lorelei
 #: The_Fellowship_of_the_Clay/scenarios/08_The_plan.cfg:122
-#, fuzzy
 msgid "And the force of the spell in the fire should equal his own potency."
 msgstr ""
 "Und die Stärke Magie des Feuers sollte der Macht de Fremden entsprechen."
@@ -3305,7 +3225,6 @@ msgstr "Aryad, wir müssen es ihnen sagen!"
 
 #. [message]: speaker=Aryad
 #: The_Fellowship_of_the_Clay/scenarios/08_The_plan.cfg:162
-#, fuzzy
 msgid ""
 "Maybe you are right... What Eleonor is referring to is that my people also "
 "tell a story about a stranger who claimed the life of children. The tale "
@@ -3329,7 +3248,6 @@ msgstr ""
 
 #. [message]: speaker=Feyndwarf
 #: The_Fellowship_of_the_Clay/scenarios/08_The_plan.cfg:166
-#, fuzzy
 msgid ""
 "That would still leave two possibilities: The hills around the Swamp of the "
 "Dread or the Eastmark hills at the Bitter Swamps."
@@ -3339,7 +3257,6 @@ msgstr ""
 
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/08_The_plan.cfg:170
-#, fuzzy
 msgid "And how could we check the two mountains quickly?"
 msgstr "Nur wir könnten wir gleich zwei Gebrige in so kurzer Zeit absuchen?"
 
@@ -3359,7 +3276,6 @@ msgstr ""
 
 #. [message]: speaker=Merdor
 #: The_Fellowship_of_the_Clay/scenarios/08_The_plan.cfg:182
-#, fuzzy
 msgid ""
 "No, no! I mean Harriett! She might be able to get us there in a blink of an "
 "eye! Hmm... but  we still have to get to her village in the Dulatus Hills."
@@ -3375,7 +3291,6 @@ msgstr "Merdor, ich glaube eine Erklärung wäre hier angebracht!"
 
 #. [message]: speaker=Merdor
 #: The_Fellowship_of_the_Clay/scenarios/08_The_plan.cfg:190
-#, fuzzy
 msgid ""
 "Ah, sure... Some time ago, there was a nice silvermage-couple at our school, "
 "the Porters. And they have a daughter called Harriett. She was the first "
@@ -3398,7 +3313,6 @@ msgstr "Das klingt in der Tat nach einer Lösung. Könnt ihr uns dorthin führen
 
 #. [message]: speaker=Merdor
 #: The_Fellowship_of_the_Clay/scenarios/08_The_plan.cfg:198
-#, fuzzy
 msgid ""
 "The Porters still hold contact with me, so they told me its location. They "
 "also said something about a 'Valley of the Yetis.'"
@@ -3414,13 +3328,11 @@ msgstr ""
 
 #. [message]: speaker=Legomir
 #: The_Fellowship_of_the_Clay/scenarios/08_The_plan.cfg:206
-#, fuzzy
 msgid "I shall certainly go with Clyde!"
 msgstr "Sicher werde ich mich Clyde anschließen!"
 
 #. [message]: speaker=Feyndwarf
 #: The_Fellowship_of_the_Clay/scenarios/08_The_plan.cfg:210
-#, fuzzy
 msgid "I will think about this 'Rune on the Arrow' issue and join!"
 msgstr ""
 "Ich werde mich mit diesem 'Rune auf dem Pfeil' Problem beschäftigen und mich "
@@ -3451,7 +3363,6 @@ msgstr ""
 
 #. [message]: speaker=Eleonor
 #: The_Fellowship_of_the_Clay/scenarios/08_The_plan.cfg:226
-#, fuzzy
 msgid "I will leave now, and I hope everything goes fine for you."
 msgstr ""
 "Ich werde euch nun verlassen und hoffe, dass sich alle gut für euch "
@@ -3505,7 +3416,6 @@ msgstr "Ich versteh immer noch kein Wort..."
 
 #. [part]
 #: The_Fellowship_of_the_Clay/scenarios/09_Recruiting_Harriett.cfg:37
-#, fuzzy
 msgid ""
 "Ok, listen carefully: When Haldric's II father Haldric bought the piece of "
 "land your city is built on, his mother Jessica felt that something was very "
@@ -3546,7 +3456,6 @@ msgstr "Ich?!?"
 
 #. [part]
 #: The_Fellowship_of_the_Clay/scenarios/09_Recruiting_Harriett.cfg:53
-#, fuzzy
 msgid ""
 "Yes: Lady Jessica's abigail, best friend and your mother was pregnant - with "
 "you! She, my mother and a white Mage agreed to use white magic on her unborn "
@@ -3564,7 +3473,6 @@ msgstr ""
 
 #. [part]
 #: The_Fellowship_of_the_Clay/scenarios/09_Recruiting_Harriett.cfg:57
-#, fuzzy
 msgid ""
 "You mean I am here just to fulfill someone else's plan - like a marionette? "
 "All my actions and all my beliefs - everything determined by other people? "
@@ -3580,7 +3488,6 @@ msgstr ""
 
 #. [part]
 #: The_Fellowship_of_the_Clay/scenarios/09_Recruiting_Harriett.cfg:61
-#, fuzzy
 msgid ""
 "If you would live in the water, you wouldn't regard things as personality "
 "and choices as incompatible with the flow of causality - you wouldn't need "
@@ -3625,7 +3532,6 @@ msgstr ""
 
 #. [part]
 #: The_Fellowship_of_the_Clay/scenarios/09_Recruiting_Harriett.cfg:73
-#, fuzzy
 msgid "Eventually, the Fellowship approached the valley Merdor described."
 msgstr ""
 "Schließlich erreichte die Gefolgschaft das Tal, welches Merdor beschrieben "
@@ -3698,7 +3604,6 @@ msgstr "Tod einer eurer Heldeneinheiten"
 
 #. [message]: speaker=Merdor
 #: The_Fellowship_of_the_Clay/scenarios/09_Recruiting_Harriett.cfg:255
-#, fuzzy
 msgid ""
 "Here we are. Behind this mountainous ridge lies the valley of the Yetis. We "
 "have to get through it to reach Mountainhigh. When we traverse the rivulet, "
@@ -3720,7 +3625,6 @@ msgstr "Ich bezweifle, dass ich jemals so große Fäuste gesehen habe"
 
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/09_Recruiting_Harriett.cfg:312
-#, fuzzy
 msgid ""
 "How can somebody live behind these Yetis? Every time you want to get there "
 "or you want to leave from there, you get beaten up?!"
@@ -3749,7 +3653,6 @@ msgstr "Ach du meine Güte, Reisende im Tal!"
 
 #. [message]: speaker=Elisabeth Porter
 #: The_Fellowship_of_the_Clay/scenarios/09_Recruiting_Harriett.cfg:335
-#, fuzzy
 msgid ""
 "Merdor, I told you not to come here. I hope you didn't come because of "
 "Harriett!"
@@ -3768,7 +3671,6 @@ msgstr ""
 
 #. [message]: speaker=Elisabeth Porter
 #: The_Fellowship_of_the_Clay/scenarios/09_Recruiting_Harriett.cfg:343
-#, fuzzy
 msgid ""
 "I guess you were enought desperate to come through the valley. Run faster "
 "old man, or you will attract the Yetis to the village."
@@ -3802,13 +3704,11 @@ msgstr "Verehrte Frau Porter, wenn ich darf..."
 
 #. [message]: speaker=narrator
 #: The_Fellowship_of_the_Clay/scenarios/09_Recruiting_Harriett.cfg:379
-#, fuzzy
 msgid "Clyde explains everything..."
 msgstr "Clyde erklärt alles"
 
 #. [message]: speaker=Elisabeth Porter
 #: The_Fellowship_of_the_Clay/scenarios/09_Recruiting_Harriett.cfg:383
-#, fuzzy
 msgid ""
 "So you did come because of Harriett! Curse you Merdor! I will not just give "
 "you my daughter so that you can take her into danger! Though, I can "
@@ -3916,7 +3816,6 @@ msgstr "Zwing Henry aufzugeben (reduziere seine Schadenpunkte unter 1)"
 
 #. [message]: speaker=Harriett Porter
 #: The_Fellowship_of_the_Clay/scenarios/10_Convincing_the_Father.cfg:103
-#, fuzzy
 msgid ""
 "Dad, until now my abilities caused nothing but trouble. I always wanted to "
 "put it to some good use, I beg you to let me go."
@@ -3927,7 +3826,6 @@ msgstr ""
 
 #. [message]: speaker=Henry Porter
 #: The_Fellowship_of_the_Clay/scenarios/10_Convincing_the_Father.cfg:107
-#, fuzzy
 msgid ""
 "Ach my girl, I know that I can't avoid that sometime you will leave the "
 "village...OK..under three conditions: First, you are the leader of that "
@@ -3950,7 +3848,6 @@ msgstr ""
 
 #. [message]: speaker=Henry Porter
 #: The_Fellowship_of_the_Clay/scenarios/10_Convincing_the_Father.cfg:115
-#, fuzzy
 msgid ""
 "Harriett, please, go somewhere else now. I don't want you to get hurt here."
 msgstr ""
@@ -4068,7 +3965,6 @@ msgstr ""
 
 #. [message]: speaker=Henry Porter
 #: The_Fellowship_of_the_Clay/scenarios/10_Convincing_the_Father.cfg:402
-#, fuzzy
 msgid ""
 "I have to admit, you're an excellent fighter. I think it's appropiate that "
 "we two come with you. Let's go to the Swamp of the Dread then!"
@@ -4095,7 +3991,6 @@ msgstr "Der Geisteszustand des Yetis"
 
 #. [part]
 #: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:21
-#, fuzzy
 msgid ""
 "After having agreed with Henry about Harriett and his coming with them, they "
 "were suddenly disturbed by rumbling and shouting."
@@ -4106,7 +4001,6 @@ msgstr ""
 
 #. [part]
 #: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:25
-#, fuzzy
 msgid ""
 "Going out to find out the reason for the noise, the fellowship noticed that "
 "the village was threatened..."
@@ -4156,7 +4050,6 @@ msgstr "Tötet den aufgebrachten Yeti"
 
 #. [objective]: condition=win
 #: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:234
-#, fuzzy
 msgid "Find out the reason for the yeti's pain"
 msgstr "Findet den Grund für die Aufgebrachtheit des Yetis"
 
@@ -4173,7 +4066,6 @@ msgstr "Eine eurer Heldeneinheiten stirbt"
 #: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:242
 #: The_Fellowship_of_the_Clay/scenarios/12_Dragnet_Operation.cfg:132
 #: The_Fellowship_of_the_Clay/scenarios/12_Dragnet_Operation.cfg:394
-#, fuzzy
 msgid "Death of a member of the Porter family"
 msgstr "Tod eines Familienmitglides der Porters"
 
@@ -4217,7 +4109,6 @@ msgstr ""
 
 #. [message]: speaker=Elisabeth Porter
 #: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:288
-#, fuzzy
 msgid "You may use my keep to recruit soldiers - you need it more than I do."
 msgstr ""
 "Ihr könnt meinen Brugfried benutzen um eure Truppen einzuberufen - ihr "
@@ -4280,7 +4171,6 @@ msgstr "Oh, ich bin so froh, dass wir endlich dieses Feuer gelöscht haben!"
 
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:498
-#, fuzzy
 msgid ""
 "But it would be a really bad idea to leave this mad dwarf and his friends "
 "behind us, they would just try to assassinate us. <small> Although his soul "
@@ -4294,7 +4184,6 @@ msgstr ""
 
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:507
-#, fuzzy
 msgid ""
 "When this stranger is driving even sturdy dwarves to madness, the threat is "
 "even bigger for us!"
@@ -4304,7 +4193,6 @@ msgstr ""
 
 #. [message]: speaker=Elisabeth Porter
 #: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:511
-#, fuzzy
 msgid ""
 "We've to put out the fire quickly before every being in this forest attacks "
 "us in fear! We've got a well in Mountainhigh from where your soldiers can "
@@ -4316,7 +4204,6 @@ msgstr ""
 
 #. [message]: speaker=Harriett Porter
 #: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:516
-#, fuzzy
 msgid ""
 "If I may note, destiny gave me the ability to teleport the people around me "
 "to one of our villages."
@@ -4326,7 +4213,6 @@ msgstr ""
 
 #. [message]: speaker=narrator
 #: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:521
-#, fuzzy
 msgid ""
 "To teleport a unit using Harriett's powers, move the unit you want to "
 "teleport next to her. Then choose 'Teleport this unit' in the right-click "
@@ -4359,7 +4245,6 @@ msgstr "Tod eines Familienmitglides der Porters"
 
 #. [objectives]
 #: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:540
-#, fuzzy
 msgid ""
 "Note: Richard, with or without Feyndwarf sitting on him, is able to block "
 "the fire's oxygen support. He will be hurt, though.\n"
@@ -4383,7 +4268,6 @@ msgstr ""
 
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:635
-#, fuzzy
 msgid ""
 "But it would be a really bad idea to leave this mad dwarf and his friends "
 "behind us, they would just try to assassinate us. <small> Although his soul "
@@ -4416,13 +4300,11 @@ msgstr ""
 
 #. [message]: speaker=second_unit
 #: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:672
-#, fuzzy
 msgid "This degree of insanity really makes me shudder..."
 msgstr "Das Ausmaß der Verrücktheit macht mir Gänsehaut..."
 
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:693
-#, fuzzy
 msgid ""
 "<small> Although his soul was tortured to insanity, it makes me feel evil to "
 "have ordered his death - like if my inner light will dim...</small>"
@@ -4441,7 +4323,6 @@ msgstr ""
 
 #. [message]: speaker=Henry Porter
 #: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:706
-#, fuzzy
 msgid ""
 "Harriett can make the travel to the north easier by teleporting us to a "
 "human settlement. That will save a lot of time."
@@ -4470,7 +4351,6 @@ msgstr "Die Großfahndung"
 
 #. [part]
 #: The_Fellowship_of_the_Clay/scenarios/12_Dragnet_Operation.cfg:18
-#, fuzzy
 msgid ""
 "Harriett teleported the whole group to the north, which shortened the time "
 "drastically."
@@ -4480,7 +4360,6 @@ msgstr ""
 
 #. [part]
 #: The_Fellowship_of_the_Clay/scenarios/12_Dragnet_Operation.cfg:22
-#, fuzzy
 msgid "The fellowship arrived at a small village in the Swamps of Dread."
 msgstr ""
 "Also kam die Gefolgschaft an einem kleinen Dorf am Rande des Sumpfes des "
@@ -4530,7 +4409,6 @@ msgstr ""
 
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/12_Dragnet_Operation.cfg:211
-#, fuzzy
 msgid ""
 "Since we just left the last human encampment, this bridge has probably not "
 "been built by humans."
@@ -4545,7 +4423,6 @@ msgstr "Weder ist es elfisch"
 
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/12_Dragnet_Operation.cfg:219
-#, fuzzy
 msgid ""
 "We can assume that it is some kind of trap from swamp inhabitants then. I "
 "propose to send our Merman into the swamps to back us up against whatever "
@@ -4594,7 +4471,6 @@ msgstr ""
 
 #. [message]: speaker=unit
 #: The_Fellowship_of_the_Clay/scenarios/12_Dragnet_Operation.cfg:327
-#, fuzzy
 msgid ""
 "Ach, this swamp is really slowing me down, and additionally, there are "
 "lizards hidden in here. I'd better stay on the path..."
@@ -4683,7 +4559,6 @@ msgstr ""
 
 #. [option]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/12_Dragnet_Operation.cfg:478
-#, fuzzy
 msgid ""
 "We need someone who knows the mountains. You do. Show us a safe path, "
 "otherwise my blade will have to cut your filthy throat!"
@@ -4708,7 +4583,6 @@ msgstr "Hey, wo ist meine Aura? Hat mich mein inneres Licht etwa verlassen?"
 
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/12_Dragnet_Operation.cfg:516
-#, fuzzy
 msgid "Hey, I'm not able to shine anymore - did my inner light leave me?"
 msgstr ""
 "Hey, ich kann nicht mehr leuchten? Hat mich mein inneres Licht etwa "
@@ -4716,7 +4590,6 @@ msgstr ""
 
 #. [message]: speaker=Lorelei
 #: The_Fellowship_of_the_Clay/scenarios/12_Dragnet_Operation.cfg:522
-#, fuzzy
 msgid "Obviously, since pressing someone into service is not a nice action."
 msgstr "Offensichtlich, da Erpressung auch nicht so nett ist."
 
@@ -5481,13 +5354,11 @@ msgstr ""
 
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/14_Dark_Walks-Walks_about_Darkness.cfg:338
-#, fuzzy
 msgid "So, exactly where are we then?"
 msgstr "Also wo genau sind wird dann bloß?"
 
 #. [message]: speaker=Bonie
 #: The_Fellowship_of_the_Clay/scenarios/14_Dark_Walks-Walks_about_Darkness.cfg:342
-#, fuzzy
 msgid ""
 "We are at least two days march away from his place but we couldn't have "
 "teleported any closer as the concentration of his minions wouldn't have "
@@ -5704,7 +5575,6 @@ msgstr ""
 
 #. [message]: speaker=Familiar Stranger
 #: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:359
-#, fuzzy
 msgid ""
 "Tearing open this abyss would not have been possible without the corruption "
 "of the other races - I can feel my powers swell! Already, every other "
@@ -5763,7 +5633,6 @@ msgstr ""
 
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:412
-#, fuzzy
 msgid ""
 "It sounds like a good plan but I see three problems here: First, we have to "
 "dump that pretty big rock into the lava, second we somehow have to blow up "
@@ -5788,7 +5657,6 @@ msgstr ""
 
 #. [message]: speaker=Merdor
 #: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:420
-#, fuzzy
 msgid ""
 "True! I <b>strongly</b> suggest that we try to get someone to the lake "
 "before we dump the rock into the lava. Only by carrying out both parts of "
@@ -5958,7 +5826,6 @@ msgstr ""
 
 #. [message]: speaker=Lorelei
 #: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:801
-#, fuzzy
 msgid ""
 "I'm quite capable of doing this. However, you all should keep back a little, "
 "because water flows faster than lava and if we block each other, we'll drown."
@@ -6026,7 +5893,6 @@ msgstr "Die drei Türme vom Berg Quake"
 
 #. [part]
 #: The_Fellowship_of_the_Clay/scenarios/16_The_three_Towers_of_Mount_Quake.cfg:18
-#, fuzzy
 msgid ""
 "Eventually, Clyde and the fellowship were about to confront their fiercest "
 "enemy. Everyone was aware not only of his incredible powers, but also that "
@@ -6127,7 +5993,6 @@ msgstr ""
 
 #. [message]: speaker=Merdor
 #: The_Fellowship_of_the_Clay/scenarios/16_The_three_Towers_of_Mount_Quake.cfg:330
-#, fuzzy
 msgid ""
 "It's an ingenious spell, any person with magically skills could cast it. "
 "Even you, dear Clyde."
@@ -6155,7 +6020,6 @@ msgstr ""
 
 #. [message]: speaker=Lorelei
 #: The_Fellowship_of_the_Clay/scenarios/16_The_three_Towers_of_Mount_Quake.cfg:351
-#, fuzzy
 msgid ""
 "All right, from Bonie we know that our plan to use the Stranger's own magic "
 "against him by hitting him with an arrow comprising the magic fire from "
@@ -6201,7 +6065,6 @@ msgstr ""
 
 #. [message]: speaker=Harriett Porter
 #: The_Fellowship_of_the_Clay/scenarios/16_The_three_Towers_of_Mount_Quake.cfg:363
-#, fuzzy
 msgid ""
 "If that is the only problem, I kept one of my father's health potions. Even "
 "if he uses his strongest magic to wound you as you suppose, it will still "
@@ -6214,7 +6077,6 @@ msgstr ""
 
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/16_The_three_Towers_of_Mount_Quake.cfg:367
-#, fuzzy
 msgid ""
 "<b>Ok, the plan is as follows: We have to get Legomir to that western tower, "
 "which seems to be the prison tower.</b>"
@@ -6224,7 +6086,6 @@ msgstr ""
 
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/16_The_three_Towers_of_Mount_Quake.cfg:373
-#, fuzzy
 msgid ""
 "<b>That means we need a village there, so Harriett can teleport him there.</"
 "b>"
@@ -6276,7 +6137,6 @@ msgstr ""
 
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/16_The_three_Towers_of_Mount_Quake.cfg:448
-#, fuzzy
 msgid ""
 "<b>As soon as he attacks me with all his might, every other support will be "
 "welcome. We have to drive him to that tower where Legomir will be hopefully "
@@ -6288,7 +6148,6 @@ msgstr ""
 
 #. [message]: speaker=Merdor
 #: The_Fellowship_of_the_Clay/scenarios/16_The_three_Towers_of_Mount_Quake.cfg:452
-#, fuzzy
 msgid ""
 "That is a complicated plan, but a well thought-out one. But there is one "
 "last thing: If all of this succeeds, Legomir will hit the Stranger in his "
@@ -6321,7 +6180,6 @@ msgstr ""
 
 #. [message]: speaker=Rash
 #: The_Fellowship_of_the_Clay/scenarios/16_The_three_Towers_of_Mount_Quake.cfg:467
-#, fuzzy
 msgid ""
 "You seem to have business with the sorcerer living here. You have bad luck: "
 "We promised to protect him in exchange for his protecting our hatchery."
@@ -6362,7 +6220,6 @@ msgstr "Nicht ganz. Ich möchte euch im Zweikampf begegnen!"
 
 #. [message]: speaker=Familiar Stranger
 #: The_Fellowship_of_the_Clay/scenarios/16_The_three_Towers_of_Mount_Quake.cfg:524
-#, fuzzy
 msgid ""
 "Ha, that is nice. You continue to surprise me. Not a frequent feeling for "
 "me... come here and let me show you your death, puny human!"
@@ -6512,7 +6369,6 @@ msgstr "Gerade noch rechtzeitig?"
 
 #. [part]
 #: The_Fellowship_of_the_Clay/scenarios/17_In_Due_Time.cfg:28
-#, fuzzy
 msgid ""
 "After a brief moment of relief, it quickly came to Clyde's mind that there "
 "still was an entire army marching towards Wehlot. Only because of Harriett, "
@@ -6582,7 +6438,6 @@ msgstr ""
 
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/17_In_Due_Time.cfg:387
-#, fuzzy
 msgid ""
 "Those troops were already commissioned when we engaged the Stranger. I think "
 "all those stories where you just have to deal with an evil sorcerer and all "
@@ -6603,7 +6458,6 @@ msgstr ""
 
 #. [message]: speaker=Emmeriz
 #: The_Fellowship_of_the_Clay/scenarios/17_In_Due_Time.cfg:395
-#, fuzzy
 msgid "Since you crossed our master's plans, you shall die!"
 msgstr ""
 "Ihr habt die Pläne unseres Meisters vereitelt. Dafür werded ihr sterben!"
@@ -6646,7 +6500,6 @@ msgstr ""
 
 #. [message]: speaker=Haldric II
 #: The_Fellowship_of_the_Clay/scenarios/17_In_Due_Time.cfg:485
-#, fuzzy
 msgid ""
 "Your support is very much appreciated as you would have guessed when looking "
 "around."
@@ -6702,7 +6555,6 @@ msgstr "Epilog"
 
 #. [part]
 #: The_Fellowship_of_the_Clay/scenarios/18_Epilogue.cfg:13
-#, fuzzy
 msgid ""
 "After the last undead fell and the dust of the battle settled, Clyde and "
 "Haldric II met at the brick-kiln."
@@ -6712,7 +6564,6 @@ msgstr ""
 
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/18_Epilogue.cfg:65
-#, fuzzy
 msgid ""
 "My King, we survived this nightmare and Wehlot still stands. But now we have "
 "learned that our city is built upon dark magic. Even more troublesome is "
@@ -6750,7 +6601,6 @@ msgstr "Also bleiben wir in Wehlot? Was werdet ihr also als nächstes tun?"
 
 #. [message]: speaker=Haldric II
 #: The_Fellowship_of_the_Clay/scenarios/18_Epilogue.cfg:77
-#, fuzzy
 msgid ""
 "Yes, for now and as long as we take care of the statue, Wehlot is still a "
 "safe city. Our sons and grandsons might be able to build a new great city "
