@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: The_Fellowship_of_the_Clay-1.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-10-15 12:21+0200\n"
-"PO-Revision-Date: 2012-10-15 20:12+0100\n"
-"Last-Translator: Carsten <Carsten.Griesel@gmail.com>\n"
+"PO-Revision-Date: 2012-11-23 20:15+0100\n"
+"Last-Translator: Carsten Peters (Krellja) <Carsten_Peters@gmx.de>\n"
 "Language-Team: none\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
@@ -171,7 +171,7 @@ msgid ""
 "provoke them in any way by getting too far north."
 msgstr ""
 "Haldric tat dies auf einer Insel in der Mitte des Sees im Verlauf des "
-"Flusses Aethen. Haldric befand, es sei der perfekte Ort, da er wusste, dass  "
+"Flusses Aethen. Haldric befand, es sei der perfekte Ort, da er wusste, dass "
 "die Elfen und Zwerge im Norden lebten und er nicht das Risiko einer "
 "Provokation eingehen wollte, indem die Menschen zu weit nördlich siedelten."
 
@@ -212,8 +212,8 @@ msgid ""
 "Under mysterious circumstances, Haldric died, never able tell his son - "
 "Haldric II - about the stranger and the deal he made with him."
 msgstr ""
-"Nicht in der Lage seinem Sohn – Haldric II. – jemals von dieser Übereinkunft "
-"zu berichten, starb Haldric unter völlig ungeklärten Umständen . "
+"Nicht in der Lage seinem Sohn – Haldric II – jemals von dieser Übereinkunft "
+"zu berichten, starb Haldric unter völlig ungeklärten Umständen. "
 
 #. [part]
 #: The_Fellowship_of_the_Clay/scenarios/01_The_assignment.cfg:39
@@ -222,7 +222,7 @@ msgid ""
 "attention to Haldric II and his First Knight Clyde..."
 msgstr ""
 "Diese Geschichte erzählt von den Konsequenzen dieser Übereinkunft und "
-"deshalb richten wir unsere Aufmerksamkeit nun auf Haldric II. und seinen "
+"deshalb richten wir unsere Aufmerksamkeit nun auf Haldric II und seinen "
 "ersten Ritter Clyde..."
 
 #. [part]
@@ -389,13 +389,13 @@ msgid ""
 "here. Only by such a long lasting intercultural exchange could we learn to "
 "know each other better and hope to become real friends and allies."
 msgstr ""
-"Oh doch, das seid ihr mein Lieber! Und ich möchte die Fertigstellung Wehlots "
-"zusammen mit den Elfen und Zwergen feiern. Eigentlich wären das Meerfolk "
+"Oh doch, das bist du mein Lieber! Und ich möchte die Fertigstellung Wehlots "
+"zusammen mit den Elfen und Zwergen feiern. Eigentlich wären das Meervolk "
 "auch herzlich willkommen, aber ich fürchte, wir haben keinen Anhaltspunkt, "
 "wie wir sie kontaktieren. Jedenfalls will ich alle einladen und jeder soll "
 "wissen, dass er in dieser Stadt willkommen ist. Auch wenn ich nicht weiß, ob "
 "es realistisch ist, wäre es großartig, wenn einige hier mit uns leben wollen "
-"würden. Nur durch einen solchen, langanhaltenden interkulturellen Austausch "
+"würden. Nur durch einen solchen langanhaltenden interkulturellen Austausch "
 "können wir hoffen uns besser kennenzulernen und wahre Freunde und Verbündete "
 "zu werden."
 
@@ -404,7 +404,7 @@ msgstr ""
 msgid ""
 "Truly spoken. But am I not needed here to continue to protect our people?"
 msgstr ""
-"Wie wahr – aber bin ich hier nicht mehr benötigt um unsere Leute zu "
+"Wie wahr – aber werde ich hier nicht mehr benötigt, um unsere Leute zu "
 "beschützen?"
 
 #. [message]: speaker=Haldric II
@@ -442,7 +442,7 @@ msgid ""
 "steed!"
 msgstr ""
 "Aber mein König! Sie stammt direkt von Schneeflocke ab und ist ein derart "
-"einzigartiges Wesen! Außerdem gehört sie eindeutig zu euch, da sie die Linie "
+"einzigartiges Wesen! Außerdem gehört sie eindeutig zu Euch, da sie die Linie "
 "des königlichen Rosses fortführt. "
 
 #. [message]: speaker=Haldric II
@@ -462,7 +462,7 @@ msgstr ""
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/01_The_assignment.cfg:215
 msgid "As you command, my King!"
-msgstr "Wie ihr befiehlt, mein König!"
+msgstr "Wie Ihr befehlt, mein König!"
 
 #. [unit]: type=Peasant, id=Stable Lad
 #: The_Fellowship_of_the_Clay/scenarios/01_The_assignment.cfg:238
@@ -630,7 +630,7 @@ msgid ""
 "will lose one move point when mounting and two when dismounting."
 msgstr ""
 "Nach dem Absitzen sind alle eure Bewegungspunkte verbraucht, aber ihr könnt "
-"noch Angreifen. Schneewittchen verliert ein Bewegungspunkt beim Aufsitzen "
+"noch Angreifen. Schneewittchen verliert einen Bewegungspunkt beim Aufsitzen "
 "und zwei beim Absitzen. "
 
 #. [message]: speaker=Stable Lad
@@ -647,7 +647,7 @@ msgstr ""
 "Allerdings kann sie ihre Gesundheit oder ihre Angriffsstärke erhöhen, wenn "
 "sie volle Erfahrung hat. Wenn ihr allerdings aufgesessen seid, werden "
 "jegliche Erfahrungspunkte <b>Clyde</b> angerechnet. Also wird Schneewittchen "
-"nach dem Absitzen den gleichen  Erfahrungstand haben, wie <b>VOR dem "
+"nach dem Absitzen den gleichen Erfahrungstand haben, wie <b>VOR dem "
 "Aufsitzen</b>."
 
 #. [objectives]
@@ -660,7 +660,7 @@ msgstr "Neues Ziel: "
 msgid "Mount Snow-White by going next to her and using the right-click-menu."
 msgstr ""
 "Sitz auf Schneewittchen auf indem du dich neben sie stellst und 'Aufsitzen' "
-"im Rechtsklick-Menü wählt"
+"im Rechtsklick-Menü wählst"
 
 #. [objective]: condition=win
 #: The_Fellowship_of_the_Clay/scenarios/01_The_assignment.cfg:421
@@ -757,7 +757,7 @@ msgstr "Schneewittchen isst einige ihrer Lieblingsblumen"
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/01_The_assignment.cfg:573
 msgid "Snow-White has eaten from $grass different grass areas."
-msgstr "Schneewittchen hat von $grass  verschiedenen Blumenfeldern genascht."
+msgstr "Schneewittchen hat von $grass verschiedenen Blumenfeldern genascht."
 
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/01_The_assignment.cfg:577
@@ -796,7 +796,7 @@ msgid ""
 msgstr ""
 "Also begab sich Clyde auf die Reise in das kleine Dorf Schwarzwasser Hafen, "
 "welches erst vor zwei Jahren gegründet wurde.\n"
-"Er wollte den Magier Merdor einladen, ein Freund von Haldric II, der auf "
+"Er wollte den Magier Merdor einladen, einen Freund von Haldric II, der auf "
 "Alduin lebte."
 
 #. [label]
@@ -890,7 +890,7 @@ msgid ""
 "want to sink our ships if we don't pay them. Do something! I'll give you "
 "command over the city guard so that you can install law and order again!"
 msgstr ""
-"Ein Ritter! Soger einer des Lichts! Schnell, diese Schuppenköpfe wollen "
+"Ein Ritter! Sogar einer des Lichts! Schnell, diese Schuppenköpfe wollen "
 "unsere Schiffe versenken, wenn wir ihnen kein Geld geben. Das ist "
 "Erpressung!\n"
 "Unternimm etwas! Ich übertrage dir das Kommando über die Stadtwache, so dass "
@@ -919,7 +919,7 @@ msgstr "Sinariss"
 #. [message]: speaker=Zzix
 #: The_Fellowship_of_the_Clay/scenarios/02_Magic_invitation.cfg:190
 msgid "Hah, sssneaking around humanss is jussst sso easy!"
-msgstr "Schhh, sssich um Mensschen herum zu ssshliecht ist zsu einfach!"
+msgstr "Schhh, sssich um Mensschen herum zu ssshleichen ist zsu einfach!"
 
 #. [message]: speaker=Kasszix
 #: The_Fellowship_of_the_Clay/scenarios/02_Magic_invitation.cfg:194
@@ -961,8 +961,8 @@ msgid ""
 "Don't let your lucid mind get dimmed by such superficial questions - I just "
 "happen to know?"
 msgstr ""
-"Lass dir dein helles Köpfchen nicht von solche oberflächlichen Fragen "
-"verdunkeln. Ich kennen ihn nun mal."
+"Lass dir dein helles Köpfchen nicht von solch oberflächlichen Fragen "
+"verdunkeln. Ich kenne ihn nun mal."
 
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/02_Magic_invitation.cfg:261
@@ -1203,8 +1203,8 @@ msgid ""
 "Stop human, do you think you can capture one of our famous white horses on "
 "our ground?"
 msgstr ""
-"Halt, Mensch! Denkst du, du kannst eines unserer berüchtigten wißen Pferde "
-"fangen, noch dazu auf unserem Gund und Boden?"
+"Halt, Mensch! Denkst du, du kannst eines unserer berühmten weißen Pferde "
+"fangen, noch dazu auf unserem Grund und Boden?"
 
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/03_Entering_Wesmere.cfg:184
@@ -1212,7 +1212,7 @@ msgid ""
 "You mean Snow-white? She is my steed and she brought me here from Wehlot so "
 "that I can invite you!"
 msgstr ""
-"Du meinst Schneewittche? Sie ist bereits mein Ross und sie hat mich von "
+"Du meinst Schneewittchen? Sie ist bereits mein Ross und sie hat mich von "
 "Wehlot aus hierher gebracht, damit ich euch einladen kann!"
 
 #. [message]: speaker=Walklas
@@ -1224,12 +1224,12 @@ msgid ""
 "<i>(getting closer)</i> My dear goodness...is it?...is it?...It is a "
 "unicorn! Stand still or you will scare it away!"
 msgstr ""
-"Schneewittchen? Was für ein Märchen wollt ihr denn Erzählen? Euer Pferd? Uns "
+"Schneewittchen? Was für ein Märchen wollt ihr denn erzählen? Euer Pferd? Uns "
 "einladen? Was redet ihr da bloß? Habt ihr Menschen nun komplett den Verstand "
 "verloren? Hört auf zu reden, bis ich ein genaueren Blick auf das arme "
-"elfische Pferd geworfen habe! ...<i>(getting closer)</i> Ach du meine "
-"Güte... ist es? ... ist es?... Es ist ein Einhorn! Bewegt euch nicht oder "
-"ihr werdet es noch verscheuchen!"
+"elfische Pferd geworfen habe! ...<i>(kommt näher)</i> Ach du meine Güte... "
+"ist es? ... ist es?... Es ist ein Einhorn! Bewegt euch nicht oder ihr werdet "
+"es noch verscheuchen!"
 
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/03_Entering_Wesmere.cfg:193
@@ -1308,8 +1308,8 @@ msgid ""
 msgstr ""
 "Oh, hallo ihr zwei! Clyde, seid ihr es? Ihr könntet mir gerade mal helfen: "
 "Ich wurde vom Rat beauftragt, das jüngste Auftauchen von diesen aggressiven "
-"Grauensfledermäusen im Wald zu untersuchen. Ich war in der Lage sie zurück "
-"zu dieser Höle zu verfolgen. Als ich eine abgeschossen habe um sie dem Rat "
+"Horrorfledermäusen im Wald zu untersuchen. Ich war in der Lage, sie zurück "
+"zu dieser Höhle zu verfolgen. Als ich eine abgeschossen habe, um sie dem Rat "
 "zur Untersuchung zu bringen, kam ein ganzer Schwarm heraus und griff mich an "
 "- als ob eine Intelligenz dahinter steckt."
 
@@ -1336,7 +1336,7 @@ msgid ""
 "Wait, I heard something...like an animal crying...this cave over there "
 "seemed to be the source.."
 msgstr ""
-"Wartet, ich habe etwas gehört...ein Tierschrei... die Höle dort scheint der "
+"Wartet, ich habe etwas gehört...ein Tierschrei... die Höhle dort scheint der "
 "Ursprung zu sein."
 
 #. [message]: speaker=second_unit
@@ -1350,8 +1350,8 @@ msgid ""
 "Training bats is really a wonderful skilling of dark powers! And now kill "
 "them!"
 msgstr ""
-"Fledermäuse auszubilden ist wirklich eine wundervolle Art die dunklen Künste "
-"zu trainieren! Und nun tötet sie alle meine kleinen Freunde!"
+"Fledermäuse auszubilden ist wirklich eine wundervolle Art, die dunklen "
+"Künste zu trainieren! Und nun tötet sie alle meine kleinen Freunde!"
 
 #. [message]: speaker=unit
 #: The_Fellowship_of_the_Clay/scenarios/03_Entering_Wesmere.cfg:345
@@ -1380,7 +1380,7 @@ msgid ""
 "This book looks interesting...hmmm, it is named ''Bat's Depth Sounder''. It "
 "may be usable later. <i>(takes book)</i>"
 msgstr ""
-"Dieses Buch scheint irgendwie interessant... hmmm, sein name ist \"Das "
+"Dieses Buch scheint irgendwie interessant... hmmm, sein Name ist \"Das "
 "Echolot der Fledermäuse\". Es könnte ja später noch von Nutzen sein. <i>"
 "(nimmt das Buch)</i>"
 
@@ -1388,7 +1388,7 @@ msgstr ""
 #: The_Fellowship_of_the_Clay/scenarios/03_Entering_Wesmere.cfg:408
 msgid "Finally there are no mad mages or dread bats in here anymore."
 msgstr ""
-"Endlich keine verrückten Magier oder Grauensfledermäuse mehr in dieser Höle."
+"Endlich keine verrückten Magier oder Grauensfledermäuse mehr in dieser Höhle."
 
 #. [message]: speaker=Legomir
 #: The_Fellowship_of_the_Clay/scenarios/03_Entering_Wesmere.cfg:412
@@ -1407,7 +1407,7 @@ msgstr "Das Rennen"
 #: The_Fellowship_of_the_Clay/scenarios/04_The_race.cfg:12
 msgid "And so Clyde visited the Elven Council in Wesmere Forest, the Ka'lian."
 msgstr ""
-"Und so kam es, das Clyde den Elfenrat im Wesmere-Wald besuchte, den Ka'lian."
+"Und so kam es, dass Clyde den Elfenrat im Wesmere-Wald besuchte, den Ka'lian."
 
 #. [side]
 #: The_Fellowship_of_the_Clay/scenarios/04_The_race.cfg:58
@@ -1476,7 +1476,7 @@ msgid ""
 "Venerated council members, I bring a human who wants to invite some snow-"
 "flakes and who is accompanied by a creature that appears to be a unicorn!"
 msgstr ""
-"Verehrte Ratsmitglieder, ich bringe einen Mensch der einige Schneeflocken "
+"Verehrte Ratsmitglieder, ich bringe einen Menschen, der einige Schneeflocken "
 "einladen will und der von einer Kreatur begleitet wird, welche ein Einhorn "
 "zu sein scheint!"
 
@@ -1492,7 +1492,7 @@ msgid ""
 "Unihorse 'Snow-white'. I come to invite you to the celebration on the "
 "occasion of Wehlot's completion - our new city."
 msgstr ""
-"Wenn ich darf Sire: Ich bin Clyde, abgesannter von König Haldric II und dies "
+"Wenn ich darf Sire: Ich bin Clyde, Abgesandter von König Haldric II und dies "
 "ist mein Einpferd \"Schneewittchen\". Ich bin gekommen um euch zur Feier "
 "anlässlich der Fertigstellung von Wehlot einzuladen, unserer neuen "
 "Hauptstadt."
@@ -1514,7 +1514,7 @@ msgid ""
 "hospitality back?"
 msgstr ""
 "Sire, es ist bloß, dass wir unsere Freude mit jenen teilen wollen, die uns "
-"erlaubt haben auf ihrem Kontinent zu siedeln. Ist es nicht natürlich, dass "
+"erlaubt haben, auf ihrem Kontinent zu siedeln. Ist es nicht natürlich, dass "
 "wir diese frühere Gastfreundschaft zurückgeben wollen?"
 
 #. [message]: speaker=Dionli
@@ -1523,8 +1523,8 @@ msgid ""
 "Well, your people seem to have improved in diplomacy, but I guess just "
 "buttering us up, won't convince us yet."
 msgstr ""
-"Nun, eure Leute scheinen etwas Diplomatie hinzugelernt zu haben, aber uns "
-"nur Honig um den Mund zu schmieren wird uns noch niht überzeugen."
+"Nun, eure Leute scheinen etwas Diplomatie hinzugelernt zu haben aber uns nur "
+"Honig um den Mund zu schmieren wird uns noch nicht überzeugen."
 
 #. [message]: speaker=Legomir
 #: The_Fellowship_of_the_Clay/scenarios/04_The_race.cfg:199
@@ -1554,7 +1554,7 @@ msgstr ""
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/04_The_race.cfg:207
 msgid "With pleasure my Lord."
-msgstr "Mit vergnügen mein Lord."
+msgstr "Mit Vergnügen mein Lord."
 
 #. [unit]: type=Elvish Outrider, id=Eleonor
 #: The_Fellowship_of_the_Clay/scenarios/04_The_race.cfg:212
@@ -1570,7 +1570,7 @@ msgid ""
 "ride."
 msgstr ""
 "Dies hier ist einer unserer schnellsten Aufklärer, Eleonor, er reitet einen "
-"Mustang. Die Regeln sind einfach: Gewonnen hat wer die meisten Dörfer nach "
+"Mustang. Die Regeln sind einfach: Gewonnen hat, wer die meisten Dörfer nach "
 "zehn Runden unter seiner Flagge hat. Das Rennen startet in 60 Sekunden. Ich "
 "wünsche euch beiden einen flinken Ritt."
 
@@ -1589,14 +1589,14 @@ msgid ""
 "Well, then I have to do the impossible, don't I? Oh, and remember that I'm "
 "able to dismount, so we're already two."
 msgstr ""
-"Nun, dann muss ich wohl das unmögliche schaffen, nicht wahr? Und vergiss "
+"Nun, dann muss ich wohl das Unmögliche schaffen, nicht wahr? Und vergiss "
 "nicht, dass ich absteigen kann und so schon mal zu zweit bin."
 
 #. [message]: speaker=El'Isomithir
 #: The_Fellowship_of_the_Clay/scenarios/04_The_race.cfg:341
 msgid "No! That's against the rules! I knew, never trust a human."
 msgstr ""
-"Nein! Das ist gegen die Regeln! I wusste es, man kann den Menschen nicht "
+"Nein! Das ist gegen die Regeln! Ich wusste es, man kann den Menschen nicht "
 "trauen."
 
 #. [message]: speaker=Clyde
@@ -1613,7 +1613,7 @@ msgid ""
 "not ride as well as an Elf, your relationship to your hybrid is remarkable. "
 "To do her the favor: we will show you how to improve your riding."
 msgstr ""
-"Eindrucksvoll $village_number_1 villages zu $village_number_2! Auch wenn du "
+"Eindrucksvoll $village_number_1 Dörfer zu $village_number_2! Auch wenn du "
 "nicht so gut wie ein Elf reiten magst, ist eure Beziehung zu eurem Hybriden "
 "bemerkenswert. Um ihr den Gefallen zu tun, werden wir dir zeigen, wie du "
 "deinen Reitstil verbessern kannst."
@@ -1646,8 +1646,8 @@ msgid ""
 "Now that we took care of that, we would be pleased to look at whatever you "
 "want to show to us."
 msgstr ""
-"Nun, da wir uns darum gekümmert haben, werde ich einen Blick auf was auch "
-"immer ihr uns zeigen wollt, werfen."
+"Nun, da wir uns darum gekümmert haben, werde ich einen Blick auf das werfen, "
+"was auch immer ihr uns zeigen wollt."
 
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/04_The_race.cfg:445
@@ -1658,7 +1658,7 @@ msgid ""
 msgstr ""
 "Ich freue mich sehr, dass ihr Wehlot besuchen werdet, aber ich muss auch "
 "noch die Zwerge einladen. Also bitte ich euch um noch einen Gefallen: "
-"Könntet ihr mir den Weg zu den zwergischen Bergen zeigen? Wir werden und "
+"Könntet ihr mir den Weg zu den zwergischen Bergen zeigen? Wir werden uns "
 "dann in Wehlot wiedersehen."
 
 #. [message]: speaker=Aryad
@@ -1698,7 +1698,7 @@ msgid ""
 "Having convinced the Ka'lian, Clyde headed towards the mountains, to find a "
 "dwarf representative he could invite."
 msgstr ""
-"Nachdem er den Ka'lian überzeugt hatte, ritt Clyde in Richtung der Berge um "
+"Nachdem er den Ka'lian überzeugt hatte, ritt Clyde in Richtung der Berge, um "
 "einen Vertreter der Zwerge zu finden, den er einladen konnte."
 
 #. [objective]: condition=win
@@ -1749,7 +1749,7 @@ msgid ""
 "Snow-white, did you see that? A bird almost your size - almost if one could "
 "ride on it!"
 msgstr ""
-"Schneewittchen, hast du das gesehen? Ein Volgel, fast so groß wie du - "
+"Schneewittchen, hast du das gesehen? Ein Vogel, fast so groß wie du - "
 "beinahe als ob man darauf reiten könnte!"
 
 #. [message]: speaker=Dulothras
@@ -1759,12 +1759,12 @@ msgid ""
 "gettin' to o'd for this."
 msgstr ""
 "Verdammich, wir sind doch gerade erst den Berg herrunter gekommen und nun "
-"sollen wir wieder rauf? Ich glaube ich werde zu alt für soetwas."
+"sollen wir wieder rauf? Ich glaube ich werde zu alt für so etwas."
 
 #. [message]: speaker=Aigulos
 #: The_Fellowship_of_the_Clay/scenarios/05_Meet_the_dwarfs.cfg:218
 msgid "Ye mean yer gettin' too beamy for this?"
-msgstr "Du meinst, du wirst zu fett für soetwas?"
+msgstr "Du meinst, du wirst zu fett für so etwas?"
 
 #. [message]: speaker=Dulothras
 #: The_Fellowship_of_the_Clay/scenarios/05_Meet_the_dwarfs.cfg:222
@@ -1772,9 +1772,9 @@ msgid ""
 "If ye want to administer the Gryphon diet to me, Ah will look as a flimsy "
 "Goblin soon, gi'en tha' we'll ne'er catch that Gryphon!"
 msgstr ""
-"Wenn du mir die Greifendiät verordnen möchtest, werde ich bald werde ich "
-"bald so schwach wie ein Goblin aussehen, bedenkt man, dass wir diesen "
-"dusseligen Greifen niemals fangen werden."
+"Wenn du mir die Greifendiät verordnen möchtest, werde ich bald so schwach "
+"wie ein Kobold aussehen, bedenkt man, dass wir diesen dusseligen Greifen "
+"niemals fangen werden."
 
 #. [message]: speaker=Thardusol
 #: The_Fellowship_of_the_Clay/scenarios/05_Meet_the_dwarfs.cfg:226
@@ -1939,7 +1939,7 @@ msgstr "Tod von Walklas oder Legomir"
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/06_Finding_Feyndwarf.cfg:298
 msgid "I hear voices from the throne room - let's visit the dwarfs!"
-msgstr "Ich höre Stimmen aus dem Thronsaal - last und die Zwerge besuchen!"
+msgstr "Ich höre Stimmen aus dem Thronsaal - lasst uns die Zwerge besuchen!"
 
 #. [message]: speaker=Walklas
 #: The_Fellowship_of_the_Clay/scenarios/06_Finding_Feyndwarf.cfg:302
@@ -1947,7 +1947,7 @@ msgid ""
 "I don't like caves at all...it as if like the darkness would paralyze my "
 "mind."
 msgstr ""
-"Ich mag Hölen überhaupt nicht... es ist als ob die die Dunkelheit den Geist "
+"Ich mag Höhlen überhaupt nicht... es ist als ob die die Dunkelheit den Geist "
 "lahmlegen würde."
 
 #. [message]: speaker=Feyndwarf
@@ -1972,16 +1972,16 @@ msgid ""
 "I didn't consider Namcarthos to be so brainless as to forget the code to his "
 "holy treasure chamber. Let's go back quickly!"
 msgstr ""
-"Haha, mit eurer Hilfe haben sie wirklich einen Greifen in die Höle gebracht? "
-"Weißt du was? All dieses Gerede über eine Bombe, die man nur von einem "
-"Greifen abwerfen könnte war komplett erfunden. Ich habe es Namcarthos nur "
-"erzählt, damit er mich für eine Weile in Ruhe lässt und dabei bin ich davon "
-"ausgegangen, dass die Jungs sowieso nie einen Greifen fangen könnten. Das "
-"Namcarthos allerdings nicht an sein geliebtes Gold kommt, könnte gefährlich "
-"für die Jungs werden und ich will natürlich nicht, dass er Hackfleisch aus "
-"ihnen macht. Ich habe es nicht für möglich gehalten, dass Namcarthos so "
-"hirnlos sein könnte und das Passwort für seine geheiligte Schatzkammer "
-"vergessen könnte. Also lass uns schnell aufbrechen!"
+"Haha, mit eurer Hilfe haben sie wirklich einen Greifen in die Höhle "
+"gebracht? Weißt du was? All dieses Gerede über eine Bombe, die man nur von "
+"einem Greifen abwerfen könnte war komplett erfunden. Ich habe es Namcarthos "
+"nur erzählt, damit er mich für eine Weile in Ruhe lässt und dabei bin ich "
+"davon ausgegangen, dass die Jungs sowieso nie einen Greifen fangen könnten. "
+"Das Namcarthos allerdings nicht an sein geliebtes Gold kommt, könnte "
+"gefährlich für die Jungs werden und ich will natürlich nicht, dass er "
+"Hackfleisch aus ihnen macht. Ich habe es nicht für möglich gehalten, dass "
+"Namcarthos so hirnlos sein könnte und das Passwort für seine geheiligte "
+"Schatzkammer vergessen könnte. Also lass uns schnell aufbrechen!"
 
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/06_Finding_Feyndwarf.cfg:332
@@ -2020,7 +2020,7 @@ msgstr ""
 #. [message]: speaker=narrator
 #: The_Fellowship_of_the_Clay/scenarios/06_Finding_Feyndwarf.cfg:368
 msgid "A long walk and a few spiders later..."
-msgstr "Ein langer Weg und einige Spinnen später..."
+msgstr "Einen langen Weg und einige Spinnen später..."
 
 #. [message]: speaker=Namcarthos
 #: The_Fellowship_of_the_Clay/scenarios/06_Finding_Feyndwarf.cfg:394
@@ -2055,10 +2055,10 @@ msgid ""
 "city. It might interest you that we used an artificial stone which has to be "
 "baked."
 msgstr ""
-"Eure Lordschaft, wenn ich nun darf: Ich bin Clyde, Gesandtervon König "
+"Eure Lordschaft, wenn ich nun darf: Ich bin Clyde, Gesandter von König "
 "Haldric II. Ich komme um euch zur Feier zu Ehren der Fertigstellung von "
-"Wehlot einzuladen - unsere neue Hauptstadt. Vielleicht interessiert es euch "
-"ja, dass wir einen künstlichen Stein benutzt haben, den man backen muss."
+"Wehlot einzuladen - unserer neuen Hauptstadt. Vielleicht interessiert es "
+"euch ja, dass wir einen künstlichen Stein benutzt haben, den man backen muss."
 
 #. [message]: speaker=Namcarthos
 #: The_Fellowship_of_the_Clay/scenarios/06_Finding_Feyndwarf.cfg:414
@@ -2068,7 +2068,7 @@ msgid ""
 "together a new sandheap!"
 msgstr ""
 "Hoho. Mensch, seht ihr nicht, dass ich hier unabkömmlich bin? Ich muss "
-"schließlich unsere Schätze bewachen und bin viel zu wichtig als dass ich "
+"schließlich unsere Schätze bewachen und bin viel zu wichtig, als dass ich "
 "jedes Mal gerufen werden könnte, wenn ihr Menschen einen neuen Sandhaufen "
 "aufgeschüttet habt!"
 
@@ -2121,7 +2121,7 @@ msgid ""
 "way."
 msgstr ""
 "Feynzwerg, wenn ihr wirklich begutachten wollt, was die Menschen dort "
-"gemacht haben, gibt es glaube keinen anderen Weg."
+"gemacht haben, gibt es meiner Meinung nach keinen anderen Weg."
 
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/06_Finding_Feyndwarf.cfg:442
@@ -2155,7 +2155,7 @@ msgid ""
 "Hmm, his feathers feel soft, very soft indeed. It's feel better than in my "
 "child's bed."
 msgstr ""
-"Hmm, seine Feder fühlen sich wich an, sehr weich sogar. Sogar besser als "
+"Hmm, seine Federn fühlen sich weich an, sehr weich sogar. Sogar besser als "
 "mein Kinderbettchen."
 
 #. [message]: speaker=Richard
@@ -2174,8 +2174,8 @@ msgid ""
 "Ok, I really don't know if this is a good idea... maybe I should put some "
 "runes on the harness."
 msgstr ""
-"Ok, ich weiß wirklich niht, ob das eine gute Idee ist. Ich glaube ich sollte "
-"einige Runen auf das Geschirr gravieren."
+"Ok, ich weiß wirklich nicht, ob das eine gute Idee ist. Ich glaube ich "
+"sollte einige Runen auf das Geschirr gravieren."
 
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/06_Finding_Feyndwarf.cfg:512
@@ -2205,8 +2205,8 @@ msgid ""
 "Did ye hear me? I said: 'Could you please turn the light off? Use the right-"
 "click-menu to do so!'"
 msgstr ""
-"Hast du mich gehört? Ich sagte: Schalte bitte das licht aus! Benutzt "
-"gefälligst euer Rechtsklick-Menü!"
+"Hast du mich gehört? Ich sagte: Schalte bitte das Licht aus! Benutz "
+"gefälligst das Rechtsklick-Menü!"
 
 #. [message]: speaker=Feyndwarf
 #: The_Fellowship_of_the_Clay/scenarios/06_Finding_Feyndwarf.cfg:580
@@ -2214,7 +2214,7 @@ msgid ""
 "<b>Damn, shut that light off, or yer life'll end under my hammer, now and "
 "here!!</b>"
 msgstr ""
-"<b>Verdammt, schaltet endlich das Licht aus oder eurer Leben ended unter "
+"<b>Verdammt, schaltet endlich das Licht aus oder eurer Leben endet unter "
 "meinem Hammer, hier und jetzt!!</b>"
 
 #. [message]: speaker=Feyndwarf
@@ -2228,7 +2228,7 @@ msgid ""
 "Ah, thanks! Really, if such a glowin' person's runnin' in my disco chamber, "
 "I'd get mad. But...how did you do that? Could you do that again?"
 msgstr ""
-"Ah, danke! Wirklich, enn eine so glühende Person die Stimmung in meiner "
+"Ah, danke! Wirklich, wenn eine so glühende Person die Stimmung in meiner "
 "Disco-Kammer versaut, werde ich wütend. Aber wie habt ihr das gemacht? Könnt "
 "ihr das noch mal machen?"
 
@@ -2262,12 +2262,13 @@ msgid ""
 msgstr ""
 "Ohoh Jungs! Erinnert ihr euch an diese Eier, die wir vor ein paar Wochen "
 "hierher gebracht haben? Irgendwas sagt mir, dass diese Eier vielleicht die "
-"Hinterlassenschaft dieser gigantischen Spinne in den südlichen Hölen waren..."
+"Hinterlassenschaft dieser gigantischen Spinne in den südlichen Höhlen "
+"waren..."
 
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/06_Finding_Feyndwarf.cfg:671
 msgid "It is dangerous to ride in a cave. I should dismount."
-msgstr "Es ist gefährlich in einer Höle zu reiten. Ich sollte absitzen."
+msgstr "Es ist gefährlich in einer Höhle zu reiten. Ich sollte absitzen."
 
 #. [message]: speaker=Namcarthos
 #: The_Fellowship_of_the_Clay/scenarios/06_Finding_Feyndwarf.cfg:713
@@ -2276,8 +2277,8 @@ msgid ""
 "guys ha' returned! And ye caught a Gryphon. Satisfactory. That means ye can "
 "go fetch Feyndwarf!"
 msgstr ""
-"Verdammt! Verflucht! Verwünscht! Wo ist dieser verflicxte Runenschmied?!? Na "
-"wenigstens sied ihr zurückgekehrt und habt einen Greif mitgebracht. "
+"Verdammt! Verflucht! Verwünscht! Wo ist dieser verflixte Runenschmied?!? Na "
+"wenigstens seid ihr zurückgekehrt und habt einen Greif mitgebracht. "
 "Befriedigend. Das bedeuted, dass ihr mir Feynzwerg herschaffen könnt!"
 
 #. [message]: speaker=Dulothras
@@ -2297,8 +2298,8 @@ msgid ""
 "bomb you wanted to have and for which we had to find a Gryphon."
 msgstr ""
 "Er hat sich eine Weile von der Lehre zurückgezogen um ungestört den Studien "
-"für die Bombe, die ihr von ihm wollted nachgehen zu können, für die wir auch "
-"den Greif finden sollten."
+"für die Bombe, die ihr von ihm wolltet, nachgehen zu können, für die wir "
+"auch den Greif finden sollten."
 
 #. [message]: speaker=Namcarthos
 #: The_Fellowship_of_the_Clay/scenarios/06_Finding_Feyndwarf.cfg:730
@@ -2368,7 +2369,7 @@ msgid ""
 msgstr ""
 "Ok Mensch, wir haben hier ein gemeinsames Problem. Solang Namcarthos nicht "
 "bekommt, was er will, hat keiner von uns viel Spaß. Auf der anderen Seite "
-"wissen wir nur die ungefähre Position von Kal Alamos da Feynzwerg die "
+"wissen wir nur die ungefähre Position von Kal Alamos, da Feynzwerg die "
 "Passage mit Hilfe einer Rune in \"ewiger Dunkelheit\" hält. Also zeigen wir "
 "euch den Weg und ihr geht durch die Dunkelheit?!? Ihr seht mutig genug aus!"
 
@@ -2442,9 +2443,9 @@ msgid ""
 "Looks like I survived it - wait, there is something in my mind...an "
 "incredible shiny and holy light, as if I could control all arcane powers..."
 msgstr ""
-"Sieht aus, als ob ich es überlebt hätte - aber warte, was ist das in meinem "
-"Geist? Ein unglaublich helles heiliges Licht, beinahe so als ob ich geheimen "
-"Kräfte kontrolieren könnte."
+"Sieht aus, als ob ich es überlebt hätte - aber wartet, was ist das in meinem "
+"Geist? Ein unglaublich helles heiliges Licht, beinahe so, als ob ich "
+"geheimen Kräfte kontrolieren könnte."
 
 #. [message]: speaker=Feyndwarf
 #: The_Fellowship_of_the_Clay/scenarios/06_Finding_Feyndwarf.cfg:983
@@ -2452,7 +2453,7 @@ msgid ""
 "Thanks for turning off the light before coming in, it would've destroyed my "
 "dance floor atmosphere. Where did the light come from?"
 msgstr ""
-"Danke für das Ausschalten des Lichtes bevor ihr eingetreten sied. Es hätte "
+"Danke für das Ausschalten des Lichtes bevor ihr eingetreten seid. Es hätte "
 "wirklich meine Tanzflächen-Atmosphäre zerstört. Wo kam dieses Licht denn "
 "bloß her?"
 
@@ -2468,9 +2469,9 @@ msgid ""
 "Will you shut this damm light off? You are ruining my dance floor "
 "atmosphere, so use the right-click menu and stop emittin' brightness!"
 msgstr ""
-"Würded ihr bitte dieses verteufelte Licht ausschalten? Ihr ruiniert ja meine "
-"ganze Tanzflächen-Atmosphäre. Also benutz euer Rechtsklick-Menü und hört auf "
-"Helligkeit zu emittieren."
+"Würdet ihr bitte dieses verteufelte Licht ausschalten? Ihr ruiniert ja meine "
+"ganze Tanzflächen-Atmosphäre. Also benutzt euer Rechtsklick-Menü und hört "
+"auf Helligkeit zu emittieren."
 
 #. [scenario]: id=07_Bad_News
 #: The_Fellowship_of_the_Clay/scenarios/07_Bad_news.cfg:5
@@ -2566,10 +2567,10 @@ msgid ""
 "what, we had to come up with an idea to let the Dwarf envoy make it in time. "
 "I just hope he does not fall from the sky."
 msgstr ""
-"Ja, sie könnten nun jeden Tag ankommen. Ich habe sogar das Meerfolk "
-"gefunden! Nun, ich hoffe, dass der Zwerg nicht vom Himmel fallen wird. Ihr "
-"müsst wissen, dass wir uns etwas einfallen lassen mussten, damit der Zwerg "
-"es rechtzeitig schaffen würde."
+"Ja, sie können nun jeden Tag ankommen. Ich habe sogar das Meervolk gefunden! "
+"Nun, ich hoffe, dass der Zwerg nicht vom Himmel fallen wird. Ihr müsst "
+"wissen, dass wir uns etwas einfallen lassen mussten, damit der Zwerg es "
+"rechtzeitig schaffen würde."
 
 #. [message]: speaker=Haldric II
 #: The_Fellowship_of_the_Clay/scenarios/07_Bad_news.cfg:305
@@ -2577,8 +2578,8 @@ msgid ""
 "*laughs* How Great! Well, whatever you thought of, I hope it doesn't involve "
 "a giant Dwarf cannon."
 msgstr ""
-"*lacht* Wie großartig! Ich hoffe nur, dass, wasimmer ihr euch ausgedacht "
-"habt, es keine riesige Zwergenkanone umfasst."
+"*lacht* Wie großartig! Ich hoffe nur, dass wasimmer ihr euch ausgedacht "
+"habt,  keine riesige Zwergenkanone umfasst."
 
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/07_Bad_news.cfg:309
@@ -2607,11 +2608,11 @@ msgid ""
 "always wanted to keep the castle on the island as small as possible while "
 "building villages around it."
 msgstr ""
-"In der Tat! Es ist wirklich ein Wunder gewesen, dass euer Vater diese Insel "
+"In der Tat! Es ist wirklich ein Wunder gewesen, dass Euer Vater diese Insel "
 "gefunden hat, die geradezu dafür geschaffen war, ein Burg zu beheimaten. Und "
 "dann diese neuartige Methode Steine mit Lehm und Feuer herzustellen. Erst "
 "das hat uns wirklich in die Lage versetzt, die Burg in der vollen Größe der "
-"Insel zu bauen. Ich frage mich nur, warum euer Vater die Burg auf der Insel "
+"Insel zu bauen. Ich frage mich nur, warum Euer Vater die Burg auf der Insel "
 "immer so klein wie möglich halten wollte und die Dörfer außerhalb gegründet "
 "hat."
 
@@ -2629,7 +2630,7 @@ msgstr ""
 "große Burg. Außerdem hatte er einfach nicht die Idee, die Dörfer innerhalb "
 "der Verteidigungsmauern anzusiedeln. Dörfer auf der Insel, die aber "
 "außerhalb der Mauern gestanden hätten, hätten den strategischen Vorteil der "
-"Insel sofort zu nicht gemacht, da man sie sofort hätte einnehmen können und "
+"Insel sofort zu nicht gemacht, da man sie schnell hätte einnehmen können und "
 "damit auch die Situation in der Burg aussichtslos gewesen wäre."
 
 #. [message]: speaker=Clyde
@@ -2638,7 +2639,7 @@ msgid ""
 "True! It was really your ingenuity that made Wehlot what it is - and of "
 "course the invention of the brick that was shown to us by this stranger."
 msgstr ""
-"Wie wahr! Es war wirklich euer Einfallsreichtum, der aus Wehlot das gemacht "
+"Wie wahr! Es war wirklich Euer Einfallsreichtum, der aus Wehlot das gemacht "
 "hat, was es ist - und natürlich die Erfindung des Backsteins, die uns von "
 "diesem Fremden überlassen wurde."
 
@@ -2713,8 +2714,8 @@ msgid ""
 "My King, there is someone outside the city who wants to meet you. He says he "
 "is the guy with the clay and that you will know."
 msgstr ""
-"Mein König, draußen steht jemand, der euch sehen will. Er sagt, er sei der "
-"Kerl mit dem Lehm und ihr würdet schon wissen."
+"Mein König, draußen steht jemand, der Euch sehen will. Er sagt, er sei der "
+"Kerl mit dem Lehm und Ihr würdet schon wissen."
 
 #. [message]: speaker=Haldric II
 #: The_Fellowship_of_the_Clay/scenarios/07_Bad_news.cfg:383
@@ -2755,7 +2756,7 @@ msgid ""
 msgstr ""
 "Tatsächlich ist es so, dass wir die Bezahlung vertraglich geregelt haben. "
 "Ich habe den Vertrag bereits mit eurem Vater geschlossen, als ich ihm diese "
-"Insel überlassen habe. Also beansproche ich hiermit fünf Kinder eures Volkes!"
+"Insel überlassen habe. Also beanspruche ich hiermit fünf Kinder eures Volkes!"
 
 #. [message]: speaker=Haldric II
 #: The_Fellowship_of_the_Clay/scenarios/07_Bad_news.cfg:405
@@ -2764,7 +2765,7 @@ msgid ""
 "paper you are holding there!"
 msgstr ""
 "Mein Vater hätte niemals einen solchen Vertrag unterzeichnet. Zeigt mir "
-"dieses Stück Papier, was ihr da in der Hand haltet!"
+"dieses Stück Papier, das ihr da in der Hand haltet!"
 
 #. [message]: speaker=Haldric II
 #: The_Fellowship_of_the_Clay/scenarios/07_Bad_news.cfg:413
@@ -2782,7 +2783,7 @@ msgid ""
 msgstr ""
 "Nun gut Fremder, was für ein faules Spiel ihr hier auch spielen mögt, ich "
 "werde euch sicher keine Kinder aushändigen. Das Gegenteil ist der Fall: Ich "
-"werde ich in den Kerker werfen lassen, da ihr offensichtlich ein Betrüger "
+"werde euch in den Kerker werfen lassen, da ihr offensichtlich ein Betrüger "
 "und ein Kinderschänder seid! Clyde, nimm diesen Mann fest!"
 
 #. [message]: speaker=Familiar Stranger
@@ -2799,15 +2800,15 @@ msgid ""
 "single brick is bound to MY powers. Thus, I can let this whole city collapse "
 "on MY rule. Now, where are my children?"
 msgstr ""
-"Lasst mich euch etwas erklären: Es ist MEIN feuer in diesem Steinofen und "
-"jeder einzelne Backstein is an MEINE kräfte gebunden. So kann ich die ganze "
+"Lasst mich euch etwas erklären: Es ist MEIN Feuer in diesem Steinofen und "
+"jeder einzelne Backstein is an MEINE Kräfte gebunden. So kann ich die ganze "
 "Stadt in sich zusammenstürtzen lassen, wenn ICH es nur will. Nun, wo sind "
 "meine Kinder?"
 
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/07_Bad_news.cfg:446
 msgid "Not so fast..."
-msgstr "Niht so schnell..."
+msgstr "Nicht so schnell..."
 
 #. [message]: speaker=Familiar Stranger
 #: The_Fellowship_of_the_Clay/scenarios/07_Bad_news.cfg:500
@@ -2837,7 +2838,7 @@ msgid ""
 msgstr ""
 "Ich sehe, man muss euch noch mehr bedrohen. Für den Augenblick werde ich "
 "eure geschätzt Stadt lassen wie sie ist. Aber nächsten Neumond werded ihr "
-"die Gelegenheit bkommen sie mehr zu schätzen zu lernen, als euch lieb ist. "
+"die Gelegenheit bekommen sie mehr zu schätzen zu lernen, als euch lieb ist. "
 "Danach werden wir uns nochmal unterhalten."
 
 #. [message]: speaker=Merdor
@@ -2863,13 +2864,13 @@ msgid ""
 "Merdor, do you have any idea what we could do about this - this stranger who "
 "really seems to own us."
 msgstr ""
-"Merdor, habt ihr irgendeine idee, was wir nun tun könnten. Es macht den "
+"Merdor, habt ihr irgendeine Idee, was wir nun tun könnten. Es macht den "
 "Eindruck, als ob uns der Fremde wirklich im Sack hat."
 
 #. [message]: speaker=Merdor
 #: The_Fellowship_of_the_Clay/scenarios/07_Bad_news.cfg:594
 msgid "Not good, not good at all."
-msgstr "Niht gut, ganz und gar nicht gut."
+msgstr "Nicht gut, ganz und gar nicht gut."
 
 #. [message]: speaker=Feyndwarf
 #: The_Fellowship_of_the_Clay/scenarios/07_Bad_news.cfg:663
@@ -2879,7 +2880,7 @@ msgstr "Hooo, was für eine Landung! Elfen? Ihr hier und nicht in Wesmerewood?"
 #. [message]: speaker=Aryad
 #: The_Fellowship_of_the_Clay/scenarios/07_Bad_news.cfg:667
 msgid "A Dwarf... out of the sky... a balletic landing indeed!"
-msgstr "Ein Zwerg... aus dem Himmel...eine wahrlich graziöse Landung!"
+msgstr "Ein Zwerg... aus dem Himmel... eine wahrlich graziöse Landung!"
 
 #. [message]: speaker=Feyndwarf
 #: The_Fellowship_of_the_Clay/scenarios/07_Bad_news.cfg:671
@@ -2887,8 +2888,8 @@ msgid ""
 "Can you believe it, these humans really bake stones! I guess we have to "
 "explain everything to them: Stone is carved while only bread is baked!"
 msgstr ""
-"Könnt ihr das glauben? Die Menschen haben wirklich Steine gebacken! Ich "
-"schätze, wir müssen ihn auch alles erklären: Steine werden gehauen und nur "
+"Könnt ihr das glauben? Diese Menschen haben wirklich Steine gebacken! Ich "
+"schätze, wir müssen ihnen auch alles erklären: Steine werden gehauen und nur "
 "Brot wird gebacken!"
 
 #. [message]: speaker=Aryad
@@ -2946,9 +2947,9 @@ msgid ""
 "Hmpf, I told you stones aren't baked! But when I look at this oven and these "
 "stones... there is definitely some magic involved here."
 msgstr ""
-"Hmpf, ich habe euch doh gesagt, dass Steine nicht gebacken werden! Aber wenn "
-"ich mir so diesen Ofen und diese Steine anschaue... zweifelsohne ist hier "
-"Magie am Werke."
+"Hmpf, ich habe euch doch gesagt, dass Steine nicht gebacken werden! Aber "
+"wenn ich mir so diesen Ofen und diese Steine anschaue... zweifelsohne ist "
+"hier Magie am Werke."
 
 #. [message]: speaker=Legomir
 #: The_Fellowship_of_the_Clay/scenarios/07_Bad_news.cfg:715
@@ -2969,7 +2970,7 @@ msgid ""
 "barely got a scratch from my Holy Light."
 msgstr ""
 "Wahrscheinlich wäre das keine gute Idee gewesen. Ich gehe davon aus, dass "
-"auch sein Tod die Stadt zusammenstürtzen lassen würde - wenn er überhaupt "
+"sein Tod auch die Stadt zusammenstürzen lassen würde - wenn er überhaupt "
 "getötet werden kann. Er hat kaum eine Schramme von meinem Heiligen Licht "
 "abbekommen."
 
@@ -3015,8 +3016,8 @@ msgid ""
 "never had a long life. So you will die tragically tonight, whether you like "
 "it or not."
 msgstr ""
-"Unser Meister mag wirklich keine Leute, die ihn angreifen. Also werded ihr "
-"heute Nach einen sinnlosen Tod sterben, ob ihr es mögt oder nicht."
+"Unser Meister mag wirklich keine Leute, die ihn angreifen. Also werdet ihr "
+"heute Nacht einen sinnlosen Tod sterben, ob ihr es mögt oder nicht."
 
 #. [message]: speaker=Maregor
 #: The_Fellowship_of_the_Clay/scenarios/07_Bad_news.cfg:790
@@ -3048,7 +3049,7 @@ msgstr "Ich werde niemals wieder die schönen Wesmere Wälder sehen..."
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/07_Bad_news.cfg:835
 msgid "My king, don't die!"
-msgstr "Mein König, ihr dürft nicht sterben!"
+msgstr "Mein König, Ihr dürft nicht sterben!"
 
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/07_Bad_news.cfg:848
@@ -3060,8 +3061,8 @@ msgstr "Es tut mir leid mein König..."
 msgid ""
 "Curse you, damm necromancer! May your bones break and never be found agian!"
 msgstr ""
-"Seid verflucht Totenbeschwörer! Mögen eure Knochen auseianderbrechen und nie "
-"wieder gefunden werden!"
+"Seid verflucht Totenbeschwörer! Mögen eure Knochen auseinanderbrechen und "
+"nie wieder gefunden werden!"
 
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/07_Bad_news.cfg:874
@@ -3083,8 +3084,8 @@ msgid ""
 "Although it saddens me that such a loyal and skilled elf died, we must not "
 "give up now!"
 msgstr ""
-"Auch wenn es mich noch so mitnimmt, dass ein so loyaler und fähiger Elf "
-"gesallen ist, dürfen wir nun nicht aufgeben!"
+"Auch wenn es mich sehr betrübt, dass ein so loyaler und fähiger Elf gefallen "
+"ist, dürfen wir nun nicht aufgeben!"
 
 #. [message]: speaker=Eleonor
 #: The_Fellowship_of_the_Clay/scenarios/07_Bad_news.cfg:910
@@ -3103,7 +3104,7 @@ msgid ""
 "mighty their foe was and how desperate the situation seemed to be. Near the "
 "brick-kiln a council was held to decide the next steps."
 msgstr ""
-"Als die Untoten Truppen besiegt waren, wurde den Bewohnern Wehlots klar, wie "
+"Als die untoten Truppen besiegt waren, wurde den Bewohnern Wehlots klar, wie "
 "mächtig ihr Gegner war und wie hoffnungslos die Situation schien. Nahe des "
 "Steinofens wurde Rat gehalten, was man als nächstes tun könnte."
 
@@ -3139,14 +3140,14 @@ msgstr ""
 #: The_Fellowship_of_the_Clay/scenarios/08_The_plan.cfg:118
 msgid "An interesting idea, indeed. No one is immune to his own spell."
 msgstr ""
-"Tatsählich eine interessante Idee. Niemand ist gegen seine eigenen Kräfte "
+"Tatsächlich eine interessante Idee. Niemand ist gegen seine eigenen Kräfte "
 "immun."
 
 #. [message]: speaker=Lorelei
 #: The_Fellowship_of_the_Clay/scenarios/08_The_plan.cfg:122
 msgid "And the force of the spell in the fire should equal his own potency."
 msgstr ""
-"Und die Stärke Magie des Feuers sollte der Macht de Fremden entsprechen."
+"Und die Stärke der Magie des Feuers sollte der Macht des Fremden entsprechen."
 
 #. [message]: speaker=Haldric II
 #: The_Fellowship_of_the_Clay/scenarios/08_The_plan.cfg:126
@@ -3178,7 +3179,7 @@ msgstr ""
 "Mein verohrter Elf... tschuldige, Freudscher Versprecher! Ich meinte "
 "natürlich: Mein verehrter Elf, was wäre es schon wert, wenn wir "
 "sicherstellen könnten, dass wir ihn mit einem PFEIL treffen. Wenn wir über "
-"Runen sprechen, dürfte ja wohl kalr sein, dass wir sie irgendwo auftragen "
+"Runen sprechen, dürfte ja wohl klar sein, dass wir sie irgendwo auftragen "
 "müssen. Oder seid ihr zu dürre um das zu verstehen?"
 
 #. [message]: speaker=Legomir
@@ -3236,14 +3237,14 @@ msgid ""
 "Stanger resides within 'the hills close to the swamps'."
 msgstr ""
 "Vielleicht habt ihr recht... Worauf sich Elenor bezieht ist eine alte "
-"Geschichte meines Folkes, die von einem Fremden handelt, der das Leben von "
+"Geschichte meines Volkes, die von einem Fremden handelt, der das Leben von "
 "Kindern beansprucht. Die Erzählung berichtet, dass einer unser höchsten "
-"Adligen sich wiegerte Kinder auszuliefern und stattdessen eine Armee "
-"aufgestellt hat. Nach dieser Legende wurde die geammte Armee schnell besiegt "
-"nur um den Zorn des Tod höchst selbst zu erregen. Ich selbst habe die "
-"Geschichte immer nur als eine Parabel betrachtet, die Demut vor dem Tod "
+"Adligen sich weigerte Kinder auszuliefern und stattdessen eine Armee "
+"aufgestellt hat. Nach dieser Legende wurde die geammte Armee schnell "
+"besiegt, nur um den Zorn des Tod höchst selbst zu erregen. Ich selbst habe "
+"die Geschichte immer nur als eine Parabel betrachtet, die Demut vor dem Tod "
 "erzeugen sollte. Aber wenn wirklich ein Fünkchen Wahrheit in ihr steckt, "
-"dann könnten auch dei Ortsangaben korrekt sein. Und in dieser Geschichte "
+"dann könnten auch die Ortsangaben korrekt sein. Und in dieser Geschichte "
 "wird erwähnt, dass der Fremde in den 'Bergen nahe der Sümpfe' beheimatet ist."
 
 #. [message]: speaker=Feyndwarf
@@ -3271,7 +3272,7 @@ msgid ""
 "I doubt that asking for someone to bring your luggage to your room would be "
 "of any help now."
 msgstr ""
-"Ich bezweifle, dass es auch nur den geringsten nutzen hätte, nach einem "
+"Ich bezweifle, dass es auch nur den geringsten Nutzen hätte, nach einem "
 "Portier zu rufen."
 
 #. [message]: speaker=Merdor
@@ -3280,7 +3281,7 @@ msgid ""
 "No, no! I mean Harriett! She might be able to get us there in a blink of an "
 "eye! Hmm... but  we still have to get to her village in the Dulatus Hills."
 msgstr ""
-"Nein, nein! Ich meine Harriett! Sie könnte und mit einem Wimpernschlag "
+"Nein, nein! Ich meine Harriett! Sie könnte uns mit einem Wimpernschlag "
 "überall hin bringen. Wir müssten allerdings noch zu ihrem Dorf in den "
 "Dulatus Bergen gelangen."
 
@@ -3301,7 +3302,7 @@ msgstr ""
 "Oh ja, selbstverständlich. Vor einiger Zeit, hatten wir ein nettes "
 "Silbermagier-Paar an unserer Schule, die Porters. Sie haben eine Tochter mit "
 "dem Namen Harriett. Sie ist die überhaupt erste Magierin, die nicht nur in "
-"der Lage war, sich selbst zu teleportieren, sondern auch alle um sie herum. "
+"der Lage war, sich selbst zu teleportieren, sondern auch alle um sich herum. "
 "Unglücklicherweise hatten die Porters eine Meinungsverschiedenheit mit der "
 "Schule und so haben sie Alduin verlassen und sind in ein kleines Bergdorf "
 "gezogen, welches sich Mountainheigh nennt."
@@ -3381,7 +3382,7 @@ msgid ""
 "willing to tell me."
 msgstr ""
 "Lorelei, ich muss euch einfach fragen: Wie ihr mich anschaut und wie ihr "
-"euch mir gegenüber verhaltet legt nur allzu nahe, dass ihr mehr über mich "
+"euch mir gegenüber verhaltet, legt nur allzu nahe, dass ihr mehr über mich "
 "wisst, als ihr mir bisher verraten habt."
 
 #. [part]
@@ -3430,10 +3431,10 @@ msgstr ""
 "Also gut, hör mir aufmerksam zu: Als Haldric des II. Vater, Haldric dieses "
 "Stückchen Land, auf dem eure Stadt gebaut ist, erhandelt hat, hat seine "
 "Mutter Jessica gespührt, dass etwas sehr im Argen lag. Sie weinte häufig "
-"während dieser zeit, da Haldric II gerade erst geboren war und nun war sie "
+"während dieser Zeit, da Haldric II gerade erst geboren war und nun war sie "
 "bereits besorgt über das Leben ihres Kindes. Du weißt vielleicht, dass sich "
-"die Eltern von Haldric II über fast alles uneins waren. Eines tages, alls "
-"sie am Ufer des Flusses Aethen saß und weinte, sah meine Mutter sie. Meine "
+"die Eltern von Haldric II über fast alles uneins waren. Eines Tages, als sie "
+"am Ufer des Flusses Aethen saß und weinte, sah meine Mutter sie. Meine "
 "Mutter fühlte sich sehr von Jessicas Geschichte berührt, da auch Sie "
 "irgendwie spührte, dass etwas vor sich ging. Sie erdachte sich, was eine "
 "zukünftige, unkalkulierbare Bedrohung kontern könnte: Ein zukünftiger, "
@@ -3482,7 +3483,7 @@ msgstr ""
 "Du meinst, ich existiere nur um einen Plan von irgendjemand zu erfüllen, so "
 "wie eine Marionette? All meine Handlungen, meine Überzeugungen sollen von "
 "anderen Leuten bestimmt worden sein? Erzählst du mir gerade, dass ich "
-"sowieso nie irgendeine Wahlt hatte, dass es im Grunde nie Raum für eine "
+"sowieso nie irgendeine Wahl hatte, dass es im Grunde nie Raum für eine "
 "wirklich eigene Persöhnlichkeit gab, dass es im Grunde gar kein \"micht\", "
 "kein \"Clyde\" gibt?!?"
 
@@ -3507,12 +3508,12 @@ msgstr ""
 "Kausalität betrachten. Ihr währt nie auf ein solch eigenartiges Konzept wie "
 "dem 'unbewegtem Beweger' gekommen um euch als frei anzusehen. Die "
 "Handlungsfreiheit bedeutet nun mal nicht, dass man ohne irgendeine Basis, "
-"ohne vorgeschichte wählt. Ebensowenig bedeut es, dass man alle möglichen "
+"ohne Vorgeschichte wählt. Ebensowenig bedeut es, dass man alle möglichen "
 "Alternativen einer Wahl tatsächlich ausführt: Man kann immer nur einem Pfad "
 "auf dem Entscheidungsbaum folgen. Freiheit meint nur, dass es mal einen "
-"Zeitpunkt gab, an dem ihr auch einen anderen Pfad hättet einschalgen können. "
+"Zeitpunkt gab, an dem ihr auch einen anderen Pfad hättet einschlagen können. "
 "Schlussendlich sind wir alle durch eine Kausalkette gebunden und so ist es "
-"auch mit unseren Persöhnlichkeiten. Tortzdem ist es genau das, was euch "
+"auch mit unseren Persöhnlichkeiten. Trotzdem ist es genau das, was euch "
 "ausmacht, nämlich, ob ihr gute oder schlechte Entscheidungen trefft. Sei "
 "also froh, dass du zu jenen gehörst, die eher gute Entscheidungen treffen. "
 "Ich kann euch jedenfalls berichten, dass es auch sehr viel schlechtere gibt."
@@ -3610,7 +3611,7 @@ msgid ""
 "we should be almost there!"
 msgstr ""
 "Hier sind wir also. Hinter dieser Bergkette liegt das Tal der Yetis. Wir "
-"müssen es durchqueren um nach Mountainhigh zu gelangen. Wenn wir durch ein "
+"müssen es durchqueren, um nach Mountainhigh zu gelangen. Wenn wir durch ein "
 "Bächlein schreiten, sollten wir so gut wie dort sein."
 
 #. [message]: speaker=narrator
@@ -3638,8 +3639,8 @@ msgid ""
 "Not if you are a silver mage... guess why Mountainhigh is home to some who "
 "don't like visitors that much."
 msgstr ""
-"Nicht wenn ihr ein Silbermagier seid... rate, warum Mountainhigh ist das "
-"zuhause von Leuten, die Besuch nicht sonderlich mögen."
+"Nicht wenn ihr ein Silbermagier seid... ratet, warum Mountainhigh das "
+"zuhause von Leuten ist, die Besuch nicht sonderlich mögen."
 
 #. [message]: speaker=Merdor
 #: The_Fellowship_of_the_Clay/scenarios/09_Recruiting_Harriett.cfg:326
@@ -3657,7 +3658,7 @@ msgid ""
 "Merdor, I told you not to come here. I hope you didn't come because of "
 "Harriett!"
 msgstr ""
-"Merdor, ich habe euh doch gesagt, dass ihr nicht herkommen sollt. Ich kann "
+"Merdor, ich habe euch doch gesagt, dass ihr nicht herkommen sollt. Ich kann "
 "nur hoffen, ihr kommt nicht wegen Harriett!"
 
 #. [message]: speaker=Merdor
@@ -3742,7 +3743,7 @@ msgid ""
 "I'd appreciate it if you could dismount before enterning, otherwise you "
 "would damage the floor planks."
 msgstr ""
-"Ich wäre dankbar, wenn ihr ohne Pferd in mein Haus kommt - ihr würded sonst "
+"Ich wäre dankbar, wenn ihr ohne Pferd in mein Haus kommt - ihr würdet sonst "
 "den Boden beschädigen."
 
 #. [message]: speaker=narrator
@@ -3777,7 +3778,7 @@ msgid ""
 "you, young lady, I will not allow you to travel anywhere!"
 msgstr ""
 "Nein, bin ich nicht, aber Harriett hat gerade eure Unterhaltung mit "
-"Elisabeth belauscht. Und ihr meine junge Dame werded nirgendwohin resien!"
+"Elisabeth belauscht. Und ihr meine junge Dame werdet nirgendwohin reisen!"
 
 #. [message]: speaker=narrator
 #: The_Fellowship_of_the_Clay/scenarios/09_Recruiting_Harriett.cfg:453
@@ -3797,7 +3798,7 @@ msgid ""
 "somewhen. I should better leave."
 msgstr ""
 "Ein alter zwergischer Versorgungstunnel... sieht aus, als ob er bald "
-"einstürtzen würde. Ich sollte besser gehen."
+"einstürzen würde. Ich sollte besser gehen."
 
 #. [scenario]: id=10_Convincing_the_Father
 #: The_Fellowship_of_the_Clay/scenarios/10_Convincing_the_Father.cfg:5
@@ -3852,7 +3853,7 @@ msgid ""
 "Harriett, please, go somewhere else now. I don't want you to get hurt here."
 msgstr ""
 "Harriett, geh nun bitte vor die Tür. Ich möchte nicht, dass du hier verletzt "
-"werden könntest."
+"wirst."
 
 #. [message]: speaker=Harriett Porter
 #: The_Fellowship_of_the_Clay/scenarios/10_Convincing_the_Father.cfg:121
@@ -3885,14 +3886,14 @@ msgid ""
 "that you won't be able to use left potions in later scenarios."
 msgstr ""
 "Rechtsklick auf Clyde, um einen Heiltrank zu benutzen. Er wird 40 "
-"Schadenspunkte wieder herstellen. Beachte, dass ihr gesparrte Tränke nicht "
-"in späteren Scenarien verwenden könnt."
+"Schadenspunkte wieder herstellen. Beachte, dass ihr gesparte Tränke nicht in "
+"späteren Szenarien verwenden könnt."
 
 #. [set_menu_item]: id=health_potion
 #: The_Fellowship_of_the_Clay/scenarios/10_Convincing_the_Father.cfg:162
 #: The_Fellowship_of_the_Clay/scenarios/16_The_three_Towers_of_Mount_Quake.cfg:621
 msgid "use health potion"
-msgstr "benutze Gesundheitstrunk"
+msgstr "benutze Heiltrank"
 
 #. [message]: speaker=Henry Porter
 #: The_Fellowship_of_the_Clay/scenarios/10_Convincing_the_Father.cfg:238
@@ -3931,8 +3932,8 @@ msgstr ""
 #: The_Fellowship_of_the_Clay/scenarios/10_Convincing_the_Father.cfg:354
 msgid "Oh, nice, a hidden healing potion! You are full of surprises, Henry!"
 msgstr ""
-"Oh, einen netten versteckten Gesundheitstrunk, den ihr da habt! Ihr seid "
-"voll mit Überraschungen, Henry!"
+"Oh, einen netten versteckten Heiltrank, den ihr da habt! Ihr seid voll mit "
+"Überraschungen, Henry!"
 
 #. [option]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/10_Convincing_the_Father.cfg:356
@@ -3942,7 +3943,7 @@ msgstr "Ich werde ihn nun trinken."
 #. [object]
 #: The_Fellowship_of_the_Clay/scenarios/10_Convincing_the_Father.cfg:359
 msgid "Health Potion"
-msgstr "Gesundheitstrunk"
+msgstr "Heiltrank"
 
 #. [object]
 #: The_Fellowship_of_the_Clay/scenarios/10_Convincing_the_Father.cfg:360
@@ -3969,7 +3970,7 @@ msgid ""
 "I have to admit, you're an excellent fighter. I think it's appropiate that "
 "we two come with you. Let's go to the Swamp of the Dread then!"
 msgstr ""
-"Ich muss zugeben, ihr seid ein hervorragender kämpfer. Ich denke, es ist "
+"Ich muss zugeben, ihr seid ein hervorragender Kämpfer. Ich denke, es ist "
 "angemessen, dass wir mit euch kommen. Also lasst uns zum Sumpf des Grauens "
 "aufbrechen!"
 
@@ -4067,7 +4068,7 @@ msgstr "Eine eurer Heldeneinheiten stirbt"
 #: The_Fellowship_of_the_Clay/scenarios/12_Dragnet_Operation.cfg:132
 #: The_Fellowship_of_the_Clay/scenarios/12_Dragnet_Operation.cfg:394
 msgid "Death of a member of the Porter family"
-msgstr "Tod eines Familienmitglides der Porters"
+msgstr "Tod eines Familienmitgliedes der Porters"
 
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:263
@@ -4111,7 +4112,7 @@ msgstr ""
 #: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:288
 msgid "You may use my keep to recruit soldiers - you need it more than I do."
 msgstr ""
-"Ihr könnt meinen Brugfried benutzen um eure Truppen einzuberufen - ihr "
+"Ihr könnt meinen Burgfried benutzen, um eure Truppen einzuberufen - ihr "
 "benötigt es mehr als ich."
 
 #. [message]: speaker=second_unit
@@ -4119,7 +4120,7 @@ msgstr ""
 msgid ""
 "So, we were able to pacify this one - but what would scare a yeti like that?"
 msgstr ""
-"Wir waren also in der lage diesen Yeti zu befrieden - nur was könnte eine "
+"Wir waren also in der Lage diesen Yeti zu befrieden - nur was könnte einen "
 "Yeti auf dies Art verstören?"
 
 #. [message]: speaker=Aryad
@@ -4130,9 +4131,9 @@ msgid ""
 "as the smoke cloud is rather big, I suspect it is exactly this."
 msgstr ""
 "Ich kann Rauch am Horizont entdecken. Yetis haben keine Angst vor Fackeln "
-"aber wer wäre nicht in Panik, wenn er vor einem Waldbrandt flüchted. Und da "
+"aber wer wäre nicht in Panik, wenn er vor einem Waldbrand flüchtet. Und da "
 "die Rauchwolke ganz schön groß ist, denke ich, wir haben es mit einem "
-"Waldbrandt zu tun."
+"Waldbrand zu tun."
 
 #. [message]: speaker=Feyndwarf
 #: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:313
@@ -4160,7 +4161,7 @@ msgstr ""
 "eben aufhalten! Ich habe von eurem anmaßendem Plan gehört. Wenigstens "
 "<b>ICH</b> kenne die Geschichten über den Tod, der in der Gestallt einer "
 "Krähe kommt und ich weiß, dass kein Sterblicher den Tod herrausfordern "
-"sollte. Deshalb werde ich hier eurem verrücktem Treiben ein Ende machen und "
+"sollte. Deshalb werde ich hier eurem verrückten Treiben ein Ende machen und "
 "euch verbrennen!"
 
 #. [message]: speaker=Harriett Porter
@@ -4180,7 +4181,7 @@ msgstr ""
 "Es wäre wohl eine sehr schlechte Idee, diesen durchgeknallten Zwerg und "
 "seine Freunde hinter uns zu lassen - sie würden sicher versuchen uns zu "
 "meucheln. <small> Trotzdem fühle ich mich schrecklich, seinen Tod anzuordnen "
-"- was als ob mein inneres Licht gedimmt würde...</small>"
+"- als ob mein inneres Licht gedimmt würde...</small>"
 
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:507
@@ -4209,7 +4210,7 @@ msgid ""
 "to one of our villages."
 msgstr ""
 "Wenn ich anmerken darf: Das Schicksal gab mir die Fähigkeit Nahestehende zu "
-"teleportieren - auch jene, die Wasser targen."
+"teleportieren - auch jene, die Wasser tragen."
 
 #. [message]: speaker=narrator
 #: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:521
@@ -4222,8 +4223,8 @@ msgid ""
 "teleported there."
 msgstr ""
 "Um eine Einheit durch Harriett teleportieren zu lassen, zieh die Einheit, "
-"die ihr teleportieren lassen möchted neben sie. Dann 'Diese Einheit "
-"teleportieren' aus dem Rechtsklick-Menü wählen. Danch habt ihr zwei "
+"die ihr teleportieren lassen möchtet, neben sie. Dann 'Diese Einheit "
+"teleportieren' aus dem Rechtsklick-Menü wählen. Danach habt ihr zwei "
 "Möglichkeiten im Rechtsklick-Menü: Entweder \"Teleportation abbrechen\" um "
 "etwa eine andere Einheit zu teleprotieren oder beim Rechtsklick auf ein "
 "eigenes Dorf \"Die Einheit hierher teleportieren\"."
@@ -4236,12 +4237,12 @@ msgstr "Besiegt Denethros"
 #. [objective]: condition=win
 #: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:530
 msgid "Stop the fire"
-msgstr "Stopt das Feuer"
+msgstr "Stoppt das Feuer"
 
 #. [objective]: condition=lose
 #: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:538
 msgid "Death of a member of the Porter's family"
-msgstr "Tod eines Familienmitglides der Porters"
+msgstr "Tod eines Familienmitgleides der Porters"
 
 #. [objectives]
 #: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:540
@@ -4257,9 +4258,9 @@ msgid ""
 msgstr ""
 "Anmerkungen:\n"
 "- Richard mit oder ohne Feynzwerg ist in der Lage die Sauerstoffzufuhr zum "
-"Feuer zu unterbrechen. Er wird dadurch aber verwunded werden.\n"
-"- Lasst euch nicht zu viel Zeit - auch wenn das sich das Feuer nicht rasend "
-"schnell Ausbreitet, es breitet sich aus\n"
+"Feuer zu unterbrechen. Er wird dadurch aber verwundet werden.\n"
+"- Lasst euch nicht zu viel Zeit - auch wenn sich das Feuer nicht rasend "
+"schnell ausbreitet, es breitet sich aus\n"
 "- Zieht eine Einheit einfach auf den Brunnen in Mountainhigh um einen Eimer "
 "Wasser zu holen. Diese Einheit kann dann einmalig ein Feuerfeld löschen.\n"
 "- Harrietts Fähigkeit ist sicher von großem Nutzen, aber bedenkt, dass ihr "
@@ -4277,7 +4278,7 @@ msgstr ""
 "Es wäre wohl eine sehr schlechte Idee, diesen durchgeknallten Zwerg und "
 "seine Freunde hinter uns zu lassen - sie würden sicher versuchen uns zu "
 "meucheln. <small> Trotzdem fühle ich mich schrecklich, seinen Tod anzuordnen "
-"- was als ob mein inneres Licht gedimmt würde...</small>"
+"- als ob mein inneres Licht gedimmt würde...</small>"
 
 #. [message]: speaker=unit
 #: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:658
@@ -4309,8 +4310,8 @@ msgid ""
 "<small> Although his soul was tortured to insanity, it makes me feel evil to "
 "have ordered his death - like if my inner light will dim...</small>"
 msgstr ""
-"<small> Trotzdem fühle ich mich schrecklich, seinen Tod anzuordnen - was als "
-"ob mein inneres Licht gedimmt würde...</small>"
+"<small> Trotzdem fühle ich mich schrecklich, seinen Tod anzuordnen - als ob "
+"mein inneres Licht gedimmt würde...</small>"
 
 #. [message]: speaker=Feyndwarf
 #: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:697
@@ -4341,7 +4342,7 @@ msgid ""
 "Elisabeth!! ... Although the pain will always stay, we have to go to let her "
 "death not be in vain..."
 msgstr ""
-"Elisabeth!!! ... Auch wenn der Schmerz des Verlustes niemals erlischen wird, "
+"Elisabeth!!! ... Auch wenn der Schmerz des Verlustes niemals erlöschen wird, "
 "müssen wir nun dafür sorgen, dass ihr Tod nicht vergebens war..."
 
 #. [scenario]: id=12_Dragnet_Operation
@@ -4428,7 +4429,7 @@ msgid ""
 "propose to send our Merman into the swamps to back us up against whatever "
 "threat we will encounter when we are on the bridge."
 msgstr ""
-"Wür können davon ausgehen, dass es also irgendeine Art Falle der "
+"Wir können davon ausgehen, dass es also irgendeine Art Falle der "
 "Sumpfbewohner ist. Ich schlage vor, dass wir unsere Meerfreunde einen "
 "anderen Weg durch den Sumpf schwimmen lassen um uns notfalls Unterstützung "
 "zu geben, wenn wir in Gefahr geraten."
@@ -4490,12 +4491,12 @@ msgstr ""
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/12_Dragnet_Operation.cfg:373
 msgid "How unfortunate, we do not have so much money, but..."
-msgstr "Wie ungünstig, so viel Geld haben wir gar niht bei uns, aber..."
+msgstr "Wie ungünstig, so viel Geld haben wir gar nicht bei uns, aber..."
 
 #. [message]: speaker=Zlissak
 #: The_Fellowship_of_the_Clay/scenarios/12_Dragnet_Operation.cfg:377
 msgid "You liar! Prepare to ssink in the swamp!"
-msgstr "Du Lügner! Bereite dich darauf vor im Ssumpf unterzugehen!"
+msgstr "Du Lügner! Bereite dich darauf vor, im Ssumpf unterzugehen!"
 
 #. [objective]: condition=win
 #: The_Fellowship_of_the_Clay/scenarios/12_Dragnet_Operation.cfg:382
@@ -4564,7 +4565,7 @@ msgid ""
 "otherwise my blade will have to cut your filthy throat!"
 msgstr ""
 "Wir brauchen jemand, der die Berge kennt. Du kennst sie - also zeige uns den "
-"Weg oder meine Klinge wird deine Schmutzige Kehle aufschlitzen."
+"Weg oder meine Klinge wird deine schmutzige Kehle aufschlitzen."
 
 #. [message]: speaker=$left_saurian.id
 #: The_Fellowship_of_the_Clay/scenarios/12_Dragnet_Operation.cfg:493
@@ -4598,7 +4599,7 @@ msgstr "Offensichtlich, da Erpressung auch nicht so nett ist."
 msgid ""
 "I've got enough of swamps and saurians, so let us leave this swampy pond."
 msgstr ""
-"Ich habe genug von Sümpfen und Saurianer, also lasst und diesen sumpfigen "
+"Ich habe genug von Sümpfen und Saurianer, also lasst uns diesen sumpfigen "
 "Tümpel verlassen."
 
 #. [scenario]: id=13_Mountain plateau
@@ -4615,7 +4616,7 @@ msgid ""
 msgstr ""
 "Die Sümpfe hinter sich lassend, erreicht die Gefolgschaft die Berge. Da "
 "Arayd die alte Geschichte erzählte, in der sich der Fremde in den 'Bergen "
-"nahe der Sümpfe' aufhält, könnten sie also bereits sehr nah sein."
+"nahe der Sümpfe' aufhält, könnte er also bereits sehr nahe sein."
 
 #. [part]
 #: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:27
@@ -4627,8 +4628,8 @@ msgid ""
 msgstr ""
 "$left_saurian.name war ein guter Führer und er kannte die Bergpfade "
 "überraschend gut. Auch wenn es hier durchaus ein paar Kreaturen gegeben "
-"hätte, die gerne von der Gefolgschaft gekostet hätten, bekame keine die "
-"Gefolgschaft zu Gesicht, als sie den Pfaden folgten."
+"hätte, die gerne von der Gefolgschaft gekostet hätten, bekamen keine die "
+"Gruppe zu Gesicht, als sie den Pfaden folgten."
 
 #. [part]
 #: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:32
@@ -4640,7 +4641,7 @@ msgid ""
 msgstr ""
 "Zurückblickend wäre der Saurianer vielleich eine Hilfe beim Aufstieg "
 "gewesen, aber es lief auch so einigermaßen gut. Keine Kreatur hat es "
-"ernsthaft gewagt die Gefolgschaft - angeführt vom scheinenden Titter Clyde - "
+"ernsthaft gewagt die Gefolgschaft - angeführt vom scheinenden Ritter Clyde - "
 "anzugreifen. Nur ein paar Trolle waren scheinbar in der Lage gewesen, sich "
 "40 Gold anzueignen."
 
@@ -4707,7 +4708,7 @@ msgid ""
 "So, you got away for now, Bonie. But remember, we will come again and "
 "again...forever."
 msgstr ""
-"Also bist du uns diesemal tatsächlich entwischt, Bonie. Aber denk daran, wir "
+"Also bist du uns diesmal tatsächlich entwischt, Bonie. Aber denk daran, wir "
 "kommen wieder und wieder... für immer."
 
 #. [message]: speaker=Legomir
@@ -4717,8 +4718,8 @@ msgid ""
 "summon more ghosts. We should hurry to get away from here."
 msgstr ""
 "Wir haben sie besiegt, aber ich glaube es ist kein Problem für einen "
-"Totenbeschwörer noch mehr Geister zu beschwören. Wir sollten uns damit "
-"beeilen, von hier wegzukommen."
+"Totenbeschwörer noch mehr Geister zu beschwören. Wir sollten uns beeilen, "
+"von hier wegzukommen."
 
 #. [message]: speaker=Celand
 #: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:261
@@ -4735,8 +4736,8 @@ msgid ""
 "Finally, we survived this nightmare. Let us leave this place as quick as "
 "possible."
 msgstr ""
-"Endlich haben wir diesen Albtraum überlebt. Lasst uns so schnell wie möglich "
-"verschwinden."
+"Letztendlich haben wir diesen Albtraum überlebt. Lasst uns so schnell wie "
+"möglich verschwinden."
 
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:276
@@ -4746,7 +4747,7 @@ msgid ""
 "powerful Necromancer. And who are you?"
 msgstr ""
 "Auch wenn ich zugeben muss, dass ich darauf nicht vorbereitet war... "
-"willkommen in unserer Gefolgschaft! Mein Name ist Cylde. Wir sind hier um "
+"willkommen in unserer Gefolgschaft! Mein Name ist Clyde. Wir sind hier um "
 "einen mächtigen Totenbeschwörer zu erledigen. Und wer bist du?"
 
 #. [message]: speaker=Bonie
@@ -4758,7 +4759,7 @@ msgid ""
 msgstr ""
 "Mein Name ist Bonie - ich hatte mal einen anderen Namen, ich glaube einen "
 "elfischen, aber er ist mir entfallen. Es ist bereits so viel Zeit vergangen, "
-"sied dem ich hier geopfert wurde... und alles nur, weil ich diesen Spruch "
+"seid dem ich hier geopfert wurde... und alles nur, weil ich diesen Spruch "
 "nicht richtig gelernt habe..."
 
 #. [message]: speaker=Bonie
@@ -4773,7 +4774,7 @@ msgstr ""
 "Und nur deshalb hat er mich in einen laufenden Haufen brüchiger Knochen "
 "verwandelt. Du sagtest etwas über einen Totenbeschwörer - da ihr hier seid, "
 "gehe ich davon aus, dass ihr meinen alten Meister sucht. Also werde ich euch "
-"helfen um mich bei ihm zu revangieren - und vielleicht Frieden zu finden. "
+"helfen, um mich bei ihm zu revangieren - und vielleicht Frieden zu finden. "
 "Abgesehen davon würde ich vor Langeweile hier sterben, wenn ich nicht schon "
 "tot wäre."
 
@@ -4785,7 +4786,7 @@ msgid ""
 "time."
 msgstr ""
 "Bitte verschaft mir einen Moment Ruhe - ich werde versuchen meine "
-"Fähigkeiten einzusetzen um diesem Ort etwas frieden zu verschaffen. Clyde, "
+"Fähigkeiten einzusetzen um diesem Ort etwas Frieden zu verschaffen. Clyde, "
 "bitte stelle absolut sicher, dass ich nicht gestört werde, bis ich mich "
 "melde."
 
@@ -4802,8 +4803,9 @@ msgid ""
 "We are here to demand High Lord Aryad and all other elves to come with us "
 "immediately to avert an elvish crisis."
 msgstr ""
-"Wir sind hier um die Rückkehr Lord Aryad und allen anderen Elfen zu fordern. "
-"Sie müssen sofort mit uns mit kommen um eine elfische Krise abzuwenden."
+"Wir sind hier um die Rückkehr Lord Aryads und aller anderen Elfen zu "
+"fordern. Sie müssen sofort mit uns mit kommen, um eine elfische Krise "
+"abzuwenden."
 
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:340
@@ -4813,10 +4815,10 @@ msgid ""
 "is now threatening our very existance, and now you come not to help but to "
 "negate the little support we got from the elves?"
 msgstr ""
-"Wir haben gerade diese entsetzliche Schlaht mit euren Vorfahren überlebt, "
+"Wir haben gerade diese entsetzliche Schlacht mit euren Vorfahren überlebt, "
 "wir haben erfahren, dass euer Volk tatsächlich unschuldige Kinder an den "
-"Mann ausgeliefert hat, der gerade unsere bloße Existenz bedroht; Und nun "
-"kommt ihr nicht etwa her um uns zu helfen sondern um das bisschen "
+"Mann ausgeliefert hat, der gerade unsere bloße Existenz bedroht. Und nun "
+"kommt ihr nicht etwa her um uns zu helfen, sondern um das bisschen "
 "Unterstützung, was wir von den Elfen bekommen haben, zunichte zu machen?!?"
 
 #. [message]: speaker=Galion
@@ -4830,8 +4832,8 @@ msgstr ""
 "Wage es bloß nicht uns für das zu verurteilen, was wir in der langen Zeit "
 "getan haben, in der es euch nicht mal gegeben hat! Ihr habt einfach nur den "
 "Segen der späten Geburt und habt keinen Schimmer von der langen Geschichte. "
-"Also lass uns endlich zu unserem hohen Lord sprechen oder habt ihr ihn "
-"bereits als Geisel genommen und wir müssen Kämpfen um mit ihm zu sprechen?"
+"Also lass uns endlich unseren hohen Lord sprechen oder habt ihr ihn bereits "
+"als Geisel genommen und wir müssen Kämpfen um mit ihm zu sprechen?"
 
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:348
@@ -4839,7 +4841,7 @@ msgid ""
 "I am sorry, Aryad does havs some understanding of your people's "
 "responsibility for this place and does not want to be disturbed right now."
 msgstr ""
-"Es tut mir leid, wenigstens Aryad versteht, dass euer Folk eine gewisse "
+"Es tut mir leid, wenigstens Aryad versteht, dass euer Volk eine gewisse "
 "Verantwortung für diesen Ort trägt und möchte gerade nicht gestört werden."
 
 #. [message]: speaker=Galion
@@ -4861,7 +4863,7 @@ msgid ""
 msgstr ""
 "Auch wenn ich kaum glauben kann, was hier gerade passiert, sollten wir Aryad "
 "die erbetene Ruhe ermöglichen. Aber seht bloß zu, dass ihr möglichst keinen "
-"Elfen tötet. Wir können es uns sicher nicht leisten unsere Alliierten "
+"Elfen tötet. Wir können es uns sicher nicht leisten, unsere Alliierten "
 "umzubringen."
 
 #. [objective]: condition=win
@@ -4932,7 +4934,7 @@ msgid ""
 "Well, these bones really look mysterious, they almost appear to glow. I feel "
 "strong black magic around here, be prepared."
 msgstr ""
-"Nun, diese Knochen sehen wirklich mysteriös aus - sie glühen beinahe. Ich "
+"Nun, diese Knochen sehen wirklich mysteriös aus - sie glühen beinahe. Es "
 "muss schwarze Magie am Werk sein, seid also gewappnet."
 
 #. [unit]: type=Skeleton Archer, id=Bonie
@@ -4947,7 +4949,7 @@ msgid ""
 "disturb- oh, you are <i>living</i>?. That is something I did not expect. Who "
 "are you? What are you doing here?"
 msgstr ""
-"Ich fühle die Anwesenheit von etwas... jemand ist in der nähe. Wer wargt es, "
+"Ich fühle die Anwesenheit von etwas... jemand ist in der Nähe. Wer wagt es, "
 "mich zu stören - oh, ihr seid <i>lebendig</i>?. Das hab ich nun nicht "
 "erwartet. Wer seid ihr, was macht ihr hier?"
 
@@ -4960,7 +4962,7 @@ msgid ""
 "He does not use this place anymore, though. It is just a trap for people "
 "like you that try to kill him."
 msgstr ""
-"Nun, wo soll ich beginnen... also erstmal: dieser Altar wurde von einem "
+"Nun, wo soll ich beginnen... also erstmal: Dieser Altar wurde von einem "
 "Tötenbeschwörer errichtet. Ich werde euch helfen, wenn ihr mich von diesem "
 "Berg runter schaffen könnt. Das Problem dabei ist, dass der Totenbeschwörer "
 "einen Spruch gewirkt hat, der mich zu diesem Altar zieht und ich bin alleine "
@@ -4993,9 +4995,9 @@ msgid ""
 "you tell, Gylith, there are some new ones. They will not live long, so who "
 "cares..."
 msgstr ""
-"Es scheint eine endlose Wiederholung...erinnern und vergessen... aber nun wo "
-"du es sagst, Gylith... dort scheinen neue zu sein. Aber sie werden nicht "
-"lange überleben, wen kümmer es also..."
+"Es scheint eine endlose Wiederholung... Erinnern und Vergessen... aber nun "
+"wo du es sagst, Gylith... dort scheinen Neue zu sein. Aber sie werden nicht "
+"lange überleben, wen kümmert es also..."
 
 #. [message]: speaker=Bonie
 #: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:730
@@ -5006,7 +5008,7 @@ msgid ""
 msgstr ""
 "Ach ja, fast vergessen, ein ander Teil dieses Fluchs ist, dass jeder, der "
 "sich gegen meinen Meister erhoben hat, diesen Ort für immer bespuken wird. "
-"Wir waren mal auf der selben seite, aber mitlerweile sind sie recht zynisch "
+"Wir waren mal auf der selben Seite, aber mitlerweile sind sie recht zynisch "
 "geworden."
 
 #. [message]: speaker=Bonie
@@ -5041,7 +5043,7 @@ msgid ""
 "here. Wait, what is this?"
 msgstr ""
 "Das war ein ganz schön langer Weg hier hoch. Ich hoffe, wir finden, wonach "
-"wir suchen. Warted, was ist das?"
+"wir suchen. Wartet, was ist das?"
 
 #. [message]: speaker=unit
 #: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:809
@@ -5049,7 +5051,7 @@ msgid ""
 "Phew, that was a tiring way up here, let's see if we can find something. "
 "Hey, what's this?"
 msgstr ""
-"Uff, was für ein ermüdenderWeg hier hoch. Mal sehen, ob es hier etwas zu "
+"Uff, was für ein ermüdender Weg hier hoch. Mal sehen, ob es hier etwas zu "
 "finden gibt. Na was ist das denn?"
 
 #. [objective]: condition=win
@@ -5083,8 +5085,9 @@ msgid ""
 "cynical..."
 msgstr ""
 "Leute, bleibt bloß von diesem dämonischen Altar fern! Es schmerzt "
-"schrecklich und er zieht eure Lebensenergie ab. Und Bonie ist ewigkeiten "
-"magisch an dieses Ding gebunden? Kein wunder, dass er etwas zynisch wurde..."
+"schrecklich und er zieht eure Lebensenergie ab. Und Bonie ist seit "
+"Ewigkeiten magisch an dieses Ding gebunden? Kein wunder, dass er etwas "
+"zynisch wurde..."
 
 #. [message]: speaker=Feyndwarf
 #: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:948
@@ -5092,14 +5095,14 @@ msgid ""
 "Heh, what a luck I sent Richard to get my Dwarf friends here! What a timing!"
 msgstr ""
 "Heh, was für ein Glück, ich habe Richard ausgesand um meine Zwergenfreunde "
-"zu rufen. Was für ein timing!"
+"zu rufen. Was für ein Timing!"
 
 #. [message]: speaker=Namcarthos
 #: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:952
 msgid ""
 "I see, you already had loads o' fun 'round here! Too bad I can't stay long!"
 msgstr ""
-"Ich sehe, ihr habt hier bereits eine menge Spaß! Zu Schade, dass ich nicht "
+"Ich sehe, ihr habt hier bereits eine Menge Spaß! Zu Schade, dass ich nicht "
 "länger bleiben kann!"
 
 #. [message]: speaker=Aryad
@@ -5123,10 +5126,10 @@ msgstr ""
 "El'Isomithir gegen eine weitere Unterstützung der Menschen gestimmt, währen "
 "nur Logalmier die Bemühungen, den Fremden zu bekämpfen, gutgeheißen hat. "
 "Wenn ihr mit Logalmier stimmen würdet, hätten wir das erste Patt seit langer "
-"Zeit. Dadurch, dass sich die Gerüchte so schnell verbreitet haben ist unsere "
-"ganze Gesellschaft ähnlich zerstritten. Nur wenn ihr zurück kommt und klare "
-"Abstimmungsverhältnisse herstellt kann diese zivile Unruhe wieder beendet "
-"werden."
+"Zeit. Dadurch, dass sich die Gerüchte so schnell verbreitet haben, ist "
+"unsere ganze Gesellschaft ähnlich zerstritten. Nur wenn ihr zurück kommt und "
+"klare Abstimmungsverhältnisse herstellt kann diese zivile Unruhe wieder "
+"beendet werden."
 
 #. [message]: speaker=Aryad
 #: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:979
@@ -5159,9 +5162,9 @@ msgstr ""
 "Bis jetzt wahr eure Unterstützung ganz wesentlich für unser Vorankommen. "
 "Allerdings scheint die elfische Gesellschaft ziehmlich erschüttert und eure "
 "Leute scheinen euch zu brauchen.\n"
-"Wie iher auch immer Stimmen werdet, ihn müsst die Situation und die "
+"Wie ihr auch immer Stimmen werdet, ihr müsst die Situation und die "
 "Konsequenzen der Abstimmung vor dem Ka'lian diskutieren. Deshalb dränge ich "
-"euch uns zu verlassen und eurem Volk dabei zu helfen, Einigkeit wieder "
+"euch, uns zu verlassen und eurem Volk dabei zu helfen, Einigkeit wieder "
 "herzustellen."
 
 #. [message]: speaker=Aryad
@@ -5198,7 +5201,7 @@ msgstr ""
 "Einschätzung an. Galion, reitet schnell nach haus und berichtet dem Ka'lian, "
 "dass ich mich dafür einsetze, die Menschen auch weiterhin zu unterstützen. "
 "Meine Stimme ist nur an meine eigenen Überzeugungen gebunden und ich hoffe, "
-"dass die weiteren Beratungen der anderen dazu führen, dass es eine einigung "
+"dass die weiteren Beratungen der anderen dazu führen, dass es eine Einigung "
 "gibt."
 
 #. [message]: speaker=Namcarthos
@@ -5231,7 +5234,7 @@ msgid ""
 "we will be at war as long as I live!"
 msgstr ""
 "Hört auf! Ich kann das nicht länger ertragen! Ihr habt so viele Elfen "
-"getöted, dass sich unsere Völker von nun an für immer im Krieg befinden "
+"getötet, dass sich unsere Völker von nun an für immer im Krieg befinden "
 "werden!"
 
 #. [scenario]: id=14_Dark_Walks-Walks_about_Darkness
@@ -5251,7 +5254,7 @@ msgstr ""
 #. [side]: type=Great Troll, type=Troll Hero, id=Bragh
 #: The_Fellowship_of_the_Clay/scenarios/14_Dark_Walks-Walks_about_Darkness.cfg:119
 msgid "Trolls"
-msgstr "Trolls"
+msgstr "Trolle"
 
 #. [side]: type=Great Troll, type=Troll Hero, id=Bragh
 #: The_Fellowship_of_the_Clay/scenarios/14_Dark_Walks-Walks_about_Darkness.cfg:132
@@ -5261,7 +5264,7 @@ msgstr "Bragh"
 #. [objective]: condition=win
 #: The_Fellowship_of_the_Clay/scenarios/14_Dark_Walks-Walks_about_Darkness.cfg:165
 msgid "Get <i>all</i> of your troops to the eastern map edge"
-msgstr "Bewegt <i>all</i> eure truppen an den östlichen Rand der Karte"
+msgstr "Bewegt <i>all</i> eure Truppen an den östlichen Rand der Karte"
 
 #. [objectives]
 #: The_Fellowship_of_the_Clay/scenarios/14_Dark_Walks-Walks_about_Darkness.cfg:171
@@ -5273,8 +5276,8 @@ msgid ""
 msgstr ""
 "Euer Burgfried wird nach der ersten Runde verschwinden, also wählt Weise.\n"
 "Clyde muss der letzte sein, der nach Osten von der Karte abwandert.\n"
-"Solange die Untoten euch nicht erspähen, werden sie einfach nur die Schlucht "
-"durch marschieren."
+"Solange die Untoten euch nicht erspähen, werden sie einfach nur durch die "
+"Schlucht marschieren."
 
 #. [message]: speaker=Harriett Porter
 #: The_Fellowship_of_the_Clay/scenarios/14_Dark_Walks-Walks_about_Darkness.cfg:302
@@ -5288,7 +5291,7 @@ msgstr ""
 msgid "Now, I have to admit I have never been to my master's home myself..."
 msgstr ""
 "Nun, ich muss zugeben, ich selbst war nie in der Nähe des neuen Zuhauses "
-"meines Meister..."
+"meines Meisters..."
 
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/14_Dark_Walks-Walks_about_Darkness.cfg:310
@@ -5306,8 +5309,8 @@ msgid ""
 "Hills would be the next best place with the hills being so close to the "
 "Bitter Swamps."
 msgstr ""
-"Nein, nein, wir wären eigentlich gemeinsam hierher umgezugen kurz nachdem er "
-"mich verflucht hat. Er war wohl überrascht, dass die Elven den Mut hatten, "
+"Nein, nein, wir wären eigentlich gemeinsam hierher umgezogen kurz nachdem er "
+"mich verflucht hat. Er war wohl überrascht, dass die Elfen den Mut hatten, "
 "sich ihm gegenüber zu stellen. Also mochte er die Vorstellung nicht mehr, "
 "dass seine Aufenthaltsort bekannt war. Also bereiteten wir alles für unseren "
 "Umzug in die Ostmarken beim Sumpf der Tränen vor."
@@ -5349,13 +5352,13 @@ msgstr "Er hatte auch mit meinen Leuten zu tun?!?"
 #: The_Fellowship_of_the_Clay/scenarios/14_Dark_Walks-Walks_about_Darkness.cfg:334
 msgid "As far as I know - that was before my time, you know."
 msgstr ""
-"So weit ich weiß schon - aber ihr müsst wissen, dass dies lang bevor meiner "
+"So weit ich weiß schon - aber ihr müsst wissen, dass dies lange vor meiner "
 "Zeit war."
 
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/14_Dark_Walks-Walks_about_Darkness.cfg:338
 msgid "So, exactly where are we then?"
-msgstr "Also wo genau sind wird dann bloß?"
+msgstr "Also wo genau sind wird denn bloß?"
 
 #. [message]: speaker=Bonie
 #: The_Fellowship_of_the_Clay/scenarios/14_Dark_Walks-Walks_about_Darkness.cfg:342
@@ -5368,14 +5371,14 @@ msgid ""
 "going, I assume that my old master's troops will march through this canyon "
 "towards your home."
 msgstr ""
-"Wie sind mindestens noch zwei Tagesmärsche von seinem Aufenthaltsort "
+"Wie sind noch mindestens zwei Tagesmärsche von seinem Aufenthaltsort "
 "entfernt aber näher hätten wir uns wirklich nicht teleportieren lassen "
 "sollen. Die Dichte seines Gefolges hätte uns kaum erlaubt, unentdeckt zu "
-"bleiben. Tatsäch gehe ich davon aus, dass wir ihnen schon <b>sehr</b> bald "
-"begegnen. Wir befinden uns an der oberen Klippe einer Schlucht, die durch "
-"Lava und Wasser geformt wurde. Und die Quelle der Lava ist auch der Ort, wo "
-"wir hin gehen. Ich vermute, dass die Truppen meines alten Meisters durch die "
-"Schlucht marschieren werden."
+"bleiben. Tatsächlich gehe ich davon aus, dass wir ihnen schon <b>sehr</b> "
+"bald begegnen. Wir befinden uns an der oberen Klippe einer Schlucht, die "
+"durch Lava und Wasser geformt wurde. Und die Quelle der Lava ist auch der "
+"Ort, wo wir hin gehen. Ich vermute, dass die Truppen meines alten Meisters "
+"durch die Schlucht marschieren werden."
 
 #. [message]: speaker=Merdor
 #: The_Fellowship_of_the_Clay/scenarios/14_Dark_Walks-Walks_about_Darkness.cfg:346
@@ -5411,7 +5414,7 @@ msgid ""
 "have to fight our way past them if we want to avoid the undead army."
 msgstr ""
 "Trolle. Es ist beinahe, als ob sie auch hinter jedem Berg hervor kommen. Ich "
-"schätze, wir müssen uns an ihner vorbei kämpfen, wenn wir die Untoten Armee "
+"schätze, wir müssen uns an ihner vorbei kämpfen, wenn wir die untote Armee "
 "umgehen wollen."
 
 #. [unit]: type=Dwarvish Fighter, id=Anigulos
@@ -5454,7 +5457,7 @@ msgid ""
 "Seems we have no one left here. To the next task, then! We should be quite "
 "close now."
 msgstr ""
-"Es sieht aus, als ob das der Letzte war. Also zur nähsten Aufgabe - es kann "
+"Es sieht aus, als ob das der Letzte war. Also zur nächsten Aufgabe - es kann "
 "wirklich nicht mehr weit sein!"
 
 #. [message]: speaker=Clyde
@@ -5496,7 +5499,7 @@ msgid ""
 "bed, so the water will pour in here until the abyss becomes a lake."
 msgstr ""
 "Ich denke, das ist erstmal genug. Die Überschwemmung hat dem Fluss ein neues "
-"Flussbett gegeben, so dass der Schlund irgendwan ein See werden wird."
+"Flussbett gegeben, so dass der Schlund irgendwann ein See werden wird."
 
 #. [message]: speaker=Feyndwarf
 #: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:209
@@ -5515,7 +5518,7 @@ msgid ""
 "headed are certainly the place of the expected confrontation."
 msgstr ""
 "Diese drei Türme, die wir im Norden am Horizont sehen, auf die der Fremde "
-"zugestuert ist, sind sicher der Ort, wo wir ihn antreffen werden."
+"zugestürzt ist, sind sicher der Ort, wo wir ihn antreffen werden."
 
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:217
@@ -5543,7 +5546,7 @@ msgstr "Lavaberg"
 #. [label]
 #: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:254
 msgid "Haunt"
-msgstr "Aufmarschierplatz"
+msgstr "Aufmarschplatz"
 
 #. [objective]: condition=win
 #: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:320
@@ -5584,9 +5587,9 @@ msgid ""
 msgstr ""
 "Diesen Schlund aufzureißen wäre nicht möglich gewesen, ohne die anderen "
 "Rassen zu korrumpieren - Ich fühle wie meine Macht anschwillt. Schon jetzt "
-"ist jeder andere Versuch von Totenbeschwörung lächerlich verglichen, mit dem "
-"was ich erreicht habe. Ich werde bald kein Fremder für die lebenden mehr "
-"sein - ich werde als der mächtigste Totenbeschwörer aller Zeiten verhert "
+"ist jeder andere Versuch von Totenbeschwörung lächerlich, verglichen mit dem "
+"was ich erreicht habe. Ich werde bald kein Fremder für die Lebenden mehr "
+"sein - ich werde als der mächtigste Totenbeschwörer aller Zeiten verehrt "
 "werden!"
 
 #. [message]: speaker=Merdor
@@ -5598,14 +5601,14 @@ msgid ""
 msgstr ""
 "Es sieht aus, als ob er gerade seine Truppen entsandt hätte. Wir müssen "
 "irgendwie diesen Schlund schließen - andernfalls werden hier immer Untote "
-"herraus quillen - selbst wenn wir den Fremden besiegen sollten. Früher oder "
+"herraus quellen - selbst wenn wir den Fremden besiegen sollten. Früher oder "
 "später wäre ihre Zahl unbesiegbar."
 
 #. [message]: speaker=Feyndwarf
 #: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:392
 msgid "Hum, let's see... we somehow gotta block that abyss there."
 msgstr ""
-"Hmm, lasst uns sehen... irgendwie müssen wir diesen Schlund vreschließen."
+"Hmm, lasst uns sehen... irgendwie müssen wir diesen Schlund verschließen."
 
 #. [message]: speaker=Feyndwarf
 #: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:402
@@ -5615,7 +5618,7 @@ msgid ""
 "the abyss. Simple and practical."
 msgstr ""
 "Dieser Lavastrom dort drüben könnte helfen, oder nicht? Wir könnten diesen "
-"Fels dort in den Strom stoßen und die Lava würde in den Schlund umgeleited "
+"Fels dort in den Strom stoßen und die Lava würde in den Schlund umgeleitet "
 "werden. Einfach und praktisch."
 
 #. [message]: speaker=Lorelei
@@ -5639,10 +5642,10 @@ msgid ""
 "the barrage and third, we somehow have to get to that lake without "
 "attracting all these undead."
 msgstr ""
-"Klingt nach einem Plan, aber sehe da drei Probleme: Erstmal müssen wir "
+"Klingt nach einem Plan, aber ich sehe da drei Probleme: Erstmal müssen wir "
 "diesen ziehmlich großen Fels in den Strom befördern. Zweitens müssen wir "
-"irgendwie den Damm öffnen. Und drittens muss jemand überhaupt jemand von uns "
-"an den Untoten vorbei dorthin kommen."
+"irgendwie den Damm öffnen. Und drittens muss überhaupt jemand von uns an den "
+"Untoten vorbei dorthin kommen."
 
 #. [message]: speaker=legomir
 #: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:416
@@ -5666,9 +5669,9 @@ msgid ""
 msgstr ""
 "Wohl wahr! Ich empfehle <b>dringend</b>, dass wir jemand zum See bekommen, "
 "bevor wir den Fels in die Lava stoßen. Nur wenn wir die beiden Teile des "
-"Plans zeitnah erledigen, haben wir nicht alle Untoten am Hals. Harriett, ich "
-"bin ziehmlich sicher, dass wir mal wieder deine Kräfte brauchen um unseren "
-"Plan schnell genug auszuführen."
+"Plans zeitgleich erledigen, haben wir nicht alle Untoten am Hals. Harriett, "
+"ich bin ziehmlich sicher, dass wir mal wieder deine Kräfte brauchen um "
+"unseren Plan schnell genug auszuführen."
 
 #. [message]: speaker=Feyndwarf
 #: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:424
@@ -5734,9 +5737,9 @@ msgid ""
 "Obviously, they have the instruction to move out unless they see us - seems "
 "like these are the groups of undead we encountered outside."
 msgstr ""
-"Offensichtlich haben sie den Befehl zum ausmarschieren. Diese Truppen "
-"gehören zu jenen, an denen wir eben noch vorbei sind. Wenn sie uns sehen, "
-"ändern sie vielleicht ihr Verhalten."
+"Offensichtlich haben sie den Befehl zum ausrücken. Diese Truppen gehören zu "
+"jenen, an denen wir eben noch vorbei sind. Wenn sie uns sehen, ändern sie "
+"vielleicht ihr Verhalten."
 
 #. [message]: speaker=Merdor
 #: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:578
@@ -5789,7 +5792,7 @@ msgstr "Hüüü"
 #: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:710
 msgid "Hum, seems like we have to use another alternative."
 msgstr ""
-"Hmm, sieht aus, als ob wir uns nach einer anderen Alternative umschauen "
+"Hmm, sieht so aus, als ob wir uns nach einer anderen Alternative umschauen "
 "müssten."
 
 #. [message]: speaker=Harriett Porter
@@ -5812,7 +5815,7 @@ msgstr ""
 #. [message]: speaker=Ethel
 #: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:775
 msgid "Hey! Who is this? How did they get in here?"
-msgstr "Hey! Wer ist das? Wie seid die her gekommen?"
+msgstr "Hey! Wer ist das? Wie sind die hergekommen?"
 
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:797
@@ -5898,10 +5901,10 @@ msgid ""
 "enemy. Everyone was aware not only of his incredible powers, but also that "
 "they had to treat him with kid gloves - or Wehlot would be gone."
 msgstr ""
-"Schließlich wurde es für Clyde und die Gefolgschaft Zeit ihrem ärgsten Feind "
-"gegenüber zu treten. Jedem war klar, dass er nicht nur unglaublich mächtig "
-"war, sondern dass sie ihn auch noch mit Samthandschuhen anfassen mussten - "
-"order Wehlot würde Geschihte sein."
+"Schließlich wurde es für Clyde und die Gefolgschaft Zeit, ihrem ärgsten "
+"Feind gegenüber zu treten. Jedem war klar, dass er nicht nur unglaublich "
+"mächtig war, sondern dass sie ihn auch noch mit Samthandschuhen anfassen "
+"mussten - order Wehlot würde Geschihte sein."
 
 #. [side]: id=Ebrithil, type=Death Knight
 #: The_Fellowship_of_the_Clay/scenarios/16_The_three_Towers_of_Mount_Quake.cfg:95
@@ -5968,7 +5971,7 @@ msgid ""
 "Clyde, do you remember that book we found in the cavern in Wesmere? You "
 "still have it, right? Maybe Merdor can put it to some use, show it to him."
 msgstr ""
-"Clyde, erinnerst du dich noch an das Buch, was wir in der Höle im Wesmere "
+"Clyde, erinnerst du dich noch an das Buch, das wir in der Höhle im Wesmere "
 "Wald gefunden haben? Ihr habt es noch, nicht wahr? Vielleicht kann Merdor ja "
 "etwas damit anfangen!? Zeigt es ihm doch mal!"
 
@@ -5979,7 +5982,7 @@ msgid ""
 "to ''hear'' the surrounding by transforming an echo of an emitted noise into "
 "a visual representation. Very fascinating!"
 msgstr ""
-"Oh, das ist ja ein sehr interessanterSpruch, der hier beschreiben ist - er "
+"Oh, das ist ja ein sehr interessanter Spruch, der hier beschreiben ist - er "
 "erlaubt dem Anwender die Umgebung zu \"hören\", indem es ein Echo eines "
 "ausgesandten Schalls in eine visuelle Repräsentation umwandelt. Sehr "
 "faszinierend!"
@@ -6015,7 +6018,7 @@ msgid ""
 msgstr ""
 "Wow, das war gleichzeitig seltsam und beeindruckend - nun weiß ich, \"wie es "
 "ist, eine Fledermaus zu sein\"! Und da sind diese Türme! Also haben wir es "
-"zum Rückzugsort des Fremden geschafft. Ich weiß nicht ob ich vor Angst oder "
+"zum Rückzugsort des Fremden geschafft. Ich weiß nicht, ob ich vor Angst oder "
 "Erwartung zittere."
 
 #. [message]: speaker=Lorelei
@@ -6030,10 +6033,10 @@ msgid ""
 msgstr ""
 "Also gut, von Bonie wissen wir, dass unser Plan, die Versteinerungsmagie des "
 "Fremden aus dem Ofen von Wehlot gegen in selbst zu wenden, nur dann "
-"erfolgreich sein kann, wenn wir ihn mir einem Pfeil in seiner Krähengestallt "
+"erfolgreich sein kann, wenn wir ihn mit einem Pfeil in seiner Krähengestalt "
 "treffen und seine Verteidigungsfähigkeiten eingeschränkt sind. Also müssen "
-"wir dafür sorgen, dass er irgendwo hin fliegt, wo Legomir mit dem "
-"preparierten Pfeil von Feynzwerg auf ihn wartet."
+"wir dafür sorgen, dass er dorthin fliegt, wo Legomir mit dem präparierten "
+"Pfeil von Feynzwerg auf ihn wartet."
 
 #. [message]: speaker=Feyndwarf
 #: The_Fellowship_of_the_Clay/scenarios/16_The_three_Towers_of_Mount_Quake.cfg:355
@@ -6047,7 +6050,7 @@ msgstr ""
 "wollte einfach nicht gelingen, eine Rune auf einen Pfeil zu zeichnen. Also "
 "sah ich nur noch eine Möglichkeit: einen Hammer mehr und mehr in einen Pfeil "
 "zu verwandeln. Klar, für einen richtigen Pfeil ist es ein lausiges Exemplar, "
-"aber Legomir kann selbst bretter mit seinem Bogen verschießen."
+"aber Legomir kann selbst Bretter mit seinem Bogen verschießen."
 
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/16_The_three_Towers_of_Mount_Quake.cfg:359
@@ -6060,7 +6063,7 @@ msgstr ""
 "Meine helle Seite scheint mich weniger anfällig für die Magie des Fremden zu "
 "machen - das haben wir in Wehlot gesehen. Ich denke, ich bin der einzige, "
 "der ihm direkt gegenüber treten könnte. Ich bezweifle allerdings, dass ich "
-"eine ernste Gefahr für ihn darstelle, wenn er den Gleichen Spruch anwendet, "
+"eine ernste Gefahr für ihn darstelle, wenn er den gleichen Spruch anwendet, "
 "wie in Wehlot. Ich wäre dann sicher zu geschwächt."
 
 #. [message]: speaker=Harriett Porter
@@ -6070,7 +6073,7 @@ msgid ""
 "if he uses his strongest magic to wound you as you suppose, it will still "
 "make him angry if you look as good as ever!"
 msgstr ""
-"Wann das das einzige Problem ist: Ich habe einen von Vaters Heiltränken "
+"Wenn das das einzige Problem ist: Ich habe einen von Vaters Heiltränken "
 "aufbewahrt. Wenn er wirklich, wie du erwartest, seinen stärksten Spruch auf "
 "dich anwendet, wird er sicher sauer werden, wenn du danach so gut wie immer "
 "aussiehst!"
@@ -6158,9 +6161,9 @@ msgstr ""
 "Das ist ein komplizierter Plan, aber ein gut durchdachter. Eine letzte "
 "Sache: Wenn alles funktioniert, wird Legomir den Fremden in seiner "
 "Krähenform fliegend treffen, wo er sich in Stein verwandelt. Wenn diese "
-"Krähenstatur auf dem Boden aufschlägt, ist es um Wehlot bestellt. Das "
-"sollten wir also tunlichst vermeiden und die Statur mit uns nach Wehlot "
-"nehmen."
+"Krähenstatur auf dem Boden aufschlägt und zerbricht, ist es um Wehlot "
+"geschehen. Das sollten wir also tunlichst vermeiden und die Statur mit uns "
+"nach Wehlot nehmen."
 
 #. [message]: speaker=Rash
 #: The_Fellowship_of_the_Clay/scenarios/16_The_three_Towers_of_Mount_Quake.cfg:459
@@ -6185,8 +6188,8 @@ msgid ""
 "We promised to protect him in exchange for his protecting our hatchery."
 msgstr ""
 "Ihr scheint eine Angelegenheit mit dem Hexer zu haben, der hier lebt. Ihr "
-"habt Pech: Im Austausch gegen den Schutz unserer Brutstätte, haben "
-"wirversprochen, dass niemand hier durch kommt!"
+"habt Pech: Im Austausch gegen den Schutz unserer Brutstätte, haben wir "
+"versprochen, dass niemand hier durch kommt!"
 
 #. [message]: speaker=Familiar Stranger
 #: The_Fellowship_of_the_Clay/scenarios/16_The_three_Towers_of_Mount_Quake.cfg:487
@@ -6224,7 +6227,7 @@ msgid ""
 "Ha, that is nice. You continue to surprise me. Not a frequent feeling for "
 "me... come here and let me show you your death, puny human!"
 msgstr ""
-"Ha, wie nett - ihr schaft es tatsächlich schon wieder mich zu überraschen. "
+"Ha, wie nett - ihr schaft es tatsächlich schon wieder, mich zu überraschen. "
 "Für mich eine seltene Erfahrung... komm her und lass mich dir deinen Tod "
 "beibringen, kümmerlicher Mensch!"
 
@@ -6278,7 +6281,7 @@ msgid ""
 msgstr ""
 "Denkt daran ihn nicht zu töten - wir benötigen ihn versteinert oder dieser "
 "Tag wird übel für unsere Hauptstadt enden. Also nehmt euren Heiltrank, wenn "
-"ihr in einer schlechten verfassung seid oder wir werden heute nichts "
+"ihr in einer schlechten Verfassung seid oder wir werden heute nichts "
 "erreichen."
 
 #. [message]: speaker=Lorelei
@@ -6302,7 +6305,7 @@ msgid ""
 "reached me in my third tower, your city will be gone. This seems to be what "
 "you want to enforce here."
 msgstr ""
-"Jetzt sieht das ganze ja shon nach einer Invasion aus - ich brauch nur ein "
+"Jetzt sieht das ganze ja schon nach einer Invasion aus - ich brauch nur ein "
 "wenig Zeit... bis ihr den Folterturm erreicht habt, wird eure Stadt erledigt "
 "sein. Das ist es ja wohl, was ihr hier bezwecken wollt!"
 
@@ -6350,7 +6353,7 @@ msgid ""
 "doomed!"
 msgstr ""
 "Wir sollten besser diese Steinkrähe fangen. Wenn sie auf dem Boden "
-"zerschällt, ist Wehlot verloren!"
+"zerschellt, ist Wehlot verloren!"
 
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/16_The_three_Towers_of_Mount_Quake.cfg:893
@@ -6374,10 +6377,10 @@ msgid ""
 "still was an entire army marching towards Wehlot. Only because of Harriett, "
 "could they hope to catch up with those troops they had avoided earlier."
 msgstr ""
-"Nach einem kurzen Moment der erleichterung, wurde Clyde schnell gewahr, dass "
+"Nach einem kurzen Moment der Erleichterung, wurde Clyde schnell gewahr, dass "
 "immernoch eine ganze Armee in Richtung Wehlot marschiert. Nur wegen Harriett "
-"konnten sie überhaupt hoffen, dass die die Truppen, die sie zuvor noch "
-"vermieden hatten, einzuholen."
+"konnten sie überhaupt hoffen, die die Truppen, die sie zuvor noch vermieden "
+"hatten, einzuholen."
 
 #. [side]: type=Ancient Lich, id=Emmeriz
 #: The_Fellowship_of_the_Clay/scenarios/17_In_Due_Time.cfg:107
@@ -6424,7 +6427,7 @@ msgid ""
 "turned to stone to you!"
 msgstr ""
 "Ganz im Gegenteil. Mit einer ganzen Menge Unterstützung von unseren "
-"Kameraden, wwaren wir in der Lage die Magie unseres Feindes gegen ihn zu "
+"Kameraden, waren wir in der Lage, die Magie unseres Feindes gegen ihn zu "
 "wenden. So präsentiere ich ihn euch als versteinerte Krähe."
 
 #. [message]: speaker=Haldric II
@@ -6434,7 +6437,7 @@ msgid ""
 "then?"
 msgstr ""
 "Das klingt großartig, aber warum werden wir dann bloß von dieser enormen "
-"Zahl untoter angegriffen?"
+"Zahl Untoter angegriffen?"
 
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/17_In_Due_Time.cfg:387
@@ -6460,7 +6463,7 @@ msgstr ""
 #: The_Fellowship_of_the_Clay/scenarios/17_In_Due_Time.cfg:395
 msgid "Since you crossed our master's plans, you shall die!"
 msgstr ""
-"Ihr habt die Pläne unseres Meisters vereitelt. Dafür werded ihr sterben!"
+"Ihr habt die Pläne unseres Meisters vereitelt. Dafür werdet ihr sterben!"
 
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/17_In_Due_Time.cfg:403
@@ -6478,7 +6481,7 @@ msgstr ""
 #. [message]: speaker=Feyndwarf
 #: The_Fellowship_of_the_Clay/scenarios/17_In_Due_Time.cfg:407
 msgid "Oh sure, the light runes can be drawn in no time!"
-msgstr "Aber sicher, Lichtrunen können sich in null-komma-nichts zeichnen!"
+msgstr "Aber sicher, Lichtrunen lassen sich in null-komma-nichts zeichnen!"
 
 #. [message]: speaker=narrator
 #: The_Fellowship_of_the_Clay/scenarios/17_In_Due_Time.cfg:411
@@ -6496,7 +6499,7 @@ msgid ""
 "side. Lord Aryad sends his regards!"
 msgstr ""
 "Wir sind hier um die Allianz mit den Menschen zu ehren und um an eurer Seite "
-"zu kämpfen. Lord Aryad sended seine Grüße!"
+"zu kämpfen. Lord Aryad sendet seine Grüße!"
 
 #. [message]: speaker=Haldric II
 #: The_Fellowship_of_the_Clay/scenarios/17_In_Due_Time.cfg:485
@@ -6560,7 +6563,7 @@ msgid ""
 "Haldric II met at the brick-kiln."
 msgstr ""
 "Nachdem der letzte Untote gefallen ist und sich der Staub der Schlacht "
-"langsam legt, trafen sich Clyde und Haldric II am Steinofen."
+"langsam legte, trafen sich Clyde und Haldric II am Steinofen."
 
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/18_Epilogue.cfg:65
@@ -6572,9 +6575,9 @@ msgid ""
 msgstr ""
 "Mein König, wir haben diesen Albtraum überlebt und Wehlot steht noch. Aber "
 "wir haben gelernt, dass unsere Stadt auf dunkler Magie aufgebaut ist und "
-"noch besorgniserregender ist, dass sie so empfindlich wie eine Kleine "
-"Krähenstatur ist. Glaubt ihr, es ist eine gute Idee, für länger in dieser "
-"Stadt zu bleiben?"
+"noch besorgniserregender ist, dass sie so empfindlich ist wie eine kleine "
+"Krähenstatur. Glaubt Ihr, es ist eine gute Idee, für länger in dieser Stadt "
+"zu bleiben?"
 
 #. [message]: speaker=Haldric II
 #: The_Fellowship_of_the_Clay/scenarios/18_Epilogue.cfg:69
@@ -6587,17 +6590,17 @@ msgid ""
 "shortcuts."
 msgstr ""
 "Ich weiß, was ihr meint, Clyde. Es ist etwas Teil von Wehlots Fundament, was "
-"da nicht hingehört. Allderings kann man wohl kaum von einer Generation "
-"erwarten, gleich zwei Hauptstaädte aus dem Nichts zu stampfen. Ich werde "
-"diese Krähenstatur hier bei mir im Thronsaal behalten. Es sollte der best "
-"bewachte Ort sein und die Tatsache, dass sie immer in meinem Blick ist, "
-"sollte mich jeden Tag daran erinnern, dass es immer sehr gefehrlich ist, "
-"wenn man eine Abkürzung nimmt."
+"da nicht hingehört. Allerdings kann man wohl kaum von einer Generation "
+"erwarten, gleich zwei Hauptstädte aus dem Nichts zu stampfen. Ich werde "
+"diese Krähenstatur hier bei mir im Thronsaal behalten. Es soll der best "
+"bewachte Ort sein und die Tatsache, dass sie immer in meinem Blick ist, soll "
+"mich jeden Tag daran erinnern, dass es immer sehr gefährlich ist, wenn man "
+"eine Abkürzung nimmt."
 
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/18_Epilogue.cfg:73
 msgid "So we stay in Wehlot? What will you do next then?"
-msgstr "Also bleiben wir in Wehlot? Was werdet ihr also als nächstes tun?"
+msgstr "Also bleiben wir in Wehlot? Was werdet Ihr also als nächstes tun?"
 
 #. [message]: speaker=Haldric II
 #: The_Fellowship_of_the_Clay/scenarios/18_Epilogue.cfg:77
@@ -6615,10 +6618,10 @@ msgstr ""
 "Ort. Unsere Söhne und Enkel werden vielleicht eine Stadt bauen können, die "
 "nicht die Bürde dieser hier trägt. Allerdings werde ich auch nicht in die "
 "Geschichtsbücher als der König eingehen wollen, der nichts außer einem "
-"verhxtem Ort zurück gelassen hat. Ich habe immernoch den Rubin des Feuers. "
+"verhexten Ort zurück gelassen hat. Ich habe immernoch den Rubin des Feuers. "
 "Ich möchte ihn in ein Zepter verwandeln lassen - in ein Symbol, dass die "
 "Stärke der menschlichen Könige zum Ausdruck bringt. Aber Clyde: diesesmal "
-"werde ich selbst gehen! Du hast bereits zu viel für mich getan."
+"werde ich selbst gehen! Ihr habt bereits zu viel für mich getan."
 
 #. [unit_type]: id=Knight of the Light, race=human
 #: The_Fellowship_of_the_Clay/units/Clyde_lev2.cfg:4
@@ -6642,13 +6645,13 @@ msgid ""
 msgstr ""
 "Clyde der Ritter des Lichts - er ist Haldric des IIs erster und idealer "
 "Ritter. Neben anderen Gründen traut König Haldric II ihm, da Clyde "
-"hervorragende Arbeit geleistet hat, als es darum ging die Menschen von den "
+"hervorragende Arbeit geleistet hat, als es darum ging, die Menschen von den "
 "gelegentlichen Angriffen der Orks zu schützen, als Wehlot noch nicht fertig "
 "war. Eigentlich ist er ein Paladin aber er konnte sich nie mit einer Lanze "
 "anfreunden. Da er allerdings auch kein Ross hat, mindert das seine Idealität "
-"nicht. Auf dem Pfad des Paladins hat er auch sein Prakikum and der Alduin "
-"Schule abgelegt. Dort hat er gelernt seine Kameraden zu heilen und sein "
-"Potentail für die arcanen Künste wurde entdeckt."
+"nicht. Auf dem Pfad des Paladins hat er auch sein Praktikum an der Alduin "
+"Schule abgelegt. Dort hat er gelernt, seine Kameraden zu heilen und sein "
+"Potential für die arkanen Künste wurde entdeckt."
 
 #. [attack]: type=arcane
 #: The_Fellowship_of_the_Clay/units/Clyde_lev2.cfg:52
@@ -6725,12 +6728,12 @@ msgid ""
 "whisper in the wind words that chill the hearts of their enemies, making "
 "them, ocassionally, abandon the fight prematurely, or even die of sheer fear."
 msgstr ""
-"Geehrte Krieger vergangener Tage streifen durch manche Elfenwälden, meist "
+"Geehrte Krieger vergangener Tage streifen durch manche Elfenwälder, meist "
 "nur durch das Aufblitzen ihrer silbernen Schwerter zu sehen. Sie sind nur "
 "teilweise in der Welt der lebenden verankert und ihre Wunden schließen sich, "
-"als ob es sie nie gegeben hätte. Ihre Stimme flüstert im Wind Wörter, der "
+"als ob es sie nie gegeben hätte. Ihre Stimme flüstert im Wind Wörter, die "
 "das Herz ihrer Feinde erfrieren lassen und Feide die Flucht ergreifen lassen "
-"- manch einer ist auch aus bloßer Furcht gesorben."
+"- manch einer ist schon aus bloßer Furcht gestorben."
 
 #. [attack]: type=arcane
 #: The_Fellowship_of_the_Clay/units/Elvish_Spirit_Ancestor.cfg:31
@@ -6822,11 +6825,11 @@ msgid ""
 "softly, weakly and on the armor of the defender."
 msgstr ""
 "Die zwergischen Runenschmiede schneiden in rätselhaften Ritualen "
-"zauberkräftige Runen in Waffen und Rüstung. Sie bannen die Macht der "
+"zauberkräftige Runen in Waffen und Rüstungen. Sie bannen die Macht der "
 "Gewitter, die über den Bergen tobt und machen sie sich zunutze. So werden "
 "die eigenen Angriffe durch Runenmacht gestärkt und treffsicher, wohingegen "
-"ihre Feinde verzagen, deren Angriffe fehlgehen und diese häufig nur die "
-"Rüstung treffen."
+"ihre Feinde verzagen, deren Angriffe fehlgehen oder häufig nur wirkungslos "
+"die Rüstung treffen."
 
 #. [unit_type]: id=Haldric II, race=human
 #: The_Fellowship_of_the_Clay/units/Haldric_II.cfg:4
@@ -6854,7 +6857,7 @@ msgid ""
 msgstr ""
 "Auch wenn sie noch sehr jung ist, hat Harriett bereits unglaubliche "
 "Fähigkeiten. Sie kann das, was bisher kein anderer Silbermagier erreicht "
-"hat: Harriett kann andere teleportieren indem sie sich selbst als Portal zu "
+"hat: Harriett kann andere teleportieren, indem sie sich selbst als Portal zu "
 "einem befreundeten Dorf einsetzt. Daher ist sie zur Zeit das einzige "
 "Mitglied eines neuen Magierpfades - die Portal-Magier."
 
@@ -6870,8 +6873,8 @@ msgstr ""
 "einen besonders hohen Widerstand gegenüber nicht physischen Angriffen "
 "aufweisen. Diese Einheit verfügt über Angriffe magischer Natur, welche immer "
 "eine hohe Trefferwahrscheinlichkeit aufweisen. Durch die Magie der Bewegung "
-"ist es dieser Einheit möglich, im Bruchteil eines Augenblicks von einem in "
-"ein anderes eigenes und unbesetztes Dorf zu springen."
+"ist es dieser Einheit möglich, im Bruchteil eines Augenblicks von einem Dorf "
+"in ein anderes eigenes und unbesetztes Dorf zu springen."
 
 #. [attack]: type=fire
 #: The_Fellowship_of_the_Clay/units/Harriett-lvl2.cfg:53
@@ -6948,9 +6951,9 @@ msgid ""
 "at first, he quickly learned how to do it, and now it is almost impossible "
 "to get him down on earth."
 msgstr ""
-"Auch wenn Feynzwerg zu beginn ncht glücklich darüber war auf einen Greif "
+"Auch wenn Feynzwerg zu Beginn nicht glücklich darüber war auf einen Greif "
 "gesetzt zu werden, so hat er das Fliegen doch schnell gelernt und es ist "
-"schwer ihn wieder auf den Boden zu bekommen."
+"schwer, ihn wieder auf den Boden zu bekommen."
 
 #. [unit_type]: id=Mounted Runemaster, race=gryphon
 #: The_Fellowship_of_the_Clay/units/Mounted_Feyndwarf_lvl3.cfg:4
@@ -6983,7 +6986,7 @@ msgstr "Aufgesessener weißer Ritter des Lichts"
 #. [unit_type]: id=Mounted Bright White Knight of the Light, race=human
 #: The_Fellowship_of_the_Clay/units/Mounted_Knight_lvl4.cfg:4
 msgid "Mounted Bright White Knight of the Light"
-msgstr "Aufgesessener hell weißer Ritter des Lichts"
+msgstr "Aufgesessener heller weißer Ritter des Lichts"
 
 #. [unit_type]: id=Mounted Bright White Knight of the Light, race=human
 #: The_Fellowship_of_the_Clay/units/Mounted_Knight_lvl4.cfg:21
@@ -6997,7 +7000,7 @@ msgstr ""
 "mögen ihn Kreaturen der Dunkelheit deshalb überhaupt nicht. Aber lasst euch "
 "nicht von seiner Helligkeit blenden, er ist der ultimative Alleskönner auf "
 "dem Schlachtfeld. Auch wenn seine Magieatacke nicht ganz an die der weißen "
-"Magier herran reicht, ist es eine nützliche Beigabe zu seinen "
+"Magier herran reicht, ist sie eine nützliche Beigabe zu seinen "
 "außergewöhnlichen Schwertkünsten."
 
 #. [unit_type]: id=Crow, race=monster
@@ -7011,7 +7014,7 @@ msgid ""
 "Crows are carrion birds which will eat anything dead. Larger ones such as "
 "this have been also known to feed upon living preys when food is scarce."
 msgstr ""
-"Krähen sind Aßfresser, die alles Tote anfressen. Größere wie diese wurden "
+"Krähen sind Aaßfresser, die alles Tote anfressen. Größere wie diese wurden "
 "beobachtet, dass sie sich von lebendiger Beute ernähren, wenn Futter knapp "
 "ist."
 
@@ -7044,9 +7047,9 @@ msgid ""
 "eye is able to see it."
 msgstr ""
 "Einige Elfen wollen die Wälder noch mehr bewachen als Ranger: Jeder der ohne "
-"triftigen Grund eine Pflanze verlezt wird sofort von einem Pfeil erlegt, der "
-"sein Ziel niemals verfehlt - oder schneller von einem Schwert getroffen als "
-"das Auge sehen kann."
+"triftigen Grund eine Pflanze verletzt wird sofort von einem Pfeil erlegt, "
+"der sein Ziel niemals verfehlt - oder schneller von einem Schwert getroffen "
+"als das Auge sehen kann."
 
 #. [unit_type]: id=Elvish Forest Keeper, race=elf
 #: The_Fellowship_of_the_Clay/units/forest_keeper.cfg:4
@@ -7061,10 +7064,10 @@ msgid ""
 "and lives nothing without being noticed of such an elf, whose being is "
 "almost one with trees and plants."
 msgstr ""
-"Waldbewahrer haben wahres Können mit dem Bogen erlangt und können auch "
+"Waldhüter haben wahres Können mit dem Bogen erlangt und können auch "
 "ordentlich mit einem Schwert umgehen. Bisher hat niemand davon berichtet, "
-"einen Waldbewahrer besiegt zu haben. In den Wäldern bewegt sich nichts, was "
-"der Aufmerksamkeit eiens solchen Elfen entgeht."
+"einen Waldhüter besiegt zu haben. In den Wäldern bewegt sich nichts, was der "
+"Aufmerksamkeit eines solchen Elfen entgeht."
 
 #. [unit_type]: id=Small Spider, race=monster
 #: The_Fellowship_of_the_Clay/units/smallspider.cfg:4
@@ -7108,8 +7111,8 @@ msgid ""
 "will do 50% more."
 msgstr ""
 "Inspiration:\n"
-"Diese Einheit kann verbündete, benachbarte L0 und L1 inspirieren, so dass "
-"sie besser kämpfen. Benachbarte L1 Einheiten erhalten einen 25%igen "
+"Diese Einheit kann verbündete, benachbarte L0 und L1 Einheiten inspirieren, "
+"so dass sie besser kämpfen. Benachbarte L1 Einheiten erhalten einen 25%igen "
 "Schadensbonus, L0 Einheiten bekommen einen Bonus von 50%."
 
 #. [leadership]: id=inspire_0
@@ -7121,10 +7124,10 @@ msgid ""
 "units will do 50% more, and L0 will do 75% more."
 msgstr ""
 "Inspiration:\n"
-"Diese Einheit kann verbündete, benachbarte L0, L1 und L2 inspirieren, so "
-"dass sie besser kämpfen. Benachbarte L2 Einheiten erhalten einen 25%igen "
-"Schadensbonus, L1 Einheiten einen 50%igen und L0 Einheiten bekommen einen "
-"Bonus von 75%."
+"Diese Einheit kann verbündete, benachbarte L0, L1 und L2 Einheiten "
+"inspirieren, so dass sie besser kämpfen. Benachbarte L2 Einheiten erhalten "
+"einen 25%igen Schadensbonus, L1 Einheiten einen 50%igen und L0 Einheiten "
+"bekommen einen Bonus von 75%."
 
 #. [leadership]: id=inspire_0
 #: The_Fellowship_of_the_Clay/utils/abilities.cfg:90
@@ -7136,10 +7139,10 @@ msgid ""
 "100% more."
 msgstr ""
 "Inspiration:\n"
-"Diese Einheit kann verbündete, benachbarte L0, L1, L2 und L3 inspirieren, so "
-"dass sie besser kämpfen. Benachbarte L3 Einheiten erhalten einen 25%igen "
-"Schadensbonus, L2 Einheiten einen 50%igen und so weiter. L0 Einheiten "
-"bekommen also einen Bonus von 100%."
+"Diese Einheit kann verbündete, benachbarte L0, L1, L2 und L3 Einheiten "
+"inspirieren, so dass sie besser kämpfen. Benachbarte L3 Einheiten erhalten "
+"einen 25%igen Schadensbonus, L2 Einheiten einen 50%igen und so weiter. L0 "
+"Einheiten bekommen also einen Bonus von 100%."
 
 #. [leadership]: id=inspire_0
 #: The_Fellowship_of_the_Clay/utils/abilities.cfg:146
@@ -7151,7 +7154,7 @@ msgid ""
 "100% more and L0 units will do 125% more."
 msgstr ""
 "Inspiration:\n"
-"Diese Einheit kann verbündete, benachbarte L0, L1, L2, L3 und L4 "
+"Diese Einheit kann verbündete, benachbarte L0, L1, L2, L3 und L4 Einheiten "
 "inspirieren, so dass sie besser kämpfen. Benachbarte L4 Einheiten erhalten "
 "einen 25%igen Schadensbonus, L3 Einheiten einen 50%igen und so weiter. L0 "
 "Einheiten bekommen also einen Bonus von 125%."
@@ -7164,7 +7167,7 @@ msgid ""
 "the poison instead of healing."
 msgstr ""
 "Regeneration:\n"
-"Diese Einheit heilt sich pro Zug um 4 Schadenspunkte. Wenn sie vergiffted "
+"Diese Einheit heilt sich pro Zug um 4 Schadenspunkte. Wenn sie vergifted "
 "ist, wird stattdessen die Vergiftung geheilt."
 
 #: The_Fellowship_of_the_Clay/utils/abilities.cfg:222
@@ -7195,8 +7198,8 @@ msgid ""
 "This unit darkens the surrounding area, making chaotic units fight better, "
 "and lawful units fight worse."
 msgstr ""
-"Diese Eihneit verdunkelt die direkte Umgebung, so dass chaotische Einheiten "
-"Besser und rechtschaffene Einheiten schlechter kämpfen."
+"Diese Einheit verdunkelt die direkte Umgebung, so dass chaotische Einheiten "
+"besser und rechtschaffene Einheiten schlechter kämpfen."
 
 #. [illuminates]: id=obscure
 #: The_Fellowship_of_the_Clay/utils/abilities.cfg:250
@@ -7214,7 +7217,7 @@ msgid ""
 msgstr ""
 "Verdunkeln:\n"
 "Diese Eihneit verdunkelt die direkte Umgebung, so dass chaotische Einheiten "
-"Besser und rechtschaffene Einheiten schlechter kämpfen.\n"
+"besser und rechtschaffene Einheiten schlechter kämpfen.\n"
 "Jede benachbarte Einheit kämpft, als ob es Sonnenuntergang ist, wenn es Tag "
 "ist und als ob Nacht ist, wenn Sonnenuntergang ist."
 
@@ -7230,7 +7233,7 @@ msgid ""
 "combat, its attacks do 15% less damage times the difference in their levels "
 "+ 15%."
 msgstr ""
-"Diese Einheit kann gegneriche Einheiten einschüchtern, die sich in der nähe "
+"Diese Einheit kann gegneriche Einheiten einschüchtern, die sich in der Nähe "
 "befinden, so dass sie schlechter Kämpfen. Benachbarte gegnerische Einheiten "
 "machen pro Levelunterschied 15% weniger Schaden."
 
@@ -7238,7 +7241,8 @@ msgstr ""
 #: The_Fellowship_of_the_Clay/utils/amla.cfg:11
 msgid "max hitpoints +0, max experience +0%; heal full, unpoison, unslow"
 msgstr ""
-"max Schadenspunkte +0, max Erfahrung+0%; Heilung, Entgiftung, Enthedderung"
+"max Schadenspunkte +0, max Erfahrung+0%; volle Heilung, Entgiften, Aufheben "
+"von Verlangsamen"
 
 #. [advancement]: id=TFotC_amla_default
 #: The_Fellowship_of_the_Clay/utils/amla.cfg:33
@@ -7274,7 +7278,7 @@ msgstr "<b>Harriett!!</b>"
 msgid ""
 "Father, nooo! This is all my fault - if I hadn't insited on leaving home..."
 msgstr ""
-"Vater, neiiin! Das ist alles meine Schuld, hätte ich doh nicht darauf "
+"Vater, neiiin! Das ist alles meine Schuld, hätte ich doch nicht darauf "
 "bestanden unser Zuhause zu verlassen..."
 
 #. [message]: speaker=Clyde
@@ -7325,7 +7329,7 @@ msgid ""
 "runemasters' knowledge will be passed down by Thursagan."
 msgstr ""
 "Das ist, wie ich sterben wollte: Kämpfend in einer epischen Schlacht. "
-"Wenigstens wird das wissen der Runenmeister durch Thursagan weiter gegeben."
+"Wenigstens wird das Wissen der Runenmeister durch Thursagan weiter gegeben."
 
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/utils/herodeaths.cfg:136
@@ -7381,7 +7385,7 @@ msgid ""
 "you!"
 msgstr ""
 "Verdammt, sie haben Richard getötet. Es tut mir leid, aber so bin ich wieder "
-"auf den Boden gebunden!"
+"an den Boden gebunden!"
 
 #. [message]: speaker=Dulothras
 #: The_Fellowship_of_the_Clay/utils/herodeaths.cfg:237
@@ -7409,13 +7413,13 @@ msgstr ""
 #. [set_menu_item]: id=mounting
 #: The_Fellowship_of_the_Clay/utils/mounting.cfg:41
 msgid "mount Snow-White"
-msgstr "auf Schneewittchen aufsitzen"
+msgstr "Auf Schneewittchen aufsitzen"
 
 #. [set_menu_item]: id=dismount
 #: The_Fellowship_of_the_Clay/utils/mounting.cfg:295
 #: The_Fellowship_of_the_Clay/utils/mounting.cfg:483
 msgid "dismount Snow-White"
-msgstr "von Schneewittchen absitzen"
+msgstr "Von Schneewittchen absitzen"
 
 #. [set_menu_item]: id=illuminates_on
 #: The_Fellowship_of_the_Clay/utils/mounting.cfg:675
@@ -7430,7 +7434,7 @@ msgstr "Lichtaura ausschalten"
 #. [set_menu_item]: id=mounting_feyn
 #: The_Fellowship_of_the_Clay/utils/mounting.cfg:780
 msgid "mount Richard"
-msgstr "auf Richard aufsitzen"
+msgstr "Auf Richard aufsitzen"
 
 #. [unit]: type=$mfeyn_type, id=Feyndwarf, role=$stored_feyndwarf.role
 #: The_Fellowship_of_the_Clay/utils/mounting.cfg:860
@@ -7440,12 +7444,12 @@ msgstr "Aufgesessener Feynzwerg"
 #. [set_menu_item]: id=dismount_feyn
 #: The_Fellowship_of_the_Clay/utils/mounting.cfg:926
 msgid "dismount Richard"
-msgstr "von Richard absitzen"
+msgstr "Von Richard absitzen"
 
 #. [set_menu_item]: id=harriett_tele_unitchoose
 #: The_Fellowship_of_the_Clay/utils/mounting.cfg:1040
 msgid "Teleport this unit"
-msgstr "diese Einheit teleportieren"
+msgstr "Diese Einheit teleportieren"
 
 #. [set_menu_item]: id=harriett_tele_locchoose
 #: The_Fellowship_of_the_Clay/utils/mounting.cfg:1075
