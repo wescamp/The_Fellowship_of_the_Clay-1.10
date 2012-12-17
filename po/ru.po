@@ -19,11 +19,13 @@ msgstr ""
 #: The_Fellowship_of_the_Clay/_main.cfg:163
 msgid "The Fellowship of the Clay"
 msgstr ""
+"Строители Веснота\n"
+"(The Fellowship of the Clay)"
 
 #. [campaign]: id=The_Fellowship_of_the_Clay
 #: The_Fellowship_of_the_Clay/_main.cfg:36
 msgid "TFotC"
-msgstr ""
+msgstr "СВ"
 
 #. [campaign]: id=The_Fellowship_of_the_Clay
 #: The_Fellowship_of_the_Clay/_main.cfg:41
@@ -32,7 +34,6 @@ msgstr "Светлый рыцарь"
 
 #. [campaign]: id=The_Fellowship_of_the_Clay
 #: The_Fellowship_of_the_Clay/_main.cfg:41
-#, fuzzy
 msgid "(easy)"
 msgstr "(легко)"
 
@@ -50,7 +51,6 @@ msgstr "Сияющий рыцарь"
 
 #. [campaign]: id=The_Fellowship_of_the_Clay
 #: The_Fellowship_of_the_Clay/_main.cfg:43
-#, fuzzy
 msgid "(hard)"
 msgstr "(сложно)"
 
@@ -85,6 +85,23 @@ msgid ""
 "For bug reports, suggestions, comments and change notes, please visit the "
 "Fellowship of the Clay thread in the forum: http://r.wesnoth.org/t31932"
 msgstr ""
+"Действие кампании происходит сразу после 'На заре Веснота' и незадолго до "
+"'Легенды Весмира' и 'Огненного Скипетра'. Рассказ пойдёт о первом оплоте "
+"людей на Большом Континенте и о горстке героев, пытающихся предотвратить его "
+"гибель. Кампания включает 16 игровых и 2 сюжетных сценария.\n"
+"\n"
+"Особенности:\n"
+"- Главный герой, который может ходить пешком и ездить на коне\n"
+"- Более 3-х героев с особыми способностями\n"
+"- Индивидуальнаю анимация, портреты и эффекты\n"
+"- 17 прекрасно детализированных карт\n"
+"- Различные цели миссий\n"
+"- Возможность влиять на развитие событий\n"
+"- Детализированный сюжет, связанный с общей историей Веснота\n"
+"- Капания полностью переведена на английский и немецкий языки и частично на "
+"русский\n"
+"Ваши предложения и сообщения об ошибках оставляйте на форуме по адресу:\n"
+"http://r.wesnoth.org/t31932"
 
 #. [about]
 #: The_Fellowship_of_the_Clay/_main.cfg:61
@@ -119,7 +136,7 @@ msgstr ""
 #. [about]
 #: The_Fellowship_of_the_Clay/_main.cfg:104
 msgid "Text fine Tuning"
-msgstr ""
+msgstr "вычитка текста"
 
 #. [about]
 #: The_Fellowship_of_the_Clay/_main.cfg:110
@@ -135,7 +152,6 @@ msgstr "В поход!"
 
 #. [part]
 #: The_Fellowship_of_the_Clay/scenarios/01_The_assignment.cfg:15
-#, fuzzy
 msgid ""
 "When the humans arrived at the great continent, they needed a new and safe "
 "home. Building such a capital city, called Wehlot, was what King Haldric "
@@ -160,7 +176,6 @@ msgstr ""
 
 #. [part]
 #: The_Fellowship_of_the_Clay/scenarios/01_The_assignment.cfg:23
-#, fuzzy
 msgid ""
 "Second, as humans landed first on the Isle of Alduin which also caused the "
 "mages school to be founded there, he did not want to be too far from the "
@@ -191,7 +206,6 @@ msgstr ""
 
 #. [part]
 #: The_Fellowship_of_the_Clay/scenarios/01_The_assignment.cfg:35
-#, fuzzy
 msgid ""
 "Under mysterious circumstances, Haldric died, never able tell his son - "
 "Haldric II - about the stranger and the deal he made with him."
@@ -211,7 +225,6 @@ msgstr ""
 
 #. [part]
 #: The_Fellowship_of_the_Clay/scenarios/01_The_assignment.cfg:43
-#, fuzzy
 msgid "We start our story in the year 23 YW..."
 msgstr "Шёл 23-й год Эпохи Веснота..."
 
@@ -241,7 +254,6 @@ msgstr "Рудники"
 #. [label]
 #: The_Fellowship_of_the_Clay/scenarios/01_The_assignment.cfg:68
 #: The_Fellowship_of_the_Clay/scenarios/17_In_Due_Time.cfg:209
-#, fuzzy
 msgid "Woodsman's house"
 msgstr "Хижина лесника"
 
@@ -257,14 +269,14 @@ msgstr "Река Этен"
 #: The_Fellowship_of_the_Clay/scenarios/07_Bad_news.cfg:171
 #: The_Fellowship_of_the_Clay/scenarios/17_In_Due_Time.cfg:217
 msgid "Wehlot Castle"
-msgstr "Цитадель Вехлота"
+msgstr "Цитадель"
 
 #. [label]
 #: The_Fellowship_of_the_Clay/scenarios/01_The_assignment.cfg:80
 #: The_Fellowship_of_the_Clay/scenarios/07_Bad_news.cfg:175
 #: The_Fellowship_of_the_Clay/scenarios/17_In_Due_Time.cfg:221
 msgid "Wehlot Harbor"
-msgstr "Гавань Вехлота"
+msgstr "Гавань"
 
 #. [label]
 #: The_Fellowship_of_the_Clay/scenarios/01_The_assignment.cfg:84
@@ -344,7 +356,6 @@ msgstr "Орки"
 
 #. [message]: speaker=Haldric II
 #: The_Fellowship_of_the_Clay/scenarios/01_The_assignment.cfg:179
-#, fuzzy
 msgid ""
 "Clyde, now that we are almost done with Wehlot, I want to direct our "
 "attention to other matters: I want to intensify our diplomatic relations "
@@ -361,11 +372,10 @@ msgstr ""
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/01_The_assignment.cfg:183
 msgid "My King, I am not as exemplary as you make me."
-msgstr "Мой король, Вы оказываете мне слишком большую честь."
+msgstr "Мой король, вы оказываете мне слишком большую честь."
 
 #. [message]: speaker=Haldric II
 #: The_Fellowship_of_the_Clay/scenarios/01_The_assignment.cfg:187
-#, fuzzy
 msgid ""
 "Oh yes, you are my dear! I want to celebrate the finishing of Wehlot "
 "together with the elves and dwarves. Actually, having the Mermen here would "
@@ -384,12 +394,11 @@ msgstr ""
 
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/01_The_assignment.cfg:191
-#, fuzzy
 msgid ""
 "Truly spoken. But am I not needed here to continue to protect our people?"
 msgstr ""
 "Истинно так. Но не лучше ли мне остаться здесь, чтобы продолжить защищать "
-"Вас и Ваших подданных?"
+"вас и ваших подданных?"
 
 #. [message]: speaker=Haldric II
 #: The_Fellowship_of_the_Clay/scenarios/01_The_assignment.cfg:195
@@ -418,27 +427,25 @@ msgstr ""
 
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/01_The_assignment.cfg:207
-#, fuzzy
 msgid ""
 "But my King! She is the direct descendent of Snow-flake! And she is such a "
 "unique being! She belongs to you as she continues the line of your royal "
 "steed!"
 msgstr ""
-"Но мой король! Это же не простая лошадь! Кроме того, она принадлежит Вам, "
-"ведь она - прямой потомок Снежинки, Вашей королевской лошади!"
+"Но мой король! Это же не простая лошадь! Кроме того, она принадлежит вам, "
+"ведь она - прямой потомок Снежинки, вашей королевской лошади!"
 
 #. [message]: speaker=Haldric II
 #: The_Fellowship_of_the_Clay/scenarios/01_The_assignment.cfg:211
-#, fuzzy
 msgid ""
 "My dear Clyde, don't underestimate yourself! You know that you are the only "
 "one whom she ever allowed to mount her. As I said, you'll need her to do as "
 "I ordered. So get to the stables, prepare her and begin your mission to "
 "bring a delegation of mages, elves and dwarves here."
 msgstr ""
-"Дорогой Клайд, не принижайся так. Ты и сам знаешь, что ты единственный, кто "
-"может оседлать её. Сделай так, как я приказал. Иди в конюшню, забери Метель "
-"и отправляйся в путь. Я жду послов от магов, эльфов и гномов."
+"Дорогой Клайд, ты недооцениваешь себя. Ты и сам знаешь, что ты единственный, "
+"кто может оседлать её. Сделай так, как я приказал. Иди в конюшню, забери "
+"Метель и отправляйся в путь. Я жду послов от магов, эльфов и гномов."
 
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/01_The_assignment.cfg:215
@@ -457,7 +464,7 @@ msgid ""
 "going to try to put the saddle on her back - I still feel the kick she gave "
 "me last time!"
 msgstr ""
-"Я слышал, что Вы должны ехать на Метели, но она не даёт даже положить седло "
+"Я слышал, что вы должны ехать на Метели, но она не даёт даже положить седло "
 "себе на спину. Ох, как же больно она лягается..."
 
 #. [message]: speaker=Stable Lad
@@ -466,7 +473,7 @@ msgid ""
 "I don't know whether she'll kick you as well, at first she should get used "
 "to you."
 msgstr ""
-"Не знаю, не лягнёт ли она и Вас тоже... Сначала она должна к Вам привыкнуть."
+"Не знаю, не лягнёт ли она и вас тоже... Сначала она должна к вам привыкнуть."
 
 #. [unit]: type=Unihorse, id=Snow White
 #: The_Fellowship_of_the_Clay/scenarios/01_The_assignment.cfg:253
@@ -501,7 +508,7 @@ msgstr ""
 #. [objective]: condition=win
 #: The_Fellowship_of_the_Clay/scenarios/01_The_assignment.cfg:317
 msgid "Defeat the Orcish riot squad."
-msgstr "Уничтожьте разбушевавшихся орков."
+msgstr "Уничтожьте разбушевавшихся орков"
 
 #. [objective]: condition=lose
 #: The_Fellowship_of_the_Clay/scenarios/01_The_assignment.cfg:321
@@ -523,9 +530,8 @@ msgstr "Смерть Метели"
 
 #. [objective]: condition=lose
 #: The_Fellowship_of_the_Clay/scenarios/01_The_assignment.cfg:333
-#, fuzzy
 msgid "Death of any of the Peasants"
-msgstr "Смерть крестьянина или охотника"
+msgstr "Смерть мирного жителя"
 
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/01_The_assignment.cfg:357
@@ -534,7 +540,6 @@ msgstr "Мой король, орки разгромлены!"
 
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/01_The_assignment.cfg:375
-#, fuzzy
 msgid ""
 "There you are my agile beauty! Let's go to the seven dwarves now - or "
 "however many there really are! If Haldric II knew that even I was never "
@@ -548,59 +553,53 @@ msgstr ""
 #: The_Fellowship_of_the_Clay/scenarios/01_The_assignment.cfg:379
 msgid ""
 "Wehee, brrrr! (She licks your hands and pushes you a little with her head.)"
-msgstr "Игого, фррр! (Метель лижет Клайду руки и немного толкает его головой)"
+msgstr "Игого, фррр! (Метель лижет руки Клайда и слегка толкает его головой)"
 
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/01_The_assignment.cfg:383
-#, fuzzy
 msgid ""
 "Ah, I see, the little Orc disruption caused you not to get your favorite "
 "food and now you are hungry! Well, the storage in the stables is... well "
 "there is no storage anymore... Let's see if you let me on your back without "
 "a saddle and then we see which grass you like most!"
 msgstr ""
-"Похоже, орки не только оставили тебя без седла, но и все запасы сена спалили."
-"Теперь тебе и поесть нечего... Ладно, если ты не против, то и без седла "
-"обойдёмся. А на лугах полно травы, тебе какая больше нравится?"
+"Эх, орки не только седло, но и все запасы сена спалили. Теперь тебе и поесть "
+"нечего... Ладно, если ты не против, то и без седла обойдёмся. А на лугах "
+"полно травы, тебе какая больше нравится?"
 
 #. [message]: speaker=Stable Lad
 #: The_Fellowship_of_the_Clay/scenarios/01_The_assignment.cfg:390
-#, fuzzy
 msgid ""
 "Oh, Snow-White really appears to like you! I think she will allow you to "
 "ride her now."
 msgstr ""
-"О, Вы, похоже, понравились Метели. Я думаю, теперь она позволит Вам ездить "
+"О, вы, похоже, понравились Метели. Я думаю, теперь она позволит вам ездить "
 "на ней."
 
 #. [message]: speaker=Stable Lad
 #: The_Fellowship_of_the_Clay/scenarios/01_The_assignment.cfg:394
-#, fuzzy
 msgid ""
 "<b>LISTEN CAREFULLY!</b> I'll give you a little tutorial on mounting Snow-"
 "white:"
-msgstr "<b>Слушайте внимательно!</b> Я расскажу Вам, как оседлать Метель."
+msgstr "<b>Слушайте внимательно!</b> Я расскажу вам, как оседлать Метель."
 
 #. [message]: speaker=Stable Lad
 #: The_Fellowship_of_the_Clay/scenarios/01_The_assignment.cfg:398
-#, fuzzy
 msgid ""
 "You can either go next to her or move her next to you. Then you can mount "
 "via the right-click menu."
 msgstr ""
-"Всё очень просто. Достаточно подойти к ней (или попросить её подойти к Вам), "
+"Всё очень просто. Достаточно подойти к ней (или попросить её подойти к вам), "
 "а затем оседлать, используя меню, появляющееся при клике правой кнопкой мыши."
 
 #. [message]: speaker=Stable Lad
 #: The_Fellowship_of_the_Clay/scenarios/01_The_assignment.cfg:402
-#, fuzzy
 msgid ""
 "Under normal circumstances, you can dismount to a field next to her by right "
 "clicking on it and using 'dismount' in the menu."
 msgstr ""
-"При нормальных обстоятельствах Вы можете спешиться так: кликните правой "
-"кнопкой мыши на нужное поле вокруг Вас (использовать можно только ближайшие "
-"поля) и нажмите 'спешиться'."
+"Чтобы сойти с седла, кликните правой кнопкой мыши на любое ближнее к вам "
+"поле и нажмите 'спешиться'."
 
 #. [message]: speaker=Stable Lad
 #: The_Fellowship_of_the_Clay/scenarios/01_The_assignment.cfg:406
@@ -608,13 +607,12 @@ msgid ""
 "After dismounting, you have no move points but can still attack. Snow-white "
 "will lose one move point when mounting and two when dismounting."
 msgstr ""
-"После того, как сойдёте с седла, Вы не сможете передвигаться, но сможете "
-"атаковать. Метель теряет одно очко передвижения, когда Вы седлаете её, и "
-"два, когда Вы сходите с седла."
+"После того, как сойдёте с седла, вы не сможете передвигаться, но сможете "
+"атаковать. Метель теряет одно очко передвижения, когда вы седлаете её, и "
+"два, когда вы сходите с седла."
 
 #. [message]: speaker=Stable Lad
 #: The_Fellowship_of_the_Clay/scenarios/01_The_assignment.cfg:410
-#, fuzzy
 msgid ""
 "Snow-white is a level two creature and will stay at that level the whole "
 "time. But she can increase her health or attack depending on your choice "
@@ -624,7 +622,7 @@ msgid ""
 "her</b>."
 msgstr ""
 "Метель — существо второго уровня. Увеличить её уровень нельзя, но можно "
-"увеличить её здоровье или силу атаки по Вашему выбору. Но сначала она должна "
+"увеличить её здоровье или силу атаки по вашему выбору. Но сначала она должна "
 "набрать достаточно опыта. <b>Если Метель несёт на себе всадника, опыт в "
 "сражении получает только он</b>. Таким образом, после того, как всадник "
 "сойдёт с седла, у Метели будет тот же опыт, что и раньше."
@@ -636,23 +634,18 @@ msgstr "Новые цели:"
 
 #. [objective]: condition=win
 #: The_Fellowship_of_the_Clay/scenarios/01_The_assignment.cfg:417
-#, fuzzy
 msgid "Mount Snow-White by going next to her and using the right-click-menu."
-msgstr ""
-"Оседлайте Метель, подойдя к ней и используя меню, появляющееся при клике "
-"правой кнопкой мыши"
+msgstr "Подойдите к Метели и оседлайте её, используя правую кнопку мыши"
 
 #. [objective]: condition=win
 #: The_Fellowship_of_the_Clay/scenarios/01_The_assignment.cfg:421
-#, fuzzy
 msgid "Let Snow-White eat some Flowers."
 msgstr "Дайте Метели поесть цветов,"
 
 #. [objective]: condition=win
 #: The_Fellowship_of_the_Clay/scenarios/01_The_assignment.cfg:425
-#, fuzzy
 msgid "Go to the north end of the road after that."
-msgstr "а затем отправляйтесь в путь по дороге на север"
+msgstr "Отправляйтесь в путь по дороге на север"
 
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/01_The_assignment.cfg:462
@@ -666,13 +659,12 @@ msgstr "Живительные цветы"
 
 #. [object]
 #: The_Fellowship_of_the_Clay/scenarios/01_The_assignment.cfg:473
-#, fuzzy
 msgid ""
 "After having eaten some tiny purple flowers, Snow-White feels her power "
 "increasing. She starts to run faster than before."
 msgstr ""
-"Поев цветов, Метель чувствует, как к ней возвращаются силы. Теперь она может "
-"бегать намного быстрее."
+"Поев цветов, Метель чувствует прилив сил. Теперь она может бегать намного "
+"быстрее."
 
 #. [message]: speaker=narrator
 #: The_Fellowship_of_the_Clay/scenarios/01_The_assignment.cfg:487
@@ -689,11 +681,10 @@ msgstr "Злой Дух"
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/01_The_assignment.cfg:508
 msgid "<b>Waah, a ghost!</b>... Who are you?"
-msgstr "<b>Ааах, призрак!</b>... Кто ты?"
+msgstr "<b>Аах, призрак!</b>... Кто ты?"
 
 #. [message]: speaker=Ghost
 #: The_Fellowship_of_the_Clay/scenarios/01_The_assignment.cfg:512
-#, fuzzy
 msgid ""
 "An evil deed caused my soul to not find any peace after death. Since then I "
 "tried to hide and not harm anyone but you look as if you can finally free my "
@@ -710,13 +701,12 @@ msgstr "Не бойся, мой меч подарит твоей душе сво
 
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/01_The_assignment.cfg:527
-#, fuzzy
 msgid ""
 "Now lets go to Alduin, to invite Merdor the Mage! I have heard that there is "
 "a small port next to it, from where we can go by ship to Alduin."
 msgstr ""
 "Отправляемся на Алдуин, чтобы пригласить мага Мердора! Я слышал, на "
-"побережье есть небольшой город, там мы сможем нанять корабль, который "
+"побережье есть небольшой город, где мы сможем нанять корабль, который "
 "отвезёт нас на остров Алдуин."
 
 #. [message]: speaker=Clyde
@@ -756,7 +746,6 @@ msgstr "Подошли орочьи подкрепления. Теперь мы 
 
 #. [message]: speaker=Haldric II
 #: The_Fellowship_of_the_Clay/scenarios/01_The_assignment.cfg:614
-#, fuzzy
 msgid ""
 "Without workers and peasants, there is no chance to raise an empire "
 "anymore..."
@@ -775,8 +764,8 @@ msgid ""
 "He wanted to invite the mage Merdor, a friend of Haldric II, who lived on "
 "Alduin."
 msgstr ""
-"Клайд направлялся к небольшому городку, построенному два года назад рядом с "
-"портом Черноводья.\n"
+"Клайд направлялся к небольшому городку, основанному в Черноводье два года "
+"назад.\n"
 "Он должен был пригласить мага Мердора — друга Хальдрика II, жившего на "
 "Алдуине."
 
@@ -842,7 +831,6 @@ msgstr "Грисас"
 
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/02_Magic_invitation.cfg:121
-#, fuzzy
 msgid "I really think that we are getting used to each other, huh?"
 msgstr "Похоже, мы всё больше привыкаем друг к другу, не так ли?"
 
@@ -858,7 +846,6 @@ msgstr "Игого!"
 
 #. [message]: speaker=narrator
 #: The_Fellowship_of_the_Clay/scenarios/02_Magic_invitation.cfg:130
-#, fuzzy
 msgid "Clyde can now dismount after he takes another step!"
 msgstr ""
 "Клайд сможет сойти с седла после того, как его лошадь сделает хотя бы один "
@@ -866,21 +853,21 @@ msgstr ""
 
 #. [message]: speaker=Athearrec
 #: The_Fellowship_of_the_Clay/scenarios/02_Magic_invitation.cfg:134
-#, fuzzy
 msgid ""
 "A Knight! ... Not just that, but one of the Light! Quick, these scale-heads "
 "want to sink our ships if we don't pay them. Do something! I'll give you "
 "command over the city guard so that you can install law and order again!"
 msgstr ""
-"Рыцарь!.. Светлый рыцарь! Прошу, помогите! Эти чешуйчатоголовые грозят "
-"потопить наши корабли, если мы не заплатим им. Это вымогательство!\n"
-"Сделайте что-нибудь! Я передаю Вам командование городской стражей, чтобы Вы "
-"могли навести порядок и остановить беззаконие!"
+"Рыцарь! Светлый рыцарь! Прошу, помогите! Эти чешуйчатоголовые грозят "
+"потопить наши корабли, если мы не заплатим им. Сделайте что-нибудь! Я "
+"передаю вам командование городской стражей, чтобы вы могли навести порядок и "
+"остановить беззаконие!"
 
 #. [message]: speaker=Grisas
 #: The_Fellowship_of_the_Clay/scenarios/02_Magic_invitation.cfg:138
 msgid "Give us gold, or your ships will never cross the ocean again!"
-msgstr "Платите золотом или ваши корабли никогда больше не выйдут в море!"
+msgstr ""
+"Платите зссолотом или вашшши корабли никогда большшше не выйдут в море!"
 
 #. [unit]: id=Zzix, type=Saurian Skirmisher
 #: The_Fellowship_of_the_Clay/scenarios/02_Magic_invitation.cfg:152
@@ -910,7 +897,7 @@ msgstr "Удивить чщщеловека — значщщит победит�
 #. [message]: speaker=Grisas
 #: The_Fellowship_of_the_Clay/scenarios/02_Magic_invitation.cfg:209
 msgid "Some more humans don't interest me! Kill them all!"
-msgstr "Мне большшше не нужшшны рабы, убейте всссех людей!"
+msgstr "Люди меня большшше не интересссуют, убейте их всссех!"
 
 #. [unit]: type=Mermaid Priestess, id=Lorelei
 #: The_Fellowship_of_the_Clay/scenarios/02_Magic_invitation.cfg:220
@@ -924,7 +911,6 @@ msgstr "Балоа"
 
 #. [message]: speaker=Lorelei
 #: The_Fellowship_of_the_Clay/scenarios/02_Magic_invitation.cfg:249
-#, fuzzy
 msgid "Hi Clyde, I see you could use some help with those who wreck the sea."
 msgstr ""
 "Привет, Клайд! Похоже, тебе пригодится наша помощь в борьбе против этих "
@@ -933,7 +919,7 @@ msgstr ""
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/02_Magic_invitation.cfg:253
 msgid "Ehh... Hi there! How do you know my name?"
-msgstr "Эээ... Привет! Откуда Вы знаете моё имя?"
+msgstr "Эээ... Привет! Откуда вы знаете моё имя?"
 
 #. [message]: speaker=Lorelei
 #: The_Fellowship_of_the_Clay/scenarios/02_Magic_invitation.cfg:257
@@ -947,7 +933,7 @@ msgstr ""
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/02_Magic_invitation.cfg:261
 msgid "Well then, Ms. Mermaid, I would be grateful for your help."
-msgstr "Ну что же, госпожа Русалка, я был бы признателен за Вашу помощь."
+msgstr "Ну что же, госпожа Русалка, я был бы признателен за вашу помощь."
 
 #. [message]: speaker=Narrator
 #: The_Fellowship_of_the_Clay/scenarios/02_Magic_invitation.cfg:265
@@ -987,7 +973,6 @@ msgstr "Ах, мои друзья водяные — вы снова с нами
 
 #. [message]: speaker=Lorelei
 #: The_Fellowship_of_the_Clay/scenarios/02_Magic_invitation.cfg:333
-#, fuzzy
 msgid ""
 "Yes dear Merdor, we continue to be interested in the doings of the newcomers "
 "- and I would like to know how the newly founded school is getting along."
@@ -1001,17 +986,16 @@ msgid ""
 "Yes, yes, the school is doing well... Yikes! There are dead Nagas on the "
 "coast! Have you seen them? They could have sunken my ship!"
 msgstr ""
-"Спасибо, у нас всё хорошо... Ой! Там на песке мертвые наги! Вы видели их? "
+"Спасибо, у нас всё хорошо... Ой! Там на песке мертвые наги! вы видели их? "
 "Они могли потопить мой корабль!"
 
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/02_Magic_invitation.cfg:341
 msgid "Yes, we just defeated them; so that they would not sink your ship!"
-msgstr "Да, мы только что разбили их. Теперь Ваш корабль в безопасности."
+msgstr "Да, мы только что разбили их. Теперь ваш корабль в безопасности."
 
 #. [message]: speaker=Merdor
 #: The_Fellowship_of_the_Clay/scenarios/02_Magic_invitation.cfg:345
-#, fuzzy
 msgid ""
 "Oh, then I think thanks are in order! Wait, don't I know you? Yes, yes, you "
 "were this talented Paladin who did your internship at the school! You are "
@@ -1027,7 +1011,7 @@ msgid ""
 "to attend the celebration on the occasion of Wehlot's completion!"
 msgstr ""
 "Да, мастер Мердор, это я. Мне было поручено отправиться на Алдуин, чтобы "
-"пригласить Вас для участия в торжествах по случаю окончания строительства "
+"пригласить вас для участия в торжествах по случаю окончания строительства "
 "Вехлота!"
 
 #. [message]: speaker=Merdor
@@ -1037,9 +1021,9 @@ msgid ""
 "you know - I am Arch Mage 'Master Merdor', I just know when there is a "
 "party. Actually, it was my first legerdemain!"
 msgstr ""
-"Правда? Ты хотел пригласить меня? Спасибо. Но разве ты не знаешь — я Великий "
-"маг Мердор, я и сам знаю, где и когда будет праздник! Можешь просто считать "
-"это одним из моих фокусов."
+"Правда? Ты хотел пригласить меня? Спасибо. Но разве ты не знаешь, что я — "
+"Великий маг Мердор, я и сам знаю, где и когда будет праздник! Можешь просто "
+"считать это одним из моих фокусов."
 
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/02_Magic_invitation.cfg:357
@@ -1048,13 +1032,12 @@ msgid ""
 "river in the south leading east. It directly brings you to Wehlot which even "
 "has a harbor."
 msgstr ""
-"Хорошо, это экономит мне время. Вы можете вернуться на свой корабль и "
-"продолжить путь по реке, что находится к югу отсюда. Она приведёт Вас прямо "
+"Хорошо, это экономит мне время. вы можете вернуться на свой корабль и "
+"продолжить путь по реке, что находится к югу отсюда. Она приведёт вас прямо "
 "в Вехлот, там теперь и гавань есть."
 
 #. [message]: speaker=Merdor
 #: The_Fellowship_of_the_Clay/scenarios/02_Magic_invitation.cfg:361
-#, fuzzy
 msgid ""
 "Oh, I didn't know that - how comfortable. Eventually your travel here wasn't "
 "completely in vain. Nice Unihorse, by the way."
@@ -1064,13 +1047,12 @@ msgstr ""
 
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/02_Magic_invitation.cfg:365
-#, fuzzy
 msgid ""
 "At least... This brings me to another fortunate event: Dear Ms. Mermaid, you "
 "and your company are invited too! The king just mentioned that he would love "
 "to have you there but was afraid that I could not contact you."
 msgstr ""
-"У меня есть ещё один повод для радости. Госпожа Русалка, Вас и Вашу свиту я "
+"У меня есть ещё один повод для радости. Госпожа Русалка, вас и вашу свиту я "
 "тоже приглашаю в Вехлот. Король говорил, что был бы рад вас видеть, но мы не "
 "знали, как с вами связаться."
 
@@ -1097,13 +1079,12 @@ msgstr ""
 
 #. [message]: speaker=Athearrec
 #: The_Fellowship_of_the_Clay/scenarios/02_Magic_invitation.cfg:388
-#, fuzzy
 msgid ""
 "What a strange man... Good luck Clyde! I heard there are some more people "
 "you want to invite."
 msgstr ""
-"Что за странный тип... Удачи, Клайд! Я слышал, вы всех приглашаете... Может "
-"быть я тоже смогу принять участие в вашем празднике. Увидимся позже!"
+"Что за странный тип... Удачи, рыцарь Клайд! Я слышал, вам ещё много кого "
+"надо пригласить."
 
 #. [message]: speaker=Lorelei
 #: The_Fellowship_of_the_Clay/scenarios/02_Magic_invitation.cfg:392
@@ -1122,7 +1103,7 @@ msgid ""
 "Great River, but Snow-White was a good swimmer and so that was not a problem."
 msgstr ""
 "Клайд ехал к Весмирскому лесу со всей возможной поспешностью. По пути ему "
-"пришлось пересечь Великую реку. К счастью, Метель оказалась хорошим пловцом "
+"пришлось пересечь Великую реку. К счастью, Метель оказалась хорошим пловцом, "
 "и серьёзных проблем не возникло."
 
 #. [side]
@@ -1197,14 +1178,13 @@ msgid ""
 "<i>(getting closer)</i> My dear goodness...is it?...is it?...It is a "
 "unicorn! Stand still or you will scare it away!"
 msgstr ""
-"Метель? Что за сказки ты рассказываешь? Твоя лошадь? Пригласить нас? Вы, "
+"Метель? Что за сказки ты рассказываешь? Твоя лошадь? Пригласить нас? вы, "
 "люди, что, совсем с ума посходили? Замолчи, я должен получше рассмотреть "
 "тебя и эту бедную эльфийскую лошадь! ...<i>(присматривается)</i> Бог ты мой! "
 "Это... это... это же единорог! Не двигайся, иначе ты его испугаешь!"
 
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/03_Entering_Wesmere.cfg:193
-#, fuzzy
 msgid ""
 "Actually, Snow-white is not a real Unicorn, she was born to the King's mare "
 "Snow-flake. But we believe that her father might be a Unicorn, which, I "
@@ -1235,24 +1215,23 @@ msgstr "Ты... ты можешь с ней разговаривать?"
 
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/03_Entering_Wesmere.cfg:210
-#, fuzzy
 msgid ""
 "Well, I don't speak her language, but she normally listens to what I say to "
 "her. And now I want to invite elves and dwarves to celebrate the finishing "
 "of Wehlot."
 msgstr ""
-"Ну, я не говорю на её языке, зато она меня хорошо понимает. А теперь я хочу "
-"пригласить эльфов и гномов в Вехлот."
+"Ну, я не говорю на её языке, зато она меня хорошо понимает. А теперь я "
+"должен пригласить эльфов и гномов в Вехлот, на праздник."
 
 #. [message]: speaker=Walklas
 #: The_Fellowship_of_the_Clay/scenarios/03_Entering_Wesmere.cfg:214
-#, fuzzy
 msgid ""
 "I still do not completely understand, but the council has to see this: A "
 "human with a horsocorn! Follow me- what the...?"
 msgstr ""
 "Я до сих пор не совсем понимаю тебя, но наш совет, надеюсь, разберётся. "
-"Поди, и они не часто видят людей с рогатыми лошадьми! Иди за м- что такое?"
+"Поди, и они не часто видят людей с рогатыми лошадьми! Иди за мной... что "
+"такое?"
 
 #. [unit]: type=Elvish Forest Guard, id=Legomir
 #: The_Fellowship_of_the_Clay/scenarios/03_Entering_Wesmere.cfg:226
@@ -1271,7 +1250,6 @@ msgstr "Легомир! Что случилось?!"
 
 #. [message]: speaker=Legomir
 #: The_Fellowship_of_the_Clay/scenarios/03_Entering_Wesmere.cfg:263
-#, fuzzy
 msgid ""
 "You two could help me out: I was sent by the council to investigate the "
 "recent emergence of the aggressive Dread Bats in the forest and was able to "
@@ -1280,12 +1258,11 @@ msgid ""
 "flock came outside and attacked me - as if there is some intelligence behind "
 "this."
 msgstr ""
-"О, привет вам! Это ты Клайд? Вы оба должны помочь мне. Совет послал меня "
-"разузнать, откуда в лесу появились эти агрессивные летучие мыши. Оказалось, "
-"что мыши вылетают из одной пещеры неподалёку. Когда я подстрелил одну мышь, "
-"чтобы совет мог разобраться, не замешаны ли здесь тёмные силы, на меня "
-"накинулась целая стая этих созданий. Такое ощущение, что ими движет единая "
-"сила."
+"Не могли бы вы помочь мне?. Совет послал меня разузнать, откуда в лесу "
+"появились эти агрессивные летучие мыши. Оказалось, что мыши вылетают из "
+"одной пещеры неподалёку. Когда я подстрелил одну мышь, чтобы совет мог "
+"разобраться, не замешаны ли здесь тёмные силы, на меня накинулась целая стая "
+"этих созданий. Такое ощущение, что ими кто-то управляет."
 
 #. [objective]: condition=win
 #: The_Fellowship_of_the_Clay/scenarios/03_Entering_Wesmere.cfg:274
@@ -1314,7 +1291,7 @@ msgstr ""
 #. [message]: speaker=second_unit
 #: The_Fellowship_of_the_Clay/scenarios/03_Entering_Wesmere.cfg:329
 msgid "I guess I found the source of the bats!"
-msgstr "Похоже, я знаю, откуда взялись эти мыши!"
+msgstr "Кажется, я знаю, откуда взялись эти мыши!"
 
 #. [message]: speaker=Batryn
 #: The_Fellowship_of_the_Clay/scenarios/03_Entering_Wesmere.cfg:333
@@ -1340,7 +1317,7 @@ msgstr "Мои летучие мыши отомстят за меня, вы вс
 #. [message]: speaker=$book_taker
 #: The_Fellowship_of_the_Clay/scenarios/03_Entering_Wesmere.cfg:379
 msgid "Hey, looks like there's a bookshelf - I wonder what it contains?"
-msgstr "Эй, похоже, тут целая библиотека! Интересно, что в этих книгах?"
+msgstr "Эй, да тут целая библиотека! Интересно, что в этих книгах?"
 
 #. [message]: speaker=$book_taker
 #: The_Fellowship_of_the_Clay/scenarios/03_Entering_Wesmere.cfg:384
@@ -1373,6 +1350,7 @@ msgstr "Гонка"
 #: The_Fellowship_of_the_Clay/scenarios/04_The_race.cfg:12
 msgid "And so Clyde visited the Elven Council in Wesmere Forest, the Ka'lian."
 msgstr ""
+"Итак, Клайд был приглашён на эльфийский совет Весмирского леса — Ка-лиан."
 
 #. [side]
 #: The_Fellowship_of_the_Clay/scenarios/04_The_race.cfg:58
@@ -1409,7 +1387,7 @@ msgstr "Ка-лиан"
 #: The_Fellowship_of_the_Clay/scenarios/04_The_race.cfg:137
 msgid "Own the most villages after 10 rounds passed"
 msgstr ""
-"Захватите и удержите наибольшее количество деревень в течение 10 раундов"
+"На одиннадцатом ходу у вас должно быть больше деревень, чем у соперника"
 
 #. [objective]: condition=lose
 #: The_Fellowship_of_the_Clay/scenarios/04_The_race.cfg:141
@@ -1433,6 +1411,8 @@ msgid ""
 "It is possible that you may encounter some angry animals if you enter a "
 "village. Also, note that you cannot recruit in the scenario."
 msgstr ""
+"В деревнях могут прятаться агрессивные животные. В этом сценарии вы не "
+"можете призывать и вербовать воинов."
 
 #. [message]: speaker=Walklas
 #: The_Fellowship_of_the_Clay/scenarios/04_The_race.cfg:172
@@ -1440,11 +1420,13 @@ msgid ""
 "Venerated council members, I bring a human who wants to invite some snow-"
 "flakes and who is accompanied by a creature that appears to be a unicorn!"
 msgstr ""
+"Почтенные члены совета! Я привёл человека, он хочет куда-то пригласить "
+"снежинки, а ещё с ним пришла лошадь, которая выглядит как единорог!"
 
 #. [message]: speaker=El'Isomithir
 #: The_Fellowship_of_the_Clay/scenarios/04_The_race.cfg:176
 msgid "Walklas, what are you talking about?"
-msgstr ""
+msgstr "Волклес, о чём это ты?"
 
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/04_The_race.cfg:182
@@ -1453,13 +1435,16 @@ msgid ""
 "Unihorse 'Snow-white'. I come to invite you to the celebration on the "
 "occasion of Wehlot's completion - our new city."
 msgstr ""
+"Если позволите, сэр. Я — Клайд, посол короля Хальдрика II, а это моя "
+"единорожка, её зовут Метель. Я прибыл, чтобы пригласить вас на празднования "
+"по случаю завершения строительства Вехлота — нашей новой столицы."
 
 #. [message]: speaker=Logalmier
 #: The_Fellowship_of_the_Clay/scenarios/04_The_race.cfg:186
 msgid ""
 "Things have come to a pretty pass if humans think we will join applauding "
 "their ephemeral achievements."
-msgstr ""
+msgstr "Тяжёлый случай. Может ещё и в ладоши похлопать, раз вы такие молодцы?"
 
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/04_The_race.cfg:190
@@ -1468,6 +1453,8 @@ msgid ""
 "settle on their continent. Is it not natural that we give some of your "
 "hospitality back?"
 msgstr ""
+"Сэр, мы просто хотим, чтобы эльфы разделили с нами нашу радость. Разве это "
+"плохо?"
 
 #. [message]: speaker=Dionli
 #: The_Fellowship_of_the_Clay/scenarios/04_The_race.cfg:194
@@ -1475,6 +1462,8 @@ msgid ""
 "Well, your people seem to have improved in diplomacy, but I guess just "
 "buttering us up, won't convince us yet."
 msgstr ""
+"Кажется, люди кое-чему научились в дипломатии. Но это лишь слова, и они нас "
+"не убеждают."
 
 #. [message]: speaker=Legomir
 #: The_Fellowship_of_the_Clay/scenarios/04_The_race.cfg:199
@@ -1484,6 +1473,9 @@ msgid ""
 "Walklas is right, look at his steed: It is not the Elves to whom this noble "
 "creature listens."
 msgstr ""
+"Мой господин, я знаю этого человека и могу поручиться за него. Он помог мне "
+"очистить наш лес от летучих мышей. Вдобавок, посмотрите на его лошадь: такое "
+"благородное создание не будет слушаться кого попало."
 
 #. [message]: speaker=Aryad
 #: The_Fellowship_of_the_Clay/scenarios/04_The_race.cfg:203
@@ -1492,11 +1484,14 @@ msgid ""
 "with one of our best riders, I might consider your relationship to Mother "
 "Nature not to be as distorted as I thought and I will follow your invitation."
 msgstr ""
+"Да, это удивительное создание. Я думаю так: если ты, посланник, сможешь "
+"обогнать нашего лучшего наездника и докажешь этим свои добрые намерения, мы "
+"примем твоё приглашение."
 
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/04_The_race.cfg:207
 msgid "With pleasure my Lord."
-msgstr ""
+msgstr "С удовольствием."
 
 #. [unit]: type=Elvish Outrider, id=Eleonor
 #: The_Fellowship_of_the_Clay/scenarios/04_The_race.cfg:212
@@ -1511,13 +1506,17 @@ msgid ""
 "after ten rounds. The race starts in 60 seconds! I wish you both a swift "
 "ride."
 msgstr ""
+"Это Элеонор, один из быстрейших всадников Весмира, его скакуна зовут "
+"Мустанг. Правила просты: победит тот, кто через десять ходов будет иметь "
+"больше деревень, чем соперник. Гонка начнётся через минуту! Желаю вам обоим "
+"удачи."
 
 #. [message]: speaker=Legomir
 #: The_Fellowship_of_the_Clay/scenarios/04_The_race.cfg:229
 msgid ""
 "Clyde, I don't think this was a wise idea - an Elvish Outrider will most "
 "certainly out-ride you."
-msgstr ""
+msgstr "Клайд, я не думаю, что это хорошая идея. Он наверняка обгонит тебя."
 
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/04_The_race.cfg:233
@@ -1525,6 +1524,8 @@ msgid ""
 "Well, then I have to do the impossible, don't I? Oh, and remember that I'm "
 "able to dismount, so we're already two."
 msgstr ""
+"Что ж, придётся совершить невозможное. Хотя, всё не так плохо, ведь мы с "
+"Метелью можем действовать раздельно."
 
 #. [message]: speaker=El'Isomithir
 #: The_Fellowship_of_the_Clay/scenarios/04_The_race.cfg:341
@@ -1545,12 +1546,14 @@ msgid ""
 "not ride as well as an Elf, your relationship to your hybrid is remarkable. "
 "To do her the favor: we will show you how to improve your riding."
 msgstr ""
+"Впечатляет. Хотя верхом ты и не так быстр, как эльф, ты смог занять больше "
+"деревень. Мы раскажем тебе, как ещё больше увеличить твою скорость."
 
 #. [object]
 #: The_Fellowship_of_the_Clay/scenarios/04_The_race.cfg:404
 #: The_Fellowship_of_the_Clay/scenarios/04_The_race.cfg:422
 msgid "Elvish Riding Lessons"
-msgstr "Уроки верховой езды"
+msgstr "Верховая езда. Самоучитель."
 
 #. [object]
 #: The_Fellowship_of_the_Clay/scenarios/04_The_race.cfg:405
@@ -1572,6 +1575,8 @@ msgid ""
 "Now that we took care of that, we would be pleased to look at whatever you "
 "want to show to us."
 msgstr ""
+"Теперь мы готовы отправиться в путь, чтобы увидеть то, что вы хотели нам "
+"показать."
 
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/04_The_race.cfg:445
@@ -1580,6 +1585,8 @@ msgid ""
 "I ask you for one more favor: Could show me the way to the Dwarf's "
 "mountains? We would then meet in Wehlot again."
 msgstr ""
+"Рад буду видеть вас в Вехлоте. Теперь мне остаётся только пригласить "
+"гномов... Не могли бы вы показать мне дорогу к ним?"
 
 #. [message]: speaker=Aryad
 #: The_Fellowship_of_the_Clay/scenarios/04_The_race.cfg:449
@@ -1587,6 +1594,8 @@ msgid ""
 "If you insist on visiting the stone-heads, I won't hold you back. See you in "
 "Wehlot then."
 msgstr ""
+"Ну, если тебе действительно нужно ехать к этим тупоголовым, я не стану тебя "
+"задерживать. Увидимся в Вехлоте."
 
 #. [message]: speaker=Legomir
 #: The_Fellowship_of_the_Clay/scenarios/04_The_race.cfg:453
@@ -1595,9 +1604,8 @@ msgstr "Мы с Волклесом присоединимся к Клайду и
 
 #. [message]: speaker=Eleonor
 #: The_Fellowship_of_the_Clay/scenarios/04_The_race.cfg:488
-#, fuzzy
 msgid "Impressive. But not good enough."
-msgstr "Впечатляет. Но всё равно недостаточно хорошо."
+msgstr "Впечатляет. Но этого мало."
 
 #. [message]: speaker=Eleonor
 #: The_Fellowship_of_the_Clay/scenarios/04_The_race.cfg:503
@@ -1615,6 +1623,8 @@ msgid ""
 "Having convinced the Ka'lian, Clyde headed towards the mountains, to find a "
 "dwarf representative he could invite."
 msgstr ""
+"Убедив эльфийский совет принять приглашение, Клайд направился в горы, чтобы "
+"найти гномов и пригласить их на праздник."
 
 #. [objective]: condition=win
 #: The_Fellowship_of_the_Clay/scenarios/05_Meet_the_dwarfs.cfg:42
@@ -1697,14 +1707,14 @@ msgid ""
 "ectomorph and yer scrawny rhino over ther! Would ye like to help us catch "
 "the gryphon tha' just flew by?"
 msgstr ""
-"Смотрите, тут один из тех длинноногих. Может быть, он нам поможет! Эй, ты, "
+"Смотрите, тут один из тех длинноногих. Может быть он нам поможет?! Эй, ты, "
 "длинный, который рядом с тощим носорогом! Ты не хочешь помочь нам поймать "
-"грифона, который только что тут пролетел?"
+"грифона, который только что тут пролетел?!"
 
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/05_Meet_the_dwarfs.cfg:230
 msgid "I am on a mission to invite your King to a celebration with the humans."
-msgstr "Моя цель - пригласить вашего короля на наш праздник."
+msgstr "Моя цель — пригласить вашего короля на наш праздник."
 
 #. [message]: speaker=Catulos
 #: The_Fellowship_of_the_Clay/scenarios/05_Meet_the_dwarfs.cfg:234
@@ -1713,14 +1723,14 @@ msgid ""
 "we ha' to catch tha' gryphon first. So, the quicker we succeed, the quicker "
 "we get home!"
 msgstr ""
-"Чтобы добраться до нашего короля, тебе понадобится проводник. Мы отведём "
+"Чтобы добраться до нашего короля, тебе понадобятся проводники. Мы отведём "
 "тебя, но сначала нам надо поймать грифона. Чем быстрее мы его поймаем, тем "
 "быстрее попадём домой!"
 
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/05_Meet_the_dwarfs.cfg:238
 msgid "Up to the mountain top where the gryphon was headed, then."
-msgstr "Тогда мы отправляемся к вершине горы на поиски логова грифона."
+msgstr "Тогда мы немедленно отправляемся к вершине горы на поиски его логова."
 
 #. [message]: speaker=Aigulos
 #: The_Fellowship_of_the_Clay/scenarios/05_Meet_the_dwarfs.cfg:242
@@ -1729,13 +1739,12 @@ msgstr "Наконец-то этот чёртов туман начинает р
 
 #. [message]: speaker=Thardusol
 #: The_Fellowship_of_the_Clay/scenarios/05_Meet_the_dwarfs.cfg:256
-#, fuzzy
 msgid ""
 "Hey, there're some raidin' orcs over ther! They'll kill the gryphon! An' "
 "we'll be next if we don't attack them immmediately!"
 msgstr ""
-"Эй, тут куча орков! Они убьют грифона, а потом и нас, если мы не нападём на "
-"них немедленно!"
+"Эй, да тут куча орков! Они убьют грифона, а потом и нас, если мы не нападём "
+"на них сейчас же!"
 
 #. [objective]: condition=win
 #: The_Fellowship_of_the_Clay/scenarios/05_Meet_the_dwarfs.cfg:261
@@ -1754,14 +1763,13 @@ msgstr "Смерть грифона"
 
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/05_Meet_the_dwarfs.cfg:284
-#, fuzzy
 msgid "One problem less in this dangerous world."
 msgstr "Одной проблемой меньше в этом опасном мире."
 
 #. [message]: speaker=Richard
 #: The_Fellowship_of_the_Clay/scenarios/05_Meet_the_dwarfs.cfg:297
 msgid "Oorcs deaad? Becoome frieend with mee?"
-msgstr "Оорки мертвыы? Будем друзьями?"
+msgstr "Оорки мертвыы? Будем друзьяаами?"
 
 #. [scenario]: id=06_Finding_Feyndwarf
 #: The_Fellowship_of_the_Clay/scenarios/06_Finding_Feyndwarf.cfg:5
@@ -1770,7 +1778,6 @@ msgstr "Поиски Фейндварфа"
 
 #. [part]
 #: The_Fellowship_of_the_Clay/scenarios/06_Finding_Feyndwarf.cfg:18
-#, fuzzy
 msgid ""
 "To invite the dwarfs, Clyde followed the four gryphon hunters to a chamber "
 "under the surface."
@@ -1834,7 +1841,7 @@ msgstr "Кал Аламос"
 #. [label]
 #: The_Fellowship_of_the_Clay/scenarios/06_Finding_Feyndwarf.cfg:244
 msgid "Passage of Darkness"
-msgstr "Галерея кромешной тьмы"
+msgstr "Галерея Кромешной Тьмы"
 
 #. [label]
 #: The_Fellowship_of_the_Clay/scenarios/06_Finding_Feyndwarf.cfg:248
@@ -1858,7 +1865,6 @@ msgstr "Я слышу в тронном зале голоса. Нанесём ж
 
 #. [message]: speaker=Walklas
 #: The_Fellowship_of_the_Clay/scenarios/06_Finding_Feyndwarf.cfg:302
-#, fuzzy
 msgid ""
 "I don't like caves at all...it as if like the darkness would paralyze my "
 "mind."
@@ -1872,7 +1878,7 @@ msgstr ""
 #. [message]: speaker=narrator
 #: The_Fellowship_of_the_Clay/scenarios/06_Finding_Feyndwarf.cfg:313
 msgid "You tell Feyndwarf everything."
-msgstr "Вы всё рассказали Фейндварфу."
+msgstr "вы всё рассказали Фейндварфу."
 
 #. [message]: speaker=Feyndwarf																##(I leave that to Open-H-Eimer) ## ridiculous part of message
 #: The_Fellowship_of_the_Clay/scenarios/06_Finding_Feyndwarf.cfg:318
@@ -1899,7 +1905,6 @@ msgstr "Тут есть потайная дверь!"
 
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/06_Finding_Feyndwarf.cfg:349
-#, fuzzy
 msgid ""
 "And how do we get out of here? This chasm looks really inpassable and very "
 "deep to me."
@@ -1937,7 +1942,7 @@ msgid ""
 "I would like to fix your capacity for remembering too, but unfortunately, "
 "neuroscience isn't my area of expertise..."
 msgstr ""
-"Я хотел бы исправить и Ваши способности по запоминанию паролей, но, к "
+"Я хотел бы исправить и ваши способности по запоминанию паролей, но, к "
 "сожалению, неврология - это не моя специальность..."
 
 #. [message]: speaker=Namcarthos
@@ -1989,13 +1994,12 @@ msgstr "*вздыхает* Далеко на юг? Похоже, это займ
 
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/06_Finding_Feyndwarf.cfg:430
-#, fuzzy
 msgid ""
 "Hmm, I see, some means of transportation is needed. We still have the "
 "Gryphon... don't you think you could ride it?"
 msgstr ""
-"Хмм... Я думаю, нужно какое-то транспортное средство. У нас тут грифон "
-"бесхозный есть... Может ты на нём полетишь?"
+"Хмм... Я думаю, нужно какое-то транспортное средство. У нас тут есть "
+"бесхозный грифон... Может ты на нём полетишь?"
 
 #. [message]: speaker=Feyndwarf
 #: The_Fellowship_of_the_Clay/scenarios/06_Finding_Feyndwarf.cfg:434
@@ -2027,7 +2031,7 @@ msgstr ""
 #. [message]: speaker=Feyndwarf
 #: The_Fellowship_of_the_Clay/scenarios/06_Finding_Feyndwarf.cfg:450
 msgid "Don't ye dare..."
-msgstr ""
+msgstr "Не смейте..."
 
 #. [message]: speaker=Namcarthos
 #: The_Fellowship_of_the_Clay/scenarios/06_Finding_Feyndwarf.cfg:454
@@ -2076,9 +2080,8 @@ msgstr ""
 
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/06_Finding_Feyndwarf.cfg:533
-#, fuzzy
 msgid "Thank you. I have to leave now. Good bye then!"
-msgstr "Благодарю. Сейчас я должен Вас покинуть. До свидания!"
+msgstr "Благодарю. Сейчас я должен вас покинуть. До свидания!"
 
 #. [message]: speaker=Feyndwarf
 #: The_Fellowship_of_the_Clay/scenarios/06_Finding_Feyndwarf.cfg:569
@@ -2164,7 +2167,7 @@ msgid ""
 "bomb you wanted to have and for which we had to find a Gryphon."
 msgstr ""
 "Он временно прекратил читать лекции, чтобы спокойно провести все "
-"исследования для тех бомб, что Вы хотите получить. Для них же и мы за "
+"исследования для тех бомб, что вы хотите получить. Для них же и мы за "
 "грифоном гонялись."
 
 #. [message]: speaker=Namcarthos
@@ -2214,6 +2217,8 @@ msgid ""
 "I really do not care for who ye are an' ye ha' better leave my sight "
 "immediately if ye dunt wanna be minced meat!"
 msgstr ""
+"Мне всё равно, кто ты и чего тебе надо! Скройся с глаз, если не хочешь "
+"отведать моего топора!"
 
 #. [message]: speaker=Dulothras
 #: The_Fellowship_of_the_Clay/scenarios/06_Finding_Feyndwarf.cfg:758
@@ -2241,13 +2246,13 @@ msgid ""
 "Oh, and Snow-White, please stay here at the throne room. Caves are not a "
 "good place for unihorses."
 msgstr ""
-"Ох, Метель, пожалуйста, оставайся в тронном зале. Пещеры — не очень хорошее "
-"место для единорожек."
+"Метель, пожалуйста, оставайся в тронном зале. Пещеры — не подходящее место "
+"для единорожек."
 
 #. [objective]: condition=win
 #: The_Fellowship_of_the_Clay/scenarios/06_Finding_Feyndwarf.cfg:793
 msgid "Find Feyndwarf, following the dark passage"
-msgstr "Найдите Фейндварфа, пройдя через галерею кромешной тьмы"
+msgstr "Найдите Фейндварфа, пройдя через галерею Кромешной Тьмы"
 
 #. [objective]: condition=lose
 #: The_Fellowship_of_the_Clay/scenarios/06_Finding_Feyndwarf.cfg:797
@@ -2264,20 +2269,19 @@ msgstr ""
 
 #. [message]: speaker=unit
 #: The_Fellowship_of_the_Clay/scenarios/06_Finding_Feyndwarf.cfg:814
-#, fuzzy
 msgid ""
 "I don't believe that I'm courageous enough to go any further - floorless "
 "abysses are nothng for me! <i>(shudders)</i> Clyde should go in, his inner "
 "light will be a guide and protector for him."
 msgstr ""
-"Неее, я дальше не пойду, дальше уж слишком страшно. Всякие бездонные "
-"пропасти — это не для меня. Пусть Клайд идёт, его внутренний свет будет ему "
-"проводником и защитником."
+"Дальше не пойду, слишком страшно. Всякие бездонные пропасти — это не для "
+"меня. Пусть Клайд идёт, его внутренний свет будет ему проводником и "
+"защитником."
 
 #. [message]: speaker=Dulothras
 #: The_Fellowship_of_the_Clay/scenarios/06_Finding_Feyndwarf.cfg:818
 msgid "Ok, 'ere ye go, we wait here and keep yer back clear of enemies!"
-msgstr ""
+msgstr "Иди, а мы тут подождём... Может враги с тыла решат напасть..."
 
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/06_Finding_Feyndwarf.cfg:843
@@ -3312,9 +3316,8 @@ msgstr "Госпожа Портер, я мог бы..."
 
 #. [message]: speaker=narrator
 #: The_Fellowship_of_the_Clay/scenarios/09_Recruiting_Harriett.cfg:379
-#, fuzzy
 msgid "Clyde explains everything..."
-msgstr "Клайд всё объяснил"
+msgstr "Клайд всё объясняет..."
 
 #. [message]: speaker=Elisabeth Porter
 #: The_Fellowship_of_the_Clay/scenarios/09_Recruiting_Harriett.cfg:383
@@ -3621,7 +3624,6 @@ msgstr "Сметрь одного из героев"
 #: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:242
 #: The_Fellowship_of_the_Clay/scenarios/12_Dragnet_Operation.cfg:132
 #: The_Fellowship_of_the_Clay/scenarios/12_Dragnet_Operation.cfg:394
-#, fuzzy
 msgid "Death of a member of the Porter family"
 msgstr "Смерть кого-либо из семьи Портеров"
 
@@ -4041,7 +4043,6 @@ msgstr "Эй, где моё гало? Неужели мой внутренний
 
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/12_Dragnet_Operation.cfg:516
-#, fuzzy
 msgid "Hey, I'm not able to shine anymore - did my inner light leave me?"
 msgstr "Эй, я перестал светиться — неужели мой внутренний свет покинул меня?"
 
@@ -4266,7 +4267,7 @@ msgstr ""
 #. [objective]: condition=lose
 #: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:369
 msgid "You kill more than 10 elves"
-msgstr "Вы убили больше 10 эльфов"
+msgstr "вы убили больше 10 эльфов"
 
 #. [message]: speaker=$left_saurian.id
 #: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:482
@@ -5438,7 +5439,6 @@ msgstr "Мал-Илонар"
 
 #. [objective]: condition=win
 #: The_Fellowship_of_the_Clay/scenarios/17_In_Due_Time.cfg:240
-#, fuzzy
 msgid "Defeat the undead leaders threatening Wehlot"
 msgstr "Победите всех врагов, угрожающих Вехлоту"
 
@@ -5614,7 +5614,7 @@ msgstr ""
 #. [unit_type]: id=Knight of the Light, race=human
 #: The_Fellowship_of_the_Clay/units/Clyde_lev2.cfg:4
 msgid "Knight of the Light"
-msgstr "Рыцарь света"
+msgstr "Светлый рыцарь"
 
 #. [unit_type]: id=Knight of the Light, race=human
 #. [unit_type]: id=Mounted Knight of the Light, race=human
@@ -5760,7 +5760,7 @@ msgid ""
 "their runes cause the physical blows of their enemies to deal less damage "
 "than would be expected."
 msgstr ""
-"Высший ранг, которого может достичь гном, не одарённый сверхъестественным "
+"высший ранг, которого может достичь гном, не одарённый сверхъестественным "
 "даром — ранг мастера рун. Они бьют не слабее лучших воинов, так что и без "
 "своего искусства были бы весьма опасны. С ним же они почти что неуязвимы: их "
 "руны изрядно уменьшают урон, наносимый физическими атаками."
@@ -6126,7 +6126,7 @@ msgstr "максимум опыта +15%, когти +1 к урону"
 #. [message]: speaker=Harriett Porter
 #: The_Fellowship_of_the_Clay/utils/herodeaths.cfg:9
 msgid "No-"
-msgstr "Нет-"
+msgstr "Нет..."
 
 #. [message]: speaker=Elisabeth Porter
 #. [message]: speaker=Henry Porter
@@ -6164,7 +6164,7 @@ msgstr ""
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/utils/herodeaths.cfg:102
 msgid "Infinite darkness is overwhelming me..."
-msgstr ""
+msgstr "Меня поглощает кромешная тьма..."
 
 #. [message]: speaker=unit
 #: The_Fellowship_of_the_Clay/utils/herodeaths.cfg:116
@@ -6270,7 +6270,7 @@ msgstr "Включить иллюминацию"
 #. [set_menu_item]: id=illuminates_off
 #: The_Fellowship_of_the_Clay/utils/mounting.cfg:696
 msgid "switch off illuminating"
-msgstr "Выключить иллюминацию"
+msgstr "выключить иллюминацию"
 
 #. [set_menu_item]: id=mounting_feyn
 #: The_Fellowship_of_the_Clay/utils/mounting.cfg:780
