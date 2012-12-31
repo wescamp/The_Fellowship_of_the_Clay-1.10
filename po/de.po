@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: The_Fellowship_of_the_Clay-1.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-10-15 12:21+0200\n"
+"POT-Creation-Date: 2012-12-31 09:34-0500\n"
 "PO-Revision-Date: 2012-11-23 20:15+0100\n"
 "Last-Translator: Carsten Peters (Krellja) <Carsten_Peters@gmx.de>\n"
 "Language-Team: none\n"
@@ -331,9 +331,9 @@ msgstr "Clyde"
 #: The_Fellowship_of_the_Clay/scenarios/10_Convincing_the_Father.cfg:22
 #: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:63
 #: The_Fellowship_of_the_Clay/scenarios/12_Dragnet_Operation.cfg:61
-#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:76
+#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:77
 #: The_Fellowship_of_the_Clay/scenarios/14_Dark_Walks-Walks_about_Darkness.cfg:100
-#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:73
+#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:74
 #: The_Fellowship_of_the_Clay/scenarios/16_The_three_Towers_of_Mount_Quake.cfg:64
 #: The_Fellowship_of_the_Clay/scenarios/17_In_Due_Time.cfg:74
 #: The_Fellowship_of_the_Clay/scenarios/17_In_Due_Time.cfg:99
@@ -827,7 +827,7 @@ msgstr "Tod von Schneewittchen"
 #: The_Fellowship_of_the_Clay/scenarios/08_The_plan.cfg:57
 #: The_Fellowship_of_the_Clay/scenarios/11_Yetis_state_of_mind.cfg:72
 #: The_Fellowship_of_the_Clay/scenarios/12_Dragnet_Operation.cfg:70
-#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:85
+#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:86
 #: The_Fellowship_of_the_Clay/scenarios/14_Dark_Walks-Walks_about_Darkness.cfg:109
 #: The_Fellowship_of_the_Clay/scenarios/16_The_three_Towers_of_Mount_Quake.cfg:73
 #: The_Fellowship_of_the_Clay/scenarios/17_In_Due_Time.cfg:84
@@ -1871,7 +1871,7 @@ msgstr "Zwerge"
 #. [side]: type=Dwarvish Lord, id=Namcarthos
 #. [unit]: type=Dwarvish Lord, id=Namcarthos
 #: The_Fellowship_of_the_Clay/scenarios/06_Finding_Feyndwarf.cfg:71
-#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:941
+#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:942
 msgid "Namcarthos"
 msgstr "Namcarthos"
 
@@ -1891,7 +1891,7 @@ msgstr "Throndgard"
 #: The_Fellowship_of_the_Clay/scenarios/06_Finding_Feyndwarf.cfg:98
 #: The_Fellowship_of_the_Clay/scenarios/06_Finding_Feyndwarf.cfg:481
 #: The_Fellowship_of_the_Clay/scenarios/07_Bad_news.cfg:644
-#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:567
+#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:568
 #: The_Fellowship_of_the_Clay/utils/mounting.cfg:999
 msgid "Feyndwarf"
 msgstr "Feynzwerg"
@@ -2662,7 +2662,7 @@ msgstr "..."
 #. [unit]: id=Familiar Stranger, type=Dark Tradesman
 #. [unit]: type=Crow
 #: The_Fellowship_of_the_Clay/scenarios/07_Bad_news.cfg:338
-#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:106
+#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:107
 #: The_Fellowship_of_the_Clay/scenarios/16_The_three_Towers_of_Mount_Quake.cfg:154
 #: The_Fellowship_of_the_Clay/scenarios/18_Epilogue.cfg:35
 msgid "Familiar Stranger"
@@ -3590,13 +3590,13 @@ msgstr "Bewegt all eure Einheiten nach Mountainhigh"
 #. [objective]: condition=lose
 #: The_Fellowship_of_the_Clay/scenarios/09_Recruiting_Harriett.cfg:226
 #: The_Fellowship_of_the_Clay/scenarios/09_Recruiting_Harriett.cfg:391
-#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:226
-#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:365
-#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:660
-#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:758
-#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:823
-#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:324
-#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:459
+#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:227
+#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:366
+#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:661
+#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:759
+#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:824
+#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:325
+#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:460
 #: The_Fellowship_of_the_Clay/scenarios/16_The_three_Towers_of_Mount_Quake.cfg:422
 #: The_Fellowship_of_the_Clay/scenarios/16_The_three_Towers_of_Mount_Quake.cfg:433
 #: The_Fellowship_of_the_Clay/scenarios/17_In_Due_Time.cfg:244
@@ -4619,7 +4619,7 @@ msgstr ""
 "nahe der Sümpfe' aufhält, könnte er also bereits sehr nahe sein."
 
 #. [part]
-#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:27
+#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:28
 msgid ""
 "$left_saurian.name was a good leader, and knew the mountains surprisingly "
 "well. Though there had to be lots of creatures that would have wanted to "
@@ -4632,7 +4632,7 @@ msgstr ""
 "Gruppe zu Gesicht, als sie den Pfaden folgten."
 
 #. [part]
-#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:32
+#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:33
 msgid ""
 "Retroperspectively, the saurian would have benn useful to find hidden ways "
 "through this mountain range, but it worked relatively well. No creature "
@@ -4646,64 +4646,64 @@ msgstr ""
 "40 Gold anzueignen."
 
 #. [side]: type=Revenant, id=Egirion
-#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:94
+#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:95
 msgid "Animated Bones"
 msgstr "Lebendige Knochen"
 
 #. [side]: type=Revenant, id=Egirion
-#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:99
+#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:100
 msgid "Egirion"
 msgstr "Egirion"
 
 #. [side]: id=Celand, type=Elvish Forefather
 #. [side]: id=Gylith, type=Elvish Forefather
-#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:107
-#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:123
+#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:108
+#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:124
 msgid "Animated Souls"
 msgstr "Belebte Seelen"
 
 #. [side]: id=Gylith, type=Elvish Forefather
-#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:111
+#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:112
 msgid "Gylith"
 msgstr "Gylith"
 
 #. [side]: id=Celand, type=Elvish Forefather
-#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:127
+#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:128
 msgid "Celand"
 msgstr "Celand"
 
 #. [side]: id=Galion, type=Elvish Champion
-#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:139
+#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:140
 msgid "Ka'lian Elves"
 msgstr "Ka'lian Elfen"
 
 #. [side]: id=Galion, type=Elvish Champion
-#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:142
+#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:143
 msgid "Galion"
 msgstr "Galion"
 
 #. [unit]: id=Seiris, type=Elvish Rider
-#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:149
+#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:150
 msgid "Seiris"
 msgstr "Seiris"
 
 #. [label]
-#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:162
+#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:163
 msgid "Base Camp"
 msgstr "Basislager"
 
 #. [label]
-#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:166
+#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:167
 msgid "Abandoned Altar"
 msgstr "Zurückgelassener Altar"
 
 #. [objective]: condition=win
-#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:222
+#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:223
 msgid "Get to the top of the mountain"
 msgstr "Begebt euch zum Berggipfel"
 
 #. [message]: speaker=Gylith
-#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:242
+#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:243
 msgid ""
 "So, you got away for now, Bonie. But remember, we will come again and "
 "again...forever."
@@ -4712,7 +4712,7 @@ msgstr ""
 "kommen wieder und wieder... für immer."
 
 #. [message]: speaker=Legomir
-#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:255
+#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:256
 msgid ""
 "We defeated them, but I think it is not a problem for a necromancer to "
 "summon more ghosts. We should hurry to get away from here."
@@ -4722,7 +4722,7 @@ msgstr ""
 "von hier wegzukommen."
 
 #. [message]: speaker=Celand
-#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:261
+#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:262
 msgid ""
 "Now Gylith is gone and I am still here and forced to return every night. I "
 "can see the time will pass even slower now..."
@@ -4731,7 +4731,7 @@ msgstr ""
 "Nacht wiederzukehren. Ich merke schon, wie die Zeit noch langsamer vergeht..."
 
 #. [message]: speaker=Clyde
-#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:272
+#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:273
 msgid ""
 "Finally, we survived this nightmare. Let us leave this place as quick as "
 "possible."
@@ -4740,7 +4740,7 @@ msgstr ""
 "möglich verschwinden."
 
 #. [message]: speaker=Clyde
-#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:276
+#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:277
 msgid ""
 "Although I have to admit, that was something I was not prepared for at all. "
 "So, eh, welcome in our Fellowship, my name is Clyde. We are here to kill a "
@@ -4751,7 +4751,7 @@ msgstr ""
 "einen mächtigen Totenbeschwörer zu erledigen. Und wer bist du?"
 
 #. [message]: speaker=Bonie
-#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:280
+#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:281
 msgid ""
 "My name is Bonie - I once had another name, I believe it was elvish, but I "
 "forgot. So much time has passed since I was sacrificed here, and all that "
@@ -4763,7 +4763,7 @@ msgstr ""
 "nicht richtig gelernt habe..."
 
 #. [message]: speaker=Bonie
-#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:284
+#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:285
 msgid ""
 "And because of that he made me a walking rotting bunch of bones. You said "
 "something about a necromancer - as you are here I suspect we are talking "
@@ -4779,7 +4779,7 @@ msgstr ""
 "tot wäre."
 
 #. [message]: speaker=Aryad
-#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:288
+#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:289
 msgid ""
 "Give me a moment, I will try to use my abilities to seed some peace at this "
 "place. Clyde, please make absolutely sure that I am not disturbed for some "
@@ -4791,14 +4791,14 @@ msgstr ""
 "melde."
 
 #. [message]: speaker=Feyndwarf
-#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:332
+#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:333
 msgid "Look who's there. If you came to rescue us, you came a little late, eh?"
 msgstr ""
 "Sie an, wer da ist. Wenn ihr gekommen seid um uns zu retten seid ihr wohl "
 "ein wenig spät dran, was?"
 
 #. [message]: speaker=Galion
-#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:336
+#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:337
 msgid ""
 "We are here to demand High Lord Aryad and all other elves to come with us "
 "immediately to avert an elvish crisis."
@@ -4808,7 +4808,7 @@ msgstr ""
 "abzuwenden."
 
 #. [message]: speaker=Clyde
-#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:340
+#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:341
 msgid ""
 "We just survived a horrifying battle with your undead forefathers, we "
 "learned that your people indeed handed over innocent children to the man who "
@@ -4822,7 +4822,7 @@ msgstr ""
 "Unterstützung, was wir von den Elfen bekommen haben, zunichte zu machen?!?"
 
 #. [message]: speaker=Galion
-#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:344
+#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:345
 msgid ""
 "Don't you dare to blame us for what we did in the long time you were simply "
 "inexistent! In this case you just have the blessing of a late birth and have "
@@ -4836,7 +4836,7 @@ msgstr ""
 "als Geisel genommen und wir müssen Kämpfen um mit ihm zu sprechen?"
 
 #. [message]: speaker=Clyde
-#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:348
+#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:349
 msgid ""
 "I am sorry, Aryad does havs some understanding of your people's "
 "responsibility for this place and does not want to be disturbed right now."
@@ -4845,7 +4845,7 @@ msgstr ""
 "Verantwortung für diesen Ort trägt und möchte gerade nicht gestört werden."
 
 #. [message]: speaker=Galion
-#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:352
+#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:353
 msgid ""
 "I have enough of whatever you are playing here, but we do not let you keep a "
 "noble of ours without a fight! Men, get him out of my way!"
@@ -4855,7 +4855,7 @@ msgstr ""
 "ihn mir aus den Augen!"
 
 #. [message]: speaker=Merdor
-#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:356
+#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:357
 msgid ""
 "Although I almost can't believe what's happening, we should defend Aryad "
 "until this clears up. But let's try to kill as few elves as possible, we "
@@ -4867,17 +4867,17 @@ msgstr ""
 "umzubringen."
 
 #. [objective]: condition=win
-#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:361
+#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:362
 msgid "Resist until Aryad is adressable again"
 msgstr "Haltet aus bis Aryad wieder ansprechbar ist"
 
 #. [objective]: condition=lose
-#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:369
+#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:370
 msgid "You kill more than 10 elves"
 msgstr "Ihr tötet mehr als 10 Elfen"
 
 #. [message]: speaker=$left_saurian.id
-#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:482
+#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:483
 msgid ""
 "Thiss is the base camp. I never was any further, sso it's not my fault if "
 "you get killed..."
@@ -4886,7 +4886,7 @@ msgstr ""
 "meine Ssschuld wenn ihr getötet werded..."
 
 #. [message]: speaker=Clyde
-#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:488
+#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:489
 msgid ""
 "Well, that looks like the base camp here. Men, prepare for the final ascent "
 "to the mountain top!"
@@ -4895,7 +4895,7 @@ msgstr ""
 "Aufstieg vor!"
 
 #. [message]: speaker=Lorelei
-#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:498
+#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:499
 msgid ""
 "So here we are - unsurprisingly, the Stranger has left some guards. "
 "Skeletons are not much of a problem anymore for us, are they? So let us "
@@ -4906,7 +4906,7 @@ msgstr ""
 "lasst uns sie aus dem Weg räumen."
 
 #. [message]: speaker=Feyndwarf
-#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:502
+#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:503
 msgid ""
 "Right are you, fish lady. Still, I've got a bad feeling about this. I'm "
 "gonna send Richard with a message for help..."
@@ -4915,7 +4915,7 @@ msgstr ""
 "Ich werde Richard mit einer Nachricht fortsenden..."
 
 #. [message]: speaker=unit
-#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:651
+#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:652
 msgid ""
 "Clyde, come see this - there are bones next to that altar here, and they "
 "somehow look...strange..."
@@ -4924,12 +4924,12 @@ msgstr ""
 "sehen sehr merkwürdig aus..."
 
 #. [objective]: condition=win
-#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:656
+#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:657
 msgid "Move Clyde to the mysterious skeleton"
 msgstr "Bewegt Cylde zu dem mysteriösen Skelett"
 
 #. [message]: speaker=Clyde
-#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:676
+#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:677
 msgid ""
 "Well, these bones really look mysterious, they almost appear to glow. I feel "
 "strong black magic around here, be prepared."
@@ -4938,12 +4938,12 @@ msgstr ""
 "muss schwarze Magie am Werk sein, seid also gewappnet."
 
 #. [unit]: type=Skeleton Archer, id=Bonie
-#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:685
+#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:686
 msgid "Bonie"
 msgstr "Bonie"
 
 #. [message]: speaker=Bonie
-#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:693
+#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:694
 msgid ""
 "I feel the presence of something... there is someone near. Who dares to "
 "disturb- oh, you are <i>living</i>?. That is something I did not expect. Who "
@@ -4954,7 +4954,7 @@ msgstr ""
 "erwartet. Wer seid ihr, was macht ihr hier?"
 
 #. [message]: speaker=Bonie
-#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:697
+#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:698
 msgid ""
 "Hm, where shall I beginn... to start with, a necromancer has built this "
 "altar here. I will help you if you get me off this mountain top. He set up a "
@@ -4970,7 +4970,7 @@ msgstr ""
 "für Leute wie euch, die hinter ihm her sind."
 
 #. [message]: speaker=Bonie
-#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:702
+#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:703
 msgid ""
 "Oh, yes - it is affecting you too - of course. Do not touch the altar too "
 "long, it drains life and makes you an undead slave, so watch yourself."
@@ -4980,7 +4980,7 @@ msgstr ""
 "Sklaven, also passt gut auf!"
 
 #. [message]: speaker=Gylith
-#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:721
+#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:722
 msgid ""
 "Welcome back, Bonie. This time I will catch you for sure, hehe! Wait, who is "
 "that one accompanying you?"
@@ -4989,7 +4989,7 @@ msgstr ""
 "warte, wer ist dort bei euch?"
 
 #. [message]: speaker=Celand
-#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:726
+#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:727
 msgid ""
 "It seems like an endless repetition...remembering and forgetting...now that "
 "you tell, Gylith, there are some new ones. They will not live long, so who "
@@ -5000,7 +5000,7 @@ msgstr ""
 "lange überleben, wen kümmert es also..."
 
 #. [message]: speaker=Bonie
-#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:730
+#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:731
 msgid ""
 "Ah well, another part of the curse is that everyone who rebelled against my "
 "master has to haunt this place as undead. Once we were friends, but they "
@@ -5012,7 +5012,7 @@ msgstr ""
 "geworden."
 
 #. [message]: speaker=Bonie
-#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:734
+#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:735
 msgid ""
 "Oh, and I do not like light anymore - so I would be very pleased if you "
 "could put that light out as long as I am next to you."
@@ -5022,22 +5022,22 @@ msgstr ""
 "ausknipsen könnt."
 
 #. [objective]: condition=win
-#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:747
+#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:748
 msgid "Survive for 9 turns"
 msgstr "Überlebt für 9 Runden"
 
 #. [objective]: condition=win
-#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:750
+#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:751
 msgid "Survive for 13 turns"
 msgstr "Überlebt für 12 Runden"
 
 #. [objective]: condition=win
-#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:753
+#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:754
 msgid "Survive for 17 turns"
 msgstr "Überlebt für 17 Runden"
 
 #. [message]: speaker=Clyde
-#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:803
+#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:804
 msgid ""
 "That was a long way to the top, so I hope we will find something useful up "
 "here. Wait, what is this?"
@@ -5046,7 +5046,7 @@ msgstr ""
 "wir suchen. Wartet, was ist das?"
 
 #. [message]: speaker=unit
-#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:809
+#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:810
 msgid ""
 "Phew, that was a tiring way up here, let's see if we can find something. "
 "Hey, what's this?"
@@ -5055,18 +5055,18 @@ msgstr ""
 "finden gibt. Na was ist das denn?"
 
 #. [objective]: condition=win
-#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:819
+#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:820
 msgid "Go analyze the altar"
 msgstr "Geht und analysiert den Altar"
 
 #. [message]: speaker=unit
-#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:836
+#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:837
 msgid "Hum, this altar looks kind of strange. <i>*touches altar*</i>"
 msgstr ""
 "Hm, dierser Altar sieht irgendwie merkwürdig aus. <i>*berührt den Altar*</i>"
 
 #. [message]: speaker=unit
-#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:848
+#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:849
 msgid ""
 "People, stay away from this demonish altar! It hurts and drains you! Let's "
 "see if we can find something else here... hey, what's with this skeleton? It "
@@ -5078,7 +5078,7 @@ msgstr ""
 "verbirgt irgendein Geheimnis."
 
 #. [message]: speaker=unit
-#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:859
+#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:860
 msgid ""
 "People, stay away from this demonish altar! It hurts and drains you! And "
 "Bonie is magically tied with this thing since ages? No wonder he got a bit "
@@ -5090,7 +5090,7 @@ msgstr ""
 "zynisch wurde..."
 
 #. [message]: speaker=Feyndwarf
-#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:948
+#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:949
 msgid ""
 "Heh, what a luck I sent Richard to get my Dwarf friends here! What a timing!"
 msgstr ""
@@ -5098,7 +5098,7 @@ msgstr ""
 "zu rufen. Was für ein Timing!"
 
 #. [message]: speaker=Namcarthos
-#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:952
+#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:953
 msgid ""
 "I see, you already had loads o' fun 'round here! Too bad I can't stay long!"
 msgstr ""
@@ -5106,12 +5106,12 @@ msgstr ""
 "länger bleiben kann!"
 
 #. [message]: speaker=Aryad
-#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:971
+#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:972
 msgid "What is going on here?"
 msgstr "Was ist hier los?"
 
 #. [message]: speaker=Galion
-#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:975
+#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:976
 msgid ""
 "Sire, we came to escort you back to the council, your presence there is "
 "essential. Following Eleonor's report, Dionli and El'Isomithir voted to not "
@@ -5132,7 +5132,7 @@ msgstr ""
 "beendet werden."
 
 #. [message]: speaker=Aryad
-#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:979
+#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:980
 msgid ""
 "My fellow brother, what you demand is impertinent since you want to force my "
 "decision!"
@@ -5141,17 +5141,17 @@ msgstr ""
 "erpressen wollt!"
 
 #. [message]: speaker=Galion
-#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:983
+#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:984
 msgid "But think of our people..."
 msgstr "Aber denkt an eure Leute..."
 
 #. [message]: speaker=Clyde
-#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:987
+#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:988
 msgid "Lord Aryad, if I may express my convinction:"
 msgstr "Lord Aryad, wenn ich meine Überzeugung zum Ausdruck bringen darf:"
 
 #. [option]: speaker=Clyde
-#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:989
+#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:990
 msgid ""
 "You have been of crucial support so far but the Elvish society is pretty "
 "shaken already and your people really seem to need you. \n"
@@ -5168,7 +5168,7 @@ msgstr ""
 "herzustellen."
 
 #. [message]: speaker=Aryad
-#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:994
+#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:995
 msgid ""
 "My dear Clyde, I learned to trust your decisions, and so I do now. Come on "
 "fellow elves, we should get home quickly."
@@ -5178,7 +5178,7 @@ msgstr ""
 "Hause reiten."
 
 #. [option]: speaker=Clyde
-#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:1007
+#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:1008
 msgid ""
 "Of course I am totally aware that you have important responsabilities at "
 "home, but we're balancing on a knife's blade right now fighting against the "
@@ -5190,7 +5190,7 @@ msgstr ""
 "Unterstützung zu bitten."
 
 #. [message]: speaker=Aryad
-#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:1011
+#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:1012
 msgid ""
 "Well then, my dear Clyde, I am trusting your decision, as always. Galion, "
 "ride home quickly,report to the Ka'lian that I vote that we should support "
@@ -5205,7 +5205,7 @@ msgstr ""
 "gibt."
 
 #. [message]: speaker=Namcarthos
-#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:1022
+#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:1023
 msgid ""
 "Now that this seems to be settled I see that it's necessary to send ye some "
 "support of us more trustworthy dwarves! Taky my four best men with you, they "
@@ -5218,17 +5218,17 @@ msgstr ""
 "nicht länger bleiben - schließlich muss ich ein ganzes Königreich regieren!"
 
 #. [message]: speaker=Gylith
-#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:1042
+#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:1043
 msgid "Free forever! Finally!"
 msgstr "Für immer frei! Endlich!"
 
 #. [message]: speaker=Celand
-#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:1052
+#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:1053
 msgid "Thank you, my lord."
 msgstr "Ich danke euch, mein Lord."
 
 #. [message]: speaker=Galion
-#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:1096
+#: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:1097
 msgid ""
 "Stop it! I cannot take this any longer! For you have killed too many elves "
 "we will be at war as long as I live!"
@@ -5472,7 +5472,7 @@ msgstr ""
 #. [scenario]: id=15_Army_of_Darkness
 #. [side]: id=Ethel, type=Draug
 #: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:16
-#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:87
+#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:88
 msgid "Army of Darkness"
 msgstr "Armee der Finsternis"
 
@@ -5488,12 +5488,12 @@ msgstr ""
 "fanden."
 
 #. [side]: id=Ethel, type=Draug
-#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:91
+#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:92
 msgid "Ethel"
 msgstr "Ethel"
 
 #. [message]: speaker=Clyde
-#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:205
+#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:206
 msgid ""
 "I think that is enough now. The flood has given the river an alternative "
 "bed, so the water will pour in here until the abyss becomes a lake."
@@ -5502,7 +5502,7 @@ msgstr ""
 "Flussbett gegeben, so dass der Schlund irgendwann ein See werden wird."
 
 #. [message]: speaker=Feyndwarf
-#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:209
+#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:210
 msgid ""
 "Yeah, that's true. But our primary goal is to kill that damned necromancer, "
 "and we saw him disappearing."
@@ -5512,7 +5512,7 @@ msgstr ""
 "ist."
 
 #. [message]: speaker=Clyde
-#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:213
+#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:214
 msgid ""
 "Those three towers we see on the horizon in the north where the Stranger "
 "headed are certainly the place of the expected confrontation."
@@ -5521,7 +5521,7 @@ msgstr ""
 "zugestürzt ist, sind sicher der Ort, wo wir ihn antreffen werden."
 
 #. [message]: speaker=Clyde
-#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:217
+#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:218
 msgid ""
 "Well, now where we have dealt with that, we can finally get this stranger!"
 msgstr ""
@@ -5529,43 +5529,43 @@ msgstr ""
 "zuwenden!"
 
 #. [label]
-#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:242
+#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:243
 msgid "Eternal Gap"
 msgstr "Ewige Spalte"
 
 #. [label]
-#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:246
+#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:247
 msgid "Barrage"
 msgstr "Staudamm"
 
 #. [label]
-#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:250
+#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:251
 msgid "Mount Lava"
 msgstr "Lavaberg"
 
 #. [label]
-#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:254
+#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:255
 msgid "Haunt"
 msgstr "Aufmarschplatz"
 
 #. [objective]: condition=win
-#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:320
-#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:451
+#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:321
+#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:452
 msgid "Dump the rock into the lava"
 msgstr "Schubst den Fels in die Lava"
 
 #. [message]: speaker=Clyde
-#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:332
+#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:333
 msgid "We slipped through the undead hordes..."
 msgstr "Wir sind durch die Untoten Horden hindurch geschlüpft..."
 
 #. [message]: speaker=Clyde
-#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:336
+#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:337
 msgid "...just to arrive at their spring. Look, there, the Stranger!"
 msgstr "... nur um an ihrem Ursprungsort anzukommen. Seht dort, der Fremde!"
 
 #. [message]: speaker=Familiar Stranger
-#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:340
+#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:341
 msgid ""
 "The bones got rolling! Everything developed as planned. The pitiful humans "
 "will either be corrupted or cease to exist forever! After them, no living "
@@ -5577,7 +5577,7 @@ msgstr ""
 "Legionen widerstehen könnte!"
 
 #. [message]: speaker=Familiar Stranger
-#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:359
+#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:360
 msgid ""
 "Tearing open this abyss would not have been possible without the corruption "
 "of the other races - I can feel my powers swell! Already, every other "
@@ -5593,7 +5593,7 @@ msgstr ""
 "werden!"
 
 #. [message]: speaker=Merdor
-#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:388
+#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:389
 msgid ""
 "It looks like he just committed his troops. We somehow have to close that "
 "abyss - otherwise undead will pour out forever - even if we defeat the "
@@ -5605,13 +5605,13 @@ msgstr ""
 "später wäre ihre Zahl unbesiegbar."
 
 #. [message]: speaker=Feyndwarf
-#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:392
+#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:393
 msgid "Hum, let's see... we somehow gotta block that abyss there."
 msgstr ""
 "Hmm, lasst uns sehen... irgendwie müssen wir diesen Schlund verschließen."
 
 #. [message]: speaker=Feyndwarf
-#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:402
+#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:403
 msgid ""
 "That lava stream over there could be helpful, couldn't it? We could dump "
 "that rock into it - the lava would flow to the lowest point and regorge into "
@@ -5622,7 +5622,7 @@ msgstr ""
 "werden. Einfach und praktisch."
 
 #. [message]: speaker=Lorelei
-#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:408
+#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:409
 msgid ""
 "I fear that this might not do the trick as the lava alone might just vanish "
 "in that gap. But we could add the water from the lake in the south. If we "
@@ -5635,7 +5635,7 @@ msgstr ""
 "treffen, wird die Lava so schnell fest werden, dass sie die Spalte schließt."
 
 #. [message]: speaker=Clyde
-#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:412
+#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:413
 msgid ""
 "It sounds like a good plan but I see three problems here: First, we have to "
 "dump that pretty big rock into the lava, second we somehow have to blow up "
@@ -5648,7 +5648,7 @@ msgstr ""
 "Untoten vorbei dorthin kommen."
 
 #. [message]: speaker=legomir
-#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:416
+#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:417
 msgid ""
 "Obviously, they have the instruction to move out. Only if we attract their "
 "intention they will engage us... I fear that dumping that lava into the "
@@ -5659,7 +5659,7 @@ msgstr ""
 "soweit sein dürfte, wenn wir den Fels in die Lava stoßen."
 
 #. [message]: speaker=Merdor
-#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:420
+#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:421
 msgid ""
 "True! I <b>strongly</b> suggest that we try to get someone to the lake "
 "before we dump the rock into the lava. Only by carrying out both parts of "
@@ -5674,7 +5674,7 @@ msgstr ""
 "unseren Plan schnell genug auszuführen."
 
 #. [message]: speaker=Feyndwarf
-#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:424
+#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:425
 msgid ""
 "For the barrage, I have just the right kind of explosive. Everyone can use "
 "it so I might try out my runic hammer on that rock and show it who's in "
@@ -5685,7 +5685,7 @@ msgstr ""
 "versuchen!"
 
 #. [message]: speaker=Merdor
-#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:428
+#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:429
 msgid ""
 "That might work, but that's a pretty big rock. I'll also see if I can move "
 "it with my magic, but alternatives would be very welcome."
@@ -5695,7 +5695,7 @@ msgstr ""
 "sind willkommen."
 
 #. [message]: speaker=Clyde
-#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:432
+#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:433
 msgid ""
 "As nearly unknown magical creatures, unihorses may have surprising powers! "
 "Count Snow-White in!"
@@ -5704,14 +5704,14 @@ msgstr ""
 "Überraschungen parat! Schneewittchen kann es also auch versuchen!"
 
 #. [message]: speaker=Harriett Porter
-#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:436
+#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:437
 msgid "I volunteer to try if I can move the rock with my teleportation powers."
 msgstr ""
 "Ich versuche gerne, ob ich den Fels mit meinen Teleportationskräften bewegen "
 "kann."
 
 #. [message]: speaker=Lorelei
-#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:446
+#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:447
 msgid ""
 "As I have the feeling that I might not be of much help with the rock, I "
 "should probably take Feyndwarf's explosive and take care of the barrage - "
@@ -5725,14 +5725,14 @@ msgstr ""
 "irgendwie zusehen, dass du mich dorthin teleportierst."
 
 #. [objective]: condition=win
-#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:455
+#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:456
 msgid "Let Lorelei blow up the dam"
 msgstr "Lasst Lorelei den Damm sprengen"
 
 #. [message]: speaker=Aryad
 #. [message]: speaker=Legomir
-#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:566
-#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:572
+#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:567
+#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:573
 msgid ""
 "Obviously, they have the instruction to move out unless they see us - seems "
 "like these are the groups of undead we encountered outside."
@@ -5742,7 +5742,7 @@ msgstr ""
 "vielleicht ihr Verhalten."
 
 #. [message]: speaker=Merdor
-#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:578
+#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:579
 msgid ""
 "Indeed. Seems like they haven't recognized we're here yet. Let's act fast, "
 "maybe we can finish the rock plan before we're attacked."
@@ -5752,12 +5752,12 @@ msgstr ""
 "angegriffen werden."
 
 #. [message]: speaker=Merdor
-#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:603
+#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:604
 msgid "I'll see what I can do here..."
 msgstr "Ich schau, was sich da machen lässt..."
 
 #. [message]: speaker=Merdor
-#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:618
+#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:619
 msgid ""
 "No, this damn rock isn't moving. We'll have to look for something else..."
 msgstr ""
@@ -5765,12 +5765,12 @@ msgstr ""
 "anderes ausprobieren..."
 
 #. [message]: speaker=Feyndwarf
-#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:631
+#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:632
 msgid "Move, rock!"
 msgstr "Beweg dich, Fels!"
 
 #. [message]: speaker=Feyndwarf
-#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:650
+#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:651
 msgid ""
 "No, the rock ain't movin'. If I'd hit harder, I'd shatter the rock all over "
 "the place."
@@ -5779,31 +5779,31 @@ msgstr ""
 "Fels am Ende noch zersplittern."
 
 #. [message]: speaker=Cyde
-#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:676
+#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:677
 msgid "Go, Snow White!"
 msgstr "Schneewittchen, gib alles!"
 
 #. [message]: speaker=Snow White
-#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:706
+#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:707
 msgid "Weeeee."
 msgstr "Hüüü"
 
 #. [message]: speaker=Clyde
-#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:710
+#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:711
 msgid "Hum, seems like we have to use another alternative."
 msgstr ""
 "Hmm, sieht so aus, als ob wir uns nach einer anderen Alternative umschauen "
 "müssten."
 
 #. [message]: speaker=Harriett Porter
-#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:723
+#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:724
 msgid "What works with people should also work with stones. Let's see..."
 msgstr ""
 "Was mit Menschen geht, sollte eigentlich auch mit Steinen funktionieren. Ich "
 "probier's mal aus..."
 
 #. [message]: speaker=Harriett Porter
-#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:771
+#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:772
 msgid ""
 "It worked! Now we should blow up the barrage as fast as we can or we have to "
 "deal with all the undead and there would be little hope to escape."
@@ -5813,12 +5813,12 @@ msgstr ""
 "wir hier rauskommen."
 
 #. [message]: speaker=Ethel
-#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:775
+#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:776
 msgid "Hey! Who is this? How did they get in here?"
 msgstr "Hey! Wer ist das? Wie sind die hergekommen?"
 
 #. [message]: speaker=Clyde
-#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:797
+#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:798
 msgid ""
 "I doubt that the lava will suffice to block that abyss. There's a dam south "
 "of here, if we break it, water will flood it and solidify the lava faster."
@@ -5828,7 +5828,7 @@ msgstr ""
 "öffnen, wird die Flut die Lava aushärten!"
 
 #. [message]: speaker=Lorelei
-#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:801
+#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:802
 msgid ""
 "I'm quite capable of doing this. However, you all should keep back a little, "
 "because water flows faster than lava and if we block each other, we'll drown."
@@ -5838,7 +5838,7 @@ msgstr ""
 "will nicht, dass jemand von euch ertrinkt."
 
 #. [message]: speaker=Legomir
-#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:832
+#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:833
 msgid ""
 "Clyde was right, the lava is not enough. Hopefully Merdor's plan with the "
 "dam will work."
@@ -5847,7 +5847,7 @@ msgstr ""
 "funktioniert Merdors Plan mit dem Damm."
 
 #. [message]: speaker=Lorelei
-#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:881
+#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:882
 msgid ""
 "No, I will not blow up anything if someone is standing on top of the dam. I "
 "refuse to kill my allies."
@@ -5856,17 +5856,17 @@ msgstr ""
 "unmittelbarer Nähe befindet. Ich töte meine Freunde nicht!"
 
 #. [message]: speaker=Lorelei
-#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:887
+#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:888
 msgid "Shall I blow this dam up now?"
 msgstr "Soll ich den Damm nun sprengen?"
 
 #. [option]: speaker=Lorelei
-#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:889
+#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:890
 msgid "Sure, go for it."
 msgstr "Sicher, nur zu!"
 
 #. [message]: speaker=Lorelei
-#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:899
+#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:900
 msgid ""
 "The others should throw the stone into the lava first. I should wait with "
 "this until they have finished."
@@ -5875,17 +5875,17 @@ msgstr ""
 "bis das erledigt ist."
 
 #. [message]: speaker=Lorelei
-#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:905
+#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:906
 msgid "Three, two, one, ignite the light!"
 msgstr "Drei, zwei, eins, zündet das Licht!"
 
 #. [message]: speaker=Lorelei
-#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:914
+#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:915
 msgid "Hey, that was fun. I should do that more often!"
 msgstr "Hui, das war spaßig. Wir sollten sowas öfters machen!"
 
 #. [option]: speaker=Lorelei
-#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:921
+#: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:922
 msgid "Hold on a minute."
 msgstr "Wartet eine Minute."
 
