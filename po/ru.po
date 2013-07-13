@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: The_Fellowship_of_the_Clay-1.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-12-31 09:34-0500\n"
+"POT-Creation-Date: 2013-07-13 10:20-0400\n"
 "PO-Revision-Date: 2012-05-30 23:38-0400\n"
 "Last-Translator: Lampslave\n"
 "Language-Team: none\n"
@@ -15,54 +15,54 @@ msgstr ""
 
 #. [campaign]: id=The_Fellowship_of_the_Clay
 #. [editor_group]: id=TFotC
-#: The_Fellowship_of_the_Clay/_main.cfg:26
-#: The_Fellowship_of_the_Clay/_main.cfg:163
+#: The_Fellowship_of_the_Clay/_main.cfg:28
+#: The_Fellowship_of_the_Clay/_main.cfg:174
 msgid "The Fellowship of the Clay"
 msgstr ""
 "Строители Веснота\n"
 "(The Fellowship of the Clay)"
 
 #. [campaign]: id=The_Fellowship_of_the_Clay
-#: The_Fellowship_of_the_Clay/_main.cfg:36
+#: The_Fellowship_of_the_Clay/_main.cfg:38
 msgid "TFotC"
 msgstr "СВ"
 
 #. [campaign]: id=The_Fellowship_of_the_Clay
-#: The_Fellowship_of_the_Clay/_main.cfg:41
+#: The_Fellowship_of_the_Clay/_main.cfg:43
 msgid "Knight of the Light "
 msgstr "Светлый рыцарь"
 
 #. [campaign]: id=The_Fellowship_of_the_Clay
-#: The_Fellowship_of_the_Clay/_main.cfg:41
+#: The_Fellowship_of_the_Clay/_main.cfg:43
 msgid "(easy)"
 msgstr "(легко)"
 
 #. [campaign]: id=The_Fellowship_of_the_Clay
-#: The_Fellowship_of_the_Clay/_main.cfg:42
+#: The_Fellowship_of_the_Clay/_main.cfg:44
 msgid "(normal)"
 msgstr "(нормально)"
 
 #. [campaign]: id=The_Fellowship_of_the_Clay
 #. [unit_type]: id=White Knight of the Light, race=human
-#: The_Fellowship_of_the_Clay/_main.cfg:42
+#: The_Fellowship_of_the_Clay/_main.cfg:44
 #: The_Fellowship_of_the_Clay/units/Clyde_lev3.cfg:4
 msgid "White Knight of the Light"
 msgstr "Сияющий рыцарь"
 
 #. [campaign]: id=The_Fellowship_of_the_Clay
-#: The_Fellowship_of_the_Clay/_main.cfg:43
+#: The_Fellowship_of_the_Clay/_main.cfg:45
 msgid "(hard)"
 msgstr "(сложно)"
 
 #. [campaign]: id=The_Fellowship_of_the_Clay
 #. [unit_type]: id=Bright White Knight of the Light, race=human
-#: The_Fellowship_of_the_Clay/_main.cfg:43
+#: The_Fellowship_of_the_Clay/_main.cfg:45
 #: The_Fellowship_of_the_Clay/units/Clyde_lev4.cfg:4
 msgid "Bright White Knight of the Light"
 msgstr "Ослепительный рыцарь"
 
 #. [campaign]: id=The_Fellowship_of_the_Clay
-#: The_Fellowship_of_the_Clay/_main.cfg:45
+#: The_Fellowship_of_the_Clay/_main.cfg:47
 msgid ""
 "Set right after 'The Rise of Wesnoth' and before 'Legend of Wesmere' and "
 "'Sceptre of Fire', the adventure tells the story of human's first capital on "
@@ -104,42 +104,42 @@ msgstr ""
 "http://r.wesnoth.org/t31932"
 
 #. [about]
-#: The_Fellowship_of_the_Clay/_main.cfg:61
+#: The_Fellowship_of_the_Clay/_main.cfg:63
 msgid "programming, debugging and testing, maintenance"
 msgstr "программирование, отладка и тестирование, поддержка"
 
 #. [about]
-#: The_Fellowship_of_the_Clay/_main.cfg:68
+#: The_Fellowship_of_the_Clay/_main.cfg:70
 msgid "story, design"
 msgstr ""
 
 #. [about]
-#: The_Fellowship_of_the_Clay/_main.cfg:75
+#: The_Fellowship_of_the_Clay/_main.cfg:77
 msgid "WML help"
 msgstr "помощь с WML"
 
 #. [about]
-#: The_Fellowship_of_the_Clay/_main.cfg:81
+#: The_Fellowship_of_the_Clay/_main.cfg:83
 msgid "Lua help"
 msgstr "помощь с Lua"
 
 #. [about]
-#: The_Fellowship_of_the_Clay/_main.cfg:89
+#: The_Fellowship_of_the_Clay/_main.cfg:91
 msgid "ideas, suggestions, corrections, testing"
 msgstr "идеи, предложения, исправления, тестирование"
 
 #. [about]
-#: The_Fellowship_of_the_Clay/_main.cfg:95
+#: The_Fellowship_of_the_Clay/_main.cfg:97
 msgid "New images, portraits and sprites"
 msgstr ""
 
 #. [about]
-#: The_Fellowship_of_the_Clay/_main.cfg:104
+#: The_Fellowship_of_the_Clay/_main.cfg:106
 msgid "Text fine Tuning"
 msgstr "вычитка текста"
 
 #. [about]
-#: The_Fellowship_of_the_Clay/_main.cfg:110
+#: The_Fellowship_of_the_Clay/_main.cfg:112
 msgid ""
 "Other images, sprites and portraits taken from various versions of the "
 "following:"
@@ -3940,8 +3940,8 @@ msgstr ""
 #. [message]: speaker=Feyndwarf
 #: The_Fellowship_of_the_Clay/scenarios/12_Dragnet_Operation.cfg:290
 msgid ""
-"But putting the runes on an arrow? Error! <i>(shows dozens of broken arrows)"
-"</i>"
+"But putting the runes on an arrow? Error! <i>(shows dozens of broken "
+"arrows)</i>"
 msgstr ""
 
 #. [message]: speaker=unit
