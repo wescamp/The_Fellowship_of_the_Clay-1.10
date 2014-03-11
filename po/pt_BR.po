@@ -3680,8 +3680,8 @@ msgstr ""
 #. [message]: speaker=Feyndwarf
 #: The_Fellowship_of_the_Clay/scenarios/12_Dragnet_Operation.cfg:290
 msgid ""
-"But putting the runes on an arrow? Error! <i>(shows dozens of broken "
-"arrows)</i>"
+"But putting the runes on an arrow? Error! <i>(shows dozens of broken arrows)"
+"</i>"
 msgstr ""
 
 #. [message]: speaker=unit

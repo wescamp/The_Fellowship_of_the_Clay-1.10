@@ -1360,8 +1360,8 @@ msgid ""
 "Sounder''. It may be usable later. <i>(takes book)</i>"
 msgstr ""
 "Dieses Buch scheint irgendwie interessant... hmmm, sein name ist \"Das "
-"Echolot der Fledermäuse\". Es könnte ja später noch von Nutzen sein. "
-"<i>(nimmt das Buch)</i>"
+"Echolot der Fledermäuse\". Es könnte ja später noch von Nutzen sein. <i>"
+"(nimmt das Buch)</i>"
 
 #. [message]: speaker=Batryn
 #: The_Fellowship_of_the_Clay/scenarios/03_Entering_Wesmere.cfg:359
@@ -1381,8 +1381,8 @@ msgid ""
 "may be usable later. <i>(takes book)</i>"
 msgstr ""
 "Dieses Buch scheint irgendwie interessant... hmmm, sein Name ist \"Das "
-"Echolot der Fledermäuse\". Es könnte ja später noch von Nutzen sein. "
-"<i>(nimmt das Buch)</i>"
+"Echolot der Fledermäuse\". Es könnte ja später noch von Nutzen sein. <i>"
+"(nimmt das Buch)</i>"
 
 #. [message]: speaker=Clyde
 #: The_Fellowship_of_the_Clay/scenarios/03_Entering_Wesmere.cfg:408
@@ -4464,8 +4464,8 @@ msgstr "Ahh, da ssind..."
 #. [message]: speaker=Feyndwarf
 #: The_Fellowship_of_the_Clay/scenarios/12_Dragnet_Operation.cfg:290
 msgid ""
-"But putting the runes on an arrow? Error! <i>(shows dozens of broken "
-"arrows)</i>"
+"But putting the runes on an arrow? Error! <i>(shows dozens of broken arrows)"
+"</i>"
 msgstr ""
 "Aber sie auf einen Pfeil gravieren? Pfeilanzeige! <i>(präsentiert ein Dutend "
 "zerbrochener Pfeile)</i>"
